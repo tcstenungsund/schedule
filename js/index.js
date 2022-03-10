@@ -21,7 +21,8 @@ async function mdToHtml(md){
 
 //place the HTML in the DOM
 async function htmlToDom(html){    
-    document.getElementById("markdown").innerHTML = await html;
+    document.getElementById("schedule").innerHTML = html;
+    document.getElementById("current-week").innerHTML = document.querySelector('[id$="10"]').innerHTML
     return
 }
 
