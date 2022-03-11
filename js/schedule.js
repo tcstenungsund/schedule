@@ -21,15 +21,20 @@ async function mdToHtml(md){
 
 //place the HTML in the DOM
 async function htmlToDom(html){    
+    //place entire html in the DOM
     document.getElementById("schedule").innerHTML = html;
-    document.getElementById("current-week").innerHTML = document.querySelector('[id$="10"]').innerHTML
+    //grab title from schedule and move it to main
+    title = document.getElementById("schedule").firstElementChild;
+    main = document.getElementById("main")
+    main.insertBefore(title, main.firstChild);
+    //place a duplicate of the current week plan in cirrent week section
+    document.getElementById("current-week").innerHTML = document.querySelector('[id$="' + getWeekNumber() + '"]').parentElement.innerHTML
     return
 }
 
 //calls all the above functions to call, convert and place the markdown as HTML in the DOM
 fetchMarkdown(url)
     .then( response => {
-        console.log(response);
         mdToHtml(response)
             .then( response => {
                 htmlToDom(response);
