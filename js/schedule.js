@@ -1,5 +1,7 @@
 //Define what url the markdown file should be fetched from.
 url = ''; //censored for github
+// Get current week number from misc.js
+currentWeekNumber = getWeekNumber();
 
 //Fetch markdown from url
 async function fetchMarkdown(url){
@@ -28,7 +30,15 @@ async function htmlToDom(html){
     main = document.getElementById("main")
     main.insertBefore(title, main.firstChild);
     //place a duplicate of the current week plan in cirrent week section
-    document.getElementById("current-week").innerHTML = document.querySelector('[id$="' + getWeekNumber() + '"]').parentElement.innerHTML
+    currentWeekPlan = document.querySelector('[id$="' + currentWeekNumber + '"]').parentElement;
+    document.getElementById("current-week").innerHTML = currentWeekPlan.innerHTML;
+    document.getElementById("current-week").firstChild.id = ""; //empty id of clone of current week plan in cirrent week section
+    //place link to current week in schedule in current week... english is hard
+    a = document.createElement("a");
+    a.href = '#' + currentWeekPlan.firstChild.id;
+    a.appendChild(document.createTextNode("Jump to week"))
+    document.getElementById("current-week").appendChild(a)
+    //return empty promise? maybe good for async things?
     return
 }
 
