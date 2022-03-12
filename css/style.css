@@ -1,0 +1,36 @@
+*{
+    max-width: 100%;
+}
+nav > ul, nav > ol, nav > dl, .schedule > ul, .schedule > ol, .schedule > dl{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    height: 4em;
+    display: flex;
+    flex: row;
+    padding: 0 1em;
+}
+header *{
+    height: 100%;
+}
+header nav{
+    flex:  100% 1 1;
+    display: flex;
+    justify-content: flex-end;
+}
+header nav ul{
+    display: flex;
+    flex-direction: row;
+    gap: 3em;
+}
+header nav ul li{
+    height: fit-content;
+    display: flex;
+    align-self: center;
+}
+nav i{
+    margin: 0
+}
