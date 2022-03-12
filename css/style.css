@@ -38,6 +38,10 @@ nav i{
     margin: 0
 }
 
+main{
+    margin: 0 2em;
+}
+
 footer{
     height: 5em;
     display: flex;
