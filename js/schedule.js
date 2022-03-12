@@ -29,7 +29,7 @@ async function htmlToDom(html){
     title = document.getElementById("schedule").firstElementChild;
     main = document.getElementById("main")
     main.insertBefore(title, main.firstChild);
-    //place a duplicate of the current week plan in cirrent week section
+    //place a duplicate of the current week plan in current week section
     currentWeekPlan = document.querySelector('[id$="' + currentWeekNumber + '"]').parentElement;
     document.getElementById("current-week").innerHTML = currentWeekPlan.innerHTML;
     document.getElementById("current-week").firstChild.id = ""; //empty id of clone of current week plan in cirrent week section
