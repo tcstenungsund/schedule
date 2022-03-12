@@ -2,7 +2,7 @@
 const queryString = window.location.search;
 const urlParams = new URLSearchParams(queryString);
 course = urlParams.get("course");
-url = '../md/' + course + '.md'; //censored for github
+url = 'https://klovaaxel.github.io/schedule/md/' + course + '.md'; //censored for github
 
 // Get current week number from misc.js
 currentWeekNumber = getWeekNumber();
