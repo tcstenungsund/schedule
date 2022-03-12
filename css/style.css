@@ -1,6 +1,9 @@
 *{
     max-width: 100%;
 }
+html{
+    scroll-behavior: smooth;
+}
 nav > ul, nav > ol, nav > dl, .schedule > ul, .schedule > ol, .schedule > dl{
     list-style: none;
     margin: 0;
