@@ -31,6 +31,7 @@ async function htmlToDom(html){
     main.insertBefore(title, main.firstChild);
     //place a duplicate of the current week plan in current week section
     currentWeekPlan = document.querySelector('[id$="' + currentWeekNumber + '"]').parentElement;
+    currentWeekPlan.classList.add("current-week");//add class of current week to plan for current week in schedule section
     document.getElementById("current-week").innerHTML = currentWeekPlan.innerHTML;
     document.getElementById("current-week").firstChild.id = ""; //empty id of clone of current week plan in cirrent week section
     //place link to current week in schedule in current week... english is hard
