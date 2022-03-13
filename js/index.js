@@ -46,13 +46,14 @@ courseList.forEach(course => {
         });
 });
 
-//Fetch markdown from url
-async function fetchMarkdown(url){
-    return await fetch(url) 
-        .then(response => response.text())
-        .then(result => {
-            return result;
-        });
+//Add edit link to course
+async function addEditLink(){
+    //edit link
+    editLink = document.createElement("a")
+    editLink.href = mdEditUrl + course    
+
+    title = document.getElementById("main").firstChild;
+    title.appendChild()
 }
 
 //convert markdown to HTML
@@ -64,3 +65,4 @@ async function mdToHtml(md){
     return html
 }
 
+}
