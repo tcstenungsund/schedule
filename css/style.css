@@ -27,7 +27,7 @@ body > header nav{
 body > header nav ul{
     display: flex;
     flex-direction: row;
-    gap: 3em;
+    gap: 2.5vmax;
 }
 body > header nav ul li{
     height: fit-content;
