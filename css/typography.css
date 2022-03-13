@@ -44,7 +44,8 @@ i{
     font-size: 1.5em;
     margin: 0 .5ch;
 }
-.mermaid i{
+.mermaid{
+    font-family: unset;
     font-size: unset;
     margin: unset;
 }
