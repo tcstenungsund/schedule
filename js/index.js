@@ -46,23 +46,11 @@ courseList.forEach(course => {
         });
 });
 
-//Add edit link to course
-async function addEditLink(){
-    //edit link
-    editLink = document.createElement("a")
-    editLink.href = mdEditUrl + course    
-
-    title = document.getElementById("main").firstChild;
-    title.appendChild()
-}
-
 //convert markdown to HTML
 async function mdToHtml(md){
     var converter = new showdown.Converter();
     text = md;
     html = converter.makeHtml(text);
     
-    return html
-}
-
+    return html;
 }
