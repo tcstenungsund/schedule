@@ -1,7 +1,13 @@
 # Loggbok Webbutveckling 1 19TEi
 - ## Vecka 36 
-  Uppstartsvecka: Upphovsrätt, Free och Open Source Software och Creative Commons
-
+    Uppstartsvecka: Upphovsrätt, Free och Open Source Software och Creative Commons
+  
+    ```mermaid
+    graph LR
+              A --- B
+              B-->C[fa:fa-ban forbidden]
+              B-->D(fa:fa-spinner);
+    ```
 - ## Vecka 37 
   Kursplanering, presentation och introduktion till ämnet
 

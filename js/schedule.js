@@ -53,8 +53,12 @@ fetchMarkdown(url)
     .then( response => {
         mdToHtml(response)
             .then( response => {
-                htmlToDom(response);
+                htmlToDom(response).then(response => {
+                    mermaid.init();
+                });
             });
     });
+
+
 
 

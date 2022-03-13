@@ -35,6 +35,8 @@ courseList.forEach(course => {
 
                     course.appendChild(currentWeekPlan);
                     course.href = scheduleUrl + "?course=" + course.id;
+                }).then(response =>{
+                    mermaid.init();
                 })
         });
 });
