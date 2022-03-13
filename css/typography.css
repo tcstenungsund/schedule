@@ -1,7 +1,7 @@
 html{
     font-size: 2.5vmax;
     font-size: max(2.5vh);
-    font-family: 'Atkinson Hyperlegible';
+    font-family: 'Atkinson Hyperlegible', sans-serif;
     font-style: normal;
     font-weight: normal;
 }
@@ -64,6 +64,27 @@ main i{
     text-align: right;
 }
 
-
-
-@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@font-face {
+    font-family: 'Atkinson Hyperlegible';
+    font-style: normal;
+    font-weight: normal;
+    src: local('../resources/typography/AtkinsonHyperlegible-Regular.ttf');
+}
+@font-face {
+    font-family: 'Atkinson Hyperlegible';
+    font-style: normal;
+    font-weight: bold;
+    src: local('../resources/typography/AtkinsonHyperlegible-Bold.ttf');
+}
+@font-face {
+    font-family: 'Atkinson Hyperlegible';
+    font-style: italic;
+    font-weight: normal;
+    src: local('../resources/typography/AtkinsonHyperlegible-Italic.ttf');
+}
+@font-face {
+    font-family: 'Atkinson Hyperlegible';
+    font-style: italic;
+    font-weight: bold;
+    src: local('../resources/typography/AtkinsonHyperlegible-BoldItalic.ttf');
+}
