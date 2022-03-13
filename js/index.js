@@ -28,11 +28,15 @@ courseList.forEach(course => {
         .then(response =>{
             mdToHtml(response)
                 .then(response => {
+                    //Get the entire courseplan for each course
                     coursePlan = document.createElement("div");
                     coursePlan.innerHTML = response;
+                    //Get current week from courseplan and remove week number
                     currentWeekPlan = document.createElement("div");
-                    currentWeekPlan.innerHTML = coursePlan.querySelector("[id=vecka10]").nextElementSibling.innerHTML;
-
+                    currentWeekPlanElement = coursePlan.querySelector("[id=vecka10]").parentElement
+                    currentWeekPlanElement.removeChild(currentWeekPlanElement.querySelector("[id=vecka10]"));
+                    currentWeekPlan.innerHTML = currentWeekPlanElement.innerHTML;
+                    //Append Current week plan to course div 
                     course.appendChild(currentWeekPlan);
                     course.href = scheduleUrl + "?course=" + course.id;
                 }).then(response =>{

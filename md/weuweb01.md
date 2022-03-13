@@ -121,7 +121,13 @@
   **[DISTANS]** &nbsp; Click here to join the meeting <br />Vi fortsätter med Vårprojektet.<br />Lyssna på avsnittet ”002 Selectors” (15 min) av podcasten “The CSS Podcast”. (Finns också på Spotify.)
 
 - ## Vecka 10 
-  **[DISTANS]**  &nbsp;Click here to join the meeting <br />Genomgång av artikeln "The 30 CSS Selectors You Must Memorise"*.<br />Vi fortsätter med Vårprojektet.<br />Lyssna på avsnittet ”003 Specificity” (13 min) av podcasten “The CSS Podcast”. (Finns också på Spotify.)
+    **[DISTANS]** Click here to join the meeting 
+    
+    Genomgång av artikeln "The 30 CSS Selectors You Must Memorise"*.
+    
+    Vi fortsätter med Vårprojektet.
+    
+    Lyssna på avsnittet ”003 Specificity” (13 min) av podcasten “The CSS Podcast”. (Finns också på Spotify.)
 
 - ## Vecka 11 
   **[DISTANS]**  &nbsp;Click here to join the meeting<br />En repetition av artikeln "The 30 CSS Selectors You Must Memorise" i form av en CSS Selector-tävling.<br />Vi fortsätter med Vårprojektet.<br />Lyssna på avsnittet ”004 The Cascade” (12 min) av podcasten “The CSS Podcast”. (Finns också på Spotify.)
