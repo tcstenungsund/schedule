@@ -2,6 +2,8 @@ html{
     font-size: 2.5vmax;
     font-size: max(2.5vh);
     font-family: 'Atkinson Hyperlegible';
+    font-style: normal;
+    font-weight: normal;
 }
 body{
     font-size:0.9em; /* Change this for general text size */
