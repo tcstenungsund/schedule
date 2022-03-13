@@ -2,7 +2,7 @@
 const queryString = window.location.search;
 const urlParams = new URLSearchParams(queryString);
 course = urlParams.get("course");
-url = 'https://klovaaxel.github.io/schedule/md/' + course + '.md'; //censored for github
+url = '../md/' + course + '.md'; //censored for github
 //Link to edit the md file
 mdEditUrl = 'https://github.com/klovaaxel/schedule/edit/main/md/' + course + '.md';
 

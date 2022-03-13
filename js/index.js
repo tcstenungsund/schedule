@@ -1,6 +1,6 @@
 //Define common variables
 courseList = document.querySelectorAll('[type=course]');
-mdUrl = url = 'https://raw.githubusercontent.com/klovaaxel/schedule/main/md/';
+mdUrl = url = '../md/';
 scheduleUrl = 'schedule.html'
 // Get current week number from misc.js
 currentWeekNumber = getWeekNumber();
