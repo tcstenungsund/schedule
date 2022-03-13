@@ -10,26 +10,26 @@ footer ul, footer ol, footer dl, .schedule > ul, .schedule > ol, .schedule > dl,
     padding: 0;
 }
 
-header {
+body > header {
     height: 4em;
     display: flex;
     flex: row;
     padding: 0 1em;
 }
-header *{
+body > header *{
     height: 100%;
 }
-header nav{
+body > header nav{
     flex:  100% 1 1;
     display: flex;
     justify-content: flex-end;
 }
-header nav ul{
+body > header nav ul{
     display: flex;
     flex-direction: row;
     gap: 3em;
 }
-header nav ul li{
+body > header nav ul li{
     height: fit-content;
     display: flex;
     align-self: center;
