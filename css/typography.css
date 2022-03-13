@@ -54,6 +54,17 @@ i{
 main i{
     transform: translateY(10%)
 }
+main > h1{
+    position: relative;
+}
+
+main > h1 i{
+    font-size: .6em;
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+}
 
 .current-week{
     background-color: #e4f9e4;

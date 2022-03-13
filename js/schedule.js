@@ -3,6 +3,9 @@ const queryString = window.location.search;
 const urlParams = new URLSearchParams(queryString);
 course = urlParams.get("course");
 url = 'https://klovaaxel.github.io/schedule/md/' + course + '.md'; //censored for github
+//Link to edit the md file
+mdEditUrl = 'https://github.com/klovaaxel/schedule/edit/main/md/' + course + '.md';
+
 
 // Get current week number from misc.js
 currentWeekNumber = getWeekNumber();
@@ -48,6 +51,27 @@ async function htmlToDom(html){
     return
 }
 
+//Fetch markdown from url
+async function fetchMarkdown(url){
+    return await fetch(url) 
+        .then(response => response.text())
+        .then(result => {
+            return result;
+        });
+}
+
+//Add edit link to course
+async function addEditLink(){
+    //edit link
+    editLink = document.createElement("a");
+    editLink.href = mdEditUrl;
+    editLink.innerHTML = '<i class="fa-solid fa-pen"></i>'
+
+    title = document.getElementById("main").firstChild;
+    title.appendChild(editLink);
+    return true;
+}
+
 //calls all the above functions to call, convert and place the markdown as HTML in the DOM
 fetchMarkdown(url)
     .then( response => {
@@ -55,10 +79,7 @@ fetchMarkdown(url)
             .then( response => {
                 htmlToDom(response).then(response => {
                     mermaid.init();
+                    addEditLink();
                 });
             });
     });
-
-
-
-
