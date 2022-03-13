@@ -2,9 +2,10 @@
 courseList = document.querySelectorAll('[type=course]');
 mdUrl = url = 'https://raw.githubusercontent.com/klovaaxel/schedule/main/md/';
 scheduleUrl = 'schedule.html'
+// Get current week number from misc.js
+currentWeekNumber = getWeekNumber();
 //Get all groups
 groupList = document.querySelectorAll('[class*=group]');
-console.log(groupList);
 //Get params from url
 const queryString = window.location.search;
 const urlParams = new URLSearchParams(queryString);
@@ -33,8 +34,8 @@ courseList.forEach(course => {
                     coursePlan.innerHTML = response;
                     //Get current week from courseplan and remove week number
                     currentWeekPlan = document.createElement("div");
-                    currentWeekPlanElement = coursePlan.querySelector("[id=vecka10]").parentElement
-                    currentWeekPlanElement.removeChild(currentWeekPlanElement.querySelector("[id=vecka10]"));
+                    currentWeekPlanElement = coursePlan.querySelector('[id$="' + currentWeekNumber + '"]').parentElement
+                    currentWeekPlanElement.removeChild(currentWeekPlanElement.querySelector('[id$="' + currentWeekNumber + '"]'));
                     currentWeekPlan.innerHTML = currentWeekPlanElement.innerHTML;
                     //Append Current week plan to course div 
                     course.appendChild(currentWeekPlan);
