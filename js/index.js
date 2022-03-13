@@ -23,6 +23,24 @@ if (group != null) {
 //Fill week number in title
 document.getElementById("week-number").innerHTML = getWeekNumber();
 
+//Fetch markdown from url
+async function fetchMarkdown(url){
+    return await fetch(url) 
+        .then(response => response.text())
+        .then(result => {
+            return result;
+        });
+}
+
+//convert markdown to HTML
+async function mdToHtml(md){
+    var converter = new showdown.Converter();
+    text = md;
+    html = converter.makeHtml(text);
+    
+    return html;
+}
+
 //Fill Courses in each group section
 courseList.forEach(course => {
     fetchMarkdown(url + course.id + '.md')
@@ -45,12 +63,3 @@ courseList.forEach(course => {
                 })
         });
 });
-
-//convert markdown to HTML
-async function mdToHtml(md){
-    var converter = new showdown.Converter();
-    text = md;
-    html = converter.makeHtml(text);
-    
-    return html;
-}
