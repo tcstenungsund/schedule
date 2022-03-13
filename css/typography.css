@@ -44,6 +44,10 @@ i{
     font-size: 1.5em;
     margin: 0 .5ch;
 }
+.mermaid i{
+    font-size: unset;
+    margin: unset;
+}
 main i{
     transform: translateY(10%)
 }
