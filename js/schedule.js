@@ -37,13 +37,16 @@ async function htmlToDom(html){
     main = document.getElementById("main")
     main.insertBefore(title, main.firstChild);
     //place a duplicate of the current week plan in current week section
-    currentWeekPlan = document.querySelector('[id$="' + currentWeekNumber + '"]').parentElement;
+    currentWeekPlan = document.querySelector('[id$="' + currentWeekNumber + '"]:not([id^="flow"]').parentElement;
     currentWeekPlan.classList.add("current-week");//add class of current week to plan for current week in schedule section
     document.getElementById("current-week").innerHTML = currentWeekPlan.innerHTML;
     document.getElementById("current-week").firstChild.id = ""; //empty id of clone of current week plan in cirrent week section
     //place link to current week in schedule in current week... english is hard
     a = document.createElement("a");
-    a.href = '#' + currentWeekPlan.firstChild.id;
+    //a.href = '#' + currentWeekPlan.firstChild.id;
+    a.onclick = function() {
+        document.querySelector('[id$="' + currentWeekNumber + '"]:not([id^="flow"]').scrollIntoView({block: 'center',})
+    };
     a.appendChild(document.createTextNode("Jump to week"))
     a.innerHTML += '<i class="fa-solid fa-arrow-down"></i>';
     document.getElementById("current-week").appendChild(a)
