@@ -41,6 +41,16 @@ nav i{
 main{
     margin: 0 2em;
 }
+.schedule h2{
+    border-top: .1rem solid #0004;
+    padding-top: .5rem;
+}
+.current-week h2, .group h3{
+    border-top: unset;
+    padding-top: unset;
+    border-bottom: .1rem solid #0004;
+    padding-bottom: .5rem;
+}
 
 footer{
     height: 5em;

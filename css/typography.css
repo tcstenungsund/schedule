@@ -4,13 +4,13 @@ html{
     font-family: 'Atkinson Hyperlegible', sans-serif;
     font-style: normal;
     font-weight: normal;
+    color: rgb(14, 17, 0);
 }
 body{
     font-size:0.9em; /* Change this for general text size */
 }
 h1,h2,h3,h4,h5,h6{
     font-weight: bold;
-    border-bottom: .1rem solid #000
 }
 h1{
     font-size: 2em;
