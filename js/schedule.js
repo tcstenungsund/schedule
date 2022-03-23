@@ -126,7 +126,7 @@ async function Assignments(){
             assignmentList.appendChild(li)
             assignmentListWeek = li;
         }
-        assignmentListWeek.appendChild(assignment);
+        assignmentListWeek.appendChild(assignment.cloneNode(true));
     });
     return true;
 }
