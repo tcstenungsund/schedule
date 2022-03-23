@@ -108,7 +108,7 @@ async function getAssignments(){
 
         //Make assignment list
         ul = document.createElement('ul');
-        ul.classList = "assignment-list"
+        ul.classList = "week-assignment-list"
         ul.appendChild(document.createElement('li'));
         ul.appendChild(assignment);  //Append clone to assignment list
 
