@@ -19,7 +19,7 @@ async function fetchMarkdown(url){
         });
 }
 
-//convert markdown to HTML
+//Convert markdown to HTML
 async function mdToHtml(md){
     var converter = new showdown.Converter();
     text = md;
@@ -30,18 +30,18 @@ async function mdToHtml(md){
 
 //place the HTML in the DOM
 async function htmlToDom(html){    
-    //place entire html in the DOM
+    //Place entire html in the DOM
     document.getElementById("schedule").innerHTML = html;
-    //grab title from schedule and move it to main
+    //Grab title from schedule and move it to main
     title = document.getElementById("schedule").firstElementChild;
     main = document.getElementById("main")
     main.insertBefore(title, main.firstChild);
-    //place a duplicate of the current week plan in current week section
+    //Place a duplicate of the current week plan in current week section
     currentWeekPlan = document.querySelector('[id$="' + currentWeekNumber + '"]:not([id^="flow"]').parentElement;
     currentWeekPlan.classList.add("current-week");//add class of current week to plan for current week in schedule section
     document.getElementById("current-week").innerHTML = currentWeekPlan.innerHTML;
     document.getElementById("current-week").firstChild.id = ""; //empty id of clone of current week plan in cirrent week section
-    //place link to current week in schedule in current week... english is hard
+    //Place link to current week in schedule in current week... english is hard
     a = document.createElement("a");
     //a.href = '#' + currentWeekPlan.firstChild.id;
     a.onclick = function() {
@@ -50,7 +50,7 @@ async function htmlToDom(html){
     a.appendChild(document.createTextNode("Jump to week"))
     a.innerHTML += '<i class="fa-solid fa-arrow-down"></i>';
     document.getElementById("current-week").appendChild(a)
-    //return empty promise? maybe good for async things?
+    //Return empty promise? maybe good for async things?
     return
 }
 
@@ -65,7 +65,7 @@ async function fetchMarkdown(url){
 
 //Add edit link to course
 async function addEditLink(){
-    //edit link
+    //Edit link
     editLink = document.createElement("a");
     editLink.href = mdEditUrl;
     editLink.innerHTML = '<i class="fa-solid fa-pen"></i>'
@@ -77,7 +77,7 @@ async function addEditLink(){
 
 //Gets assignments form week plan
 async function getAssignments(){
-    //kewords to look for in week plan to make assignments from
+    //Kewords to look for in week plan to make assignments from
     const assignmentKeyWords = 
         "contains(., 'uppgift') or \
         contains(., 'Uppgift') or \
@@ -90,17 +90,17 @@ async function getAssignments(){
     assignments = [];
     //Get all a tags that contain one of the keywords from list above
     allAssignments = document.evaluate("//a[" + assignmentKeyWords + "]", document, null, XPathResult.ANY_TYPE, null ); 
-    //put resulting assignments in a array;
+    //Put resulting assignments in a array;
     assignment = allAssignments.iterateNext()
     for (let index = 0; assignment != null; index++) {
         assignments[index] = assignment;
         assignment = allAssignments.iterateNext();
     }
-    //log array for testing
+    //Log array for testing
     console.log(assignments);
 }
 
-//calls all the above functions to call, convert and place the markdown as HTML in the DOM
+//Calls all the above functions to call, convert and place the markdown as HTML in the DOM
 fetchMarkdown(url)
     .then( response => {
         mdToHtml(response)
