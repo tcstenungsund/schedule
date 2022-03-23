@@ -96,8 +96,27 @@ async function getAssignments(){
         assignments[index] = assignment;
         assignment = allAssignments.iterateNext();
     }
-    //Log array for testing
-    console.log(assignments);
+
+    assignments.forEach(assignment => {
+
+        //Get week title and week id of assignment
+        weekTitle = assignment.closest('.schedule > ul > li').querySelector('h2');
+
+        //Make Clone to append to Asignment list
+        assignment = assignment.cloneNode(true)
+        assignment.classList += "assignment";   //Add class of "assignment" to assignment
+
+        //Make assignment list
+        ul = document.createElement('ul');
+        ul.classList = "assignment-list"
+        ul.appendChild(document.createElement('li'));
+        ul.appendChild(assignment);  //Append clone to assignment list
+
+        //Append assignment list to week
+        week = document.getElementById(weekTitle.id).parentElement;
+        week.appendChild(ul);
+
+    });
 }
 
 //Calls all the above functions to call, convert and place the markdown as HTML in the DOM
