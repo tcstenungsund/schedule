@@ -45,7 +45,7 @@ async function htmlToDom(html){
     a = document.createElement("a");
     //a.href = '#' + currentWeekPlan.firstChild.id;
     a.onclick = function() {
-        document.querySelector('[id$="' + currentWeekNumber + '"]:not([id^="flow"]').scrollIntoView({block: 'center',})
+        document.querySelector('[id$="' + currentWeekNumber + '"]:not([id^="flow"]').parentElement.scrollIntoView({block: 'center',})
     };
     a.appendChild(document.createTextNode("Jump to week"))
     a.innerHTML += '<i class="fa-solid fa-arrow-down"></i>';
