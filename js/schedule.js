@@ -75,6 +75,31 @@ async function addEditLink(){
     return true;
 }
 
+//Gets assignments form week plan
+async function getAssignments(){
+    //kewords to look for in week plan to make assignments from
+    const assignmentKeyWords = 
+        "contains(., 'uppgift') or \
+        contains(., 'Uppgift') or \
+        contains(., 'UPPGIFT') or \
+        contains(., 'test') or \
+        contains(., 'Test') or \
+        contains(., 'TEST')"
+
+    //Empty assignments variable
+    assignments = [];
+    //Get all a tags that contain one of the keywords from list above
+    allAssignments = document.evaluate("//a[" + assignmentKeyWords + "]", document, null, XPathResult.ANY_TYPE, null ); 
+    //put resulting assignments in a array;
+    assignment = allAssignments.iterateNext()
+    for (let index = 0; assignment != null; index++) {
+        assignments[index] = assignment;
+        assignment = allAssignments.iterateNext();
+    }
+    //log array for testing
+    console.log(assignments);
+}
+
 //calls all the above functions to call, convert and place the markdown as HTML in the DOM
 fetchMarkdown(url)
     .then( response => {
@@ -83,6 +108,7 @@ fetchMarkdown(url)
                 htmlToDom(response).then(response => {
                     mermaid.init();
                     addEditLink();
+                    getAssignments();
                 });
             });
     });
