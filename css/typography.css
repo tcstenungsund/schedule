@@ -33,9 +33,9 @@ h6{
 
 strong{
     background-color: rgb(255, 132, 132);
+    color: black;
     padding: .5ch 1ch;
     display: inline-block;
-    transform: translateY(-0.5ch);
 }
 
 a{
