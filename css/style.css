@@ -95,3 +95,16 @@ footer .social ul li{
 .hide{
     display: none;
 }
+
+.assignment{
+    background-color: #4789c6;
+    color: white;
+    font-weight: bold;
+    padding: .5em;
+    display: inline-block;
+}
+.assignment-list{
+    list-style: none;
+    padding: 0;
+    margin: 1em 0;
+}
