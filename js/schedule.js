@@ -102,21 +102,33 @@ async function getAssignments(){
         //Get week title and week id of assignment
         weekTitle = assignment.closest('.schedule > ul > li').querySelector('h2');
 
-        //Make Clone to append to Asignment list
+        //Make Clone to append to week assignment list
         assignment = assignment.cloneNode(true)
         assignment.classList += "assignment";   //Add class of "assignment" to assignment
 
-        //Make assignment list
+        //Make week assignment list
         ul = document.createElement('ul');
         ul.classList = "week-assignment-list"
         ul.appendChild(document.createElement('li'));
         ul.appendChild(assignment);  //Append clone to assignment list
 
-        //Append assignment list to week
+        //Append week assignment list to week
         week = document.getElementById(weekTitle.id).parentElement;
         week.appendChild(ul);
 
+        //Append assignment to week in Assignment list
+        assignmentList = document.getElementById('assignment-list');
+        assignmentListWeek = assignmentList.querySelector('[id$="' + weekTitle.id + '-assignment-list"]');
+        if (assignmentListWeek == null) { //If week does not exist in assignment list create it
+            li = document.createElement('li')
+            li.id = weekTitle.id + '-assignment-list';
+            li.appendChild(weekTitle.cloneNode(true));
+            assignmentList.appendChild(li)
+            assignmentListWeek = li;
+        }
+        assignmentListWeek.appendChild(assignment);
     });
+    return true;
 }
 
 //Calls all the above functions to call, convert and place the markdown as HTML in the DOM
