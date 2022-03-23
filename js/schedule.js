@@ -76,7 +76,7 @@ async function addEditLink(){
 }
 
 //Gets assignments form week plan
-async function getAssignments(){
+async function Assignments(){
     //Kewords to look for in week plan to make assignments from
     const assignmentKeyWords = 
         "contains(., 'uppgift') or \
@@ -139,7 +139,7 @@ fetchMarkdown(url)
                 htmlToDom(response).then(response => {
                     mermaid.init();
                     addEditLink();
-                    getAssignments();
+                    Assignments();
                 });
             });
     });
