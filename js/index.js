@@ -11,13 +11,15 @@ const queryString = window.location.search;
 const urlParams = new URLSearchParams(queryString);
 group = urlParams.get("group");
 
+console.log(group != null && group != "")
 //If group specified, hide all others
-if (group != null) {
+if (group != null && group != "") {
     groupList.forEach(groupItem => {
         if (groupItem.id != group) {
             groupItem.classList.add("hide");
         }
-    });    
+    });  
+
 }
 
 //Fill week number in title
@@ -40,6 +42,44 @@ async function mdToHtml(md){
     
     return html;
 }
+
+async function getGroups(){
+    groups = document.querySelectorAll('.group');
+    console.log(groups)
+    groupNames = [];
+
+    groups.forEach(group => {
+        groupNames.push(group.id);
+    });
+    return groupNames;
+}
+
+getGroups()
+    .then(groups => {
+        groups.forEach(group => {
+            option = document.createElement('option');
+            option.setAttribute('value', group);
+            option.innerHTML = group;
+            document.getElementById('group-select').appendChild(option);
+        });
+    }).then(response =>{
+        if (group != null && group != "") {
+            //if group specified, set dropdown to that group
+            document.querySelector('[value*="' + group + '"]').setAttribute('selected', 'selected');            
+        }
+    }).then(response =>{
+        //look for changes in group dropdown menu
+        const selectElement = document.getElementById('group-select');
+
+        selectElement.addEventListener('change', (event) => {
+            console.log(`You like ${event.target.value}`);
+            
+            const urlParams = new URLSearchParams(window.location.search);
+            urlParams.set('group', event.target.value);
+            window.location.search = urlParams;
+        });
+
+    })
 
 //Fill Courses in each group section
 courseList.forEach(course => {

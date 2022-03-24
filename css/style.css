@@ -112,13 +112,20 @@ footer .social ul li{
     display: none;
 }
 
-.assignment{
+.assignment, .input{
     background-color: #4789c6;
     color: white;
     font-weight: bold;
     padding: .5em;
     display: inline-block;
 }
+.input select, .input select:hover, .input select:active, .input select:focus-visible{
+    border: none;
+    background-color: inherit;
+    color: #fff;
+    font-size: inherit;
+}
+
 .week-assignment-list{
     list-style: none;
     padding: 0;
