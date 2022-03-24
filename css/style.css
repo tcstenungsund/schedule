@@ -47,6 +47,12 @@ main{
     margin: 0 2em;
     flex: 60% 1 1;
 }
+main header{
+    display: flex;
+    align-items: center;
+    gap: 1em;
+    flex-wrap: wrap;
+}
 .schedule h2, aside h3{
     border-top: .1rem solid #0004;
     padding-top: .5rem;
@@ -122,6 +128,7 @@ footer .social ul li{
 .input select, .input select:hover, .input select:active, .input select:focus-visible{
     border: none;
     background-color: inherit;
+    font-weight: inherit;
     color: #fff;
     font-size: inherit;
 }

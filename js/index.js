@@ -59,7 +59,7 @@ getGroups()
         groups.forEach(group => {
             option = document.createElement('option');
             option.setAttribute('value', group);
-            option.innerHTML = group;
+            option.innerHTML = group.toUpperCase();
             document.getElementById('group-select').appendChild(option);
         });
     }).then(response =>{
@@ -71,9 +71,7 @@ getGroups()
         //look for changes in group dropdown menu
         const selectElement = document.getElementById('group-select');
 
-        selectElement.addEventListener('change', (event) => {
-            console.log(`You like ${event.target.value}`);
-            
+        selectElement.addEventListener('change', (event) => {            
             const urlParams = new URLSearchParams(window.location.search);
             urlParams.set('group', event.target.value);
             window.location.search = urlParams;
