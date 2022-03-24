@@ -22,7 +22,7 @@ async function fetchMarkdown(url){
 //Convert markdown to HTML
 async function mdToHtml(md){
     var converter = new showdown.Converter();
-    text = md;
+    text = md + '- &nbsp;'; //fixes last element not becoming a LI element
     html = converter.makeHtml(text);
     
     return html
