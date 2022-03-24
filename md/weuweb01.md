@@ -31,6 +31,7 @@
   Vi tittade på [MDN Color picker](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Color_picker_tool), såg klippet "[What the Heck Is A Hex Value Anyway](https://cgi.tutsplus.com/tutorials/what-the-heck-is-a-hex-value-anyway--ae-11932)" och talade om hur viktigt det är med "[kontrast](http://contrastrebellion.com/)" &#x1F539;.
 
   Fortsätt arbeta med "Min Fula Lilla Sida" och se till att ni testat och lekt med allt det som finns med i HTML Beginner och CSS Beginner.
+  [Uppgift Min Fula Lilla Sida Webbprojekt](https://sv.wikipedia.org/wiki/Katalog_(datorteknik)
 
 - ## Vecka 40 
   Repetition av HTML Beginner och CSS Beginner, framför allt the Box Model. Vi tittar även på hjälpmedel för att välja färger, som [Coolors](https://coolors.co/), [Picular](https://picular.co/), [Adobe Color](https://color.adobe.com/sv/create/color-wheel) och [Paletton](http://paletton.com/).
@@ -40,6 +41,7 @@
   MDN är ett av de bästa referensverken (och [W3Fools](https://www.w3fools.com/) talar om för oss att undvika W3Schools).
 
   Vi jobbar vidare med "Min Fula Lilla Sida".
+  [Uppgift Min Fula Lilla Sida Webbprojekt](https://sv.wikipedia.org/wiki/Katalog_(datorteknik)
 
 - ## Vecka 41 
   **[DISTANS]**  – Join Microsoft Teams Meeting

@@ -125,7 +125,7 @@ async function Assignments(){
             li = document.createElement('li')
             li.id = weekTitle.id + '-assignment-list';
             li.appendChild(h3);
-            assignmentList.appendChild(li)
+            assignmentList.insertBefore(li, assignmentList.firstChild)
             assignmentListWeek = li;
         }
         assignmentListWeek.appendChild(assignment.cloneNode(true));
