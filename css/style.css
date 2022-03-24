@@ -47,7 +47,7 @@ main{
     margin: 0 2em;
     flex: 60% 1 1;
 }
-.schedule h2, aside ul h2{
+.schedule h2, aside h3{
     border-top: .1rem solid #0004;
     padding-top: .5rem;
 }
