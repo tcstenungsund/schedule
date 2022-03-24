@@ -23,7 +23,7 @@
     * Undvik svenska tecken, åäö
     * Undvik_mellanslag_
     * Undvik STORA bokstäver
-    * Lägg alla filer i samma [Uppgift katalog](https://sv.wikipedia.org/wiki/Katalog_(datorteknik)!
+    * Lägg alla filer i samma [Uppgift Min Fula Lilla Sida Webbprojekt](https://sv.wikipedia.org/wiki/Katalog_(datorteknik)!
 
 - ## Vecka 39 
   Genomgång av [HTMLdog CSS Beginner](https://htmldog.com/guides/css/beginner/).

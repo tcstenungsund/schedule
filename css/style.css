@@ -59,7 +59,8 @@ main{
 }
 
 aside{
-    flex: 10% 1 1;
+    flex: 10% 1 0;
+    margin: 0 2em 0 0;
 }
 aside ul{
     list-style: none;

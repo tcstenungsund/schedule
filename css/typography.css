@@ -56,14 +56,20 @@ main i{
 }
 main > h1{
     position: relative;
+    display: flex;
+}
+main h1 a{
+    flex: 1 1;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    text-decoration: none;
 }
 
 main > h1 i{
     font-size: .6em;
-    position: absolute;
-    right: 0;
-    top: 50%;
-    transform: translateY(-50%);
+    display: flex;
+    align-items: center;
 }
 
 .current-week{
