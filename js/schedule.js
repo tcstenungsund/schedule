@@ -120,9 +120,11 @@ async function Assignments(){
         assignmentList = document.getElementById('assignment-list');
         assignmentListWeek = assignmentList.querySelector('[id$="' + weekTitle.id + '-assignment-list"]');
         if (assignmentListWeek == null) { //If week does not exist in assignment list create it
+            h3 = document.createElement('h3');
+            h3.innerHTML = weekTitle.innerHTML;
             li = document.createElement('li')
             li.id = weekTitle.id + '-assignment-list';
-            li.appendChild(weekTitle.cloneNode(true));
+            li.appendChild(h3);
             assignmentList.appendChild(li)
             assignmentListWeek = li;
         }
