@@ -7,11 +7,3 @@ console.log(link);
 
 iframe = document.getElementById('iframe-external');
 iframe.setAttribute('src', link);
-
-function setHeight(){
-    iframe.height = "";
-    content = iframe.contentWindow.document.body.scrollHeight + "px"
-    console.log(content);
-    iframe.height = content;
-}
-
