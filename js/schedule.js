@@ -122,13 +122,15 @@ async function Assignments(){
         if (assignmentListWeek == null) { //If week does not exist in assignment list create it
             h3 = document.createElement('h3');
             h3.innerHTML = weekTitle.innerHTML;
-            li = document.createElement('li')
+            li = document.createElement('li');
             li.id = weekTitle.id + '-assignment-list';
             li.appendChild(h3);
-            assignmentList.insertBefore(li, assignmentList.firstChild)
+            assignmentList.insertBefore(li, assignmentList.firstChild);
             assignmentListWeek = li;
         }
-        assignmentListWeek.appendChild(assignment.cloneNode(true));
+        a = assignment.cloneNode(true);
+        a.innerHTML += '<i class="fa-solid fa-arrow-right"></i>';
+        assignmentListWeek.appendChild(a);
     });
     return true;
 }

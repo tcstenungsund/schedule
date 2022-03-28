@@ -129,6 +129,12 @@ footer .social ul li{
     font-weight: bold;
     padding: .5em;
     display: inline-block;
+    display: flex;
+    text-decoration: none;
+}
+.assignment i{
+    align-self: center;
+    text-decoration: none;
 }
 .input select, .input select:hover, .input select:active, .input select:focus-visible{
     border: none;
