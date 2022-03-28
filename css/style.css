@@ -2,6 +2,15 @@
     max-width: 100%;
     border-radius: .1em;
 }
+::-moz-selection { /* Code for Firefox */
+    color: white;
+    background: #4789c6;
+}
+
+::selection {
+    color: white;
+    background: #4789c6;
+}
 html{
     scroll-behavior: smooth;
 }
