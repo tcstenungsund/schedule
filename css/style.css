@@ -129,8 +129,10 @@ footer .social ul li{
     font-weight: bold;
     padding: .5em;
     display: inline-block;
-    display: flex;
     text-decoration: none;
+}
+.assignment-list .assignment{
+    display: flex;
 }
 .assignment i{
     align-self: center;
