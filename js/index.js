@@ -1,5 +1,6 @@
 //Define common variables
 courseList = document.querySelectorAll('[type=course]');
+weeks = [36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23];
 mdUrl = url = 'md/';
 scheduleUrl = 'schedule.html'
 // Get current week number from misc.js
@@ -9,13 +10,13 @@ groupList = document.querySelectorAll('[class*=group]');
 //Get params from url
 const queryString = window.location.search;
 const urlParams = new URLSearchParams(queryString);
-group = urlParams.get("group");
+groupParam = urlParams.get("group");
+weekParam = urlParams.get("week");
 
-console.log(group != null && group != "")
 //If group specified, hide all others
-if (group != null && group != "") {
+if (groupParam != null && groupParam != "") {
     groupList.forEach(groupItem => {
-        if (groupItem.id != group) {
+        if (groupItem.id != groupParam) {
             groupItem.classList.add("hide");
         }
     });  
@@ -23,7 +24,7 @@ if (group != null && group != "") {
 }
 
 //Fill week number in title
-document.getElementById("week-number").innerHTML = getWeekNumber();
+//document.getElementById("week-number").innerHTML = getWeekNumber();
 
 //Fetch markdown from url
 async function fetchMarkdown(url){
@@ -43,9 +44,9 @@ async function mdToHtml(md){
     return html;
 }
 
+//Get all groups from html document
 async function getGroups(){
     groups = document.querySelectorAll('.group');
-    console.log(groups)
     groupNames = [];
 
     groups.forEach(group => {
@@ -54,50 +55,89 @@ async function getGroups(){
     return groupNames;
 }
 
-getGroups()
-    .then(groups => {
-        groups.forEach(group => {
-            option = document.createElement('option');
-            option.setAttribute('value', group);
-            option.innerHTML = group.toUpperCase();
-            document.getElementById('group-select').appendChild(option);
-        });
-    }).then(response =>{
-        if (group != null && group != "") {
-            //if group specified, set dropdown to that group
-            document.querySelector('[value*="' + group + '"]').setAttribute('selected', 'selected');            
+//Week dropdown
+async function weekDropdown(){
+    weeks.forEach(week => {
+        option = document.createElement('option');
+        option.setAttribute('value', week);
+        option.innerHTML = week.toString();
+        document.getElementById('week-select').appendChild(option);    
+    });
+}
+
+weekDropdown()
+    .then(response =>{
+        //populate week dropdown
+        if (weekParam != null && weekParam != "") {
+            //if week specified, set dropdown to that week
+            document.querySelector('[value*="' + weekParam + '"]').setAttribute('selected', 'selected');            
+            //if week specified, set weeknumber to that week
+            window.weekNumber = weekParam;
+        }else{
+            //if week not specified, set dropdown to current week
+            document.querySelector('[value*="' + currentWeekNumber + '"]').setAttribute('selected', 'selected');            
+            //if not week specified, set weeknumber to current week
+            window.weekNumber = currentWeekNumber;
         }
-    }).then(response =>{
-        //look for changes in group dropdown menu
-        const selectElement = document.getElementById('group-select');
+        
+        //look for changes in week dropdown menu
+        const selectElement = document.getElementById('week-select');
 
         selectElement.addEventListener('change', (event) => {            
             const urlParams = new URLSearchParams(window.location.search);
-            urlParams.set('group', event.target.value);
+            urlParams.set('week', event.target.value);
             window.location.search = urlParams;
         });
+    }).then(response => {
+        //Populate group dropdown with groups available and whats in url query
+        getGroups()
+            .then(groups => {
+                groups.forEach(group => {
+                    option = document.createElement('option');
+                    option.setAttribute('value', group);
+                    option.innerHTML = group.toUpperCase();
+                    document.getElementById('group-select').appendChild(option);
+                });
+            }).then(response =>{
+                if (groupParam != null && groupParam != "") {
+                    //if group specified, set dropdown to that group
+                    document.querySelector('[value*="' + groupParam + '"]').setAttribute('selected', 'selected');            
+                }
+            }).then(response =>{
+                //look for changes in group dropdown menu
+                const selectElement = document.getElementById('group-select');
 
+                selectElement.addEventListener('change', (event) => {            
+                    const urlParams = new URLSearchParams(window.location.search);
+                    urlParams.set('group', event.target.value);
+                    window.location.search = urlParams;
+                });
+
+            })
+    }).then(response =>{
+        //Fill Courses in each group section
+        courseList.forEach(course => {
+            fetchMarkdown(url + course.id + '.md')
+                .then(response =>{
+                    mdToHtml(response)
+                        .then(response => {
+                            //Get the entire courseplan for each course
+                            coursePlan = document.createElement("div");
+                            coursePlan.innerHTML = response;
+                            //Get current week from courseplan and remove week number
+                            currentWeekPlan = document.createElement("div");
+                            currentWeekPlanElement = coursePlan.querySelector('[id$="' +  window.weekNumber + '"]').parentElement
+                            currentWeekPlanElement.removeChild(currentWeekPlanElement.querySelector('[id$="' +  window.weekNumber + '"]'));
+                            currentWeekPlan.innerHTML = currentWeekPlanElement.innerHTML;
+                            //Append Current week plan to course div 
+                            course.appendChild(currentWeekPlan);
+                            course.href = scheduleUrl + "?course=" + course.id;
+                        }).then(response =>{
+                            mermaid.init();
+                        })
+                });
+        });
     })
 
-//Fill Courses in each group section
-courseList.forEach(course => {
-    fetchMarkdown(url + course.id + '.md')
-        .then(response =>{
-            mdToHtml(response)
-                .then(response => {
-                    //Get the entire courseplan for each course
-                    coursePlan = document.createElement("div");
-                    coursePlan.innerHTML = response;
-                    //Get current week from courseplan and remove week number
-                    currentWeekPlan = document.createElement("div");
-                    currentWeekPlanElement = coursePlan.querySelector('[id$="' + currentWeekNumber + '"]').parentElement
-                    currentWeekPlanElement.removeChild(currentWeekPlanElement.querySelector('[id$="' + currentWeekNumber + '"]'));
-                    currentWeekPlan.innerHTML = currentWeekPlanElement.innerHTML;
-                    //Append Current week plan to course div 
-                    course.appendChild(currentWeekPlan);
-                    course.href = scheduleUrl + "?course=" + course.id;
-                }).then(response =>{
-                    mermaid.init();
-                })
-        });
-});
+
+

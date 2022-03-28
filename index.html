@@ -51,8 +51,16 @@
 
     <main id="main">
         <header>
-            <h1>TC-Stenungsund - vecka <span class="week-number" id="week-number"></span></h1>
-            <div class="input">
+            <h1>TC-Stenungsund - </h1>
+            <div class="input"> <!-- Week -->
+                <label for="week-select">Vecka:</label>
+
+                <select name="week-select" id="week-select">
+                    <option value="" id="current-week">Nuvarande</option>
+                </select>
+            </div>
+
+            <div class="input"> <!-- Group -->
                 <label for="group-select">Klass:</label>
 
                 <select name="group" id="group-select">
