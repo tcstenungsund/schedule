@@ -1,5 +1,6 @@
 *{
     max-width: 100%;
+    border-radius: .1em;
 }
 html{
     scroll-behavior: smooth;
@@ -40,7 +41,13 @@ body > header nav ul li{
     align-self: center;
 }
 nav i{
-    margin: 0
+    margin: 0;
+    transition: ease-in-out .2s;
+}
+nav i:hover{
+    color: white;
+    background: #4789c6;
+    padding: .3em;
 }
 
 main{
@@ -116,7 +123,9 @@ footer .social ul li{
     transition: ease-in-out .2s;
 }
 .group a:hover{
-    color: #4789c6;
+    color: white;
+    background: #4789c6;
+    padding: 1em;
 }
 
 .hide{
