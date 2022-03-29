@@ -9,3 +9,30 @@ function getWeekNumber(date = new Date()) {
     // Adjust to Thursday in week 1 and count number of weeks from date to week1.
     return 1 + Math.round(((date.getTime() - week1.getTime()) / 86400000 - 3 + (week1.getDay() + 6) % 7) / 7);
 }
+
+//Gets assignments form a html element?
+async function getAssignments(html){
+    //Kewords to look for in week plan to make assignments from
+    const assignmentKeyWords = 
+        "contains(., 'uppgift') or \
+        contains(., 'Uppgift') or \
+        contains(., 'UPPGIFT') or \
+        contains(., 'test') or \
+        contains(., 'Test') or \
+        contains(., 'TEST')or \
+        contains(., 'prov')or \
+        contains(., 'Prov')or \
+        contains(., 'PROV')"
+
+    //Empty assignments variable
+    assignments = [];
+    //Get all a tags that contain one of the keywords from list above
+    allAssignments = document.evaluate("//a[" + assignmentKeyWords + "]", html, null, XPathResult.ANY_TYPE, null ); 
+    //Put resulting assignments in a array;
+    assignment = allAssignments.iterateNext()
+    for (let index = 0; assignment != null; index++) {
+        assignments[index] = assignment;
+        assignment = allAssignments.iterateNext();
+    }
+    return assignments;
+}
