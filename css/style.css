@@ -126,17 +126,22 @@ footer .social ul li{
     display: block;
     flex: min-content 1 1;
 }
-.group a{
+.group section > a{
     color: inherit;
     text-decoration: none;
     transition: ease-in-out .2s;
     margin: 0 1em;
 }
-.group a:hover{
+.group section > a:hover{
     color: white;
     background: #4789c6;
     padding: 0 1em;
     margin: 0;
+}
+
+.group section > a:hover .assignment{
+    background: white;
+    color: #4789c6;
 }
 
 .hide{

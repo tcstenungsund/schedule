@@ -41,6 +41,9 @@ strong{
 a{
     color: #4789c6;
 }
+a:hover a{
+    color: #dead40;
+}
 
 i{
     font-size: 1.5em;

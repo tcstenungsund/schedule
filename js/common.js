@@ -27,7 +27,7 @@ async function getAssignments(html){
     //Empty assignments variable
     assignments = [];
     //Get all a tags that contain one of the keywords from list above
-    allAssignments = document.evaluate("//a[" + assignmentKeyWords + "]", html, null, XPathResult.ANY_TYPE, null ); 
+    allAssignments = document.evaluate(".//a[" + assignmentKeyWords + "]", html, null, XPathResult.ANY_TYPE, null ); 
     //Put resulting assignments in a array;
     assignment = allAssignments.iterateNext()
     for (let index = 0; assignment != null; index++) {

@@ -126,12 +126,24 @@ weekDropdown()
                             coursePlan.innerHTML = response;
                             //Get current week from courseplan and remove week number
                             currentWeekPlan = document.createElement("div");
-                            currentWeekPlanElement = coursePlan.querySelector('[id$="' +  window.weekNumber + '"]').parentElement
+                            currentWeekPlanElement = coursePlan.querySelector('[id$="' +  window.weekNumber + '"]').parentElement.cloneNode(true);
                             currentWeekPlanElement.removeChild(currentWeekPlanElement.querySelector('[id$="' +  window.weekNumber + '"]'));
                             currentWeekPlan.innerHTML = currentWeekPlanElement.innerHTML;
                             //Append Current week plan to course div 
                             course.appendChild(currentWeekPlan);
                             course.href = scheduleUrl + "?course=" + course.id;
+                        }).then(response => {
+                            //Get assignments from current week in course
+                            weekPlanNode = coursePlan.querySelector('[id$="' + window.weekNumber + '"]').parentElement
+                            getAssignments(weekPlanNode)
+                                .then(assignments => {
+                                    console.log(assignments);
+                                    assignments.forEach(assignment =>{
+                                        assignment.classList += 'assignment';
+                                        course.insertBefore(assignment, course.firstChild.nextSibling.nextSibling);
+                                        console.log(course.firstChild.nextSibling)
+                                    })
+                                })
                         }).then(response =>{
                             mermaid.init();
                         })
