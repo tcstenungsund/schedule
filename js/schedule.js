@@ -76,7 +76,7 @@ async function addEditLink(){
 }
 
 //Gets assignments form week plan
-async function Assignments(){
+async function getAssignments(html){
     //Kewords to look for in week plan to make assignments from
     const assignmentKeyWords = 
         "contains(., 'uppgift') or \
@@ -87,19 +87,21 @@ async function Assignments(){
         contains(., 'TEST')or \
         contains(., 'prov')or \
         contains(., 'Prov')or \
-        contains(., 'PROV')or"
+        contains(., 'PROV')"
 
     //Empty assignments variable
     assignments = [];
     //Get all a tags that contain one of the keywords from list above
-    allAssignments = document.evaluate("//a[" + assignmentKeyWords + "]", document, null, XPathResult.ANY_TYPE, null ); 
+    allAssignments = document.evaluate("//a[" + assignmentKeyWords + "]", html, null, XPathResult.ANY_TYPE, null ); 
     //Put resulting assignments in a array;
     assignment = allAssignments.iterateNext()
     for (let index = 0; assignment != null; index++) {
         assignments[index] = assignment;
         assignment = allAssignments.iterateNext();
     }
-
+    return assignments;
+}
+async function assingmentsToDom(){
     assignments.forEach(assignment => {
 
         //Get week title and week id of assignment
@@ -146,7 +148,10 @@ fetchMarkdown(url)
                 htmlToDom(response).then(response => {
                     mermaid.init();
                     addEditLink();
-                    Assignments();
+                    getAssignments(document)
+                        .then(assingments =>{
+                            assingmentsToDom(assingments);
+                        });
                 });
             });
     });
