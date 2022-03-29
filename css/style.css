@@ -119,7 +119,7 @@ footer .social ul li{
 .group section{
     display: flex;
     flex-wrap: wrap;
-    gap: 1em;
+    gap: 0em;
     margin-bottom: 6em;
 }
 .group section > *{
@@ -130,7 +130,7 @@ footer .social ul li{
     color: inherit;
     text-decoration: none;
     transition: ease-in-out .2s;
-    margin: 0 .5em;
+    margin: 0 1em;
 }
 .group a:hover{
     color: white;
