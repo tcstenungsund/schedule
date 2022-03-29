@@ -42,7 +42,7 @@ body > header nav{
 body > header nav ul{
     display: flex;
     flex-direction: row;
-    gap: 2.5vmax;
+    gap: 1vmax;
 }
 body > header nav ul li{
     height: fit-content;
@@ -50,13 +50,14 @@ body > header nav ul li{
     align-self: center;
 }
 nav i{
-    margin: 0;
+    margin: .3em;
     transition: ease-in-out .2s;
 }
 nav i:hover{
     color: white;
     background: #4789c6;
     padding: .3em;
+    margin: 0;
 }
 
 main{
