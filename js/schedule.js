@@ -84,7 +84,10 @@ async function Assignments(){
         contains(., 'UPPGIFT') or \
         contains(., 'test') or \
         contains(., 'Test') or \
-        contains(., 'TEST')"
+        contains(., 'TEST')or \
+        contains(., 'prov')or \
+        contains(., 'Prov')or \
+        contains(., 'PROV')or"
 
     //Empty assignments variable
     assignments = [];
