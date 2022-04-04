@@ -94,7 +94,7 @@ async function assingmentsToDom(assignments, assignmentElements){
 
         //Append week assignment list to week
         week = document.getElementById(weekID).parentElement;
-        week.appendChild(ul);
+        week.insertBefore(ul, week.firstChild.nextSibling);
 
         //Append assignment to week in Assignment list
         assignmentList = document.getElementById('assignment-list');
