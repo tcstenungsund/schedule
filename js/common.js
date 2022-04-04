@@ -64,8 +64,10 @@ async function getAssignments(html){
             }
         }
 
+        //Add arrow icon to assignment
         assignment.innerHTML += '<i class="fa-solid fa-arrow-right"></i>';
 
+        //Append customized assignment to assignments list
         assignments[i] = assignment;
     }
     
