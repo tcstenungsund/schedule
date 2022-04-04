@@ -17,14 +17,11 @@ weekParam = urlParams.get("week");
 if (groupParam != null && groupParam != "") {
     groupList.forEach(groupItem => {
         if (groupItem.id != groupParam) {
-            groupItem.classList.add("hide");
+            groupItem.classList.add('hide');
         }
     });  
 
 }
-
-//Fill week number in title
-//document.getElementById("week-number").innerHTML = getWeekNumber();
 
 //Fetch markdown from url
 async function fetchMarkdown(url){
@@ -63,6 +60,46 @@ async function weekDropdown(){
         option.innerHTML = week.toString();
         document.getElementById('week-select').appendChild(option);    
     });
+}
+
+//Add assignments from all selected groups to the assignment list
+async function addAssignmentsToList(){
+    assignmentList = document.getElementById('assignments'); //get list to append assignments to
+    selectedGroupList = document.querySelectorAll('[class*=group]:not([class*=hide])'); //get all selected groups
+
+
+    for (const group of selectedGroupList){
+        assignments = []; //List of all assignments for group (will be filled in later)
+
+        groupCourseList = group.querySelectorAll('[type=course]'); //get all courses for group
+
+        //Make a h3 group title to display above assignments for each group
+        h3 = document.createElement('h3'); 
+        h3.appendChild(document.createTextNode(group.id));
+        
+        //Make section to append title and assignment to
+        section = document.createElement('section');
+        section.appendChild(h3);
+
+        //Get assignments from weekplan for each course
+        for (const course of groupCourseList){
+            const markdown = await fetchMarkdown(url + course.id + '.md');
+            const html = await mdToHtml(markdown);
+            htmlNode = document.createElement('body');
+            htmlNode.innerHTML = html;
+            const assignments = await getAssignments(htmlNode);
+            assignment = assignments;
+        } 
+
+        //append all assignments to section
+        for (const assignment of assignments) {
+            assignment.classList.add('assignment');
+            section.appendChild(assignment);
+        }
+
+        //append section to assignment list
+        assignmentList.appendChild(section.cloneNode(true))
+    }
 }
 
 weekDropdown()
@@ -137,11 +174,9 @@ weekDropdown()
                             weekPlanNode = coursePlan.querySelector('[id$="' + window.weekNumber + '"]').parentElement
                             getAssignments(weekPlanNode)
                                 .then(assignments => {
-                                    console.log(assignments);
                                     assignments.forEach(assignment =>{
                                         assignment.classList += 'assignment';
                                         course.insertBefore(assignment, course.firstChild.nextSibling.nextSibling);
-                                        console.log(course.firstChild.nextSibling)
                                     })
                                 })
                         }).then(response =>{
@@ -149,7 +184,6 @@ weekDropdown()
                         })
                 });
         });
-    })
-
-
-
+    }).then(response =>{
+        addAssignmentsToList();   
+    });
