@@ -83,18 +83,27 @@ async function addAssignmentsToList(){
 
         //Get assignments from weekplan for each course
         for (const course of groupCourseList){
+            h4 = document.createElement('h4');
+            h4.appendChild(document.createTextNode(course.id))
+
+            section.appendChild(h4)
+            
             const markdown = await fetchMarkdown(url + course.id + '.md');
             const html = await mdToHtml(markdown);
             htmlNode = document.createElement('body');
             htmlNode.innerHTML = html;
             const assignments = await getAssignments(htmlNode);
-            assignment = assignments;
+
+            //append all assignments to section
+            for (const assignment of assignments) {
+                time = document.createElement('time');
+                time.appendChild(document.createTextNode('v' + assignment.getAttribute('data-week-title').split(' ')[1]));
+                assignment.insertBefore(time, assignment.firstChild)
+                section.appendChild(assignment);
+            }
         } 
 
-        //append all assignments to section
-        for (const assignment of assignments) {
-            section.appendChild(assignment);
-        }
+        
 
         //append section to assignment list
         assignmentList.appendChild(section.cloneNode(true))
