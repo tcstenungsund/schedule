@@ -155,6 +155,7 @@ footer .social ul li{
     padding: .5em;
     display: inline-block;
     text-decoration: none;
+    margin: .5em 0;
 }
 .assignment-list .assignment{
     display: flex;
