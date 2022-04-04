@@ -93,8 +93,6 @@ async function addAssignmentsToList(){
 
         //append all assignments to section
         for (const assignment of assignments) {
-            assignment.classList.add('assignment');
-            assignment.innerHTML += '<i class="fa-solid fa-arrow-right"></i>';
             section.appendChild(assignment);
         }
 

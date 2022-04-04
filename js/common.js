@@ -17,6 +17,9 @@ async function getAssignments(html){
         "contains(., 'uppgift') or \
         contains(., 'Uppgift') or \
         contains(., 'UPPGIFT') or \
+        contains(., 'inlämning') or \
+        contains(., 'Inlämning') or \
+        contains(., 'INLÄMING') or \
         contains(., 'test') or \
         contains(., 'Test') or \
         contains(., 'TEST')or \
@@ -24,15 +27,47 @@ async function getAssignments(html){
         contains(., 'Prov')or \
         contains(., 'PROV')"
 
+    const highlightAssignmentKeyWords = [
+        "test", 
+        "prov"
+    ]
+
     //Empty assignments variable
     assignments = [];
     //Get all a tags that contain one of the keywords from list above
-    allAssignments = document.evaluate(".//a[" + assignmentKeyWords + "]", html, null, XPathResult.ANY_TYPE, null ); 
+    allAssignments = document.evaluate(".//a[" + assignmentKeyWords + "]", html, null, XPathResult.ANY_TYPE, null );  
+    
     //Put resulting assignments in a array;
     assignment = allAssignments.iterateNext()
     for (let index = 0; assignment != null; index++) {
         assignments[index] = assignment;
         assignment = allAssignments.iterateNext();
     }
+
+    //Modify assignments so that they have correct class names
+    for (i in assignments){
+        assignment = assignments[i].cloneNode(true)
+
+        //Add data about week parent to assignment
+        weekTitle = assignments[i].closest('body > ul > li').querySelector('h2')
+        assignment.setAttribute('data-week-id', weekTitle.id);
+        assignment.setAttribute('data-week-title', weekTitle.innerHTML);
+
+        //Add assignment class to assignments
+        assignment.classList += 'assignment';
+
+        //If assignment contains words liek test or exam, add test class to assignment
+        for (keyword in highlightAssignmentKeyWords){
+            if (('' + assignment.textContent).includes(keyword)){
+                assignment.classList += 'test';
+                break;
+            }
+        }
+
+        assignment.innerHTML += '<i class="fa-solid fa-arrow-right"></i>';
+
+        assignments[i] = assignment;
+    }
+    
     return assignments;
 }

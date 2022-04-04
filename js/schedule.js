@@ -75,15 +75,16 @@ async function addEditLink(){
     return true;
 }
 
-async function assingmentsToDom(){
+async function assingmentsToDom(assignments, assignmentElements){
+
     assignments.forEach(assignment => {
 
         //Get week title and week id of assignment
-        weekTitle = assignment.closest('.schedule > ul > li').querySelector('h2');
+        weekTitle = assignment.getAttribute("data-week-title")
+        weekID = assignment.getAttribute("data-week-id")
 
         //Make Clone to append to week assignment list
         assignment = assignment.cloneNode(true)
-        assignment.classList += "assignment";   //Add class of "assignment" to assignment
 
         //Make week assignment list
         ul = document.createElement('ul');
@@ -92,23 +93,22 @@ async function assingmentsToDom(){
         ul.appendChild(assignment);  //Append clone to assignment list
 
         //Append week assignment list to week
-        week = document.getElementById(weekTitle.id).parentElement;
+        week = document.getElementById(weekID).parentElement;
         week.appendChild(ul);
 
         //Append assignment to week in Assignment list
         assignmentList = document.getElementById('assignment-list');
-        assignmentListWeek = assignmentList.querySelector('[id$="' + weekTitle.id + '-assignment-list"]');
+        assignmentListWeek = assignmentList.querySelector('[id$="' + weekID + '-assignment-list"]');
         if (assignmentListWeek == null) { //If week does not exist in assignment list create it
             h3 = document.createElement('h3');
-            h3.innerHTML = weekTitle.innerHTML;
+            h3.innerHTML = weekTitle;
             li = document.createElement('li');
-            li.id = weekTitle.id + '-assignment-list';
+            li.id = weekID + '-assignment-list';
             li.appendChild(h3);
             assignmentList.insertBefore(li, assignmentList.firstChild);
             assignmentListWeek = li;
         }
         a = assignment.cloneNode(true);
-        a.innerHTML += '<i class="fa-solid fa-arrow-right"></i>';
         assignmentListWeek.appendChild(a);
     });
     return true;
@@ -122,7 +122,10 @@ fetchMarkdown(url)
                 htmlToDom(response).then(response => {
                     mermaid.init();
                     addEditLink();
-                    getAssignments(document)
+
+                    body = document.createElement('body')
+                    body.innerHTML = schedule.innerHTML;
+                    getAssignments(body)
                         .then(assingments =>{
                             assingmentsToDom(assingments);
                         });
