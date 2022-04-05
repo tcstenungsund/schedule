@@ -4,7 +4,7 @@ html{
     font-family: 'Atkinson Hyperlegible', sans-serif;
     font-style: normal;
     font-weight: normal;
-    color: rgb(14, 17, 0);
+    color: #272932;
 }
 body{
     font-size:0.9em; /* Change this for general text size */
@@ -32,8 +32,8 @@ h6{
 }
 
 strong{
-    background-color: rgb(255, 132, 132);
-    color: black;
+    background-color: #F96F5D;
+    color: #FFF;
     padding: .5ch 1ch;
     display: inline-block;
 }
