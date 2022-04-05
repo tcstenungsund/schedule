@@ -58,8 +58,9 @@ async function getAssignments(html){
 
         //If assignment contains words liek test or exam, add test class to assignment
         for (keyword in highlightAssignmentKeyWords){
-            if (('' + assignment.textContent).includes(keyword)){
-                assignment.classList += 'test';
+            keyword = highlightAssignmentKeyWords[keyword]
+            if (('' + assignment.textContent.toUpperCase()).includes(keyword.toUpperCase())){
+                assignment.classList += ' test';
                 break;
             }
         }
