@@ -75,8 +75,7 @@ async function addEditLink(){
     return true;
 }
 
-async function assingmentsToDom(assignments, assignmentElements){
-
+async function assingmentsToDom(assignments){
     assignments.forEach(assignment => {
 
         //Get week title and week id of assignment
@@ -122,7 +121,6 @@ fetchMarkdown(url)
                 htmlToDom(response).then(response => {
                     mermaid.init();
                     addEditLink();
-
                     body = document.createElement('body')
                     body.innerHTML = schedule.innerHTML;
                     getAssignments(body)

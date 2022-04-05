@@ -180,10 +180,18 @@ weekDropdown()
                         }).then(response => {
                             //Get assignments from current week in course
                             weekPlanNode = coursePlan.querySelector('[id$="' + window.weekNumber + '"]').parentElement
-                            getAssignments(weekPlanNode)
+                            
+                            //Put assignment in li in ul in a body (so that a h2 with week title id can be found)
+                            li = document.createElement('li');
+                            li.innerHTML = weekPlanNode.innerHTML;
+                            ul = document.createElement('ul');
+                            ul.appendChild(li);
+                            body = document.createElement('body');
+                            body.appendChild(ul);
+
+                            getAssignments(body)
                                 .then(assignments => {
                                     assignments.forEach(assignment =>{
-                                        assignment.classList += 'assignment';
                                         course.insertBefore(assignment, course.firstChild.nextSibling.nextSibling);
                                     })
                                 })
