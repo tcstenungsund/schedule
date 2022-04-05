@@ -10,6 +10,24 @@ function getWeekNumber(date = new Date()) {
     return 1 + Math.round(((date.getTime() - week1.getTime()) / 86400000 - 3 + (week1.getDay() + 6) % 7) / 7);
 }
 
+//Fetch markdown from url
+async function fetchMarkdown(url){
+    return await fetch(url) 
+        .then(response => response.text())
+        .then(result => {
+            return result;
+        });
+}
+
+//convert markdown to HTML
+async function mdToHtml(md){
+    var converter = new showdown.Converter();
+    text = md;
+    html = converter.makeHtml(text);
+    
+    return html;
+}
+
 //Gets assignments form a html element?
 async function getAssignments(html){
     //Kewords to look for in week plan to make assignments from

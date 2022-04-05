@@ -23,24 +23,6 @@ if (groupParam != null && groupParam != "") {
 
 }
 
-//Fetch markdown from url
-async function fetchMarkdown(url){
-    return await fetch(url) 
-        .then(response => response.text())
-        .then(result => {
-            return result;
-        });
-}
-
-//convert markdown to HTML
-async function mdToHtml(md){
-    var converter = new showdown.Converter();
-    text = md;
-    html = converter.makeHtml(text);
-    
-    return html;
-}
-
 //Get all groups from html document
 async function getGroups(){
     groups = document.querySelectorAll('.group');
@@ -66,7 +48,6 @@ async function weekDropdown(){
 async function addAssignmentsToList(){
     assignmentList = document.getElementById('assignments'); //get list to append assignments to
     selectedGroupList = document.querySelectorAll('[class*=group]:not([class*=hide])'); //get all selected groups
-
 
     for (const group of selectedGroupList){
         assignments = []; //List of all assignments for group (will be filled in later)
@@ -102,8 +83,6 @@ async function addAssignmentsToList(){
                 section.appendChild(assignment);
             }
         } 
-
-        
 
         //append section to assignment list
         assignmentList.appendChild(section.cloneNode(true))

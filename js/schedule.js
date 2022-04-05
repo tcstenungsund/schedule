@@ -6,27 +6,8 @@ url = 'md/' + course + '.md'; //censored for github
 //Link to edit the md file
 mdEditUrl = 'https://github.com/klovaaxel/schedule/edit/main/md/' + course + '.md';
 
-
 // Get current week number from misc.js
 currentWeekNumber = getWeekNumber();
-
-//Fetch markdown from url
-async function fetchMarkdown(url){
-    return await fetch(url) 
-        .then(response => response.text())
-        .then(result => {
-            return result;
-        });
-}
-
-//Convert markdown to HTML
-async function mdToHtml(md){
-    var converter = new showdown.Converter();
-    text = md + '- &nbsp;'; //fixes last element not becoming a LI element
-    html = converter.makeHtml(text);
-    
-    return html
-}
 
 //place the HTML in the DOM
 async function htmlToDom(html){    
@@ -54,15 +35,6 @@ async function htmlToDom(html){
     return
 }
 
-//Fetch markdown from url
-async function fetchMarkdown(url){
-    return await fetch(url) 
-        .then(response => response.text())
-        .then(result => {
-            return result;
-        });
-}
-
 //Add edit link to course
 async function addEditLink(){
     //Edit link
@@ -75,6 +47,7 @@ async function addEditLink(){
     return true;
 }
 
+//Places assignments in all the HTML places
 async function assingmentsToDom(assignments){
     assignments.forEach(assignment => {
 
