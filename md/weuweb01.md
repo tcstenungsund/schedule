@@ -139,7 +139,7 @@
   **[DISTANS]** &nbsp; Click here to join the meeting<br />Vi fortsätter med Vårprojektet.<br />Under dagens lektion är några av er schemalagda för Utvecklingssamtal, se till att ni är tillgängliga på Teams vid er utsatta tid. Om någon behöver hjälp, fråga de andra grupperna, eller Ante. Det går också att skriva i grupprummet på Teams, så svarar Kenneth när tid finnes.<br />Lyssna på avsnittet ”005 Inheritance” (8 min) av podcasten “The CSS Podcast”. (Finns också på Spotify.)
 
 - ## Vecka 13 
-  **[DISTANS]**  Click here to join the meeting<br />Vi fortsätter med Vårprojektet.<br />Under dagens lektion är några av er schemalagda för Utvecklingssamtal, se till att ni är tillgängliga på Teams vid er utsatta tid. Om någon behöver hjälp, fråga de andra grupperna, eller Ante. Det går också att skriva i grupprummet på Teams, så svarar Kenneth när tid finnes.<br />Repetera avsnitt 1 – 5 av “The CSS Podcast”.
+  **[DISTANS]**  Click here to join the meeting<br />Vi fortsätter med Vårprojektet.<br />Under dagens lektion är några av er schemalagda för Utvecklingssamtal, se till att ni är tillgängliga på Teams vid er utsatta tid. Om någon behöver hjälp, fråga de andra grupperna, eller Ante. Det går också att skriva i grupprummet på Teams, så svarar Kenneth när tid finnes.<br />Repetera avsnitt 1 – 5 av “The CSS Podcast”. [uppgift Min Fula Lilla Sida Webbprojekt](https://sv.wikipedia.org/wiki/Katalog_(datorteknik)
 
 - ## Vecka 14
   **PÅSKLOV**

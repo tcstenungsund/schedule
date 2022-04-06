@@ -67,7 +67,6 @@ async function getAssignments(html){
         assignment = assignments[i].cloneNode(true)
 
         //Add data about week parent to assignment
-        console.log(assignments[i].closest('body > ul > li'), assignments[i].closest('body'));
         weekTitle = assignments[i].closest('body > ul > li').querySelector('h2');
         assignment.setAttribute('data-week-id', weekTitle.id);
         assignment.setAttribute('data-week-title', weekTitle.innerHTML);
