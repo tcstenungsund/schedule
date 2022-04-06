@@ -84,7 +84,6 @@ async function addAssignmentsToList(){
                 
                 if (weeks.indexOf(parseInt(window.weekNumber)) + 1 > weeks.indexOf(parseInt(assignmentWeek))){
                     latestAssignment = assignment
-                    console.log(assignmentWeek)
                 }
             }
             section.appendChild(latestAssignment);
