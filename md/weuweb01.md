@@ -42,7 +42,7 @@
 
   Vi jobbar vidare med "Min Fula Lilla Sida".
   [Uppgift Min Fula Lilla Sida Webbprojekt](https://sv.wikipedia.org/wiki/Katalog_(datorteknik)
-  [Prov Min Fula Lilla Sida Webbprojekt](https://sv.wikipedia.org/wiki/Katalog_(datorteknik)
+  [uppgift Min Fula Lilla Sida Webbprojekt](https://sv.wikipedia.org/wiki/Katalog_(datorteknik)
 
 - ## Vecka 41 
   **[DISTANS]**  – Join Microsoft Teams Meeting
