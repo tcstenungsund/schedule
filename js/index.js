@@ -75,13 +75,19 @@ async function addAssignmentsToList(){
             htmlNode.innerHTML = html;
             const assignments = await getAssignments(htmlNode);
 
-            //append all assignments to section
+            //append latest assignments to section
+            assignment = assignments[assignments.length -1];
+            time = document.createElement('time');
+            time.appendChild(document.createTextNode('v' + assignment.getAttribute('data-week-title').split(' ')[1]));
+            assignment.insertBefore(time, assignment.firstChild)
+            section.appendChild(assignment);
+            /*//append all assignments 
             for (const assignment of assignments) {
                 time = document.createElement('time');
                 time.appendChild(document.createTextNode('v' + assignment.getAttribute('data-week-title').split(' ')[1]));
                 assignment.insertBefore(time, assignment.firstChild)
                 section.appendChild(assignment);
-            }
+            }*/
         } 
 
         //append section to assignment list
