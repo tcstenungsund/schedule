@@ -23,17 +23,6 @@ if (groupParam != null && groupParam != "") {
 
 }
 
-//Get all groups from html document
-async function getGroups(){
-    groups = document.querySelectorAll('.group');
-    groupNames = [];
-
-    groups.forEach(group => {
-        groupNames.push(group.id);
-    });
-    return groupNames;
-}
-
 //Week dropdown
 async function weekDropdown(){
     weeks.forEach(week => {
@@ -120,7 +109,7 @@ weekDropdown()
         });
     }).then(response => {
         //Populate group dropdown with groups available and whats in url query
-        getGroups()
+        getGroups(document)
             .then(groups => {
                 groups.forEach(group => {
                     option = document.createElement('option');

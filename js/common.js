@@ -92,3 +92,14 @@ async function getAssignments(html){
     
     return assignments;
 }
+
+//Get all groups from html document
+async function getGroups(html){
+    groups = html.querySelectorAll('.group');
+    groupNames = [];
+
+    groups.forEach(group => {
+        groupNames.push(group.id);
+    });
+    return groupNames;
+}
