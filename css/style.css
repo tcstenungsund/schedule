@@ -48,11 +48,11 @@ body > header nav ul li{
     display: flex;
     align-self: center;
 }
-nav i{
+nav i, footer i{
     margin: .3em;
     transition: ease-in-out .2s;
 }
-nav i:hover{
+nav i:hover, footer i:hover{
     color: white;
     background: #4789c6;
     padding: .3em;
