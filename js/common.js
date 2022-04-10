@@ -1,3 +1,5 @@
+url = 'md/';
+
 // Returns the ISO week of the date.
 // Code modified version of https://weeknumber.com/how-to/javascript.
 function getWeekNumber(date = new Date()) {
