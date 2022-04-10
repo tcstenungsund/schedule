@@ -21,6 +21,7 @@ footer ul, footer ol, footer dl, .schedule > ul, .schedule > ol, .schedule > dl,
 body{
     display: flex;
     flex-wrap: wrap;
+    margin: 1vh 0;
 }
 
 body > header {
@@ -60,7 +61,7 @@ nav i:hover, footer i:hover{
 }
 
 main{
-    margin: 0 2em;
+    margin: 0 2vw;
     flex: 60% 1 1;
 }
 main header{
@@ -82,7 +83,7 @@ main header{
 
 aside{
     flex: 10% 1 0;
-    margin: 0 2em 0 0;
+    margin: 0 2vw;
 }
 aside ul{
     list-style: none;
