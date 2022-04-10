@@ -93,7 +93,7 @@ async function getAssignments(html){
     return assignments;
 }
 
-//Get all groups from html document
+//Get all groups from html element
 async function getGroups(html){
     groups = html.querySelectorAll('.group');
     groupNames = [];
