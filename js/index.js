@@ -52,8 +52,11 @@ async function addAssignmentsToList(){
 
         //Get assignments from weekplan for each course
         for (const course of groupCourseList){
+
+            courseName = document.getElementById(course.id).querySelector('h3').innerHTML;
+
             h4 = document.createElement('h4');
-            h4.appendChild(document.createTextNode(course.id))
+            h4.appendChild(document.createTextNode(courseName))
 
             section.appendChild(h4)
             
