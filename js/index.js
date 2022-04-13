@@ -63,6 +63,9 @@ async function addAssignmentsToList(){
             htmlNode.innerHTML = html;
             const assignments = await getAssignments(htmlNode);
 
+            //clear latestAssignment so it dosen't get appended to wrong course
+            latestAssignment = null;
+
             //append latest assignment (but not a uppcoming one) to section 
             for (const assignment of assignments) {
                 time = document.createElement('time');
@@ -74,14 +77,11 @@ async function addAssignmentsToList(){
                     latestAssignment = assignment
                 }
             }
-            try{
+            //Try to append assignment to course if latestAssignment is not null
+            if(latestAssignment != null){
+                console.log(course.id, latestAssignment)
                 section.appendChild(latestAssignment);
             }
-            catch(e){
-                console.log("No assignments for " + course.id + " found")
-            }
-            
-
         } 
 
         //append section to assignment list
