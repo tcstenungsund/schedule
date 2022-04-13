@@ -42,7 +42,7 @@ strong{
 a{
     color: #4789c6;
 }
-a:hover a{
+a:hover a:not(.test){
     color: #dead40;
 }
 

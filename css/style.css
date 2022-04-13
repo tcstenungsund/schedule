@@ -140,7 +140,7 @@ footer .social ul li{
     margin: 0;
 }
 
-.group section > a:hover .assignment{
+.group section > a:hover .assignment:not(.test){
     background: white;
     color: #4789c6;
 }
