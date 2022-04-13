@@ -125,7 +125,7 @@ footer .social ul li{
 }
 .group section > *{
     display: block;
-    flex: min-content 1 1;
+    flex: max-content 1 1;
 }
 .group section > a{
     color: inherit;
