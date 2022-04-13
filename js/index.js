@@ -62,7 +62,7 @@ async function addAssignmentsToList(){
             htmlNode = document.createElement('body');
             htmlNode.innerHTML = html;
             const assignments = await getAssignments(htmlNode);
-            
+
             //append latest assignment (but not a uppcoming one) to section 
             for (const assignment of assignments) {
                 time = document.createElement('time');
@@ -74,7 +74,13 @@ async function addAssignmentsToList(){
                     latestAssignment = assignment
                 }
             }
-            section.appendChild(latestAssignment);
+            try{
+                section.appendChild(latestAssignment);
+            }
+            catch(e){
+                console.log("No assignments for " + course.id + " found")
+            }
+            
 
         } 
 
