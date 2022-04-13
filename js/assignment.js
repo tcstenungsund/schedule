@@ -1,3 +1,5 @@
+main = document.getElementById('main')
+
 //Get and store groups/courses
 async function getHtml(url) {
     //Fetch html from index.html to grab group names and courses
@@ -35,14 +37,13 @@ getHtml('index.html')
         getGroupHtml(html).then(groups => {
             for(const group of groups){
 
-                console.log(group);
+                //Append the group to dom
+                main.appendChild(group);
                 
                 //Get courses from each group
                 getCourses(group)
                     .then(courses => {
                         for(const course of courses){
-
-                            console.log(course);
 
                             //Get markdown for each course
                             fetchMarkdown(url + course.id + '.md')
@@ -60,7 +61,8 @@ getHtml('index.html')
                                             getAssignments(html)
                                                 .then(assignments => {
                                                     for(const assignment of assignments){
-                                                        console.log(assignment);
+                                                        //Get course from dom and append assignments to it
+                                                        document.getElementById(course.id).appendChild(assignment)
                                                     }
                                                 });
                                         })
