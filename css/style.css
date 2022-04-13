@@ -125,7 +125,7 @@ footer .social ul li{
 }
 .group section > *{
     display: block;
-    flex: max-content 1 1;
+    flex: min-content 1 1;
 }
 .group section > a{
     color: inherit;
@@ -139,10 +139,12 @@ footer .social ul li{
     padding: 0 1em;
     margin: 0;
 }
-
 .group section > a:hover .assignment:not(.test){
     background: white;
     color: #4789c6;
+}
+.group section > a h3{
+    width: max-content;
 }
 
 .hide{
