@@ -1,11 +1,3 @@
-//Define what url the markdown file should be fetched from.
-const queryString = window.location.search;
-const urlParams = new URLSearchParams(queryString);
-course = urlParams.get("course");
-url = 'md/' + course + '.md'; //censored for github
-//Link to edit the md file
-mdEditUrl = 'https://github.com/klovaaxel/schedule/edit/main/md/' + course + '.md';
-
 // Get current week number from misc.js
 currentWeekNumber = getWeekNumber();
 

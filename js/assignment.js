@@ -71,4 +71,6 @@ getHtml('index.html')
                     })
             }
         });
+    }).then(response => {
+        groupDropdown();
     });

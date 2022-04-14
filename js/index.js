@@ -2,35 +2,6 @@
 courseList = document.querySelectorAll('[type=course]');
 weeks = [36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23];
 scheduleUrl = 'schedule.html'
-// Get current week number from misc.js
-currentWeekNumber = getWeekNumber();
-//Get all groups
-groupList = document.querySelectorAll('[class*=group]');
-//Get params from url
-const queryString = window.location.search;
-const urlParams = new URLSearchParams(queryString);
-groupParam = urlParams.get("group");
-weekParam = urlParams.get("week");
-
-//If group specified, hide all others
-if (groupParam != null && groupParam != "") {
-    groupList.forEach(groupItem => {
-        if (groupItem.id.toLowerCase() != groupParam.toLowerCase()) {
-            groupItem.classList.add('hide');
-        }
-    });  
-
-}
-
-//Week dropdown
-async function weekDropdown(){
-    weeks.forEach(week => {
-        option = document.createElement('option');
-        option.setAttribute('value', week);
-        option.innerHTML = week.toString();
-        document.getElementById('week-select').appendChild(option);    
-    });
-}
 
 //Add assignments from all selected groups to the assignment list
 async function addAssignmentsToList(){
@@ -92,54 +63,9 @@ async function addAssignmentsToList(){
 }
 
 weekDropdown()
-    .then(response =>{
-        //populate week dropdown
-        if (weekParam != null && weekParam != "") {
-            //if week specified, set dropdown to that week
-            document.querySelector('[value*="' + weekParam + '"]').setAttribute('selected', 'selected');            
-            //if week specified, set weeknumber to that week
-            window.weekNumber = weekParam;
-        }else{
-            //if week not specified, set dropdown to current week
-            document.querySelector('[value*="' + currentWeekNumber + '"]').setAttribute('selected', 'selected');            
-            //if not week specified, set weeknumber to current week
-            window.weekNumber = currentWeekNumber;
-        }
-        
-        //look for changes in week dropdown menu
-        const selectElement = document.getElementById('week-select');
-
-        selectElement.addEventListener('change', (event) => {            
-            const urlParams = new URLSearchParams(window.location.search);
-            urlParams.set('week', event.target.value);
-            window.location.search = urlParams;
-        });
-    }).then(response => {
+    .then(response => {
         //Populate group dropdown with groups available and whats in url query
-        getGroups(document)
-            .then(groups => {
-                groups.forEach(group => {
-                    option = document.createElement('option');
-                    option.setAttribute('value', group);
-                    option.innerHTML = group.toUpperCase();
-                    document.getElementById('group-select').appendChild(option);
-                });
-            }).then(response =>{
-                if (groupParam != null && groupParam != "") {
-                    //if group specified, set dropdown to that group
-                    document.querySelector('[value*="' + groupParam + '"]').setAttribute('selected', 'selected');            
-                }
-            }).then(response =>{
-                //look for changes in group dropdown menu
-                const selectElement = document.getElementById('group-select');
-
-                selectElement.addEventListener('change', (event) => {            
-                    const urlParams = new URLSearchParams(window.location.search);
-                    urlParams.set('group', event.target.value);
-                    window.location.search = urlParams;
-                });
-
-            })
+        groupDropdown();
     }).then(response =>{
         //Fill Courses in each group section
         courseList.forEach(course => {

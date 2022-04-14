@@ -1,4 +1,20 @@
-url = 'md/';
+// Get current week number from misc.js
+currentWeekNumber = getWeekNumber();
+//Get all groups
+groupList = document.querySelectorAll('[class*=group]');
+//Get params from url
+const queryString = window.location.search;
+const urlParams = new URLSearchParams(queryString);
+groupParam = urlParams.get("group");
+courseParam = urlParams.get("course");
+weekParam = urlParams.get("week");
+
+console.log(groupParam)
+
+//Define what url the markdown file should be fetched from.
+url = 'md/' + courseParam + '.md'; //censored for github
+//Link to edit the md file
+mdEditUrl = 'https://github.com/klovaaxel/schedule/edit/main/md/' + courseParam + '.md';
 
 // Returns the ISO week of the date.
 // Code modified version of https://weeknumber.com/how-to/javascript.
@@ -106,4 +122,79 @@ async function getGroups(html){
         groupNames.push(group.id);
     });
     return groupNames;
+}
+
+
+//Week dropdown
+async function weekDropdown(){
+    weeks.forEach(week => {
+        option = document.createElement('option');
+        option.setAttribute('value', week);
+        option.innerHTML = week.toString();
+        document.getElementById('week-select').appendChild(option);    
+    });
+
+    //populate week dropdown
+    if (weekParam != null && weekParam != "") {
+        //if week specified, set dropdown to that week
+        document.querySelector('[value*="' + weekParam + '"]').setAttribute('selected', 'selected');            
+        //if week specified, set weeknumber to that week
+        window.weekNumber = weekParam;
+    }else{
+        //if week not specified, set dropdown to current week
+        document.querySelector('[value*="' + currentWeekNumber + '"]').setAttribute('selected', 'selected');            
+        //if not week specified, set weeknumber to current week
+        window.weekNumber = currentWeekNumber;
+    }
+    
+    //look for changes in week dropdown menu
+    const selectElement = document.getElementById('week-select');
+
+    selectElement.addEventListener('change', (event) => {            
+        const urlParams = new URLSearchParams(window.location.search);
+        urlParams.set('week', event.target.value);
+        window.location.search = urlParams;
+    });
+}
+
+async function hideUnselectedGroups(){
+    //If group specified, hide all others
+    if (groupParam != null && groupParam != "") {
+        groupList = document.querySelectorAll('[class*=group]');
+        groupList.forEach(groupItem => {
+            if (groupItem.id.toLowerCase() != groupParam.toLowerCase()) {
+                groupItem.classList.add('hide');
+            }
+        });  
+    }
+}
+
+//Get groups and populate groupDropdown
+async function groupDropdown(){
+    getGroups(document)
+        .then(groups => {
+            groups.forEach(group => {
+                option = document.createElement('option');
+                option.setAttribute('value', group);
+                option.innerHTML = group.toUpperCase();
+                document.getElementById('group-select').appendChild(option);
+            });
+        }).then(response =>{
+            if (groupParam != null && groupParam != "") {
+                //if group specified, set dropdown to that group
+                document.querySelector('[value*="' + groupParam + '"]').setAttribute('selected', 'selected');            
+            }
+        }).then(response =>{
+            //look for changes in group dropdown menu
+            const selectElement = document.getElementById('group-select');
+
+            selectElement.addEventListener('change', (event) => {            
+                const urlParams = new URLSearchParams(window.location.search);
+                urlParams.set('group', event.target.value);
+                window.location.search = urlParams;
+            });
+
+        }).then(response => {
+            hideUnselectedGroups()
+        });
 }
