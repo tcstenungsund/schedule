@@ -141,12 +141,12 @@ async function weekDropdown(){
     //populate week dropdown
     if (weekParam != null && weekParam != "") {
         //if week specified, set dropdown to that week
-        document.querySelector('[value*="' + weekParam + '"]').setAttribute('selected', 'selected');            
+        document.querySelector('[value="' + weekParam + '"]').setAttribute('selected', 'selected');            
         //if week specified, set weeknumber to that week
         window.weekNumber = weekParam;
     }else{
         //if week not specified, set dropdown to current week
-        document.querySelector('[value*="' + currentWeekNumber + '"]').setAttribute('selected', 'selected');            
+        document.querySelector('[value="' + currentWeekNumber + '"]').setAttribute('selected', 'selected');            
         //if not week specified, set weeknumber to current week
         window.weekNumber = currentWeekNumber;
     }
