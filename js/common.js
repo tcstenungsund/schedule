@@ -11,7 +11,7 @@ weekParam = urlParams.get("week");
 link = urlParams.get("link");
 style = urlParams.get("style");
 
-if(style.toLowerCase().includes("dark")){
+if(style != null && style.toLowerCase().includes("dark")){
     document.body.classList.add("dark")
 }
 
