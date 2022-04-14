@@ -8,6 +8,7 @@ const urlParams = new URLSearchParams(queryString);
 groupParam = urlParams.get("group");
 courseParam = urlParams.get("course");
 weekParam = urlParams.get("week");
+link = urlParams.get("link");
 
 //Define what url the markdown file should be fetched from.
 url = 'md/' + courseParam + '.md'; //censored for github
