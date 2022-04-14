@@ -9,6 +9,11 @@ groupParam = urlParams.get("group");
 courseParam = urlParams.get("course");
 weekParam = urlParams.get("week");
 link = urlParams.get("link");
+style = urlParams.get("style");
+
+if(style.toLowerCase().includes("dark")){
+    document.body.classList.add("dark")
+}
 
 //Define what url the markdown file should be fetched from.
 url = 'md/' + courseParam + '.md'; //censored for github

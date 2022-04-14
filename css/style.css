@@ -13,6 +13,13 @@
 html{
     scroll-behavior: smooth;
 }
+.dark{
+    background-color: #363434;
+    color: white;
+}
+.dark .group, .dark aside{
+    background-color: #686363;
+}
 footer ul, footer ol, footer dl, .schedule > ul, .schedule > ol, .schedule > dl, nav > ul, nav > ol, nav > dl{
     list-style: none;
     margin: 0;
@@ -85,6 +92,7 @@ aside{
     flex: 10% 1 0;
     padding: 0 2vw;
     background: #deebf1;
+    border-top: solid 0.5em #4789c6;
 }
 aside ul{
     list-style: none;
@@ -117,7 +125,15 @@ footer .social ul li{
     display: flex;
     align-self: center;
 }
-
+.branding img {
+    background: white;
+}
+.group {
+    border-top: solid 0.5em #4789c6;
+    background: #deebf1;
+    padding: 1em;
+    margin: 1em 0 0 0;
+}
 .group section{
     display: flex;
     flex-wrap: wrap;
