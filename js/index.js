@@ -7,7 +7,7 @@ scheduleUrl = 'schedule.html'
 async function addAssignmentsToList(){
     assignmentList = document.getElementById('assignments'); //get list to append assignments to
     selectedGroupList = document.querySelectorAll('[class*=group]:not([class*=hide])'); //get all selected groups
-
+    
     for (const group of selectedGroupList){
         assignments = []; //List of all assignments for group (will be filled in later)
 
@@ -65,48 +65,49 @@ async function addAssignmentsToList(){
 weekDropdown()
     .then(response => {
         //Populate group dropdown with groups available and whats in url query
-        groupDropdown();
-    }).then(response =>{
-        //Fill Courses in each group section
-        courseList.forEach(course => {
-            fetchMarkdown(url + course.id + '.md')
-                .then(response =>{
-                    mdToHtml(response)
-                        .then(response => {
-                            //Get the entire courseplan for each course
-                            coursePlan = document.createElement("div");
-                            coursePlan.innerHTML = response;
-                            //Get current week from courseplan and remove week number
-                            currentWeekPlan = document.createElement("div");
-                            currentWeekPlanElement = coursePlan.querySelector('[id$="' +  window.weekNumber + '"]').parentElement.cloneNode(true);
-                            currentWeekPlanElement.removeChild(currentWeekPlanElement.querySelector('[id$="' +  window.weekNumber + '"]'));
-                            currentWeekPlan.innerHTML = currentWeekPlanElement.innerHTML;
-                            //Append Current week plan to course div 
-                            course.appendChild(currentWeekPlan);
-                            course.href = scheduleUrl + "?course=" + course.id;
-                        }).then(response => {
-                            //Get assignments from current week in course
-                            weekPlanNode = coursePlan.querySelector('[id$="' + window.weekNumber + '"]').parentElement
-                            
-                            //Put assignment in li in ul in a body (so that a h2 with week title id can be found)
-                            li = document.createElement('li');
-                            li.innerHTML = weekPlanNode.innerHTML;
-                            ul = document.createElement('ul');
-                            ul.appendChild(li);
-                            body = document.createElement('body');
-                            body.appendChild(ul);
+        groupDropdown()
+            .then(response =>{ 
+                //Fill Courses in each group section
+                courseList.forEach(course => {
+                    fetchMarkdown(url + course.id + '.md')
+                        .then(response =>{
+                            mdToHtml(response)
+                                .then(response => {
+                                    //Get the entire courseplan for each course
+                                    coursePlan = document.createElement("div");
+                                    coursePlan.innerHTML = response;
+                                    //Get current week from courseplan and remove week number
+                                    currentWeekPlan = document.createElement("div");
+                                    currentWeekPlanElement = coursePlan.querySelector('[id$="' +  window.weekNumber + '"]').parentElement.cloneNode(true);
+                                    currentWeekPlanElement.removeChild(currentWeekPlanElement.querySelector('[id$="' +  window.weekNumber + '"]'));
+                                    currentWeekPlan.innerHTML = currentWeekPlanElement.innerHTML;
+                                    //Append Current week plan to course div 
+                                    course.appendChild(currentWeekPlan);
+                                    course.href = scheduleUrl + "?course=" + course.id;
+                                }).then(response => {
+                                    //Get assignments from current week in course
+                                    weekPlanNode = coursePlan.querySelector('[id$="' + window.weekNumber + '"]').parentElement
+                                    
+                                    //Put assignment in li in ul in a body (so that a h2 with week title id can be found)
+                                    li = document.createElement('li');
+                                    li.innerHTML = weekPlanNode.innerHTML;
+                                    ul = document.createElement('ul');
+                                    ul.appendChild(li);
+                                    body = document.createElement('body');
+                                    body.appendChild(ul);
 
-                            getAssignments(body)
-                                .then(assignments => {
-                                    assignments.forEach(assignment =>{
-                                        course.insertBefore(assignment, course.firstChild.nextSibling.nextSibling);
-                                    })
+                                    getAssignments(body)
+                                        .then(assignments => {
+                                            assignments.forEach(assignment =>{
+                                                course.insertBefore(assignment, course.firstChild.nextSibling.nextSibling);
+                                            })
+                                        })
+                                }).then(response =>{
+                                    mermaid.init();
                                 })
-                        }).then(response =>{
-                            mermaid.init();
-                        })
+                        });
                 });
-        });
-    }).then(response =>{
-        addAssignmentsToList();   
-    });
+            }).then(response =>{
+                addAssignmentsToList();
+            }) 
+    })

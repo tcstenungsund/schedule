@@ -9,8 +9,6 @@ groupParam = urlParams.get("group");
 courseParam = urlParams.get("course");
 weekParam = urlParams.get("week");
 
-console.log(groupParam)
-
 //Define what url the markdown file should be fetched from.
 url = 'md/' + courseParam + '.md'; //censored for github
 //Link to edit the md file
@@ -194,7 +192,6 @@ async function groupDropdown(){
                 window.location.search = urlParams;
             });
 
-        }).then(response => {
-            hideUnselectedGroups()
-        });
+        })
+    hideUnselectedGroups()
 }
