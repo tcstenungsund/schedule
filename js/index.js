@@ -15,7 +15,7 @@ weekParam = urlParams.get("week");
 //If group specified, hide all others
 if (groupParam != null && groupParam != "") {
     groupList.forEach(groupItem => {
-        if (groupItem.id != groupParam) {
+        if (groupItem.id.toLowerCase() != groupParam.toLowerCase()) {
             groupItem.classList.add('hide');
         }
     });  
@@ -82,7 +82,6 @@ async function addAssignmentsToList(){
             }
             //Try to append assignment to course if latestAssignment is not null
             if(latestAssignment != null){
-                console.log(course.id, latestAssignment)
                 section.appendChild(latestAssignment);
             }
         } 
