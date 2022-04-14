@@ -83,7 +83,8 @@ main header{
 
 aside{
     flex: 10% 1 0;
-    margin: 0 2vw;
+    padding: 0 2vw;
+    background: #deebf1;
 }
 aside ul{
     list-style: none;
