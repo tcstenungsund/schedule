@@ -90,12 +90,16 @@ main header{
     border-bottom: .1rem solid #0004;
     padding-bottom: .5rem;
 }
-
+pre{
+    background-color: #fff;
+}
 aside{
     flex: 10% 1 0;
     padding: 0 2vw;
     background: #deebf1;
     border-top: solid 0.5em #4789c6;
+    max-width: 92vw;
+    margin: 0 auto 1em auto;
 }
 aside ul{
     list-style: none;
@@ -135,7 +139,7 @@ footer .social ul li{
     border-top: solid 0.5em #4789c6;
     background: #deebf1;
     padding: 1em;
-    margin: 1em 0 0 0;
+    margin: 0 0 1em 0;
 }
 .group section{
     display: flex;
