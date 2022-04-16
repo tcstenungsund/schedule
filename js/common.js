@@ -16,13 +16,14 @@ if(style != null){
 }
 
 const localStyle = localStorage.getItem('style');
-console.log(localStyle);
 if(localStyle != null){
-    document.body.classList.add(localStyle)
+    document.body.classList.add(localStyle);
 }
 
 //Define what url the markdown file should be fetched from.
-url = 'md/' + courseParam + '.md'; //censored for github
+urlPrefix = 'md/';
+urlSuffix = '.md'
+url = urlPrefix + courseParam + urlSuffix; //censored for github
 //Link to edit the md file
 mdEditUrl = 'https://github.com/klovaaxel/schedule/edit/main/md/' + courseParam + '.md';
 
