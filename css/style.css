@@ -79,6 +79,10 @@ main header{
     align-items: center;
     gap: 1em;
     flex-wrap: wrap;
+    margin: 1em 0;
+}
+main header h1{
+    margin: 0
 }
 .schedule h2, aside h3{
     border-top: .1rem solid #0004;
