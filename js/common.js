@@ -11,8 +11,14 @@ weekParam = urlParams.get("week");
 link = urlParams.get("link");
 style = urlParams.get("style");
 
-if(style != null && style.toLowerCase().includes("dark")){
-    document.body.classList.add("dark")
+if(style != null){
+    localStorage.setItem('style', style);
+}
+
+const localStyle = localStorage.getItem('style');
+console.log(localStyle);
+if(localStyle != null){
+    document.body.classList.add(localStyle)
 }
 
 //Define what url the markdown file should be fetched from.

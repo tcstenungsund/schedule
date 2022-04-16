@@ -20,6 +20,9 @@ html{
 .dark .group, .dark aside{
     background-color: #686363;
 }
+.dark .current-week {
+    background-color: #4f604f;
+}
 footer ul, footer ol, footer dl, .schedule > ul, .schedule > ol, .schedule > dl, nav > ul, nav > ol, nav > dl{
     list-style: none;
     margin: 0;
