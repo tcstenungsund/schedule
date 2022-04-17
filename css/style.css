@@ -23,6 +23,19 @@ html{
 .dark .current-week {
     background-color: #4f604f;
 }
+.oled{
+    background-color: #000;
+    color: white;
+}
+.oled .group, .oled aside{
+    background-color: #000;
+}
+.oled .current-week {
+    background-color: #4f604f;
+}
+.oled .schedule h2, .oled aside h3, .oled .current-week h2, .oled .group h3{
+    border-color: #AAA;
+}
 footer ul, footer ol, footer dl, .schedule > ul, .schedule > ol, .schedule > dl, nav > ul, nav > ol, nav > dl{
     list-style: none;
     margin: 0;
