@@ -36,6 +36,9 @@ html{
 .oled .schedule h2, .oled aside h3, .oled .current-week h2, .oled .group h3{
     border-color: #AAA;
 }
+.dark .branding img, .oled .branding img{
+    filter: grayscale(1) contrast(0) invert(1) brightness(2);
+}
 footer ul, footer ol, footer dl, .schedule > ul, .schedule > ol, .schedule > dl, nav > ul, nav > ol, nav > dl{
     list-style: none;
     margin: 0;
@@ -148,9 +151,6 @@ footer .social ul li{
     height: fit-content;
     display: flex;
     align-self: center;
-}
-.branding img {
-    background: white;
 }
 .group {
     border-top: solid 0.5em #4789c6;
