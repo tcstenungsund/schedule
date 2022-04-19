@@ -18,7 +18,7 @@ html{
     color: white;
 }
 .dark .group, .dark aside{
-    background-color: #686363;
+    background-color: #222222;
 }
 .dark .current-week {
     background-color: #4f604f;
