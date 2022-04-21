@@ -31,13 +31,11 @@ async function addAssignmentsToList(){
 
             section.appendChild(h4)
             
-            const markdown = await fetchMarkdown(url + course.id + '.md');
+            const markdown = await fetchMarkdown("../" + urlPrefix + course.id + '.md');
             const html = await mdToGroupedHtml(markdown);
             htmlNode = document.createElement('body');
             htmlNode.appendChild(html);
             const assignments = await getAssignments(htmlNode);
-
-            console.log(htmlNode);
 
             //clear latestAssignment so it dosen't get appended to wrong course
             latestAssignment = null;
@@ -71,7 +69,7 @@ weekDropdown()
             .then(response =>{ 
                 //Fill Courses in each group section
                 courseList.forEach(course => {
-                    fetchMarkdown(url + course.id + '.md')
+                    fetchMarkdown("../" + urlPrefix + course.id + '.md')
                         .then(response =>{
                             mdToGroupedHtml(response)
                                 .then(response => {
