@@ -239,3 +239,16 @@ footer .social ul li{
     padding: 0;
     margin: 1em 0;
 }
+main > ul > li:last-of-type{
+    display: none;
+}
+main.assignment-description-container{
+    max-width: 70%;
+    margin: 0 auto;
+}
+.assignment-description-container h2{
+    margin-top: 2em;
+}
+.assignment-description-container hr{
+    margin-top: 4em;
+}
