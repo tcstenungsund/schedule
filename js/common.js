@@ -54,13 +54,53 @@ async function fetchMarkdown(url){
         });
 }
 
-//convert markdown to HTML
 async function mdToHtml(md){
     var converter = new showdown.Converter();
     text = md + '- <div></div>';
     html = converter.makeHtml(text);
     
     return html;
+}
+
+//convert markdown to HTML grouped by weeks
+async function mdToGroupedHtml(md){
+    var converter = new showdown.Converter();
+    text = md + '- <div></div>';
+    html = converter.makeHtml(text);
+    
+    //put HTML String in a div element
+    div = document.createElement('div');
+    div.innerHTML = html;
+
+    //get all elements in the div
+    allElem = div.querySelectorAll('div > *');
+
+    //make a list where we will gorup all the elements
+    ul = document.createElement('ul');
+    //make a li element to append to ul with groups of HTML elements
+    li = document.createElement('li');
+
+    //Group the HTML elements together
+    //(Get elements from one id to just before the next)
+    for (let index = 0; index < allElem.length; index++) {
+        const element = allElem[index];
+        //If we are on the last element append what we have and break the for loop
+        if (index + 1 >= allElem.length) {
+            ul.appendChild(li)
+            break
+        }
+        //Make a var for the next element and check if it contains 'vecka' in the id 
+        //to determine if we want to start a new group or continue in our existing group
+        const nextElement = allElem[index + 1];
+        li.appendChild(element);
+        if (nextElement.id.includes('vecka')) {
+            ul.appendChild(li.cloneNode(true));
+            li.innerHTML = ""; //empty li after we append a clone of it so that we can use it for next group of elements
+        }
+    }
+
+    //return the UL element with the HTML grouped by week
+    return ul;
 }
 
 //Gets assignments form a html element?

@@ -32,10 +32,12 @@ async function addAssignmentsToList(){
             section.appendChild(h4)
             
             const markdown = await fetchMarkdown(url + course.id + '.md');
-            const html = await mdToHtml(markdown);
+            const html = await mdToGroupedHtml(markdown);
             htmlNode = document.createElement('body');
-            htmlNode.innerHTML = html;
+            htmlNode.appendChild(html);
             const assignments = await getAssignments(htmlNode);
+
+            console.log(htmlNode);
 
             //clear latestAssignment so it dosen't get appended to wrong course
             latestAssignment = null;
@@ -71,11 +73,10 @@ weekDropdown()
                 courseList.forEach(course => {
                     fetchMarkdown(url + course.id + '.md')
                         .then(response =>{
-                            mdToHtml(response)
+                            mdToGroupedHtml(response)
                                 .then(response => {
-                                    //Get the entire courseplan for each course
-                                    coursePlan = document.createElement("div");
-                                    coursePlan.innerHTML = response;
+                                    //Get the entire courseplan for each course from response and assign it the new name coursePlan
+                                    coursePlan = response;
                                     //Get current week from courseplan and remove week number
                                     currentWeekPlan = document.createElement("div");
                                     currentWeekPlanElement = coursePlan.querySelector('[id$="' +  window.weekNumber + '"]').parentElement.cloneNode(true);
@@ -87,6 +88,7 @@ weekDropdown()
                                 }).then(response => {
                                     //Get assignments from current week in course
                                     weekPlanNode = coursePlan.querySelector('[id$="' + window.weekNumber + '"]').parentElement
+
                                     
                                     //Put assignment in li in ul in a body (so that a h2 with week title id can be found)
                                     li = document.createElement('li');

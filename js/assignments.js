@@ -49,16 +49,15 @@ getHtml('index.html')
                             fetchMarkdown(url + course.id + '.md')
                                 .then(md => {
                                     //Convert markdown to html
-                                    mdToHtml(md)
-                                        .then(htmlString => {
+                                    mdToGroupedHtml(md)
+                                        .then(html => {
 
-                                            //Make the html string a html object and remove html parent
-                                            html = document.createElement('html');
-                                            html.innerHTML = htmlString;
-                                            html = html.lastChild;
-                                            
+                                            //put html from md in body so that assingments can be found
+                                            body = document.createElement('body'),
+                                            body.appendChild(html)
+
                                             //Get assignments from each course
-                                            getAssignments(html)
+                                            getAssignments(body)
                                                 .then(assignments => {
                                                     for(const assignment of assignments){
                                                         //Get course from dom and append assignments to it
