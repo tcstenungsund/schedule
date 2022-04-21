@@ -39,6 +39,15 @@ html{
 .dark .branding img, .oled .branding img{
     filter: grayscale(1) contrast(0) invert(1) brightness(2);
 }
+.dark .schedule h2, .dark aside h3{
+    border-color: #fff;
+}
+.dark .current-week h2, .dark .group h3{
+    border-color: #fff;
+}
+.dark .current-week h2, .dark .group h3{
+    border-color: #fff;
+}
 footer ul, footer ol, footer dl, .schedule > ul, .schedule > ol, .schedule > dl, nav > ul, nav > ol, nav > dl{
     list-style: none;
     margin: 0;
