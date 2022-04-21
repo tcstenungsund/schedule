@@ -54,8 +54,16 @@ async function fetchMarkdown(url){
         });
 }
 
-//convert markdown to HTML
 async function mdToHtml(md){
+    var converter = new showdown.Converter();
+    text = md + '- <div></div>';
+    html = converter.makeHtml(text);
+    
+    return html;
+}
+
+//convert markdown to HTML grouped by weeks
+async function mdToGroupedHtml(md){
     var converter = new showdown.Converter();
     text = md + '- <div></div>';
     html = converter.makeHtml(text);

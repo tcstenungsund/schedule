@@ -32,7 +32,7 @@ async function addAssignmentsToList(){
             section.appendChild(h4)
             
             const markdown = await fetchMarkdown(url + course.id + '.md');
-            const html = await mdToHtml(markdown);
+            const html = await mdToGroupedHtml(markdown);
             htmlNode = document.createElement('body');
             htmlNode.appendChild(html);
             const assignments = await getAssignments(htmlNode);
@@ -73,7 +73,7 @@ weekDropdown()
                 courseList.forEach(course => {
                     fetchMarkdown(url + course.id + '.md')
                         .then(response =>{
-                            mdToHtml(response)
+                            mdToGroupedHtml(response)
                                 .then(response => {
                                     //Get the entire courseplan for each course from response and assign it the new name coursePlan
                                     coursePlan = response;

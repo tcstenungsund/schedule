@@ -49,7 +49,7 @@ getHtml('index.html')
                             fetchMarkdown(url + course.id + '.md')
                                 .then(md => {
                                     //Convert markdown to html
-                                    mdToHtml(md)
+                                    mdToGroupedHtml(md)
                                         .then(html => {
 
                                             //put html from md in body so that assingments can be found

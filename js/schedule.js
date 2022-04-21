@@ -81,7 +81,7 @@ async function assingmentsToDom(assignments){
 //Calls all the above functions to call, convert and place the markdown as HTML in the DOM
 fetchMarkdown(url)
     .then( response => {
-        mdToHtml(response)
+        mdToGroupedHtml(response)
             .then( response => {
                 htmlToDom(response).then(response => {
                     mermaid.init();
