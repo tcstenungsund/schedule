@@ -18,6 +18,10 @@ if(style != null){
 const localStyle = localStorage.getItem('style');
 if(localStyle != null){
     document.body.classList.add(localStyle);
+}else{
+    if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add("dark"); 
+    }
 }
 
 //Define what url the markdown file should be fetched from.
