@@ -18,7 +18,7 @@ html{
     color: white;
 }
 .dark .group, .dark aside{
-    background-color: #686363;
+    background-color: #222222;
 }
 .dark .current-week {
     background-color: #4f604f;
@@ -119,7 +119,7 @@ aside{
     background: #deebf1;
     border-top: solid 0.5em #4789c6;
     max-width: 92vw;
-    margin: 0 auto 1em auto;
+    margin: 0 auto 2em auto;
 }
 aside ul{
     list-style: none;
@@ -156,7 +156,7 @@ footer .social ul li{
     border-top: solid 0.5em #4789c6;
     background: #deebf1;
     padding: 1em;
-    margin: 0 0 1em 0;
+    margin: 0 0 2em 0;
 }
 .group section{
     display: flex;
