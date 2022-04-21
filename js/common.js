@@ -46,7 +46,7 @@ function getWeekNumber(date = new Date()) {
 //Fetch markdown from url
 async function fetchMarkdown(url){
     //FOR TESTING SHOULD BE REMOVED ONCE MORE COURSE PLANS COME IN 
-    url = 'md/weuweb01githubwriter.md'
+    url = 'md/weuweb01.md'
     return await fetch(url) 
         .then(response => response.text())
         .then(result => {
