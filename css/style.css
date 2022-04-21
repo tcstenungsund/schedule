@@ -102,12 +102,14 @@ main header h1{
 }
 .schedule h2, aside h3{
     border-top: .1rem solid #0004;
+    border-radius: 0;
     padding-top: .5rem;
 }
 .current-week h2, .group h3{
     border-top: unset;
     padding-top: unset;
     border-bottom: .1rem solid #0004;
+    border-radius: 0;
     padding-bottom: .5rem;
 }
 pre{
