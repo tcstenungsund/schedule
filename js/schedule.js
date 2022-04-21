@@ -4,9 +4,9 @@ currentWeekNumber = getWeekNumber();
 //place the HTML in the DOM
 async function htmlToDom(html){    
     //Place entire html in the DOM
-    document.getElementById("schedule").innerHTML = html;
+    document.getElementById("schedule").appendChild(html);
     //Grab title from schedule and move it to main
-    title = document.getElementById("schedule").firstElementChild;
+    title = document.getElementById("schedule").firstElementChild.firstElementChild;
     main = document.getElementById("main")
     main.insertBefore(title, main.firstChild);
     //Place a duplicate of the current week plan in current week section
