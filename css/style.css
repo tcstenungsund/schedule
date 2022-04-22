@@ -173,7 +173,7 @@ footer .social ul li{
     display: flex;
     flex-wrap: wrap;
     gap: 0em;
-    margin-bottom: 6em;
+    margin-bottom: 2em;
 }
 .group section > *{
     display: block;

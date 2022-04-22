@@ -41,6 +41,7 @@ strong{
 
 a{
     color: #4789c6;
+    text-decoration: none;
 }
 a:hover a:not(.test){
     color: #dead40;

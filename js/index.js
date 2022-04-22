@@ -15,7 +15,7 @@ async function addAssignmentsToList(){
 
         //Make a h3 group title to display above assignments for each group
         h3 = document.createElement('h3'); 
-        h3.appendChild(document.createTextNode(group.id));
+        h3.appendChild(document.createTextNode(group.id.toUpperCase()));
         
         //Make section to append title and assignment to
         section = document.createElement('section');
