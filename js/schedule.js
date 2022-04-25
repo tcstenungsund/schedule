@@ -21,6 +21,7 @@ async function htmlToDom(html){
         document.querySelector('h2[id$="' + currentWeekNumber + '"]:not([id^="flow"]').parentElement.scrollIntoView({block: 'center',})
     };
     a.appendChild(document.createTextNode("Jump to week"))
+    a.style = 'cursor: pointer;';
     a.innerHTML += '<i class="fa-solid fa-arrow-down"></i>';
     document.getElementById("current-week").appendChild(a)
     //Return empty promise? maybe good for async things?
