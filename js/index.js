@@ -71,6 +71,10 @@ weekDropdown()
                 courseList.forEach(course => {
                     fetchMarkdown("../" + urlPrefix + course.id + '.md')
                         .then(response =>{
+                            if(response.includes("<title>Error</title>")){
+                                console.log("Course Plan For '" + course.id + "' Not Found At " + urlPrefix + course.id + ".md")
+                                return
+                            }
                             mdToGroupedHtml(response)
                                 .then(response => {
                                     //Get the entire courseplan for each course from response and assign it the new name coursePlan
