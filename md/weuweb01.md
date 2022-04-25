@@ -14,14 +14,14 @@ Nu är jag inbjuden i 19TEI-rummet, så vi kör där på Teams.
 
 Genomgång av [HTMLdog HTML Beginner](https://htmldog.com/guides/html/beginner/). Vi diskuterade även UTF-8, [ISO 8601](https://m.xkcd.com/1179/) och andra nyttigheter.
 
-Uppstart av projektet "[Min Fula Lilla Sida](https://github.com/tcstenungsund/gak2022)".
+Uppstart av projektet "[inlämning Min Fula Lilla Sida på riktigt](../assignment.html?link=min_fula_lilla_sida)".
 
 Under detta första projekt, kom ihåg och iakta följande punkter för att undvika problem med filnamn:
 
 *   Undvik svenska tecken, åäö
 *   Undvik\_mellanslag\_
 *   Undvik STORA bokstäver
-*   Lägg alla filer i samma [Prov Min Fula Lilla Sida Webbprojekt](https://sv.wikipedia.org/wiki/Katalog_(datorteknik)!
+*   Lägg alla filer i samma [Prov Min Fula Lilla Sida Webbprojekt!](../assignment.html?link=min_fula_lilla_sida)
 
 ## Vecka 39
 
@@ -30,7 +30,6 @@ Genomgång av [HTMLdog CSS Beginner](https://htmldog.com/guides/css/beginner/).
 Vi tittade på [MDN Color picker](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Color_picker_tool), såg klippet "[What the Heck Is A Hex Value Anyway](https://cgi.tutsplus.com/tutorials/what-the-heck-is-a-hex-value-anyway--ae-11932)" och talade om hur viktigt det är med "[kontrast](http://contrastrebellion.com/)" 🔹.
 
 Fortsätt arbeta med "Min Fula Lilla Sida" och se till att ni testat och lekt med allt det som finns med i HTML Beginner och CSS Beginner.  
-[Uppgift Min Fula Lilla Sida Webbprojekt](https://sv.wikipedia.org/wiki/Katalog_(datorteknik)
 
 ## Vecka 40
 
@@ -41,8 +40,6 @@ Repetition av HTML Beginner och CSS Beginner, framför allt the Box Model. Vi ti
 MDN är ett av de bästa referensverken (och [W3Fools](https://www.w3fools.com/) talar om för oss att undvika W3Schools).
 
 Vi jobbar vidare med "Min Fula Lilla Sida".  
-[Uppgift Min Fula Lilla Sida Webbprojekt](https://sv.wikipedia.org/wiki/Katalog_(datorteknik)  
-[uppgift Min Fula Lilla Sida Webbprojekt](https://sv.wikipedia.org/wiki/Katalog_(datorteknik)
 
 ## Vecka 41
 
@@ -252,7 +249,7 @@ Vi fortsätter med Vårprojektet.
 
 Under dagens lektion är några av er schemalagda för Utvecklingssamtal, se till att ni är tillgängliga på Teams vid er utsatta tid. Om någon behöver hjälp, fråga de andra grupperna, eller Ante. Det går också att skriva i grupprummet på Teams, så svarar Kenneth när tid finnes.
 
-Repetera avsnitt 1 – 5 av “The CSS Podcast”. [uppgift Min Fula Lilla Sida Webbprojekt](https://sv.wikipedia.org/wiki/Katalog_(datorteknik)
+Repetera avsnitt 1 – 5 av “The CSS Podcast”.
 
 ## Vecka 14
 
