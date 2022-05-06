@@ -69,7 +69,7 @@ weekDropdown()
             .then(response =>{ 
                 //Fill Courses in each group section
                 courseList.forEach(course => {
-                    fetchMarkdown("../" + urlPrefix + course.id + '.md')
+                    fetchMarkdown(urlPrefix + course.id + '.md')
                         .then(response =>{
                             if(response.includes("<title>Error</title>")){
                                 console.log("Course Plan For '" + course.id + "' Not Found At " + urlPrefix + course.id + ".md")
@@ -81,6 +81,7 @@ weekDropdown()
                                     coursePlan = response;
                                     //Get current week from courseplan and remove week number
                                     currentWeekPlan = document.createElement("div");
+                                    console.log(coursePlan);
                                     currentWeekPlanElement = coursePlan.querySelector('[id$="' +  window.weekNumber + '"]').parentElement.cloneNode(true);
                                     currentWeekPlanElement.removeChild(currentWeekPlanElement.querySelector('[id$="' +  window.weekNumber + '"]'));
                                     currentWeekPlan.innerHTML = currentWeekPlanElement.innerHTML;
