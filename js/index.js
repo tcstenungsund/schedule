@@ -31,7 +31,7 @@ async function addAssignmentsToList(){
 
             section.appendChild(h4)
             
-            const markdown = await fetchMarkdown("../" + urlPrefix + course.id + '.md');
+            const markdown = await fetchMarkdown(urlPrefix + course.id + '.md');
             const html = await mdToGroupedHtml(markdown);
             htmlNode = document.createElement('body');
             htmlNode.appendChild(html);
@@ -81,7 +81,6 @@ weekDropdown()
                                     coursePlan = response;
                                     //Get current week from courseplan and remove week number
                                     currentWeekPlan = document.createElement("div");
-                                    console.log(coursePlan);
                                     currentWeekPlanElement = coursePlan.querySelector('[id$="' +  window.weekNumber + '"]').parentElement.cloneNode(true);
                                     currentWeekPlanElement.removeChild(currentWeekPlanElement.querySelector('[id$="' +  window.weekNumber + '"]'));
                                     currentWeekPlan.innerHTML = currentWeekPlanElement.innerHTML;
