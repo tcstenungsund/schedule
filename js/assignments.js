@@ -45,6 +45,12 @@ getHtml('index.html')
                     .then(courses => {
                         for(const course of courses){
 
+                            //Add link to course schedule
+                            course.href = scheduleUrl + "?course=" + course.id;
+
+                            //add class of assignmentList to course block
+                            course.classList.add("assignment-list")
+
                             //Get markdown for each course
                             fetchMarkdown(urlPrefix + course.id + '.md')
                                 .then(md => {
@@ -60,7 +66,14 @@ getHtml('index.html')
                                             getAssignments(body)
                                                 .then(assignments => {
                                                     for(const assignment of assignments){
-                                                        //Get course from dom and append assignments to it
+
+                                                        //Get course from dom and append assignments to ittime = document.createElement('time');
+                                                        time = document.createElement('time');
+                                                        assignmentWeek = assignment.getAttribute('data-week-title').split(' ')[1];
+                                                        time.appendChild(document.createTextNode('v' + assignmentWeek));
+                                                        assignment.insertBefore(time, assignment.firstChild)
+                                                        
+                                                        //append assignment with week title to list of assignments
                                                         document.getElementById(course.id).appendChild(assignment)
                                                     }
                                                 });

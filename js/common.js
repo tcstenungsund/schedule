@@ -11,6 +11,9 @@ weekParam = urlParams.get("week");
 link = urlParams.get("link");
 style = urlParams.get("style");
 
+//Define where schedule is present
+scheduleUrl = 'schedule.html'
+
 if(style != null){
     localStorage.setItem('style', style);
 }
