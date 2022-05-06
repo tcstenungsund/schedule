@@ -46,7 +46,7 @@ getHtml('index.html')
                         for(const course of courses){
 
                             //Get markdown for each course
-                            fetchMarkdown(url + course.id + '.md')
+                            fetchMarkdown(urlPrefix + course.id + '.md')
                                 .then(md => {
                                     //Convert markdown to html
                                     mdToGroupedHtml(md)
