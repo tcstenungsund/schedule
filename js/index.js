@@ -81,6 +81,7 @@ weekDropdown()
                                     coursePlan = response;
                                     //Get current week from courseplan and remove week number
                                     currentWeekPlan = document.createElement("div");
+                                    console.log(coursePlan);
                                     currentWeekPlanElement = coursePlan.querySelector('[id$="' +  window.weekNumber + '"]').parentElement.cloneNode(true);
                                     currentWeekPlanElement.removeChild(currentWeekPlanElement.querySelector('[id$="' +  window.weekNumber + '"]'));
                                     currentWeekPlan.innerHTML = currentWeekPlanElement.innerHTML;
