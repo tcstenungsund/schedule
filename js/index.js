@@ -26,9 +26,7 @@ async function addAssignmentsToList(){
             courseName = document.getElementById(course.id).querySelector('h3').innerHTML;
 
             h4 = document.createElement('h4');
-            h4.appendChild(document.createTextNode(courseName))
-
-            section.appendChild(h4)
+            h4.appendChild(document.createTextNode(courseName));
             
             const markdown = await fetchMarkdown(urlPrefix + course.id + '.md');
             const html = await mdToGroupedHtml(markdown);
@@ -52,10 +50,11 @@ async function addAssignmentsToList(){
             }
             //Try to append assignment to course if latestAssignment is not null
             if(latestAssignment != null){
+                section.appendChild(h4)
                 section.appendChild(latestAssignment);
             }
         } 
-
+         
         //append section to assignment list
         assignmentList.appendChild(section.cloneNode(true))
     }
