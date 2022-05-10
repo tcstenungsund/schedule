@@ -20,46 +20,6 @@ html{
 main.schedule > ul > li:last-of-type{ /*Hides last li element (is empty in schedule)*/
     display: none;
 }
-/*dark and oled styling*/
-.dark{
-    background-color: #363434;
-    color: white;
-}
-.dark .group, .dark aside{
-    background-color: #222222;
-}
-.dark .current-week {
-    background-color: #4f604f;
-}
-.oled{
-    background-color: #000;
-    color: white;
-}
-.oled .group, .oled aside{
-    background-color: #000;
-}
-.oled .current-week {
-    background-color: #4f604f;
-}
-.oled .schedule > ul > li, 
-.oled aside h3, 
-.oled .current-week h2, 
-.oled .group h3{
-    border-color: #AAA;
-}
-.dark .branding img, .oled .branding img{
-    filter: grayscale(1) contrast(0) invert(1) brightness(2);
-}
-.dark .schedule > ul > li, 
-.dark aside h3,
-.dark .current-week h2, 
-.dark .group h3{
-    border-color: #fff;
-}
-.dark .current-week h2, 
-.dark .group h3{
-    border-color: #fff;
-}
 /*General List styling*/
 footer ul, 
 footer ol, 
@@ -128,9 +88,6 @@ main header{
 }
 main header h1{
     margin: 0
-}
-pre{
-    background-color: #fff;
 }
 aside{
     flex: 10% 1 0;
@@ -207,11 +164,11 @@ footer .social ul li{
     border-radius: 0;
     padding-top: .5rem;
 }
-.schedule > ul > li {
+.schedule > ul > li:not(:last-of-type) {
     padding-bottom: 3em;
     border-bottom: 0.1rem solid #000a;
 }
-.current-week h2, .group h3{
+.current-week:first-of-type h2, .group h3{
     border-top: unset;
     padding-top: unset;
     border-bottom: .1rem solid #0004;
@@ -269,4 +226,48 @@ main.assignment-description-container{
 }
 .assignment-description-container hr{
     margin-top: 4em;
+}
+/*dark and oled styling*/
+.dark{
+    background-color: #363434;
+    color: white;
+}
+.dark .group, .dark aside{
+    background-color: #222222;
+}
+.dark .current-week {
+    background-color: #4f604f;
+}
+.oled{
+    background-color: #000;
+    color: white;
+}
+.oled .group, .oled aside{
+    background-color: #000;
+}
+.oled .current-week {
+    background-color: #4f604f;
+}
+.oled .schedule > ul > li, 
+.oled aside h3, 
+.oled .current-week:first-of-type h2, 
+.oled .group h3{
+    border-color: #AAA;
+}
+.dark .branding img, .oled .branding img{
+    filter: grayscale(1) contrast(0) invert(1) brightness(2);
+}
+.dark .schedule > ul > li, 
+.dark aside h3,
+.dark .current-week:first-of-type h2, 
+.dark .group h3{
+    border-color: #fff;
+}
+.dark .current-week h2, 
+.dark .group h3{
+    border-color: #fff;
+}
+.dark pre,
+.oled pre{
+    filter: invert(1)
 }
