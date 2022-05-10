@@ -33,19 +33,23 @@ html{
 .oled .current-week {
     background-color: #4f604f;
 }
-.oled .schedule h2, .oled aside h3, .oled .current-week h2, .oled .group h3{
+.oled .schedule > ul > li, 
+.oled aside h3, 
+.oled .current-week h2, 
+.oled .group h3{
     border-color: #AAA;
 }
 .dark .branding img, .oled .branding img{
     filter: grayscale(1) contrast(0) invert(1) brightness(2);
 }
-.dark .schedule h2, .dark aside h3{
+.dark .schedule > ul > li, 
+.dark aside h3,
+.dark .current-week h2, 
+.dark .group h3{
     border-color: #fff;
 }
-.dark .current-week h2, .dark .group h3{
-    border-color: #fff;
-}
-.dark .current-week h2, .dark .group h3{
+.dark .current-week h2, 
+.dark .group h3{
     border-color: #fff;
 }
 footer ul, footer ol, footer dl, .schedule > ul, .schedule > ol, .schedule > dl, nav > ul, nav > ol, nav > dl{
@@ -110,9 +114,12 @@ main header h1{
     margin: 0
 }
 .schedule h2, aside h3{
-    border-top: .1rem solid #0004;
     border-radius: 0;
     padding-top: .5rem;
+}
+.schedule > ul > li {
+    padding-bottom: 3em;
+    border-bottom: 0.1rem solid #000a;
 }
 .current-week h2, .group h3{
     border-top: unset;
