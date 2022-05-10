@@ -224,7 +224,6 @@ footer .social ul li{
 }
 .assignment time {
     margin: 0 0.5em;
-    align-self: center;
 }
 .input select, .input select:hover, .input select:active, .input select:focus-visible{
     border: none;
