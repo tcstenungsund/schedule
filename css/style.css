@@ -1,3 +1,4 @@
+/*General*/
 *{
     max-width: 100%;
     border-radius: .1em;
@@ -13,52 +14,32 @@
 html{
     scroll-behavior: smooth;
 }
-.dark{
-    background-color: #363434;
-    color: white;
+.hide{
+    display: none;
 }
-.dark .group, .dark aside{
-    background-color: #222222;
+main.schedule > ul > li:last-of-type{ /*Hides last li element (is empty in schedule)*/
+    display: none;
 }
-.dark .current-week {
-    background-color: #4f604f;
-}
-.oled{
-    background-color: #000;
-    color: white;
-}
-.oled .group, .oled aside{
-    background-color: #000;
-}
-.oled .current-week {
-    background-color: #4f604f;
-}
-.oled .schedule h2, .oled aside h3, .oled .current-week h2, .oled .group h3{
-    border-color: #AAA;
-}
-.dark .branding img, .oled .branding img{
-    filter: grayscale(1) contrast(0) invert(1) brightness(2);
-}
-.dark .schedule h2, .dark aside h3{
-    border-color: #fff;
-}
-.dark .current-week h2, .dark .group h3{
-    border-color: #fff;
-}
-.dark .current-week h2, .dark .group h3{
-    border-color: #fff;
-}
-footer ul, footer ol, footer dl, .schedule > ul, .schedule > ol, .schedule > dl, nav > ul, nav > ol, nav > dl{
+/*General List styling*/
+footer ul, 
+footer ol, 
+footer dl, 
+.schedule > ul, 
+.schedule > ol, 
+.schedule > dl, 
+nav > ul, 
+nav > ol, 
+nav > dl{
     list-style: none;
     margin: 0;
     padding: 0;
 }
+/*Basic page structure styling*/
 body{
     display: flex;
     flex-wrap: wrap;
     margin: 1vh 0;
 }
-
 body > header {
     height: 4em;
     display: flex;
@@ -94,7 +75,6 @@ nav i:hover, footer i:hover{
     padding: .3em;
     margin: 0;
 }
-
 main{
     margin: 0 2vw;
     flex: 60% 1 1;
@@ -109,21 +89,6 @@ main header{
 main header h1{
     margin: 0
 }
-.schedule h2, aside h3{
-    border-top: .1rem solid #0004;
-    border-radius: 0;
-    padding-top: .5rem;
-}
-.current-week h2, .group h3{
-    border-top: unset;
-    padding-top: unset;
-    border-bottom: .1rem solid #0004;
-    border-radius: 0;
-    padding-bottom: .5rem;
-}
-pre{
-    background-color: #fff;
-}
 aside{
     flex: 10% 1 0;
     padding: 0 2vw;
@@ -136,12 +101,6 @@ aside ul{
     list-style: none;
     padding: 0;
 }
-
-.iframe-external{
-    width: 100%;
-    height: 80vh;
-}
-
 footer{
     height: 5em;
     display: flex;
@@ -163,6 +122,65 @@ footer .social ul li{
     display: flex;
     align-self: center;
 }
+/*Common styling*/
+.assignment i{
+    align-self: center;
+    text-decoration: none;
+}
+.assignment time {
+    margin: 0 0.5em;
+}
+.assignment, .input{
+    background-color: #4789c6;
+    color: white;
+    font-weight: bold;
+    padding: .5em;
+    display: inline-block;
+    text-decoration: none;
+    margin: .5em 0;
+}
+.assignment-list .assignment{
+    display: flex;
+}
+.test{
+    background-color: #da0646;
+}
+.input select, .input select:hover,
+.input select:active,
+.input select:focus-visible{
+    border: none;
+    background-color: inherit;
+    font-weight: inherit;
+    color: #fff;
+    font-size: inherit;
+}
+/*external.html*/
+.iframe-external{
+    width: 100%;
+    height: 80vh;
+}
+/*schedule.html*/
+.schedule h2, aside h3{
+    border-radius: 0;
+    padding-top: .5rem;
+}
+.schedule > ul > li:not(:last-of-type) {
+    padding-bottom: 3em;
+    border-bottom: 0.1rem solid #000a;
+}
+.current-week:first-of-type h2, .group h3{
+    border-top: unset;
+    padding-top: unset;
+    border-bottom: .1rem solid #0004;
+    border-radius: 0;
+    padding-bottom: .5rem;
+}
+.week-assignment-list{
+    list-style: none;
+    padding: 0;
+    margin: 1em 0;
+}
+/*index.html*/
 .group {
     border-top: solid 0.5em #4789c6;
     background: #deebf1;
@@ -198,50 +216,7 @@ footer .social ul li{
 .group section > a h3{
     width: max-content;
 }
-
-.hide{
-    display: none;
-}
-
-.assignment, .input{
-    background-color: #4789c6;
-    color: white;
-    font-weight: bold;
-    padding: .5em;
-    display: inline-block;
-    text-decoration: none;
-    margin: .5em 0;
-}
-.test{
-    background-color: #da0646;
-}
-.assignment-list .assignment{
-    display: flex;
-}
-.assignment i{
-    align-self: center;
-    text-decoration: none;
-}
-.assignment time {
-    margin: 0 0.5em;
-    align-self: center;
-}
-.input select, .input select:hover, .input select:active, .input select:focus-visible{
-    border: none;
-    background-color: inherit;
-    font-weight: inherit;
-    color: #fff;
-    font-size: inherit;
-}
-
-.week-assignment-list{
-    list-style: none;
-    padding: 0;
-    margin: 1em 0;
-}
-main > ul > li:last-of-type{
-    display: none;
-}
+/*assignment.html*/
 main.assignment-description-container{
     max-width: 70%;
     margin: 0 auto;
@@ -251,4 +226,48 @@ main.assignment-description-container{
 }
 .assignment-description-container hr{
     margin-top: 4em;
+}
+/*dark and oled styling*/
+.dark{
+    background-color: #363434;
+    color: white;
+}
+.dark .group, .dark aside{
+    background-color: #222222;
+}
+.dark .current-week {
+    background-color: #4f604f;
+}
+.oled{
+    background-color: #000;
+    color: white;
+}
+.oled .group, .oled aside{
+    background-color: #000;
+}
+.oled .current-week {
+    background-color: #4f604f;
+}
+.oled .schedule > ul > li, 
+.oled aside h3, 
+.oled .current-week:first-of-type h2, 
+.oled .group h3{
+    border-color: #AAA;
+}
+.dark .branding img, .oled .branding img{
+    filter: grayscale(1) contrast(0) invert(1) brightness(2);
+}
+.dark .schedule > ul > li, 
+.dark aside h3,
+.dark .current-week:first-of-type h2, 
+.dark .group h3{
+    border-color: #fff;
+}
+.dark .current-week h2, 
+.dark .group h3{
+    border-color: #fff;
+}
+.dark pre,
+.oled pre{
+    filter: invert(1)
 }

@@ -1,7 +1,6 @@
 //Define common variables
 courseList = document.querySelectorAll('[type=course]');
 weeks = [36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23];
-scheduleUrl = 'schedule.html'
 
 //Add assignments from all selected groups to the assignment list
 async function addAssignmentsToList(){
@@ -27,11 +26,9 @@ async function addAssignmentsToList(){
             courseName = document.getElementById(course.id).querySelector('h3').innerHTML;
 
             h4 = document.createElement('h4');
-            h4.appendChild(document.createTextNode(courseName))
-
-            section.appendChild(h4)
+            h4.appendChild(document.createTextNode(courseName));
             
-            const markdown = await fetchMarkdown("../" + urlPrefix + course.id + '.md');
+            const markdown = await fetchMarkdown(urlPrefix + course.id + '.md');
             const html = await mdToGroupedHtml(markdown);
             htmlNode = document.createElement('body');
             htmlNode.appendChild(html);
@@ -53,10 +50,11 @@ async function addAssignmentsToList(){
             }
             //Try to append assignment to course if latestAssignment is not null
             if(latestAssignment != null){
+                section.appendChild(h4)
                 section.appendChild(latestAssignment);
             }
         } 
-
+         
         //append section to assignment list
         assignmentList.appendChild(section.cloneNode(true))
     }
@@ -69,7 +67,7 @@ weekDropdown()
             .then(response =>{ 
                 //Fill Courses in each group section
                 courseList.forEach(course => {
-                    fetchMarkdown("../" + urlPrefix + course.id + '.md')
+                    fetchMarkdown(urlPrefix + course.id + '.md')
                         .then(response =>{
                             if(response.includes("<title>Error</title>")){
                                 console.log("Course Plan For '" + course.id + "' Not Found At " + urlPrefix + course.id + ".md")
@@ -81,7 +79,6 @@ weekDropdown()
                                     coursePlan = response;
                                     //Get current week from courseplan and remove week number
                                     currentWeekPlan = document.createElement("div");
-                                    console.log(coursePlan);
                                     currentWeekPlanElement = coursePlan.querySelector('[id$="' +  window.weekNumber + '"]').parentElement.cloneNode(true);
                                     currentWeekPlanElement.removeChild(currentWeekPlanElement.querySelector('[id$="' +  window.weekNumber + '"]'));
                                     currentWeekPlan.innerHTML = currentWeekPlanElement.innerHTML;

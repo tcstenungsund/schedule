@@ -11,6 +11,9 @@ weekParam = urlParams.get("week");
 link = urlParams.get("link");
 style = urlParams.get("style");
 
+
+
+//Get style from local prefrence if specified
 if(style != null){
     localStorage.setItem('style', style);
 }
@@ -23,7 +26,18 @@ if(localStyle != null){
         document.body.classList.add("dark"); 
     }
 }
+//Get group form local prefrence if specified
+if(groupParam != null){
+    localStorage.setItem('group', groupParam);
+}
 
+const localCourse = localStorage.getItem('group');
+if(localCourse != null){
+    groupParam = localCourse;
+}
+
+//Define where schedule is present
+scheduleUrl = 'schedule.html'
 //Define what url the markdown file should be fetched from.
 urlPrefix = 'md/';
 urlSuffix = '.md'
