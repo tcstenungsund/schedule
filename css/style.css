@@ -36,6 +36,7 @@ nav > dl{
 }
 /*Basic page structure styling*/
 body{
+    position: relative;
     display: flex;
     flex-wrap: wrap;
     margin: 1vh 0;
@@ -65,11 +66,12 @@ body > header nav ul li{
     display: flex;
     align-self: center;
 }
-nav i, footer i{
+nav i, footer i, .back-button i{
     margin: .3em;
     transition: ease-in-out .2s;
+    cursor: pointer;
 }
-nav i:hover, footer i:hover{
+nav i:hover, footer i:hover, .back-button i:hover{
     color: white;
     background: #4789c6;
     padding: .3em;
@@ -226,6 +228,23 @@ main.assignment-description-container{
 }
 .assignment-description-container hr{
     margin-top: 4em;
+}
+.back-button-container{
+    position: absolute;
+    top: 16vh;
+    left: 3vw;
+    height: 100%;
+}
+.back-button{
+    position: sticky;
+    top: 3vw;
+    padding-top: 20%;
+    height: min-content;
+    background: none;
+    border: none;
+    color: #4789c6;
+    font: size 4vw;
+    font-size: max(1em);
 }
 /*dark and oled styling*/
 .dark{
