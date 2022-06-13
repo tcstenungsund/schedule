@@ -204,32 +204,23 @@ async function weekDropdown(){
         document.getElementById('week-select').appendChild(option);    
     });
 
-    //populate week dropdown
-    if (weekParam != null && weekParam != "") {
-        //if week specified, is a school week
-        if(weeks.includes(parseInt(weekParam))){
-            //if week specified, set weeknumber to that week
-            window.weekNumber = weekParam;
-        }
-        else{
-            //if week not a school week, set to first week in school year
-            window.weekNumber = weeks[0];
-        }
+    
+    //populate week dropdown 
+    //if week specified is not empty but is a school week
+    if (weekParam != null && weekParam != "" && weeks.includes(parseInt(weekParam))) {
+        //if week specified, set weeknumber to that week
+        window.weekNumber = weekParam;
+    } else if(weeks.includes(parseInt(currentWeekNumber))){        
+        //if week not specified, set weeknumber to current
+        window.weekNumber = currentWeekNumber;
     }
     else{
-        //if week specified, is a school week
-        if(weeks.includes(parseInt(currentWeekNumber))){
-            //if week not specified, set weeknumber to current
-            window.weekNumber = currentWeekNumber;
-        }
-        else{
-            //if week not a school week, set to first week in school year
-            window.weekNumber = weeks[0];
-        }
-
+        //if week not a school week, set to first week in school year
+        window.weekNumber = weeks[0];
     }
     //set dropdown menu to week chosen
     document.querySelector('[value="' + window.weekNumber + '"]').setAttribute('selected', 'selected');            
+
 
     //look for changes in week dropdown menu
     const selectElement = document.getElementById('week-select');
