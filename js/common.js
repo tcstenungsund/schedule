@@ -204,7 +204,7 @@ async function weekDropdown(){
         document.getElementById('week-select').appendChild(option);    
     });
 
-    
+
     //populate week dropdown 
     //if week specified is not empty but is a school week
     if (weekParam != null && weekParam != "" && weeks.includes(parseInt(weekParam))) {
@@ -213,8 +213,7 @@ async function weekDropdown(){
     } else if(weeks.includes(parseInt(currentWeekNumber))){        
         //if week not specified, set weeknumber to current
         window.weekNumber = currentWeekNumber;
-    }
-    else{
+    } else{
         //if week not a school week, set to first week in school year
         window.weekNumber = weeks[0];
     }
