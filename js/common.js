@@ -11,7 +11,8 @@ weekParam = urlParams.get("week");
 link = urlParams.get("link");
 style = urlParams.get("style");
 
-
+//weeks in school year common variable
+weeks = [36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23];
 
 //Get style from local prefrence if specified
 if(style != null){
@@ -205,17 +206,31 @@ async function weekDropdown(){
 
     //populate week dropdown
     if (weekParam != null && weekParam != "") {
-        //if week specified, set dropdown to that week
-        document.querySelector('[value="' + weekParam + '"]').setAttribute('selected', 'selected');            
-        //if week specified, set weeknumber to that week
-        window.weekNumber = weekParam;
-    }else{
-        //if week not specified, set dropdown to current week
-        document.querySelector('[value="' + currentWeekNumber + '"]').setAttribute('selected', 'selected');            
-        //if not week specified, set weeknumber to current week
-        window.weekNumber = currentWeekNumber;
+        //if week specified, is a school week
+        if(weeks.includes(parseInt(weekParam))){
+            //if week specified, set weeknumber to that week
+            window.weekNumber = weekParam;
+        }
+        else{
+            //if week not a school week, set to first week in school year
+            window.weekNumber = weeks[0];
+        }
     }
-    
+    else{
+        //if week specified, is a school week
+        if(weeks.includes(parseInt(currentWeekNumber))){
+            //if week not specified, set weeknumber to current
+            window.weekNumber = currentWeekNumber;
+        }
+        else{
+            //if week not a school week, set to first week in school year
+            window.weekNumber = weeks[0];
+        }
+
+    }
+    //set dropdown menu to week chosen
+    document.querySelector('[value="' + window.weekNumber + '"]').setAttribute('selected', 'selected');            
+
     //look for changes in week dropdown menu
     const selectElement = document.getElementById('week-select');
 
