@@ -53,9 +53,12 @@ async function addAssignmentsToList(){
                 section.appendChild(latestAssignment);
             }
         } 
-         
-        //append section to assignment list
-        assignmentList.appendChild(section.cloneNode(true))
+        
+        if (section.childNodes.length > 1){
+            //append section to assignment list
+            assignmentList.appendChild(section.cloneNode(true))
+        }
+        
     }
 }
 
