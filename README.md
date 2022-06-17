@@ -27,7 +27,7 @@
 <br />
 <div align="center">
   <a href="https://app.tcstenungsund.se/">
-    <img src="resources/images/tc-logo.png" alt="Logo" width="80" height="80">
+    <img src="resources/images/tc-logo.svg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Schedule</h3>
