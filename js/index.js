@@ -1,6 +1,17 @@
 //Define common variables
 courseList = document.querySelectorAll('[type=course]');
 
+// Fill Groupnames form ids
+groups = document.querySelectorAll('.group');
+for (let i = 0; i < groups.length; i++) {
+    const group = groups[i];
+
+    a = document.createElement('a');
+    a.href = '?group=' + group.id;
+    a.innerHTML = '<h2>' + group.id.toUpperCase() + '</h2>';
+    group.prepend(a);
+}
+
 //Add assignments from all selected groups to the assignment list
 async function addAssignmentsToList(){
     assignmentList = document.getElementById('assignments'); //get list to append assignments to

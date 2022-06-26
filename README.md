@@ -182,7 +182,7 @@ When you are done editing the schedule you can go to the bottom of the page and 
 ## Roadmap
 
 - [ ] Fill in about project in README.md
-- [ ] Make it more streamlined to change group names for each year
+- [X] Make it more streamlined to change group names for each year
 - [ ] Make cleaning and branching of the repository happen autoatically every summerbreak 
 - [ ] Multi-language Support
     - [X] Swedish
