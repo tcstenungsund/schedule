@@ -168,7 +168,7 @@ footer .social ul li{
 }
 .schedule > ul > li:not(:last-of-type) {
     padding-bottom: 3em;
-    border-bottom: 0.1rem solid #000a;
+    border-bottom: 0.1rem solid #0004;
 }
 .current-week:first-of-type h2, .group h3{
     border-top: unset;
