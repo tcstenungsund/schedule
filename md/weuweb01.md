@@ -14,14 +14,14 @@ Nu är jag inbjuden i 19TEI-rummet, så vi kör där på Teams.
 
 Genomgång av [HTMLdog HTML Beginner](https://htmldog.com/guides/html/beginner/). Vi diskuterade även UTF-8, [ISO 8601](https://m.xkcd.com/1179/) och andra nyttigheter.
 
-Uppstart av projektet "[inlämning Min Fula Lilla Sida på riktigt](../assignment.html?link=min_fula_lilla_sida)".
+Uppstart av projektet "[inlämning Min Fula Lilla Sida på riktigt](assignment.html?link=assignments/min_fula_lilla_sida)".
 
 Under detta första projekt, kom ihåg och iakta följande punkter för att undvika problem med filnamn:
 
 *   Undvik svenska tecken, åäö
 *   Undvik\_mellanslag\_
 *   Undvik STORA bokstäver
-*   Lägg alla filer i samma [Prov Min Fula Lilla Sida Webbprojekt!](../assignment.html?link=min_fula_lilla_sida)
+*   Lägg alla filer i samma [Prov Min Fula Lilla Sida Webbprojekt!](assignment.html?link=assignments/min_fula_lilla_sida)
 
 ## Vecka 39
 
