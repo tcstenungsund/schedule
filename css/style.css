@@ -233,7 +233,7 @@ main.assignment-description-container{
     position: absolute;
     top: 10vh;
     left: 1vw;
-    height: calc(100% - 10vh);
+    height: 100%;
 }
 .back-button{
     position: sticky;
