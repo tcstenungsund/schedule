@@ -106,31 +106,29 @@
     <script src="https://cdn.jsdelivr.net/npm/js-base64@3.7.2/base64.min.js"></script>
 
     <script type="module" >
-
-        let auth = sessionStorage.getItem('gitAccessKey')
-        console.log(auth)
-
         import { Octokit, App } from "https://cdn.skypack.dev/octokit";
 
         // Create a personal access token at https://github.com/settings/tokens/new?scopes=repo
-        const octokit = await new Octokit({ auth: sessionStorage.getItem('gitAccessKey') });
+        // Initialize octokit with authkey from sessionStorage
+        let octokit = await new Octokit({ auth: sessionStorage.getItem('gitAuthKey')});
 
-        
-
-        // Compare: https://docs.github.com/en/rest/reference/users#get-the-authenticated-user
+        // Test authentication to github
         while (true) {
             try {
+                // Compare: https://docs.github.com/en/rest/reference/users#get-the-authenticated-user
                 const { data: { login }, } = await octokit.rest.users.getAuthenticated();
                 console.log("Hello, %s", login);
                 break
             } catch (error) {
-                console.log('AUTH FAILED', error);
+                // If authentication failed, ask user for new key and use it to create a new octokit instance
+                let authKey = window.prompt("Enter your Personal GitHub Access Key:\n\nIf you dont have one you can create on at: \n' https://github.com/settings/tokens/new?scopes=repo '\n\n\n" + error);
+                octokit = await new Octokit({ auth: authKey });
 
-                let gitAccessKey = window.prompt("Enter your Personal GitHub Access Key:\nIf you dont have one you can create on at \n' https://github.com/settings/tokens/new?scopes=repo '\n\n\n" + error);
-                sessionStorage.setItem('gitAccessKey', gitAccessKey)
-                const octokit = await new Octokit({ auth: sessionStorage.getItem('gitAccessKey') });
+                // Save the authkey to sessionStorage
+                sessionStorage.setItem('gitAuthKey', authKey);
             }
         }
+
         window.octokit = octokit;
        
     </script>
