@@ -5,6 +5,7 @@ if(link != null){
             mdToHtml(md)
                 .then(html => {
                     document.getElementById('main').innerHTML = html;
+                    addEditLink(link);
                 })
         })
 }

@@ -119,4 +119,4 @@ async function commitArticle(b64) {
     });
   
     return result?.status || 500;
-  }
+}
