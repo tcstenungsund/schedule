@@ -18,7 +18,7 @@ if(link != null){
                                 config: {
                                     placeholder: 'Skriv en titel',
                                     levels: [1, 2, 3, 4, 5, 6],
-                                    defaultLevel: 2
+                                    defaultLevel: 3
                                 }
                             },
                             quote: {
