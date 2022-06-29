@@ -1,3 +1,5 @@
+let editor; 
+
 //Get md link from urlParams and append md as html to main
 if(link != null){
     fetchMarkdown(urlPrefix + link + urlSuffix)
@@ -7,11 +9,9 @@ if(link != null){
                     //document.getElementById('main').innerHTML = html;
                     div = document.createElement('div')
                     div.innerHTML = html;
-
                     html = div;
-                    console.log(html)
 
-                    const editor = new EditorJS({
+                    editor = new EditorJS({
                         tools: {
                             header: {
                                 class: Header,
@@ -57,9 +57,7 @@ if(link != null){
                                 inlineToolbar: true,
                             },
                             image: SimpleImage,
-                            raw: RawTool,
-                    
-                            
+                            raw: RawTool,  
                         },
                         
                         data: parseHTMLtoJSON(html)
@@ -77,20 +75,54 @@ function customImageParser(block){
 
 const edjsParser =  edjsHTML({image: customImageParser});
 
+async function save(){
 
-function save(){
     console.log('saving')
     editor.save().then((outputData) =>{
-        console.log(outputData);
 
-        let html = edjsParser.parse(outputData);
+        //convert outputData (JSON) to HTML
+        let html = parseJSONtoHTML(outputData.blocks);
 
-        console.log(html);
+        //Convert HTML to MD
+        var converter = new showdown.Converter();
+        md = converter.makeMarkdown(html.innerHTML);
 
-        for(i in html){
-            let div = document.createElement('div');
-            div.innerHTML = html[i]
-            document.getElementById('main').appendChild(div.firstChild)
-        }
+        //Encode MD in Base64
+        b64 = Base64.encode(md);
+        
+        console.log(commitArticle(b64));
+        
     })
 }
+
+
+async function getSHA(path) {
+    console.log("getting sha");
+    const result = await window.octokit.rest.repos.getContent({
+      owner: "klovaaxel",
+      repo: "schedule",
+      path: path,
+    });
+  
+    const sha = result?.data?.sha;
+  
+    return sha;
+  }
+
+async function commitArticle(b64) {
+    const path = `${urlPrefix + link + urlSuffix}`;
+    const sha = await getSHA(path);
+
+    console.log(path);
+  
+    const result = await window.octokit.rest.repos.createOrUpdateFileContents({
+      owner: "klovaaxel",
+      repo: "schedule",
+      path,
+      message: `update schedule`,
+      content: b64,
+      sha,
+    });
+  
+    return result?.status || 500;
+  }
