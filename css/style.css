@@ -260,6 +260,24 @@ div#editorjs {
 .dark .ce-block--selected .ce-block__content{
     background: #4789c6;
 }
+button.save-button {
+    position: fixed;
+    bottom: 6vh;
+    right: 6vw;
+    background: #4789c6;
+    border: none;
+    font-size: 1.5em;
+    padding: 0.2em .4em;
+    margin: 0.2em;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    transition: .2s;
+}
+button.save-button:hover {
+    padding: 0.4em .6em;
+    margin: 0;
+}
 /*dark and oled styling*/
 .dark{
     background-color: #363434;
