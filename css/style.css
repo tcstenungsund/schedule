@@ -246,6 +246,20 @@ main.assignment-description-container{
     font: size 4vw;
     font-size: max(1em);
 }
+/* EditorJS */
+div#editorjs {
+    max-width: 70%;
+    margin: 0 auto;
+}
+.ce-toolbar__actions{
+    margin-right: 1em;
+}
+.dark .ce-toolbar__actions {
+    background: white;
+}
+.dark .ce-block--selected .ce-block__content{
+    background: #4789c6;
+}
 /*dark and oled styling*/
 .dark{
     background-color: #363434;
