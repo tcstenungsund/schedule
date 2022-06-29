@@ -44,7 +44,7 @@ urlPrefix = 'md/';
 urlSuffix = '.md'
 url = urlPrefix + courseParam + urlSuffix; //censored for github
 //Link to edit the md file
-mdEditUrl = 'https://github.com/klovaaxel/schedule/edit/main/md/' + courseParam + '.md';
+mdEditUrl = 'editor.html?link=';
 
 // Returns the ISO week of the date.
 // Code modified version of https://weeknumber.com/how-to/javascript.
@@ -71,7 +71,7 @@ async function fetchMarkdown(url){
 
 async function mdToHtml(md){
     var converter = new showdown.Converter();
-    text = md + '- <div></div>';
+    text = md;
     html = converter.makeHtml(text);
     
     return html;
@@ -270,4 +270,16 @@ async function groupDropdown(){
 
         })
     hideUnselectedGroups()
+}
+
+//Add edit link to course
+async function addEditLink(link){
+    //Edit link
+    editLink = document.createElement("a");
+    editLink.href = mdEditUrl + link;
+    editLink.innerHTML = '<i class="fa-solid fa-pen"></i>'
+
+    title = document.getElementById("main").firstChild;
+    title.appendChild(editLink);
+    return true;
 }
