@@ -106,17 +106,33 @@
     <script src="https://cdn.jsdelivr.net/npm/js-base64@3.7.2/base64.min.js"></script>
 
     <script type="module" >
+
+        let auth = sessionStorage.getItem('gitAccessKey')
+        console.log(auth)
+
         import { Octokit, App } from "https://cdn.skypack.dev/octokit";
 
         // Create a personal access token at https://github.com/settings/tokens/new?scopes=repo
-        const octokit = await new Octokit({ auth: `` });
-        window.octokit = octokit;
+        const octokit = await new Octokit({ auth: sessionStorage.getItem('gitAccessKey') });
+
+        
 
         // Compare: https://docs.github.com/en/rest/reference/users#get-the-authenticated-user
-        const {
-        data: { login },
-        } = await octokit.rest.users.getAuthenticated();
-        console.log("Hello, %s", login);
+        while (true) {
+            try {
+                const { data: { login }, } = await octokit.rest.users.getAuthenticated();
+                console.log("Hello, %s", login);
+                break
+            } catch (error) {
+                console.log('AUTH FAILED', error);
+
+                let gitAccessKey = window.prompt("Enter your Personal GitHub Access Key:\nIf you dont have one you can create on at \n' https://github.com/settings/tokens/new?scopes=repo '");
+                sessionStorage.setItem('gitAccessKey', gitAccessKey)
+                const octokit = await new Octokit({ auth: sessionStorage.getItem('gitAccessKey') });
+            }
+        }
+        window.octokit = octokit;
+       
     </script>
 
     <script src="js/common.js"></script>
