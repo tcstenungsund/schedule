@@ -21,12 +21,6 @@ if(link != null){
                                     defaultLevel: 2
                                 }
                             },
-                            linkTool: {
-                                class: LinkTool,
-                                config: {
-                                  endpoint: 'http:', // Your backend endpoint for url data fetching,
-                                }
-                            },
                             quote: {
                                 class: Quote,
                                 inlineToolbar: true,
