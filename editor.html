@@ -126,7 +126,7 @@
             } catch (error) {
                 console.log('AUTH FAILED', error);
 
-                let gitAccessKey = window.prompt("Enter your Personal GitHub Access Key:\nIf you dont have one you can create on at \n' https://github.com/settings/tokens/new?scopes=repo '");
+                let gitAccessKey = window.prompt("Enter your Personal GitHub Access Key:\nIf you dont have one you can create on at \n' https://github.com/settings/tokens/new?scopes=repo '\n\n\n" + error);
                 sessionStorage.setItem('gitAccessKey', gitAccessKey)
                 const octokit = await new Octokit({ auth: sessionStorage.getItem('gitAccessKey') });
             }
