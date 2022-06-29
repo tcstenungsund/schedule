@@ -71,7 +71,7 @@ async function fetchMarkdown(url){
 
 async function mdToHtml(md){
     var converter = new showdown.Converter();
-    text = md + '- <div></div>';
+    text = md;
     html = converter.makeHtml(text);
     
     return html;
