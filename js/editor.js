@@ -18,7 +18,7 @@ if(link != null){
                                 config: {
                                     placeholder: 'Skriv en titel',
                                     levels: [1, 2, 3, 4, 5, 6],
-                                    defaultLevel: 2
+                                    defaultLevel: 3
                                 }
                             },
                             quote: {
@@ -86,7 +86,9 @@ async function save(){
         
         console.log(commitArticle(b64));
         
-    })
+    }).then(() =>{
+        //history.back();
+    });
 }
 
 
@@ -95,6 +97,7 @@ async function getSHA(path) {
     const result = await window.octokit.rest.repos.getContent({
       owner: "klovaaxel",
       repo: "schedule",
+      branch: 'dev',
       path: path,
     });
   
@@ -112,6 +115,7 @@ async function commitArticle(b64) {
     const result = await window.octokit.rest.repos.createOrUpdateFileContents({
       owner: "klovaaxel",
       repo: "schedule",
+      branch: 'dev',
       path,
       message: `update schedule`,
       content: b64,

@@ -52,7 +52,7 @@
     <main id="main" class="">
         <div id="editorjs"></div>
 
-        <button onclick="save()" style="margin: 0 0 0 10vw;">Save</button>
+        <button onclick="save()" class="save-button">Save</button>
     </main>
 
     <div class="back-button-container">
@@ -128,9 +128,8 @@
                 sessionStorage.setItem('gitAuthKey', authKey);
             }
         }
-
+        // Export octokit to window
         window.octokit = octokit;
-       
     </script>
 
     <script src="js/common.js"></script>
