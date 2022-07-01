@@ -12,6 +12,8 @@ Nu är jag inbjuden i 19TEI-rummet, så vi kör där på Teams.
 
 ## Vecka 38
 
+graph LR A --- B B-->C[fa:fa-ban forbidden] B-->D(fa:fa-spinner);
+
 Genomgång av [HTMLdog HTML Beginner](<https://htmldog.com/guides/html/beginner/>). Vi diskuterade även UTF-8, [ISO 8601](<https://m.xkcd.com/1179/>) och andra nyttigheter.
 
 Uppstart av projektet "[inlämning Min Fula Lilla Sida på riktigt](<assignment.html?link=assignments/min_fula_lilla_sida>)".
@@ -22,17 +24,6 @@ Under detta första projekt, kom ihåg och iakta följande punkter för att undv
 - Undvik\_mellanslag\_
 - Undvik STORA bokstäver
 - Lägg alla filer i samma [Prov Min Fula Lilla Sida Webbprojekt!](<assignment.html?link=assignments/min_fula_lilla_sida>)
-- undefined
-- undefined
-- undefined
-- undefined
-- undefined
-- undefined
-- undefined
-- undefined
-- undefined
-
-<!-- -->
 
 ## Vecka 39
 
@@ -357,6 +348,3 @@ I materialet ovan kommer ni stöta på begrepp som JavaScript, LESS, SASS, Gulp 
 ## Vecka 24
 
 SOMMARLOV
-
-graph LR A --- B B-->C[fa:fa-ban forbidden] B-->D(fa:fa-spinner);
-
