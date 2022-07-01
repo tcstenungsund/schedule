@@ -2,7 +2,7 @@
 
 ## Vecka 36
 
-Uppstartsvecka: Upphovsrätt, Free och Open Source Software och Creative Commons
+Uppstartsvecka: Upphovsrätt, Free och Open Source Software och Creative Commons Testing
 
 ## Vecka 37
 
@@ -22,6 +22,9 @@ Under detta första projekt, kom ihåg och iakta följande punkter för att undv
 - Undvik\_mellanslag\_
 - Undvik STORA bokstäver
 - Lägg alla filer i samma [Prov Min Fula Lilla Sida Webbprojekt!](<assignment.html?link=assignments/min_fula_lilla_sida>)
+- undefined
+- undefined
+- undefined
 - undefined
 - undefined
 - undefined
