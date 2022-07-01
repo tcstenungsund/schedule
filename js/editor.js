@@ -97,7 +97,7 @@ async function getSHA(path) {
     const result = await window.octokit.rest.repos.getContent({
       owner: "klovaaxel",
       repo: "schedule",
-      branch: 'dev',
+      ref: 'dev',
       path: path,
     });
   
@@ -110,7 +110,6 @@ async function commitArticle(b64) {
     const path = `${urlPrefix + link + urlSuffix}`;
     const sha = await getSHA(path);
 
-    console.log(path);
   
     const result = await window.octokit.rest.repos.createOrUpdateFileContents({
       owner: "klovaaxel",
