@@ -2,7 +2,7 @@
 
 ## Vecka 36
 
-Uppstartsvecka: Upphovsrätt, Free och Open Source Software och Creative Commons Testing
+Uppstartsvecka: Upphovsrätt, Free och Open Source Software och Creative Commons
 
 ## Vecka 37
 
@@ -25,6 +25,9 @@ Under detta första projekt, kom ihåg och iakta följande punkter för att undv
 - undefined
 - undefined
 - undefined
+- undefined
+- undefined
+- undefined
 
 <!-- -->
 
@@ -39,8 +42,6 @@ Fortsätt arbeta med "Min Fula Lilla Sida" och se till att ni testat och lekt me
 ## Vecka 40
 
 Repetition av HTML Beginner och CSS Beginner, framför allt the Box Model. Vi tittar även på hjälpmedel för att välja färger, som [Coolors](<https://coolors.co/>), [Picular](<https://picular.co/>), [Adobe Color](<https://color.adobe.com/sv/create/color-wheel>) och [Paletton](<http://paletton.com/>).
-
-
 
 MDN är ett av de bästa referensverken (och [W3Fools](<https://www.w3fools.com/>) talar om för oss att undvika W3Schools).
 
@@ -354,4 +355,5 @@ I materialet ovan kommer ni stöta på begrepp som JavaScript, LESS, SASS, Gulp 
 
 SOMMARLOV
 
-`<code class="mermaid language-mermaid">graph LR A --- B B--&gt;C[fa:fa-ban forbidden] B--&gt;D(fa:fa-spinner); </code>`
+graph LR A --- B B-->C[fa:fa-ban forbidden] B-->D(fa:fa-spinner);
+
