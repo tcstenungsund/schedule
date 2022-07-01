@@ -2,7 +2,7 @@
 
 ## Vecka 36
 
-Uppstartsvecka: Upphovsrätt, Free och Open Source Software och Creative Commons Testing
+Uppstartsvecka: Upphovsrätt, Free och Open Source Software och Creative Commons
 
 ## Vecka 37
 
