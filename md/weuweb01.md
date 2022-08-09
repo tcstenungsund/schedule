@@ -12,38 +12,38 @@ Nu är jag inbjuden i 19TEI-rummet, så vi kör där på Teams.
 
 ## Vecka 38
 
-Genomgång av [HTMLdog HTML Beginner](https://htmldog.com/guides/html/beginner/). Vi diskuterade även UTF-8, [ISO 8601](https://m.xkcd.com/1179/) och andra nyttigheter.
+graph LR A --- B B-->C[fa:fa-ban forbidden] B-->D(fa:fa-spinner);
 
-Uppstart av projektet "[inlämning Min Fula Lilla Sida på riktigt](assignment.html?link=assignments/min_fula_lilla_sida)".
+Genomgång av [HTMLdog HTML Beginner](<https://htmldog.com/guides/html/beginner/>). Vi diskuterade även UTF-8, [ISO 8601](<https://m.xkcd.com/1179/>) och andra nyttigheter.
+
+Uppstart av projektet "[inlämning Min Fula Lilla Sida på riktigt](<assignment.html?link=assignments/min_fula_lilla_sida>)".
 
 Under detta första projekt, kom ihåg och iakta följande punkter för att undvika problem med filnamn:
 
-*   Undvik svenska tecken, åäö
-*   Undvik\_mellanslag\_
-*   Undvik STORA bokstäver
-*   Lägg alla filer i samma [Prov Min Fula Lilla Sida Webbprojekt!](assignment.html?link=assignments/min_fula_lilla_sida)
+- Undvik svenska tecken, åäö
+- Undvik\_mellanslag\_
+- Undvik STORA bokstäver
+- Lägg alla filer i samma [Prov Min Fula Lilla Sida Webbprojekt!](<assignment.html?link=assignments/min_fula_lilla_sida>)
 
 ## Vecka 39
 
-Genomgång av [HTMLdog CSS Beginner](https://htmldog.com/guides/css/beginner/).
+Genomgång av [HTMLdog CSS Beginner](<https://htmldog.com/guides/css/beginner/>).
 
-Vi tittade på [MDN Color picker](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Color_picker_tool), såg klippet "[What the Heck Is A Hex Value Anyway](https://cgi.tutsplus.com/tutorials/what-the-heck-is-a-hex-value-anyway--ae-11932)" och talade om hur viktigt det är med "[kontrast](http://contrastrebellion.com/)" 🔹.
+Vi tittade på [MDN Color picker](<https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Color_picker_tool>), såg klippet "[What the Heck Is A Hex Value Anyway](<https://cgi.tutsplus.com/tutorials/what-the-heck-is-a-hex-value-anyway--ae-11932>)" och talade om hur viktigt det är med "[kontrast](<http://contrastrebellion.com/>)" 🔹.
 
-Fortsätt arbeta med "Min Fula Lilla Sida" och se till att ni testat och lekt med allt det som finns med i HTML Beginner och CSS Beginner.  
+Fortsätt arbeta med "Min Fula Lilla Sida" och se till att ni testat och lekt med allt det som finns med i HTML Beginner och CSS Beginner.
 
 ## Vecka 40
 
-Repetition av HTML Beginner och CSS Beginner, framför allt the Box Model. Vi tittar även på hjälpmedel för att välja färger, som [Coolors](https://coolors.co/), [Picular](https://picular.co/), [Adobe Color](https://color.adobe.com/sv/create/color-wheel) och [Paletton](http://paletton.com/).
+Repetition av HTML Beginner och CSS Beginner, framför allt the Box Model. Vi tittar även på hjälpmedel för att välja färger, som [Coolors](<https://coolors.co/>), [Picular](<https://picular.co/>), [Adobe Color](<https://color.adobe.com/sv/create/color-wheel>) och [Paletton](<http://paletton.com/>).
 
-![MDN - Not w3schools](https://eu1files.itslearning.com/data/3293/400701/w3schools.png)
+MDN är ett av de bästa referensverken (och [W3Fools](<https://www.w3fools.com/>) talar om för oss att undvika W3Schools).
 
-MDN är ett av de bästa referensverken (och [W3Fools](https://www.w3fools.com/) talar om för oss att undvika W3Schools).
-
-Vi jobbar vidare med "Min Fula Lilla Sida".  
+Vi jobbar vidare med "Min Fula Lilla Sida".
 
 ## Vecka 41
 
-**\[DISTANS\]** – Join Microsoft Teams Meeting
+[DISTANS] – Join Microsoft Teams Meeting
 
 Genomgång av HTMLdog HTML Intermediate och HTMLdog CSS Intermediate.
 
@@ -63,7 +63,7 @@ Läs om hur man felsöker CSS på MDN i artikeln Examine and edit CSS.
 
 ## Vecka 43
 
-**\[DISTANS\]** Join Microsoft Teams Meeting
+[DISTANS] Join Microsoft Teams Meeting
 
 Genomgång av HTMLdog HTML Advanced och CSS Advanced.
 
@@ -71,7 +71,7 @@ Introduktion till CSS Grid och Flexbox. Vi ser även klippet "Flexbox vs. CSS Gr
 
 ## Vecka 44
 
-**HÖSTLOV**
+HÖSTLOV
 
 ## Vecka 45
 
@@ -79,7 +79,7 @@ Introduktion till CSS-ramverket Bootstrap.Presentation av editorerna Atom, Brack
 
 ## Vecka 46
 
-**\[DISTANS\]**  Klicka här för att delta i mötet.
+[DISTANS] Klicka här för att delta i mötet.
 
 Repetition…
 
@@ -91,7 +91,7 @@ Prov: Webbutveckling HT
 
 ## Vecka 48
 
-**\[DISTANS\]**
+[DISTANS]
 
 Genomgång av provet.
 
@@ -111,7 +111,7 @@ Deadline: "Vektorgrafik - Personligt varumärke" (Söndag, 23:59)
 
 ## Vecka 50
 
-**\[DISTANS\]**
+[DISTANS]
 
 Planeringsverktyg
 
@@ -121,7 +121,7 @@ Allt detta är en del av den dokumentation man skall göra för en webbsida. Ibl
 
 ## Vecka 51
 
-**\[DISTANS\]**
+[DISTANS]
 
 Planeringsverktyg – Wireframes och Moodboards
 
@@ -133,7 +133,7 @@ Vi gör labben “Planeringsverktyg – Wireframes”.
 
 ## Vecka 52
 
-**\[DISTANS\]**  Click here to join the meeting
+[DISTANS] Click here to join the meeting
 
 Terminssammanfattning.
 
@@ -141,15 +141,15 @@ Se videoklippet “Where do Browser Styles Come from?” (7 min) och leta sedan 
 
 Se videoklippet “Build a Classic Layout FAST in CSS Grid” (8:30 min) och fundera på hur din “Min Fula Lilla Sida” hade sett ut om du då kunnat det du nu lärde dig i videoklippet? Experimentera gärna med egen kod för att testa.
 
-Gör sedan klart alla uppgifter du har efter dig, och LÄMNA IN UPPGIFTERNA!  De som inte har lämnat in alla uppgifter när vårterminen börjar kommer att få F i det momentet, och riskerar att inte klara kursen.
+Gör sedan klart alla uppgifter du har efter dig, och LÄMNA IN UPPGIFTERNA! De som inte har lämnat in alla uppgifter när vårterminen börjar kommer att få F i det momentet, och riskerar att inte klara kursen.
 
 ## Vecka 53 - 1
 
-**VINTERLOV**
+VINTERLOV
 
 ## Vecka 2
 
-**\[DISTANS\]**  Click here to join the meeting
+[DISTANS] Click here to join the meeting
 
 Välkommen till vårens lektioner!
 
@@ -161,15 +161,15 @@ CSS Zen Garden 2021
 
 ## Vecka 3
 
-**\[DISTANS\]**   Click here to join the meeting
+[DISTANS] Click here to join the meeting
 
 Vi kör omröstning i förra veckans tävling!
 
-Nytt moment! Vårprojektet. Gruppindelning.  Detta är ett grupprojekt! Men ni bedöms individuellt. Ni kommer också få ägna er at peer review, där ni bedömmer varandras insatser.
+Nytt moment! Vårprojektet. Gruppindelning. Detta är ett grupprojekt! Men ni bedöms individuellt. Ni kommer också få ägna er at peer review, där ni bedömmer varandras insatser.
 
 ## Vecka 4
 
-**\[DISTANS\]** Click here to join the meeting
+[DISTANS] Click here to join the meeting
 
 Nu börjar vi med Vårprojektet!
 
@@ -183,21 +183,21 @@ Ni skall skriva all HTML och CSS själva, och bygga den på ramverket Bootstrap.
 
 ## Vecka 5
 
-\[UTGÅR\] Slutprov i IoT med RJO på plats på skolan.
+[UTGÅR] Slutprov i IoT med RJO på plats på skolan.
 
 ## Vecka 6
 
-**\[DISTANS\]**   Click here to join the meeting
+[DISTANS] Click here to join the meeting
 
 Vi fortsätter med Vårprojektet.
 
 ## Vecka 7
 
-**SPORTLOV**
+SPORTLOV
 
 ## Vecka 8
 
-**\[DISTANS\]**   Click here to join the meeting
+[DISTANS] Click here to join the meeting
 
 Vi fortsätter med Vårprojektet.
 
@@ -205,7 +205,7 @@ Lyssna till avsnittet ”001 The Box-model” (12 min) av podcasten “The CSS P
 
 ## Vecka 9
 
-**\[DISTANS\]**   Click here to join the meeting
+[DISTANS] Click here to join the meeting
 
 Vi fortsätter med Vårprojektet.
 
@@ -213,7 +213,7 @@ Lyssna på avsnittet ”002 Selectors” (15 min) av podcasten “The CSS Podcas
 
 ## Vecka 10
 
-**\[DISTANS\]** Click here to join the meeting
+[DISTANS] Click here to join the meeting
 
 Genomgång av artikeln "The 30 CSS Selectors You Must Memorise"\*.
 
@@ -223,7 +223,7 @@ Lyssna på avsnittet ”003 Specificity” (13 min) av podcasten “The CSS Podc
 
 ## Vecka 11
 
-**\[DISTANS\]**  Click here to join the meeting
+[DISTANS] Click here to join the meeting
 
 En repetition av artikeln "The 30 CSS Selectors You Must Memorise" i form av en CSS Selector-tävling.
 
@@ -233,7 +233,7 @@ Lyssna på avsnittet ”004 The Cascade” (12 min) av podcasten “The CSS Podc
 
 ## Vecka 12
 
-**\[DISTANS\]**   Click here to join the meeting
+[DISTANS] Click here to join the meeting
 
 Vi fortsätter med Vårprojektet.
 
@@ -243,7 +243,7 @@ Lyssna på avsnittet ”005 Inheritance” (8 min) av podcasten “The CSS Podca
 
 ## Vecka 13
 
-**\[DISTANS\]** Click here to join the meeting
+[DISTANS] Click here to join the meeting
 
 Vi fortsätter med Vårprojektet.
 
@@ -253,15 +253,15 @@ Repetera avsnitt 1 – 5 av “The CSS Podcast”.
 
 ## Vecka 14
 
-**PÅSKLOV**
+PÅSKLOV
 
 ## Vecka 15
 
-**\[DISTANS\]** Click here to join the meeting
+[DISTANS] Click here to join the meeting
 
 Föreläsning: Användartester, eller Usability testing.
 
-Det finns ett helt gäng artiklar i ämnet: "Usability Testing: Don't Guess, Test."_, "How to run live user testing", "What goes into a user testing script", "Testing design: How do you test a design comp?"_
+Det finns ett helt gäng artiklar i ämnet: "Usability Testing: Don't Guess, Test.", "How to run live user testing", "What goes into a user testing script", "Testing design: How do you test a design comp?"
 
 Vi fortsätter med Vårprojektet.
 
@@ -269,9 +269,9 @@ Test: The CSS Podcast avsnitt 1 – 5.
 
 ## Vecka 16
 
-**\[DISTANS\]**   Click here to join the meeting
+[DISTANS] Click here to join the meeting
 
-Föreläsning: "Web Content Accessibility Guidelines", och eboken "Digital tillgänglighet - Introduktion till WCAG" av Per Axbom.  
+Föreläsning: "Web Content Accessibility Guidelines", och eboken "Digital tillgänglighet - Introduktion till WCAG" av Per Axbom.
 
 Genomgång av testet från vecka 15.
 
@@ -279,7 +279,7 @@ Vi fortsätter med Vårprojektet.
 
 ## Vecka 17
 
-**\[DISTANS\]**   Click here to join the meeting
+[DISTANS] Click here to join the meeting
 
 Läs artikeln “Building the Woke Web: Web Accessibility, Inclusion & Social Justice”.
 
@@ -287,7 +287,7 @@ Vi fortsätter med Vårprojektet.
 
 ## Vecka 18
 
-**\[DISTANS\]**   Click here to join the meeting
+[DISTANS] Click here to join the meeting
 
 På An Event Apart 2013 höll Jeffrey Zeldman föreläsningen "Ten Commandments of Web Design". Luke Wroblewski var där och tog anteckningar\*.
 
@@ -295,17 +295,17 @@ Vi fortsätter med Vårprojektet.
 
 ## Vecka 19
 
-**\[DISTANS\]** Klicka här för att delta i mötet.
+[DISTANS] Klicka här för att delta i mötet.
 
 Vi avslutar Vårprojektet.
 
-2021-05-12 Prov  Onsdag
+2021-05-12 Prov Onsdag
 
 2021-05-16 Deadline för Vårprojektet
 
 ## Vecka 20
 
-**Studiedag**
+Studiedag
 
 ## Vecka 21
 
@@ -347,11 +347,4 @@ I materialet ovan kommer ni stöta på begrepp som JavaScript, LESS, SASS, Gulp 
 
 ## Vecka 24
 
-**SOMMARLOV**
-
-```mermaid
-graph LR
-          A --- B
-          B-->C[fa:fa-ban forbidden]
-          B-->D(fa:fa-spinner);
-```
+SOMMARLOV

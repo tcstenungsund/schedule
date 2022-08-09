@@ -168,7 +168,7 @@ footer .social ul li{
 }
 .schedule > ul > li:not(:last-of-type) {
     padding-bottom: 3em;
-    border-bottom: 0.1rem solid #000a;
+    border-bottom: 0.1rem solid #0004;
 }
 .current-week:first-of-type h2, .group h3{
     border-top: unset;
@@ -245,6 +245,38 @@ main.assignment-description-container{
     color: #4789c6;
     font: size 4vw;
     font-size: max(1em);
+}
+/* EditorJS */
+div#editorjs {
+    max-width: 70%;
+    margin: 0 auto;
+}
+.ce-toolbar__actions{
+    margin-right: 1em;
+}
+.dark .ce-toolbar__actions {
+    background: white;
+}
+.dark .ce-block--selected .ce-block__content{
+    background: #4789c6;
+}
+button.save-button {
+    position: fixed;
+    bottom: 6vh;
+    right: 6vw;
+    background: #4789c6;
+    border: none;
+    font-size: 1.5em;
+    padding: 0.2em .4em;
+    margin: 0.2em;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    transition: .2s;
+}
+button.save-button:hover {
+    padding: 0.4em .6em;
+    margin: 0;
 }
 /*dark and oled styling*/
 .dark{

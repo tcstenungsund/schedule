@@ -7,10 +7,10 @@
     <meta http-equiv='cache-control' content='no-cache'> 
     <meta http-equiv='expires' content='0'> 
     <meta http-equiv='pragma' content='no-cache'>
-    <title>scehdule</title>
+    <title>TC-stenungsund</title>
 
     <script src="https://kit.fontawesome.com/acd9f5b6d9.js" crossorigin="anonymous"></script>
-    
+
     <link rel="stylesheet" href="css/typography.css">
     <link rel="stylesheet" href="css/style.css">
 </head>
@@ -19,7 +19,7 @@
         <section class="branding">
             <a href="index.html">            
                 <img src="resources/images/tc-logo.svg" alt="Teknikcollege Stenungsund">
-            </a>
+            </a>        
         </section>
         <nav>
             <ul>
@@ -52,18 +52,19 @@
         </nav>        
     </header>
 
-    <!--Will be filled with schedule.js-->
-    <main id="main">
-        <section class="current-week" id="current-week"></section>
-        <section class="schedule" id="schedule"></section>
-    </main>
-    <aside>
-        <a href="assignments.html">
-            <h2>Uppgifter: <i class="fa-solid fa-arrow-up-right-from-square" style="font-size: 1em;"></i></h2>
-        </a>
-        <ul class="assignment-list" id="assignment-list"></ul>
-    </aside>
+    <main id="main" class="">
+        <div id="editorjs"></div>
 
+        <button onclick="save()" class="save-button">Save</button>
+    </main>
+
+    <div class="back-button-container">
+        <button onclick="history.back()"  class="back-button">
+            <i class="fa-solid fa-arrow-left-long"></i>
+        </button>
+    </div>
+    
+    <img src="" alt="">
 
     <footer>
         <section class="branding"></section>
@@ -90,7 +91,51 @@
 
     <script src="https://unpkg.com/showdown/dist/showdown.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/@editorjs/editorjs@latest"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@editorjs/header@latest"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@editorjs/quote@latest"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@editorjs/embed@latest"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@editorjs/list@latest"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@editorjs/checklist@latest"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@editorjs/simple-image@latest"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@editorjs/raw@latest"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/editorjs-html@3.4.0/build/edjsHTML.browser.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/gh/klovaaxel/editorjs-parser/html-json.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/klovaaxel/editorjs-parser/json-html.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/js-base64@3.7.2/base64.min.js"></script>
+
+    <script type="module" >
+        import { Octokit, App } from "https://cdn.skypack.dev/octokit";
+
+        // Create a personal access token at https://github.com/settings/tokens/new?scopes=repo
+        // Initialize octokit with authkey from sessionStorage
+        let octokit = await new Octokit({ auth: sessionStorage.getItem('gitAuthKey')});
+
+        // Test authentication to github
+        while (true) {
+            try {
+                // Compare: https://docs.github.com/en/rest/reference/users#get-the-authenticated-user
+                const { data: { login }, } = await octokit.rest.users.getAuthenticated();
+                console.log("Hello, %s", login);
+                break
+            } catch (error) {
+                // If authentication failed, ask user for new key and use it to create a new octokit instance
+                let authKey = window.prompt("Enter your Personal GitHub Access Key:\n\nIf you dont have one you can create on at: \n' https://github.com/settings/tokens/new?scopes=repo '\n\n\n" + error);
+                octokit = await new Octokit({ auth: authKey });
+
+                // Save the authkey to sessionStorage
+                sessionStorage.setItem('gitAuthKey', authKey);
+            }
+        }
+        // Export octokit to window
+        window.octokit = octokit;
+    </script>
+
     <script src="js/common.js"></script>
-    <script src="js/schedule.js"></script>
+    <script src="js/editor.js"></script>
 </body>
 </html>

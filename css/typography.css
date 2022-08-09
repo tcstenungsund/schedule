@@ -86,6 +86,10 @@ main > h1 i{
     text-align: right;
 }
 
+.ce-toolbox {
+    color: black;
+}
+
 @font-face {
     font-family: 'Atkinson Hyperlegible';
     font-style: normal;
