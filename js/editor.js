@@ -114,7 +114,7 @@ async function commitArticle(b64) {
     const result = await window.octokit.rest.repos.createOrUpdateFileContents({
       owner: "klovaaxel",
       repo: "schedule",
-      branch: 'dev',
+      branch: 'main',
       path,
       message: `update schedule`,
       content: b64,
