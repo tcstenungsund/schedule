@@ -35,6 +35,18 @@ async function htmlToDom(html){
     return
 }
 
+//Add edit link to course
+async function addEditLink(){
+    //Edit link
+    editLink = document.createElement("a");
+    editLink.href = mdEditUrl;
+    editLink.innerHTML = '<i class="fa-solid fa-pen"></i>'
+
+    title = document.getElementById("main").firstChild;
+    title.appendChild(editLink);
+    return true;
+}
+
 //Places assignments in all the HTML places
 async function assingmentsToDom(assignments){
     assignments.forEach(assignment => {
@@ -81,7 +93,7 @@ fetchMarkdown(url)
             .then( response => {
                 htmlToDom(response).then(response => {
                     mermaid.init();
-                    addEditLink(courseParam);
+                    addEditLink();
                     body = document.createElement('body')
                     body.innerHTML = schedule.innerHTML;
                     getAssignments(body)
