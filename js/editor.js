@@ -97,7 +97,7 @@ async function getSHA(path) {
     const result = await window.octokit.rest.repos.getContent({
       owner: "klovaaxel",
       repo: "schedule",
-      ref: 'dev',
+      branch: 'main',
       path: path,
     });
   

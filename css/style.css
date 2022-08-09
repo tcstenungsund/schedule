@@ -168,7 +168,7 @@ footer .social ul li{
 }
 .schedule > ul > li:not(:last-of-type) {
     padding-bottom: 3em;
-    border-bottom: 0.1rem solid #0004;
+    border-bottom: 0.1rem solid #000a;
 }
 .current-week:first-of-type h2, .group h3{
     border-top: unset;
@@ -233,7 +233,7 @@ main.assignment-description-container{
     position: absolute;
     top: 10vh;
     left: 1vw;
-    height: 100%;
+    height: calc(100% - 10vh);
 }
 .back-button{
     position: sticky;
