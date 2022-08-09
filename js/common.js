@@ -276,7 +276,7 @@ async function groupDropdown(){
 async function addEditLink(link){
     //Edit link
     editLink = document.createElement("a");
-    editLink.href = mdEditUrl;
+    editLink.href = mdEditUrl + link;
     editLink.innerHTML = '<i class="fa-solid fa-pen"></i>'
 
     title = document.getElementById("main").firstChild;
