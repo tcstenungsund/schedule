@@ -280,6 +280,6 @@ async function addEditLink(link){
     editLink.innerHTML = '<i class="fa-solid fa-pen"></i>'
 
     title = document.getElementById("main").firstChild;
-    title.appendChild(link);
+    title.appendChild(editLink);
     return true;
 }
