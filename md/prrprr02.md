@@ -2,8 +2,6 @@
 
 ## Vecka 36
 
-Testing
-
 ## Vecka 37
 
 ## Vecka 38
