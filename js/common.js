@@ -14,11 +14,7 @@ style = urlParams.get("style");
 //weeks in school year common variable
 weeks = [35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23];
 
-//Get minimal view setting from local prefrence if specified
-if(minview != null){
-    localStorage.setItem('minview', minview);
-}
-
+//Check if minimal view is required
 const minView = localStorage.getItem('minview');
 if(localStyle != null){
     document.body.classList.add(minview);
