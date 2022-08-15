@@ -322,3 +322,8 @@ button.save-button:hover {
 .oled pre{
     filter: invert(1)
 }
+
+/* Minimal View */
+.assignment-list, h1 {
+    display: none;
+}
