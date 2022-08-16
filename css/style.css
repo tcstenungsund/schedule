@@ -323,7 +323,10 @@ button.save-button:hover {
     filter: invert(1)
 }
 
-/* Minimal View */
-.minview aside, .minview h1 {
+/* Loggbok- or Assignment-only views */
+.loggbok aside, .loggbok h1 {
+    display: none;
+}
+.assignments .branding, .assignments h1, .assignments nav  {
     display: none;
 }

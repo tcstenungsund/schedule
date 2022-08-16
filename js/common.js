@@ -37,6 +37,15 @@ if(localCourse != null){
     groupParam = localCourse;
 }
 
+// Simple view with only Loggbok or Assignments
+const simpleView = localStorage.getItem('view');
+if(simpleView == loggbok){
+  document.body.classList.add(loggbok);
+}
+if(simpleView == assignments){ 
+  document.body.classList.add(assignments);
+}
+
 //Define where schedule is present
 scheduleUrl = 'schedule.html'
 //Define what url the markdown file should be fetched from.
