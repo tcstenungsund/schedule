@@ -324,6 +324,6 @@ button.save-button:hover {
 }
 
 /* Minimal View */
-.assignment-list, h1 {
+.minview .assignment-list, .minview h1 {
     display: none;
 }
