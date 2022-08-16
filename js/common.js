@@ -39,12 +39,11 @@ if(localCourse != null){
 }
 
 // Simple view with only Loggbok or Assignments
-const simpleView = localStorage.getItem('view');
-if(simpleView == loggbok){
-  document.body.classList.add(loggbok);
+if(view == 'loggbok'){
+  document.body.classList.add('loggbok');
 }
-if(simpleView == assignments){ 
-  document.body.classList.add(assignments);
+if(view == 'assignments'){ 
+  document.body.classList.add('assignments');
 }
 
 //Define where schedule is present
