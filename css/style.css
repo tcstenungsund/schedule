@@ -15,7 +15,7 @@ html{
     scroll-behavior: smooth;
 }
 .hide{
-    display: none;
+    display: none !important;
 }
 main.schedule > ul > li:last-of-type{ /*Hides last li element (is empty in schedule)*/
     display: none;
