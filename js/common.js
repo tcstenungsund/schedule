@@ -10,7 +10,6 @@ courseParam = urlParams.get("course");
 weekParam = urlParams.get("week");
 link = urlParams.get("link");
 style = urlParams.get("style");
-view = urlParams.get("view");
 
 //weeks in school year common variable
 weeks = [35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23];
@@ -36,14 +35,6 @@ if(groupParam != null){
 const localCourse = localStorage.getItem('group');
 if(localCourse != null){
     groupParam = localCourse;
-}
-
-// Simple view with only Loggbok or Assignments
-if(view == 'loggbok'){
-  document.body.classList.add('loggbok');
-}
-if(view == 'assignments'){ 
-  document.body.classList.add('assignments');
 }
 
 //Define where schedule is present
