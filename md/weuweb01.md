@@ -2,6 +2,8 @@
 
 ## Vecka 35
 Uppstartsvecka: Upphovsrätt, Free och Open Source Software och Creative Commons
+--
+Annat...
 
 ## Vecka 36
 Kursplanering, presentation och introduktion till ämnet.
