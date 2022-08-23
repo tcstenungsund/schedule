@@ -1,19 +1,20 @@
 # Loggbok Webbutveckling 2 - 20TEI
 
 ## Vecka 35
-
-## Vecka 36
 Kursplanering, presentation och introduktion till ämnet.
 
 Repetition av kursen Webbutveckling 1.
 
-## Vecka 37
+## Vecka 36
 Virtualisering
 
 Prov
 
-## Vecka 38
+## Vecka 37
 Versionshantering
+
+## Vecka 38
+CMS
 
 ## Vecka 39
 CMS
