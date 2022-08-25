@@ -1,6 +1,9 @@
 # Loggbok KURSNAMN
 
 ## Vecka 35
+Uppstart! Planering, ordningsregler, kursöversikt, schemagenomgång. 
+
+Skolverkets mål för Webbutveckling 3, Mobila applikationer och Tillämpad programmering. 
 
 ## Vecka 36
 
