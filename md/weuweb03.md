@@ -1,4 +1,4 @@
-# Loggbok KURSNAMN
+# Webbutveckling 3, Mobila applikationer och Tillämpad programmering
 
 ## Vecka 35
 Uppstart! Planering, ordningsregler, kursöversikt, schemagenomgång. 
