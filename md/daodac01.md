@@ -1,4 +1,4 @@
-# Loggbok KURSNAMN
+# DAODAC01 Dator- och nätverksteknik
 
 ## Vecka 35
 
