@@ -1,4 +1,4 @@
-# Loggbok KURSNAMN
+# TEKTEK00S Teknik specialisering
 
 ## Vecka 35
 
