@@ -1,4 +1,4 @@
-# Loggbok KURSNAMN
+# Webbutveckling 1 - INDval
 
 ## Vecka 35
 
