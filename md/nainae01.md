@@ -1,4 +1,4 @@
-# Loggbok KURSNAMN
+# Nätverkssäkerhet
 
 ## Vecka 35
 
