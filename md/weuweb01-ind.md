@@ -5,8 +5,6 @@ Hej
 
 ## Vecka 36
 
-Tjoho! SMURF!!!!!!!<br>
-
 ## Vecka 37
 
 ## Vecka 38
