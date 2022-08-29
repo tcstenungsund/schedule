@@ -1,7 +1,7 @@
 # Webbutveckling 1 - INDval
 
 ## Vecka 35
-Hej!
+
 
 ## Vecka 36
 
