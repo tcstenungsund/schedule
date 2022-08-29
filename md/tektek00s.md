@@ -2,11 +2,11 @@
 
 ## Vecka 35
 
-LinkedIn cheat sheet - https://www.socialtalent.com/blog/recruitment/the-ultimate-linkedin-cheat-sheet-infographic
+[LinkedIn cheat sheet] - (https://www.socialtalent.com/blog/recruitment/the-ultimate-linkedin-cheat-sheet-infographic)
 
 Ett par videos med tips:
-https://www.youtube.com/watch?v=X3OzK2w8kUs
-https://www.youtube.com/watch?v=ACLeoodZH6s
+(https://www.youtube.com/watch?v=X3OzK2w8kUs)
+(https://www.youtube.com/watch?v=ACLeoodZH6s)
 
 ## Vecka 36
 
