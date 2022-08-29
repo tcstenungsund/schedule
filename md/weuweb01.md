@@ -5,13 +5,16 @@
 Uppstartsvecka!
 
 #### Måndag
+Kursplanering, presentation och introduktion till ämnet. Tittar på [Skolverkets riktlinjer](https://www.skolverket.se/undervisning/gymnasieskolan/laroplan-program-och-amnen-i-gymnasieskolan/gymnasieprogrammen/amne?url=1530314731%2Fsyllabuscw%2Fjsp%2Fsubject.htm%3FsubjectCode%3DWEU%26lang%3Dsv%26tos%3Dgy%26p%3Dp). 
+
 Upphovsrätt och Creative Commons
+Tar upp [Statute of Anne](https://en.wikipedia.org/wiki/Statute_of_Anne), [Gutenberg](https://en.wikipedia.org/wiki/Johannes_Gutenberg), [Cory Doctorow](https://craphound.com/) och [Jonathan Coulton](https://www.jonathancoulton.com/). 
 
 #### Tisdag
 Free och Open Source Software
 
 ## Vecka 36
-Kursplanering, presentation och introduktion till ämnet.
+
 
 ## Vecka 37 
 
