@@ -2,7 +2,10 @@
 
 ## Vecka 35
 
-Välkomna!
+- Vi går igenom Kapitel 1 i Netacad kursen.<br>
+
+
+<!-- -->
 
 ## Vecka 36
 
