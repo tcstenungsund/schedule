@@ -14,7 +14,7 @@ Fortsätter tala om Creative Commons. Tittar på klippet "[Vad är Creative Comm
 
 Ett verk som är Creative Commons är "[Sintel](https://youtu.be/eRsGyueVLvQ)". 
 
-Sintel är skapad med *Free och Open Source Software*. Vi ser klippet "[What is Open Source explained in LEGO](https://youtu.be/a8fHgx9mE5U)", och läser dokumentet "[How to become a hacker](https://d.cxcore.net/Eric%20S%20Raymond/How%20To%20Become%20A%20Hacker.pdf)". 
+Sintel är skapad med *Free och Open Source Software*. Vi ser klippet "[What is Open Source explained in LEGO](https://youtu.be/a8fHgx9mE5U)", och läser dokumentet "[How to become a hacker](https://d.cxcore.net/Eric%20S%20Raymond/How%20To%20Become%20A%20Hacker.pdf)". Det är en ruggigt bra idé att bidra till ett projekt, och här är ett tips "[How to find an Open Source project to contribute to](https://dev.to/this-is-learning/how-to-find-an-open-source-project-to-contribute-to-3093)".
 
 ## Vecka 36
 
