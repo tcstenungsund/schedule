@@ -7,11 +7,14 @@ Uppstartsvecka!
 #### Måndag
 Kursplanering, presentation och introduktion till ämnet. Tittar på [Skolverkets riktlinjer](https://www.skolverket.se/undervisning/gymnasieskolan/laroplan-program-och-amnen-i-gymnasieskolan/gymnasieprogrammen/amne?url=1530314731%2Fsyllabuscw%2Fjsp%2Fsubject.htm%3FsubjectCode%3DWEU%26lang%3Dsv%26tos%3Dgy%26p%3Dp). 
 
-Upphovsrätt och Creative Commons
-Tar upp [Statute of Anne](https://en.wikipedia.org/wiki/Statute_of_Anne), [Gutenberg](https://en.wikipedia.org/wiki/Johannes_Gutenberg), [Cory Doctorow](https://craphound.com/) och [Jonathan Coulton](https://www.jonathancoulton.com/). 
+__Upphovsrätt och Creative Commons.__ Tar upp [Statute of Anne](https://en.wikipedia.org/wiki/Statute_of_Anne), [Gutenberg](https://en.wikipedia.org/wiki/Johannes_Gutenberg), [Cory Doctorow](https://craphound.com/) och [Jonathan Coulton](https://www.jonathancoulton.com/). 
 
 #### Tisdag
-Free och Open Source Software
+Fortsätter tala om Creative Commons. Tittar på klippet "[Vad är Creative Commons?](https://youtu.be/Yd9dP3vlOyk)" och ser exempel på sidor där man hittar verk under Creative commons-licenser, som "[Free SVG](https://freesvg.org/)", "[Free Music Archive](https://freemusicarchive.org/)" och "[Pexels](https://www.pexels.com/sv-se/)". Mer information finns på [Creative Commons egna webbplats](http://www.creativecommons.se/). 
+
+Ett verk som är Creative Commons är "[Sintel](https://youtu.be/eRsGyueVLvQ)". 
+
+Sintel är skapat med __Free och Open Source Software__. Vi ser klippet "[What is Open Source explained in LEGO](https://youtu.be/a8fHgx9mE5U)", och läser dokumentet "[How to become a hacker](https://d.cxcore.net/Eric%20S%20Raymond/How%20To%20Become%20A%20Hacker.pdf)". 
 
 ## Vecka 36
 
