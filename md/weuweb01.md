@@ -1,4 +1,4 @@
-# Loggbok Webbutveckling 1 - 21TEI
+# Webbutveckling 1 - 21TEI
 
 ## Vecka 35
 
