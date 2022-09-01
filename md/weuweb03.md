@@ -7,7 +7,12 @@ Skolverkets mål för Webbutveckling 3, Mobila applikationer och Tillämpad prog
 
 Vi lyssar till låtarna [Eternal Flame](https://www.gnu.org/fun/jokes/eternal-flame.html) och [Write in Go](https://youtu.be/LJvEIjRBSDA), för att få chansen att tala lite om olika programmeringsspråk. Vad är skillnaden mellan kompilerade språk och scriptspråk? Vilka språk körs på server och vilka på klient? Vi ser också videon [Most Popular Programming Languages | 1965-2020](https://youtu.be/sNURYeD4M5Y).
 
-De första två projekten är två kurser på edX från utbildningen Front-End Web Developer av W3C. Vi startar med kurse [HTML5 & CSS Fundamentals](https://www.edx.org/course/html5-and-css-fundamentals).
+De första två projekten är två kurser på edX från utbildningen "[Front-End Web Developer](https://www.edx.org/course/html5-and-css-fundamentals)" av W3C. Vi startar med kursen [HTML5 & CSS Fundamentals](https://www.edx.org/course/html5-and-css-fundamentals).
+
+JavaScript
+För att få de kreativa vätskorna att flöda rekommenderas vi att genomföra "[10 Projects everyone should try at least once](https://www.webdesignerdepot.com/2017/11/design-bucket-list-10-projects-everyone-should-try-at-least-once/)". Vår väg till Javascriptexperter börjar i [MDN Web docs' Introduction](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction#javascript_and_the_ecmascript_specification) samt [The history of JavaScript](https://www.techaheadcorp.com/blog/history-of-javascript/). Sedan tittar vi på "[Learn JAVASCRIPT in just 5 MINUTES (2020)]()" (5min) och "[JavaScript Pro Tips - Code This, NOT That](https://youtu.be/Mus_vwhTCq0)" (12min). Alla lär sig olika, och en resurs att ha som referens är "[Eloquent JavaScript](https://eloquentjavascript.net/)", en fri bok.
+
+Nästa projekt är "[JavaScript Introduction](https://www.edx.org/course/javascript-introduction) på edX. 
 
 ## Vecka 36
 
