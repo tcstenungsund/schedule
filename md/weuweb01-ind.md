@@ -15,6 +15,9 @@ Regler för filnamn:
 •	Undvik STORA bokstäver
 •	Lägg alla filer i samma katalog!
 
+Vi pratade lite om färger och kikade på filmer om hur man väljer färger.
+https://coolors.co/
+
 
 ## Vecka 36
 
