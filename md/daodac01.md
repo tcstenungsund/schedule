@@ -3,6 +3,7 @@
 ## Vecka 35
 
 - Vi går igenom Kapitel 1 i Netacad kursen.<br>
+- Ni börjar läsa Kapitel 2 själva.
 
 
 <!-- -->
