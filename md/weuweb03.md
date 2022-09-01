@@ -12,7 +12,7 @@ De första två projekten är två kurser på edX från utbildningen "[Front-End
 JavaScript
 För att få de kreativa vätskorna att flöda rekommenderas vi att genomföra "[10 Projects everyone should try at least once](https://www.webdesignerdepot.com/2017/11/design-bucket-list-10-projects-everyone-should-try-at-least-once/)". Vår väg till Javascriptexperter börjar i "[MDN Web docs' Introduction](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction#javascript_and_the_ecmascript_specification)" samt "[The history of JavaScript](https://www.techaheadcorp.com/blog/history-of-javascript/)". Sedan tittar vi på "[Learn JAVASCRIPT in just 5 MINUTES (2020)]()" (5min) och "[JavaScript Pro Tips - Code This, NOT That](https://youtu.be/Mus_vwhTCq0)" (12min). Alla lär sig olika, och en resurs att ha som referens är "[Eloquent JavaScript](https://eloquentjavascript.net/)", en fri bok.
 
-Nästa projekt är "[JavaScript Introduction](https://www.edx.org/course/javascript-introduction) på edX. 
+Nästa projekt är kursen "[JavaScript Introduction](https://www.edx.org/course/javascript-introduction)" på edX. 
 
 ## Vecka 36
 
