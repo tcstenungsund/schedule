@@ -2,7 +2,19 @@
 
 ## Vecka 35
 
-Hej
+•	Gå igenom kunskapskrav och vad som förväntas.
+•	GDPR och copyright
+•	Lite lätt om W3C
+•	Enkel introduktion till html 
+
+Ladda ner Notepad++ via Ninite
+
+Regler för filnamn:
+•	Undvik svenska tecken, åäö
+•	Undvik_mellanslag_
+•	Undvik STORA bokstäver
+•	Lägg alla filer i samma katalog!
+
 
 ## Vecka 36
 
