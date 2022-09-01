@@ -1,9 +1,9 @@
 # Loggbok Webbutveckling 2 - 20TEI
 
 ## Vecka 35
-Kursplanering, presentation och introduktion till ämnet.
+Kursplanering, Skolverkets [mål för kursen](https://www.skolverket.se/undervisning/gymnasieskolan/laroplan-program-och-amnen-i-gymnasieskolan/gymnasieprogrammen/amne?url=1530314731%2Fsyllabuscw%2Fjsp%2Fsubject.htm%3FsubjectCode%3DWEU%26lang%3Dsv%26tos%3Dgy%26p%3Dp&sv.url=12.5dfee44715d35a5cdfa92a3#anchor_WEUWEB02) samt en introduktion till ämnet. 
 
-Virtualisering 
+Vad är virtualisering? Vad skiljer full maskinvirtualisering från container-virtualisering?
 
 ![Container virtualisering vs full machine](https://pawseysc.github.io/container-workflows/fig/container_vs_vm.png)
 
@@ -12,7 +12,7 @@ Repetition av kursen Webbutveckling 1.
 ## Vecka 36
 Virtualisering
 
-Prov
+Prov: Repetition HTML & CSS
 
 ## Vecka 37
 Versionshantering
