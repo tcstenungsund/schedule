@@ -3,6 +3,10 @@
 ## Vecka 35
 Kursplanering, presentation och introduktion till ämnet.
 
+Virtualisering 
+
+![Container virtualisering vs full machine](https://pawseysc.github.io/container-workflows/fig/container_vs_vm.png)
+
 Repetition av kursen Webbutveckling 1.
 
 ## Vecka 36
