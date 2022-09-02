@@ -85,4 +85,15 @@ getHtml('index.html')
         });
     }).then(response => {
         groupDropdown();
+
+        console.log(courseParam, courseParam != null && courseParam != '' )
+        if (courseParam != null && courseParam != '' ) { 
+            courseList = document.querySelectorAll('[type*=course]');
+            console.log(courseList);
+            courseList.forEach(courseItem => {
+                if (courseItem.id.toLowerCase() != courseParam.toLowerCase()) {
+                    courseItem.classList.add('hide');
+                }
+            }); 
+        }
     });

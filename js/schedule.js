@@ -29,6 +29,7 @@ async function htmlToDom(html){
     };
     a.appendChild(document.createTextNode("Jump to week"))
     a.style = 'cursor: pointer;';
+    a.classList.add('jump-link');
     a.innerHTML += '<i class="fa-solid fa-arrow-down"></i>';
     document.getElementById("current-week").appendChild(a)
     //Return empty promise? maybe good for async things?

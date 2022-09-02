@@ -81,7 +81,7 @@ main > h1 i{
     background-color: #e4f9e4;
     padding: 0.5em;
 }
-.current-week a{
+.current-week .jump-link{
     display: block;
     text-align: right;
 }

@@ -95,7 +95,7 @@ async function save(){
 async function getSHA(path) {
     console.log("getting sha");
     const result = await window.octokit.rest.repos.getContent({
-      owner: "klovaaxel",
+      owner: "tcstenungsund",
       repo: "schedule",
       branch: 'main',
       path: path,
@@ -112,9 +112,9 @@ async function commitArticle(b64) {
 
   
     const result = await window.octokit.rest.repos.createOrUpdateFileContents({
-      owner: "klovaaxel",
+      owner: "tcstenungsund",
       repo: "schedule",
-      branch: 'dev',
+      branch: 'main',
       path,
       message: `update schedule`,
       content: b64,

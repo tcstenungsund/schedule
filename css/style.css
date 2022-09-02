@@ -15,7 +15,7 @@ html{
     scroll-behavior: smooth;
 }
 .hide{
-    display: none;
+    display: none !important;
 }
 main.schedule > ul > li:last-of-type{ /*Hides last li element (is empty in schedule)*/
     display: none;
@@ -321,4 +321,12 @@ button.save-button:hover {
 .dark pre,
 .oled pre{
     filter: invert(1)
+}
+
+/* Loggbok- or Assignment-only views */
+.loggbok aside, .loggbok h1 {
+    display: none;
+}
+.assignments .branding, .assignments h1, .assignments nav  {
+    display: none;
 }
