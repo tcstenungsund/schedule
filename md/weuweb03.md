@@ -22,6 +22,10 @@ Nästa projekt är kursen "[JavaScript Introduction](https://www.edx.org/course/
 
 Inspiration till automatisering med [n8n.io](https://n8n.io/). Gemensamt försök att knäcka ett [glosförhör](https://playknoword.com/packs/terminology-74y0ygbod1qita8n6smkgr), följt av enskilld erövring av [CSS Diner](https://flukeout.github.io/).
 
+**Veckans sociala medier** 
+
+Vi talar om att [icke-pandemi inte är bättre för alla](https://twitter.com/KarLeia/status/1557091779702190080?s=09&t=qw67H9K95RBTvQWzzyMYbQ), och att [Afrika snart kommer krylla av duktiga mjukvaruingenjörer](https://twitter.com/matteocollina/status/1557397360682176512?s=09&t=ljOAt3VfMMT5LBdDPuURhw). 
+
 ## Vecka 36
 
 
