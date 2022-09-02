@@ -10,13 +10,23 @@ courseParam = urlParams.get("course");
 weekParam = urlParams.get("week");
 link = urlParams.get("link");
 style = urlParams.get("style");
-
+fontSize = urlParams.get("fontsize");
+console.log('param' + fontSize)
 //weeks in school year common variable
 weeks = [36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23];
 
-//Get style from local prefrence if specified
+//Set style from local prefrence if specified
 if(style != null){
     localStorage.setItem('style', style);
+}
+
+//Set font-size from local prefrence if specified
+if(fontSize != null){
+    localStorage.setItem('fontSize', style);
+}
+localFontSize = localStorage.getItem('fontSize');
+if(localFontSize != null){
+    document.body.style.fontSize = fontSize + 'em';
 }
 
 const localStyle = localStorage.getItem('style');
