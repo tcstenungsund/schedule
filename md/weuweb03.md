@@ -20,6 +20,8 @@ Nästa projekt är kursen "[JavaScript Introduction](https://www.edx.org/course/
 
 #### Fredag
 
+Inspiration till automatisering med [n9n.io](https://n8n.io/). Gemensamt försök att knäcka ett [glosförhör](https://playknoword.com/packs/terminology-74y0ygbod1qita8n6smkgr), följt av enskilld erövring av [CSS Diner](https://flukeout.github.io/).
+
 ## Vecka 36
 
 
