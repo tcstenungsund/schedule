@@ -165,6 +165,21 @@ If you want to see a specific groups schedule you can use the dropdown menu abov
 #### Choosing a week
 If you want to see a specific week in the schedule you can use the dropdown menu above the schedules to select a specific week of the school year
 
+#### Customize!
+There are some options on customizing the app to fit you,
+Right now they are kinda hard to change but it's on the roadmap to bouild out a settings page
+##### font size
+You can now change font size!
+To change fontsize you append the fontsize parameter to the URL and then a number, where 0.9 is default.
+Example:
+https://tcstenungsund.github.io/schedule/?fontsize=1.1
+##### Dark/Light Mode!
+There are actually three modes dark, light and oled
+Light is the standard color scheme, Dark is a darker theme, and oled is a pitch black theme for power saving on a oled screen
+To switch between them you append the style parameter to the URL followd by the mode you want, light, dark or oled
+Example:
+https://tcstenungsund.github.io/schedule/?style=dark
+
 ### Teachers
 #### Editing the schedule
 in the schedule you want to edit click on the blue pen at top of the schedule right of the title of the course. 
@@ -187,6 +202,7 @@ When you are done editing the schedule you can go to the bottom of the page and 
 - [ ] Multi-language Support
     - [X] Swedish
     - [ ] English
+- [ ] Settingspage to streamline changing of settings
 
 See the [open issues](https://github.com/klovaaxel/schedule/issues) for a full list of proposed features (and known issues).
 
