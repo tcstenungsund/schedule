@@ -21,6 +21,11 @@ https://coolors.co/
 
 ## Vecka 36
 
+Då vi inte blir så många denna veckan pga andra aktiviteter har vi gjort lite repetition på förra veckan.
+
+Har visat lite snabbt HTMLdogs hemsida. https://htmldog.com/
+En jättebra sida som går igenom mycket om hur man skriver HTML och CSS.
+
 ## Vecka 37
 
 ## Vecka 38
