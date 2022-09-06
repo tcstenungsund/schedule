@@ -18,6 +18,25 @@ Sintel är skapad med *Free och Open Source Software*. Vi ser klippet "[What is 
 
 ## Vecka 36
 
+Vad är webben? Relationen mellan Internet och the World Wide Web. Vad var syftet med WWW och hur hänger det syftet ihop med idealen som Free och Open Source Software och Hacker-kulturen har? 
+
+Vi ser filmen "[The web, past and future](https://youtu.be/cCE2EyV_IiY)" (35 min). 
+
+Dagens övning är att se till att du har ett konto på följande tjänster, och lägga in dessa uppgifter i en lösenordshanterare i en nyinstallerad webbläsare skapad för webbutveckling.
+
+* [Gmail](https://gmail.com) (en seriös address)
+* [LinkedIn](https://www.linkedin.com/)
+* [GitHub](https://github.com/)
+* [CodePen](https://codepen.io/)
+* [Reddit](https://www.reddit.com/)
+* [LastPass](https://www.lastpass.com/)
+
+Webbläsaren ni skall installera är "[Firefox Developer Edition](https://www.mozilla.org/sv-SE/firefox/developer/)" och är speciellt framtagen för webbutveckling. I den skall ni installera följande extensions. 
+
+* https://addons.mozilla.org/sv-SE/firefox/addon/lastpass-password-manager/
+* https://addons.mozilla.org/en-US/firefox/addon/hide-w3schools/
+* https://addons.mozilla.org/sv-SE/firefox/addon/https-everywhere/
+* https://addons.mozilla.org/sv-SE/firefox/addon/privacy-badger17/
 
 ## Vecka 37 
 
