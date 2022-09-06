@@ -38,6 +38,8 @@ Webbläsaren ni skall installera är "[Firefox Developer Edition](https://www.mo
 * [EFF HTTPS Everywhere](https://addons.mozilla.org/sv-SE/firefox/addon/https-everywhere/)
 * [EFF Privacy Badger](https://addons.mozilla.org/sv-SE/firefox/addon/privacy-badger17/)
 
+Kursen har en officiell subreddit på [/r/webweu01](https://www.reddit.com/r/webweu01/).
+
 ## Vecka 37 
 
 
