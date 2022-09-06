@@ -18,7 +18,7 @@ Sintel är skapad med *Free och Open Source Software*. Vi ser klippet "[What is 
 
 ## Vecka 36
 
-Vad är webben? Relationen mellan Internet och the World Wide Web. Vad var syftet med WWW och hur hänger det syftet ihop med idealen som Free och Open Source Software och Hacker-kulturen har? 
+Vad är webben? Relationen mellan Internet och the World Wide Web. Vad var syftet med WWW och hur hänger det syftet ihop med idealen som Free och Open Source Software och Hacker-kulturen har? Vikten av Fri mjukvara blir tydligt i exemplet med Karen Sandler som ni kan höra i talet "[Freedom in My Heart - Lessons from a Cyborg Lawyer](https://youtu.be/qW1h1s_ojpM)" eller läsa om i artikeln "[Why cyborgs need free software](https://superuser.openstack.org/articles/medical-devices-free-software/)". Sedan avrundar vi med lösenordsteori.
 
 Vi ser filmen "[The web, past and future](https://youtu.be/cCE2EyV_IiY)" (35 min). 
 
