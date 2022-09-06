@@ -33,10 +33,10 @@ Dagens övning är att se till att du har ett konto på följande tjänster, och
 
 Webbläsaren ni skall installera är "[Firefox Developer Edition](https://www.mozilla.org/sv-SE/firefox/developer/)" och är speciellt framtagen för webbutveckling. I den skall ni installera följande extensions. 
 
-* https://addons.mozilla.org/sv-SE/firefox/addon/lastpass-password-manager/
-* https://addons.mozilla.org/en-US/firefox/addon/hide-w3schools/
-* https://addons.mozilla.org/sv-SE/firefox/addon/https-everywhere/
-* https://addons.mozilla.org/sv-SE/firefox/addon/privacy-badger17/
+* [LastPass](https://addons.mozilla.org/sv-SE/firefox/addon/lastpass-password-manager/)
+* [Hide w3schools](https://addons.mozilla.org/en-US/firefox/addon/hide-w3schools/)
+* [EFF HTTPS Everywhere](https://addons.mozilla.org/sv-SE/firefox/addon/https-everywhere/)
+* [EFF Privacy Badger](https://addons.mozilla.org/sv-SE/firefox/addon/privacy-badger17/)
 
 ## Vecka 37 
 
