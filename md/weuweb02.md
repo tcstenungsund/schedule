@@ -10,11 +10,9 @@ Vad är virtualisering? Vad skiljer full maskinvirtualisering från container-vi
 Repetition av kursen Webbutveckling 1.
 
 ## Vecka 36
-Virtualisering
+"[Jeffrey Zeldman 20 years of Web Design and Community](https://vimeo.com/219302853)"
 
-[Film](https://vimeo.com/219302853)
-
-Prov: Repetition HTML & CSS
+Prov: [Repetition HTML & CSS](https://lms.netacad.com/mod/quiz/view.php?id=56448311)
 
 ## Vecka 37
 Versionshantering
