@@ -10,8 +10,8 @@
 
 ## Vecka 36
 
-Ni får en timme på er att läsa igenom Kapitel 1 i Netacad.
-Sedan kör vi ett test prov på Kapitel 1, för att ni skall lära er hur det fungerar att göra prov på Netacad.
+ - Ni får en timme på er att läsa igenom Kapitel 1 i Netacad.
+ - Sedan kör vi ett test prov på Kapitel 1, för att ni skall lära er hur det fungerar att göra prov på Netacad.
 
 ## Vecka 37
 
