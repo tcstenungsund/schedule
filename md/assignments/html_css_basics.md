@@ -1,6 +1,6 @@
 # Webbutveckling 1: HTML & CSS Basics
 
-Det är dags att ta de första trevande stegen in i webbutvecklingens vackra värld! I denna uppgiften får du lite HTML- och CSS-kod och skall ändra värdena tills du får ett bra resultat!
+Det är dags att ta de första trevande stegen in i webbutvecklingens vackra värld!
 ---
 
 ## Förutsättningar
