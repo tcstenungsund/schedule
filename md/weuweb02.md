@@ -15,7 +15,7 @@ Repetition av kursen Webbutveckling 1.
 Prov: [Repetition HTML & CSS](https://lms.netacad.com/mod/quiz/view.php?id=56448311)
 
 ## Vecka 37
-Versionshantering
+Virtualisering, installation av mjukvara och CMS.
 
 ## Vecka 38
 CMS
@@ -43,7 +43,7 @@ Prov
 **HÖSTLOV**
 
 ## Vecka 45
-Individuellt projekt
+Versionshantering
 
 ## Vecka 46
 Individuellt projekt
