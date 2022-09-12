@@ -28,10 +28,10 @@ En jättebra sida som går igenom mycket om hur man skriver HTML och CSS.
 
 ## Vecka 37
 
-• Vi kör lite mera repetition på det vi gick igenom på första lektionen.
-• Tar upp htmldog igen.
-• Vi börjar gå igenom CSS.
-• Vi börjar prata om inlämningsuppgiften "Min Fula Lilla Sida" och vad den innebär.
+* Vi kör lite mera repetition på det vi gick igenom på första lektionen.
+* Tar upp htmldog igen.
+* Vi börjar gå igenom CSS.
+* Vi börjar prata om inlämningsuppgiften "Min Fula Lilla Sida" och vad den innebär.
 
 ## Vecka 38
 
