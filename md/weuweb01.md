@@ -20,7 +20,7 @@ Sintel är skapad med *Free och Open Source Software*. Vi ser klippet "[What is 
 
 Vad är webben? Relationen mellan Internet och the World Wide Web. Vad var syftet med WWW och hur hänger det syftet ihop med idealen som Free och Open Source Software och Hacker-kulturen har? Vikten av Fri mjukvara blir tydligt i exemplet med Karen Sandler som ni kan höra i talet "[Freedom in My Heart - Lessons from a Cyborg Lawyer](https://youtu.be/qW1h1s_ojpM)" eller läsa om i artikeln "[Why cyborgs need free software](https://superuser.openstack.org/articles/medical-devices-free-software/)". Sedan avrundar vi med lösenordsteori.
 
-Vi ser filmen "[The web, past and future](https://youtu.be/cCE2EyV_IiY)" (35 min). 
+Vi ser dokumentären "[The web, past and future](https://youtu.be/cCE2EyV_IiY)" (35 min). 
 
 Dagens övning är att se till att du har ett konto på följande tjänster, och lägga in dessa uppgifter i en lösenordshanterare i en nyinstallerad webbläsare skapad för webbutveckling.
 
@@ -42,6 +42,15 @@ Kursen har en officiell subreddit på [/r/webweu01](https://www.reddit.com/r/web
 
 ## Vecka 37 
 
+#### Måndag
+
+Dokumentären "The web, past and future" introducerade oss till Tim Berners-Lee och W3C. Utifrån det talar vi om http, HTML och CSS. Vi lär oss att HTML strukturerar upp information med taggar för att webbläsaren skall förstå. 
+
+#### Tisdag
+
+Hur är CSS strukturerat och hur använder man det? Några vanliga värden och 
+
+![Selektor, egenskap och värde](https://ukacademe.com/Images/WebDevelopment/CSS/Java%20Script_CSS-Syntax_1560957204.jpg)
 
 ## Vecka 38 
 
