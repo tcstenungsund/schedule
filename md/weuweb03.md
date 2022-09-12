@@ -30,9 +30,12 @@ Veckan ägnas åt att komma beta av så mycket som möjligt av edX-kursen.
 
 ## Vecka 37
 
+#### Måndag
+
 Med utgångspunkt i artikeln [Case study: web design focused on interaction design.](https://medium.com/design-code-repository/case-study-web-design-focused-on-interaction-design-3834617864d9) talar vi om projekt, samt hur man bemöter och hanterar både kunder och chefer. Vi lider med ["The Expert"](https://youtu.be/BKorP55Aqvg) och skrattar med ["Let's deploy to production"](https://youtu.be/5p8wTOr8AbU)-guy. 
 
 *Djupdykning:* Moderna webbtekniker 
+
 Ett ämne per grupp och en 5-10 minuters presentation i slutet av lektionen. 
 * [Anticipatory Design](https://www.webdesignerdepot.com/2018/09/streamlining-ux-with-anticipatory-design/)
 * [Intrinsic Web Design](https://www.webdesignerdepot.com/2018/05/a-simple-introduction-to-intrinsic-web-design/)
@@ -40,6 +43,10 @@ Ett ämne per grupp och en 5-10 minuters presentation i slutet av lektionen.
 * [Living Style Guide](https://www.webdesignerdepot.com/2018/01/how-to-create-a-living-style-guide/)
 
 I samband med ovanstående talade vi om pre-processorspråket [SASS](https://sass-lang.com/) och taskrunners som Gulp, Grunt och [Node Task runner](https://www.npmjs.com/package/node-task-runner).
+
+#### Fredag
+
+*Veckans sociala medier:* 
 
 ## Vecka 38
 
