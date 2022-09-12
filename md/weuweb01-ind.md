@@ -35,6 +35,9 @@ En jättebra sida som går igenom mycket om hur man skriver HTML och CSS.
 
 ## Vecka 38
 
+* Vi skall prata lite om the box model.
+* Vi skall prata om Jeffrey Zeldman och se en liten dokumentär om honom.
+
 ## Vecka 39
 
 ## Vecka 40
