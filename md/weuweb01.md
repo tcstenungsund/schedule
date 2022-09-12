@@ -50,7 +50,7 @@ Dokumentären "The web, past and future" introducerade oss till Tim Berners-Lee 
 
 Hur är CSS strukturerat och hur använder man det? Några vanliga värden och 
 
-![Selektor, egenskap och värde](https://carbon.now.sh/380ef88d-70c7-460b-8872-e4c8b6d60ec7)
+![Selektor, egenskap och värde]([https://carbon.now.sh/380ef88d-70c7-460b-8872-e4c8b6d60ec7](https://carbon.now.sh/?bg=rgba%28171%2C+184%2C+195%2C+1%29&t=seti&wt=none&l=auto&width=680&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=56px&ph=56px&ln=false&fl=1&fm=Hack&fs=14px&lh=133%25&si=false&es=2x&wm=false))
 
 ## Vecka 38 
 
