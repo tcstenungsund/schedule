@@ -50,7 +50,7 @@ Dokumentären "The web, past and future" introducerade oss till Tim Berners-Lee 
 
 Hur är CSS strukturerat och hur använder man det? Några vanliga värden och 
 
-![Selektor, egenskap och värde](https://ukacademe.com/Images/WebDevelopment/CSS/Java%20Script_CSS-Syntax_1560957204.jpg)
+![Selektor, egenskap och värde](blob:https://carbon.now.sh/380ef88d-70c7-460b-8872-e4c8b6d60ec7)
 
 ## Vecka 38 
 
