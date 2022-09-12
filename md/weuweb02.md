@@ -17,6 +17,10 @@ Prov: [Repetition HTML & CSS](https://lms.netacad.com/mod/quiz/view.php?id=56448
 ## Vecka 37
 Virtualisering, installation av mjukvara och CMS.
 
+* [Lando - Installation Windows](https://docs.lando.dev/getting-started/installation.html#windows)
+* [Microsoft - Enable Hyper-V](https://docs.microsoft.com/sv-se/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v)
+* [Lando - Latest stable release](https://github.com/lando/lando/releases/latest)
+
 ## Vecka 38
 CMS
 
