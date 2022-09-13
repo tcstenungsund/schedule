@@ -54,7 +54,7 @@ urlPrefix = 'md/';
 urlSuffix = '.md'
 url = urlPrefix + courseParam + urlSuffix; //censored for github
 //Link to edit the md file
-mdEditUrl = 'editor.html?link=';
+mdEditUrl = 'https://github.com/tcstenungsund/schedule/edit/main/md/';
 
 // Returns the ISO week of the date.
 // Code modified version of https://weeknumber.com/how-to/javascript.
@@ -286,7 +286,7 @@ async function groupDropdown(){
 async function addEditLink(link){
     //Edit link
     editLink = document.createElement("a");
-    editLink.href = mdEditUrl + link;
+    editLink.href = mdEditUrl + link + urlSuffix;
     editLink.innerHTML = '<i class="fa-solid fa-pen"></i>'
 
     title = document.getElementById("main").firstChild;
