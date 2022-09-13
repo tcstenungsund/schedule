@@ -30,7 +30,7 @@ Vi ser - The art of innovation | Guy Kawasaki | TEDxBerkeley
 
 Måndag:
 
-\[UF kickoff på SvenskaMässan i Göteborg mellan klockan 13-15\].
+UF kickoff på SvenskaMässan i Göteborg mellan klockan 13-15.
 
 Vi samlas vid Nösnäsrondellen klockan 11.30. Ät lunch innan.
 
