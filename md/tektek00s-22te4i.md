@@ -4,11 +4,40 @@
 
 **Måndag:**
 
+Vi uppdaterar vår LinkedIn profil.
+
+[LinkedIn cheat sheet](https://www.socialtalent.com/blog/recruitment/the-ultimate-linkedin-cheat-sheet-infographic)
+
+Ett par videos med tips:
+
+*   [https://youtu.be/X3OzK2w8kUs](https://www.youtube.com/watch?v=X3OzK2w8kUs)
+*   [https://youtu.be/ACLeoodZH6s](https://www.youtube.com/watch?v=ACLeoodZH6s)
+
 **Torsdag:**
+
+Arbete med LinkedIn profil.
 
 ## Vecka 36
 
+**Måndag:**
+
+CV och personligt brev. Inför APL ansökan behöver vi ha ett uppdaterat CV och personligt brev.
+
+Tips och mallar finner du här - [https://arbetsformedlingen.se/for-arbetssokande/cv-ansokan-och-intervju](https://arbetsformedlingen.se/for-arbetssokande/cv-ansokan-och-intervju)
+
+**Torsdag:**
+
+Studiedag.
+
 ## Vecka 37
+
+**Måndag:**
+
+Lämna in CV, personligt brev och en .pdf på den jobbannons som ni riktat er mot.
+
+**Torsdag:** 
+
+Studiedag. Gå igenom första modulen på CLOUD SECURITY kursen.
 
 ## Vecka 38
 
