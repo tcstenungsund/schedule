@@ -23,6 +23,8 @@ Uppgiften för dagen är att installera Docker (via lando). Det innebär att du 
 * [Microsoft - Enable Hyper-V](https://docs.microsoft.com/sv-se/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v)
 * [Lando - Senaste stabila versionen](https://github.com/lando/lando/releases/latest)
 
+Lär er och testa [grundläggande Docker-kommandon](https://awstip.com/docker-commands-for-beginners-87dfff78259c). Prova att dra igång några kontainrar. Till exempel någon av följande: [ReactOS(https://github.com/hectorm/docker-qemu-reactos), [Haiku OS](https://github.com/hectorm/docker-qemu-haiku), [Hannah Montana Linux](https://hub.docker.com/r/azurfen/hannah_montana_linux) eller något annat projekt från [Docker Hub](https://hub.docker.com/).
+
 ## Vecka 38
 CMS
 
