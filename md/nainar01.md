@@ -2,9 +2,28 @@
 
 ## Vecka 35
 
+Onsdag:
+Laboration - 6.4.3.5 Lab - Building a Switch and Router Network
+
 ## Vecka 36
 
 Genomgång kapitel 1.
+
+Onsdag:
+Laboration - 6.4.3.5 Lab - Building a Switch and Router Network
+Vi gör om förra veckans labb. Denna gången ska ni testa ett anta SHOW kommandon och lämna in resultatet.
+
+Lämna in ett word dokument där ni kopierar och klipper in följande:
+
+Show ip interface brief
+
+Show running-configuration
+
+Show ip route
+
+Show history
+
+Extra uppgift – skapa SSH anslutning – se 1.3.4 (kommer med i running-configuration)
 
 ## Vecka 37
 
