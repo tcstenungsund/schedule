@@ -52,8 +52,7 @@ Hur är CSS strukturerat och hur använder man det? Några vanliga värden och e
 
 ![Selektor, egenskap och värde](https://pbs.twimg.com/media/FceO6oPX0AE0sAs?format=jpg&name=medium)
 
-[HTML & CSS Basics](https://github.com/tcstenungsund/schedule/blob/main/md/assignments/html_css_basics.md)
-[It's Learning](https://stenungsund.itslearning.com/ContentArea/ContentArea.aspx?LocationID=6527&LocationType=1)
+Uppgift: [HTML & CSS Basics](https://github.com/tcstenungsund/schedule/blob/main/md/assignments/html_css_basics.md)
 
 ## Vecka 38 
 
