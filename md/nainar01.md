@@ -4,7 +4,7 @@
 
 ## Vecka 36
 
-Genomgång kapitel 1
+Genomgång kapitel 1.
 
 ## Vecka 37
 
@@ -97,4 +97,3 @@ PÅSKLOV
 ## Vecka 24
 
 SOMMARLOV
-
