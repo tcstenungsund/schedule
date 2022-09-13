@@ -15,17 +15,17 @@
 
 ## Vecka 37
 
-- Vi går igenom resten av kapitel 3, ni får även läsa en del själva.
+- Vi går igenom halva kapitel 3, ni får även läsa en del själva.
 
 ## Vecka 38
 
 - Halva klassen skall labba med datorer.
-- Andra halvan går igenom halva Kapitel 3 med mig.
+- Andra halvan går igenom andra halva Kapitel 3 med mig.
 
 ## Vecka 39
 
 - Halva klassen skall labba med datorer.
-- Andra halvan går igenom halva Kapitel 3 med mig.
+- Andra halvan går igenom andra halva Kapitel 3 med mig.
 
 ## Vecka 40
 
