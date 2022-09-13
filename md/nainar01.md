@@ -8,6 +8,8 @@ Genomgång kapitel 1
 
 ## Vecka 37
 
+Genomgång Kapitel 2
+
 ## Vecka 38
 
 ## Vecka 39
