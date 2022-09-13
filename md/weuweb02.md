@@ -3,19 +3,21 @@
 ## Vecka 35
 Kursplanering, Skolverkets [mål för kursen](https://www.skolverket.se/undervisning/gymnasieskolan/laroplan-program-och-amnen-i-gymnasieskolan/gymnasieprogrammen/amne?url=1530314731%2Fsyllabuscw%2Fjsp%2Fsubject.htm%3FsubjectCode%3DWEU%26lang%3Dsv%26tos%3Dgy%26p%3Dp&sv.url=12.5dfee44715d35a5cdfa92a3#anchor_WEUWEB02) samt en introduktion till ämnet. 
 
-Vad är virtualisering? Vad skiljer full maskinvirtualisering från container-virtualisering?
+Vad är virtualisering? Vad skiljer full maskinvirtualisering från container-virtualisering? Docker, VMware, Proxmox, Kubernetes, Vagrant. 
 
 ![Container virtualisering vs full machine](https://pawseysc.github.io/container-workflows/fig/container_vs_vm.png)
 
 Repetition av kursen Webbutveckling 1.
 
 ## Vecka 36
-"[Jeffrey Zeldman 20 years of Web Design and Community](https://vimeo.com/219302853)"
+"[Jeffrey Zeldman 20 years of Web Design and Community](https://vimeo.com/219302853)" 
+
+Jeffrey Zeldman är en legend i webbutvecklingsbranschen av samma dignitet som Tim Berners-Lee. I dokumentären ovan får lära oss mer om hans bakgrund, varför han började med webbutveckling och vad han bidragit med. Se gärna vidare på webtidningen [A List Apart](https://alistapart.com/) som han grundade. 
 
 [Prov: Repetition HTML & CSS](https://lms.netacad.com/mod/quiz/view.php?id=56448311)
 
 ## Vecka 37
-Virtualisering, installation av mjukvara och CMS.
+Installation av mjukvara för virtualisering.
 
 [Uppgift: Workspace setup](https://github.com/tcstenungsund/schedule/blob/main/md/assignments/workspace_setup.md)
 
@@ -32,10 +34,18 @@ Ta reda på vad följande kommandon gör och testa dem i din miljö.
 Prova att dra igång några containrar. Till exempel [ReactOS](https://github.com/hectorm/docker-qemu-reactos), [Haiku OS](https://github.com/hectorm/docker-qemu-haiku) eller något annat projekt från [Docker Hub](https://hub.docker.com/).
 
 ## Vecka 38
-CMS
+
+Genomgång av provet från vecka 36. 
+
+Introduktion till CMS:er. 
+
+Vi ser de första 15 avsnitten av instruktionsserien. 
 
 ## Vecka 39
-CMS
+
+Starta en CMS med hjälp av Docker och Lando. 
+
+[Lando-instruktion](https://docs.lando.dev/drupal/getting-started.html#quick-start)
 
 ## Vecka 40
 CMS
