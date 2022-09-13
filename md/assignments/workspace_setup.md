@@ -1,35 +1,35 @@
-# Webbutveckling 1: Min Fula Lilla Sida
+# Webbutveckling 2: Workspace setup
 
-Kort beskrivning
+För all mjukvaruutveckling behövs en vettig miljö. Den miljön kan inkludera olika saker, men i den här kursen så behöver vi en webbserver, databasserver och lite annat trevligt. Det verktyg som är absolut vanligast idag är containervirtualiseringsmjukvaran Docker. 
 ---
 
 ## Förutsättningar
 
-Enskild uppgift.
+Enskild uppgift. Windows 10/11 Professional eller bättre. PowerShell.
 
 ## Resurser
 
-*   [Valfri webbläsare](https://www.mozilla.org/sv-SE/firefox/new/)
-*   [Notepad++](https://notepad-plus-plus.org/)
-*   [7Zip](https://www.7-zip.org/)
-
-> Tips! Om du kör Windows som OS kan mjukvarorna som nämns ovan installeras via den utmärkta tjänsten [Ninite](https://ninite.com/7zip-firefox-notepadplusplus/). Använder du Linux så finns de tillgängliga i din vanliga pakethanterare.
+*   [Lando - Installation - Windows](https://docs.lando.dev/getting-started/installation.html#windows)
+*   [Microsoft - Enable Hyper-V](https://docs.microsoft.com/sv-se/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v)
+*   [Lando - Senaste stabila versionen](https://github.com/lando/lando/releases/latest)
 
 ## Uppgiftsbeskrivning
 
-Beskrivning av uppgift
+Du skall aktivera Hyper-V i Windows, ladda ned den senaste stabila versionen av mjukvaran Lando och installera den. Lando inkluderar Docker och gör några trevliga inställningar automatiskt åt dig. När Docker är installerat så kör du följande kommando och läser igenom getting-started-tutorialen. 
+
+    docker run -d -p 80:80 docker/getting-started
 
 ## Förväntat resultat
 
-Beskrivning av vad uppgiften skall resultera i
+En färdig installation av Docker, där du kan starta virtuella containrar. 
 
 ### Vilka filer?
 
-Vad som skall lämnas in
+Ingenting skall lämnas in.
 
 ### Var skall de lämnas in?
 
-Vart de skall lämnas in
+Ingenting skall lämnas in. 
 
 ---
 
