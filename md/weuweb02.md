@@ -12,7 +12,7 @@ Repetition av kursen Webbutveckling 1.
 ## Vecka 36
 "[Jeffrey Zeldman 20 years of Web Design and Community](https://vimeo.com/219302853)"
 
-Prov: [Repetition HTML & CSS](https://lms.netacad.com/mod/quiz/view.php?id=56448311)
+[Prov: Repetition HTML & CSS](https://lms.netacad.com/mod/quiz/view.php?id=56448311)
 
 ## Vecka 37
 Virtualisering, installation av mjukvara och CMS.
