@@ -5,17 +5,27 @@ För all mjukvaruutveckling behövs en vettig miljö. Den miljön kan inkludera 
 
 ## Förutsättningar
 
-Enskild uppgift. Windows 10/11 Professional eller bättre. PowerShell.
+Enskild uppgift. Windows 10/11 Professional eller bättre. 
 
 ## Resurser
 
+*   [Lando - Installation - Linux](https://docs.lando.dev/getting-started/installation.html#debian) 
 *   [Lando - Installation - Windows](https://docs.lando.dev/getting-started/installation.html#windows)
 *   [Microsoft - Enable Hyper-V](https://docs.microsoft.com/sv-se/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v)
 *   [Lando - Senaste stabila versionen](https://github.com/lando/lando/releases/latest)
 
 ## Uppgiftsbeskrivning
 
-Du skall aktivera Hyper-V i Windows, ladda ned den senaste stabila versionen av mjukvaran Lando och installera den. Lando inkluderar Docker och gör några trevliga inställningar automatiskt åt dig. När Docker är installerat så kör du följande kommando och läser igenom getting-started-tutorialen. 
+Alla kommandon skall köras i ett shell som bash i Linux eller PowerShell i Windows. 
+
+I Linux räcker det att köra följande två kommandon. 
+
+    wget https://files.lando.dev/installer/lando-x64-stable.deb
+    sudo dpkg -i lando-x64-stable.deb
+
+Om du använder Windows måste du först aktivera Hyper-V genom att följa Microsofts guide, ladda ned den senaste stabila versionen av mjukvaran Lando och installera den. Lando inkluderar Docker och gör några trevliga inställningar automatiskt åt dig. 
+
+När Docker är installerat så kör du följande kommando och läser igenom getting-started-tutorialen. 
 
     docker run -d -p 80:80 docker/getting-started
 
