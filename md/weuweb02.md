@@ -17,17 +17,19 @@ Repetition av kursen Webbutveckling 1.
 ## Vecka 37
 Virtualisering, installation av mjukvara och CMS.
 
-Uppgiften för dagen är att installera Docker (via lando). Det innebär att du behöver aktivera Hyper-V, ladda ned senaste stabila versionen av Lando och installera den. För att göra detta krävs grundläggande förståelse för hur man laddar ned en fil från nätet, enkel filhantering samt kunskap om hur man dubbelklickar. 
+[Uppgift: Workspace setup](https://github.com/tcstenungsund/schedule/blob/main/md/assignments/workspace_setup.md)
 
-* [Uppgift: Lando - Installation Windows](https://docs.lando.dev/getting-started/installation.html#windows)
-* [Microsoft - Enable Hyper-V](https://docs.microsoft.com/sv-se/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v)
-* [Lando - Senaste stabila versionen](https://github.com/lando/lando/releases/latest)
+Ta reda på vad följande kommandon gör och testa dem i din miljö.
 
-Kör följande kommando och läs igenom getting-started-tutorialen. 
+    docker ps 
+    docker up 
+    docker down 
+    docker start 
+    docker stop 
+    docker kill 
+    docker exec -it <container-name> bash
 
-    docker run -d -p 80:80 docker/getting-started
-
-Lär er och testa [grundläggande Docker-kommandon](https://awstip.com/docker-commands-for-beginners-87dfff78259c). Prova att dra igång några containrar. Till exempel [ReactOS](https://github.com/hectorm/docker-qemu-reactos), [Haiku OS](https://github.com/hectorm/docker-qemu-haiku) eller något annat projekt från [Docker Hub](https://hub.docker.com/).
+Prova att dra igång några containrar. Till exempel [ReactOS](https://github.com/hectorm/docker-qemu-reactos), [Haiku OS](https://github.com/hectorm/docker-qemu-haiku) eller något annat projekt från [Docker Hub](https://hub.docker.com/).
 
 ## Vecka 38
 CMS
