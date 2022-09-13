@@ -48,7 +48,7 @@ Dokumentären "The web, past and future" introducerade oss till Tim Berners-Lee 
 
 #### Tisdag
 
-Hur är CSS strukturerat och hur använder man det? Några vanliga värden och egenskaper. 
+Hur är CSS strukturerat och hur använder man det? Några vanliga värden och egenskaper. CSS styr färg och position. Om HTML är till för webbläsaren så är CSS till för människor. 
 
 ![Selektor, egenskap och värde](https://pbs.twimg.com/media/FceO6oPX0AE0sAs?format=jpg&name=medium)
 
