@@ -2,15 +2,31 @@
 
 ## Vecka 35
 
-Onsdag:
-Laboration - 6.4.3.5 Lab - Building a Switch and Router Network
-
-## Vecka 36
+**Tisdag och Torsdag:**
 
 Genomgång kapitel 1.
 
-Onsdag:
+**Onsdag:**  
 Laboration - 6.4.3.5 Lab - Building a Switch and Router Network
+
+Vi testar en enkel nätverkslaboration.
+
+Använd Putty.
+
+Stäng av brandvägg.
+
+Stäng av WIFI.
+
+Kolla enhetshanteraren efter COM port.
+
+## Vecka 36
+
+**Tisdag och Torsdag:**
+
+Genomgång kapitel 1 färdigt.
+
+**Onsdag:**  
+Laboration - 6.4.3.5 Lab - Building a Switch and Router Network  
 Vi gör om förra veckans labb. Denna gången ska ni testa ett anta SHOW kommandon och lämna in resultatet.
 
 Lämna in ett word dokument där ni kopierar och klipper in följande:
@@ -23,23 +39,70 @@ Show ip route
 
 Show history
 
-Extra uppgift – skapa SSH anslutning – se 1.3.4 (kommer med i running-configuration)
+**Extra uppgift** – skapa SSH anslutning – se 1.3.4 (kommer med i running-configuration)
 
 ## Vecka 37
 
-Genomgång Kapitel 2
+**Tisdag:**
+
+Genomgång Kapitel 2 färdig. Gör interaktiva uppgifter och quiz.
+
+**Onsdag:**
+
+Kort genomgång av kapitel 3 VLAN.  
+Laboration - 3.4.6 Lab - Configure VLANs and Trunking
+
+**Torsdag:**
+
+Genomgång av kapitel 3.
 
 ## Vecka 38
 
+**Tisdag:**
+
+**Onsdag:**
+
+**Torsdag:**
+
 ## Vecka 39
+
+**Tisdag:**
+
+**Onsdag:**
+
+**Torsdag:**
 
 ## Vecka 40
 
+**Tisdag:**
+
+**Onsdag:**
+
+**Torsdag:**
+
 ## Vecka 41
+
+**Tisdag:**
+
+**Onsdag:**
+
+**Torsdag:**
 
 ## Vecka 42
 
+**Tisdag:**
+
+**Onsdag:**
+
+**Torsdag:**
+
 ## Vecka 43
+
+**Tisdag:**
+
+**Onsdag:**
+
+**Torsdag:**
 
 ## Vecka 44
 
