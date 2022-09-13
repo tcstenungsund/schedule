@@ -47,19 +47,35 @@ Starta en CMS med hjälp av Docker och Lando.
 
 [Lando-instruktion](https://docs.lando.dev/drupal/getting-started.html#quick-start)
 
-## Vecka 40
-CMS
+Vi ser avsnitt 16 - 31 av instruktionsserien. 
 
-Test
+Läxa till vecka 40. 
+
+## Vecka 40
+CMS 
+
+Vi ser avsnitt 34 - 40 av instruktionsserien. 
 
 ## Vecka 41
 CMS
 
+Vi ser avsnitt 43 - 51 av instruktionsserien. 
+
+Läxa till vecka 42. 
+
 ## Vecka 42
 CMS
 
+Vi ser avsnitt 52 - 62 av instruktionsserien. 
+
+Teman i en CMS. 
+
+Test på läxan.
+
 ## Vecka 43
 CMS
+
+Arbetsflöde och versionshantering
 
 Prov
 
@@ -71,6 +87,8 @@ Versionshantering
 
 ## Vecka 46
 Individuellt projekt
+
+Test på versionshantering
 
 ## Vecka 47
 Individuellt projekt
