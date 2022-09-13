@@ -42,7 +42,7 @@ Ett ämne per grupp och en 5-10 minuters presentation i slutet av lektionen.
 * [Self-Documenting CSS](https://keithjgrant.com/posts/2017/06/self-documenting-css/) 
 * [Living Style Guide](https://www.webdesignerdepot.com/2018/01/how-to-create-a-living-style-guide/)
 
-I samband med ovanstående talade vi om pre-processorspråket [SASS](https://sass-lang.com/) och taskrunners som Gulp, Grunt och [Node Task runner](https://www.npmjs.com/package/node-task-runner). Dessutom behandlar vi Object Oriented CSS och BEM, vilket är riktlinjer för hur man använder CSS. Läs gärna också artikeln "[Modern alternatives to BEM](https://daverupert.com/2022/08/modern-alternatives-to-bem/)" som bara är några dagar gammal. 
+I samband med ovanstående talade vi om pre-processorspråket [SASS](https://sass-lang.com/) och taskrunners som Gulp, Grunt och [Node Task runner](https://www.npmjs.com/package/node-task-runner). Dessutom behandlar vi Object Oriented CSS och BEM, vilket är riktlinjer för hur man använder CSS. Läs gärna också artikeln "[Modern alternatives to BEM](https://daverupert.com/2022/08/modern-alternatives-to-bem/)" som bara är några dagar gammal. Ett exempel på mjukvara för en living style guide är [DocumentCSS](https://documentcss.com/)".
 
 #### Fredag
 
