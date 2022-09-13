@@ -4,9 +4,9 @@
 
 ## Vecka 36
 
-## Vecka 37
+Genomgång kapitel 1
 
-Tisdag: Genomgång av kapitel 2.
+## Vecka 37
 
 ## Vecka 38
 
@@ -22,7 +22,7 @@ Tisdag: Genomgång av kapitel 2.
 
 ## Vecka 44
 
-**HÖSTLOV**
+HÖSTLOV
 
 ## Vecka 45
 
@@ -42,7 +42,7 @@ Tisdag: Genomgång av kapitel 2.
 
 ## Vecka 53
 
-**VINTERLOV**
+VINTERLOV
 
 ## Vecka 2
 
@@ -56,7 +56,7 @@ Tisdag: Genomgång av kapitel 2.
 
 ## Vecka 7
 
-**SPORTLOV**
+SPORTLOV
 
 ## Vecka 8
 
@@ -72,7 +72,7 @@ Tisdag: Genomgång av kapitel 2.
 
 ## Vecka 14
 
-**PÅSKLOV**
+PÅSKLOV
 
 ## Vecka 15
 
@@ -94,4 +94,5 @@ Tisdag: Genomgång av kapitel 2.
 
 ## Vecka 24
 
-**SOMMARLOV**
+SOMMARLOV
+
