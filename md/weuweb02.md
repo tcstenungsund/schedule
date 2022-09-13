@@ -27,7 +27,7 @@ Kör följande kommando och läs igenom getting-started-tutorialen.
 
     docker run -d -p 80:80 docker/getting-started
 
-Lär er och testa [grundläggande Docker-kommandon](https://awstip.com/docker-commands-for-beginners-87dfff78259c). Prova att dra igång några kontainrar. Till exempel [ReactOS](https://github.com/hectorm/docker-qemu-reactos), [Haiku OS](https://github.com/hectorm/docker-qemu-haiku) eller något annat projekt från [Docker Hub](https://hub.docker.com/).
+Lär er och testa [grundläggande Docker-kommandon](https://awstip.com/docker-commands-for-beginners-87dfff78259c). Prova att dra igång några containrar. Till exempel [ReactOS](https://github.com/hectorm/docker-qemu-reactos), [Haiku OS](https://github.com/hectorm/docker-qemu-haiku) eller något annat projekt från [Docker Hub](https://hub.docker.com/).
 
 ## Vecka 38
 CMS
