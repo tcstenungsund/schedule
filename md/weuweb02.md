@@ -17,6 +17,8 @@ Prov: [Repetition HTML & CSS](https://lms.netacad.com/mod/quiz/view.php?id=56448
 ## Vecka 37
 Virtualisering, installation av mjukvara och CMS.
 
+Uppgiften för dagen är att installera Docker (via lando). Det innebär att du behöver aktivera Hyper-V, ladda ned senaste stabila versionen av Lando och installera den. För att göra detta krävs grundläggande förståelse för hur man laddar ned en fil från nätet, enkel filhantering samt kunskap om hur man dubbelklickar. 
+
 * [Lando - Installation Windows](https://docs.lando.dev/getting-started/installation.html#windows)
 * [Microsoft - Enable Hyper-V](https://docs.microsoft.com/sv-se/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v)
 * [Lando - Latest stable release](https://github.com/lando/lando/releases/latest)
