@@ -52,22 +52,47 @@ Hur är CSS strukturerat och hur använder man det? Några vanliga värden och e
 
 ![Selektor, egenskap och värde](https://pbs.twimg.com/media/FceO6oPX0AE0sAs?format=jpg&name=medium)
 
-Uppgift: [HTML & CSS Basics](https://github.com/tcstenungsund/schedule/blob/main/md/assignments/html_css_basics.md)
+[Uppgift: HTML & CSS Basics](https://github.com/tcstenungsund/schedule/blob/main/md/assignments/html_css_basics.md)
 
 ## Vecka 38 
 
+#### Måndag
+
+Vi slutför uppgiften HTML & CSS Basics. 
+
+#### Tisdag
+
+Genomgång moment 1 av HTML & CSS. 
+
+Påbörjar nästa uppgift. 
 
 ## Vecka 39
 
+#### Måndag
+
+Fortsätter arbeta med uppgiften. 
+
+#### Tisdag
+
+Färglära. 
 
 ## Vecka 40
-  
+
+#### Måndag 
+
+Fortsätter arbeta med uppgiften. 
+
+#### Tisdag 
+
+Genomgång av moment 2 av HTML & CSS. 
 
 ## Vecka 41
 
+Positionering och layout
 
 ## Vecka 42
 
+Genomgång av moment 3 av HTML & CSS. 
 
 ## Vecka 43
 
@@ -78,9 +103,11 @@ Uppgift: [HTML & CSS Basics](https://github.com/tcstenungsund/schedule/blob/main
 
 ## Vecka 45
 
+Deadline för uppgiften. 
 
 ## Vecka 46
 
+Prov på HTML & CSS. 
 
 ## Vecka 47
 
