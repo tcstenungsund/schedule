@@ -2,15 +2,40 @@
 
 ## Vecka 35
 
+Vecka 34 - Uppstarts vecka! Vi ska skapa en LinkedIn profil.
+
 [LinkedIn cheat sheet](https://www.socialtalent.com/blog/recruitment/the-ultimate-linkedin-cheat-sheet-infographic)
 
-Ett par videos med tips: 
-* [https://youtu.be/X3OzK2w8kUs](https://www.youtube.com/watch?v=X3OzK2w8kUs)
-* [https://youtu.be/ACLeoodZH6s](https://www.youtube.com/watch?v=ACLeoodZH6s)
+Ett par videos med tips:
+
+*   [https://youtu.be/X3OzK2w8kUs](https://www.youtube.com/watch?v=X3OzK2w8kUs)
+*   [https://youtu.be/ACLeoodZH6s](https://youtu.be/ACLeoodZH6s)
+
+**Måndag och Fredag:**
+
+Arbeta med er LinkedIn profil. Tag bild utomhus, balkongen funkar bra.
 
 ## Vecka 36
 
+**Måndag:**
+
+Introduktion till kursen - IoT Fundamentals: Connecting Things
+
+Genomgång av kapitel 1.1
+
+**Fredag:**
+
+Studiedag.
+
 ## Vecka 37
+
+**Måndag:**
+
+Genomgång av kapitel 1 färdig.
+
+**Fredag:**
+
+Genomgång av kapitel 2.
 
 ## Vecka 38
 
@@ -99,4 +124,3 @@ PÅSKLOV
 ## Vecka 24
 
 SOMMARLOV
-
