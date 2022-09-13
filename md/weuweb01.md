@@ -44,7 +44,7 @@ Kursen har en officiell subreddit på [/r/webweu01](https://www.reddit.com/r/web
 
 #### Måndag
 
-Dokumentären "The web, past and future" introducerade oss till Tim Berners-Lee och W3C. Utifrån det talar vi om http, HTML och CSS. Vi lär oss att HTML strukturerar upp information med taggar för att webbläsaren skall förstå. 
+Dokumentären "The web, past and future" introducerade oss till Tim Berners-Lee och [W3C](https://en.wikipedia.org/wiki/World_Wide_Web_Consortium). Utifrån det talar vi om [http](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol), [HTML](https://simple.wikipedia.org/wiki/HTML) och [CSS](https://en.wikipedia.org/wiki/CSS). Vi lär oss att HTML strukturerar upp information med taggar för att webbläsaren skall förstå. 
 
 #### Tisdag
 
