@@ -19,7 +19,7 @@ Jeffrey Zeldman är en legend i webbutvecklingsbranschen av samma dignitet som T
 ## Vecka 37
 Installation av mjukvara för virtualisering.
 
-[Uppgift: Workspace setup](https://github.com/tcstenungsund/schedule/blob/main/md/assignments/workspace_setup.md)
+[Uppgift: Workspace setup](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-workspace_setup)
 
 Ta reda på vad följande kommandon gör och testa dem i din miljö.
 
