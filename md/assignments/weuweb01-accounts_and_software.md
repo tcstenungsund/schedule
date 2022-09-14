@@ -1,6 +1,6 @@
 # Webbutveckling 1: Accounts and Software
 
-För kursen behöver ni vissa konton och mjukvara. Det är ni vi fixar majoriteten av det! 
+För kursen behöver ni vissa konton och mjukvara. Det är nu dags att fixa majoriteten av det! 
 ---
 
 ## Förutsättningar
