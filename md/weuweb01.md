@@ -24,7 +24,7 @@ Vi ser dokumentären "[The web, past and future](https://youtu.be/cCE2EyV_IiY)" 
 
 Dagens uppgift är att skaffa konton i en del tjänster samt installera den webbläsare vi kommer använda i kursen. 
 
-[Uppgift: Accounts and Software](https://github.com/tcstenungsund/schedule/blob/main/md/assignments/weuweb01-accounts_and_software.md)
+[Uppgift: Accounts and Software](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb01-accounts_and_software)
 
 ## Vecka 37 
 
@@ -38,7 +38,7 @@ Hur är CSS strukturerat och hur använder man det? Några vanliga värden och e
 
 ![Selektor, egenskap och värde](https://pbs.twimg.com/media/FceO6oPX0AE0sAs?format=jpg&name=medium)
 
-[Uppgift: HTML & CSS Basics](https://github.com/tcstenungsund/schedule/blob/main/md/assignments/html_css_basics.md)
+[Uppgift: HTML & CSS Basics](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb01-html_css_basics)
 
 ## Vecka 38 
 
