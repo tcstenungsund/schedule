@@ -37,6 +37,7 @@ En jättebra sida som går igenom mycket om hur man skriver HTML och CSS.
 
 * Vi skall prata lite om the box model.
 * Vi skall titta på en film om webbens historia [The web, past and future](https://www.youtube.com/watch?v=cCE2EyV_IiY)
+![The Box Model](https://miro.medium.com/max/725/1*2jZwpWH9XO_QllhEpyGqMA.png)
 
 ## Vecka 39
 
