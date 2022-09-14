@@ -1,6 +1,7 @@
 # Webbutveckling 2: Workspace setup
 
-För all mjukvaruutveckling behövs en vettig miljö. Den miljön kan inkludera olika saker, men i den här kursen så behöver vi en webbserver, databasserver och lite annat trevligt. Det verktyg som är absolut vanligast idag är containervirtualiseringsmjukvaran Docker. 
+_För all mjukvaruutveckling behövs en vettig miljö. Den miljön kan inkludera olika saker, men i den här kursen så behöver vi en webbserver, databasserver och lite annat trevligt. Det verktyg som är absolut vanligast idag är containervirtualiseringsmjukvaran Docker._
+
 ---
 
 ## Förutsättningar
