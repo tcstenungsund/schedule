@@ -22,23 +22,9 @@ Vad är webben? Relationen mellan Internet och the World Wide Web. Vad var syfte
 
 Vi ser dokumentären "[The web, past and future](https://youtu.be/cCE2EyV_IiY)" (35 min). 
 
-Dagens övning är att se till att du har ett konto på följande tjänster, och lägga in dessa uppgifter i en lösenordshanterare i en nyinstallerad webbläsare skapad för webbutveckling.
+Dagens uppgift är att skaffa konton i en del tjänster samt installera den webbläsare vi kommer använda i kursen. 
 
-* [Gmail](https://gmail.com) (en seriös address)
-* [LinkedIn](https://www.linkedin.com/)
-* [GitHub](https://github.com/)
-* [CodePen](https://codepen.io/)
-* [Reddit](https://www.reddit.com/)
-* [LastPass](https://www.lastpass.com/)
-
-Webbläsaren ni skall installera är "[Firefox Developer Edition](https://www.mozilla.org/sv-SE/firefox/developer/)" och är speciellt framtagen för webbutveckling. I den skall ni installera följande extensions. 
-
-* [LastPass](https://addons.mozilla.org/sv-SE/firefox/addon/lastpass-password-manager/)
-* [Hide w3schools](https://addons.mozilla.org/en-US/firefox/addon/hide-w3schools/)
-* [EFF HTTPS Everywhere](https://addons.mozilla.org/sv-SE/firefox/addon/https-everywhere/)
-* [EFF Privacy Badger](https://addons.mozilla.org/sv-SE/firefox/addon/privacy-badger17/)
-
-Kursen har en officiell subreddit på [/r/webweu01](https://www.reddit.com/r/webweu01/).
+[Uppgift: Accounts and Software](https://github.com/tcstenungsund/schedule/blob/main/md/assignments/weuweb01-accounts_and_software.md)
 
 ## Vecka 37 
 
