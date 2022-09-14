@@ -1,6 +1,7 @@
 # Webbutveckling 1: HTML & CSS Basics
 
-Det är dags att ta de första trevande stegen in i webbutvecklingens vackra värld!
+_Det är dags att ta de första trevande stegen in i webbutvecklingens vackra värld!_
+
 ---
 
 ## Förutsättningar
