@@ -5,7 +5,7 @@ För all mjukvaruutveckling behövs en vettig miljö. Den miljön kan inkludera 
 
 ## Förutsättningar
 
-Enskild uppgift. Windows 10/11 Professional eller bättre. 
+Enskild uppgift. Windows 10/11 Professional eller bättre (vilket självklart inkluderar Linux). 
 
 ## Resurser
 
