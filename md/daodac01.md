@@ -29,12 +29,20 @@
 
 ## Vecka 40
 
+Prov på Kapitel 3
 
 ## Vecka 41
 
+ - Genomgång av Kapitel 4
+ - Läsa kapitlet själva
+
 ## Vecka 42
 
+ - Prov på Kapitel 4
+
 ## Vecka 43
+
+ - Börjar prata om kapitel 5, nätverk.
 
 ## Vecka 44
 
