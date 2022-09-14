@@ -42,7 +42,7 @@ Prov på Kapitel 3
 
 ## Vecka 43
 
- - Börjar prata om kapitel 5, nätverk.
+
 
 ## Vecka 44
 
