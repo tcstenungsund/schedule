@@ -8,6 +8,7 @@
 
 ## Vecka 37
 
+Gör klart resten av Cisco-kursen. Hur svårt kan det va?!
 
 ## Vecka 38
 
