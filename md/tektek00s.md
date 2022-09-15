@@ -11,43 +11,67 @@ Ett par videos med tips:
 *   [https://youtu.be/X3OzK2w8kUs](https://www.youtube.com/watch?v=X3OzK2w8kUs)
 *   [https://youtu.be/ACLeoodZH6s](https://youtu.be/ACLeoodZH6s)
 
-**Måndag och Fredag:**
+#### Måndag och Fredag
 
 Arbeta med er LinkedIn profil. Tag bild utomhus, balkongen funkar bra.
 
 ## Vecka 36
 
-**Måndag:**
+#### Måndag
 
 Introduktion till kursen - IoT Fundamentals: Connecting Things
 
 Genomgång av kapitel 1.1
 
-**Fredag:**
+#### Fredag
 
 Studiedag.
 
 ## Vecka 37
 
-**Måndag:**
+#### Måndag
 
 Genomgång av kapitel 1 färdig.
 
-**Fredag:**
+#### Fredag 
 
 Genomgång av kapitel 2.
 
 ## Vecka 38
 
+#### Måndag
+
+#### Fredag 
+
 ## Vecka 39
+
+#### Måndag
+
+#### Fredag 
 
 ## Vecka 40
 
+#### Måndag
+
+#### Fredag 
+
 ## Vecka 41
+
+#### Måndag
+
+#### Fredag 
 
 ## Vecka 42
 
+#### Måndag
+
+#### Fredag 
+
 ## Vecka 43
+
+#### Måndag
+
+#### Fredag 
 
 ## Vecka 44
 
