@@ -29,7 +29,7 @@
 
 ## Vecka 40
 
-Prov på Kapitel 3
+ - Prov på Kapitel 3
 
 ## Vecka 41
 
@@ -37,7 +37,8 @@ Prov på Kapitel 3
  - Läsa kapitlet själva
 
 ## Vecka 42
-
+ 
+ - Ni får en timme att plugga på Kapitel 4
  - Prov på Kapitel 4
 
 ## Vecka 43
