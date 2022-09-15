@@ -26,7 +26,8 @@ Kolla enhetshanteraren efter COM port.
 Genomgång kapitel 1 färdigt.
 
 #### Onsdag  
-Laboration - 6.4.3.5 Lab - Building a Switch and Router Network  
+[Laboration - 6.4.3.5 Lab - Building a Switch and Router Network](https://www.netacad.com/)
+
 Vi gör om förra veckans labb. Denna gången ska ni testa ett anta SHOW kommandon och lämna in resultatet.
 
 Lämna in ett word dokument där ni kopierar och klipper in följande:
@@ -50,7 +51,8 @@ Genomgång Kapitel 2 färdig. Gör interaktiva uppgifter och quiz.
 #### Onsdag 
 
 Kort genomgång av kapitel 3 VLAN.  
-Laboration - 3.4.6 Lab - Configure VLANs and Trunking
+
+[Laboration - 3.4.6 Lab - Configure VLANs and Trunking](https://www.netacad.com/)
 
 #### Torsdag
 
