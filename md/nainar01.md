@@ -21,11 +21,11 @@ Kolla enhetshanteraren efter COM port.
 
 ## Vecka 36
 
-**Tisdag och Torsdag:**
+#### Tisdag och Torsdag 
 
 Genomgång kapitel 1 färdigt.
 
-**Onsdag:**  
+#### Onsdag  
 Laboration - 6.4.3.5 Lab - Building a Switch and Router Network  
 Vi gör om förra veckans labb. Denna gången ska ni testa ett anta SHOW kommandon och lämna in resultatet.
 
@@ -39,70 +39,69 @@ Show ip route
 
 Show history
 
-**Extra uppgift** – skapa SSH anslutning – se 1.3.4 (kommer med i running-configuration)
+_Extra uppgift_ – skapa SSH anslutning – se 1.3.4 (kommer med i running-configuration)
 
 ## Vecka 37
 
-**Tisdag:**
+#### Tisdag
 
 Genomgång Kapitel 2 färdig. Gör interaktiva uppgifter och quiz.
 
-**Onsdag:**
+#### Onsdag 
 
 Kort genomgång av kapitel 3 VLAN.  
 Laboration - 3.4.6 Lab - Configure VLANs and Trunking
 
-**Torsdag:**
+#### Torsdag
 
 Genomgång av kapitel 3.
 
 ## Vecka 38
 
-**Tisdag:**
+#### Tisdag
 
-**Onsdag:**
+#### Onsdag
 
-**Torsdag:**
+#### Torsdag
 
 ## Vecka 39
 
-**Tisdag:**
+#### Tisdag
 
-**Onsdag:**
+#### Onsdag
 
-**Torsdag:**
+#### Torsdag
 
 ## Vecka 40
 
-**Tisdag:**
+#### Tisdag
 
-**Onsdag:**
+#### Onsdag
 
-**Torsdag:**
+#### Torsdag
 
 ## Vecka 41
+#### Tisdag
 
-**Tisdag:**
+#### Onsdag
 
-**Onsdag:**
-
-**Torsdag:**
+#### Torsdag
 
 ## Vecka 42
 
-**Tisdag:**
+#### Tisdag
 
-**Onsdag:**
+#### Onsdag
 
-**Torsdag:**
+#### Torsdag
 
 ## Vecka 43
 
-**Tisdag:**
+#### Tisdag
 
-**Onsdag:**
+#### Onsdag
 
-**Torsdag:**
+#### Torsdag
 
 ## Vecka 44
 
