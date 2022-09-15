@@ -47,13 +47,33 @@ Studiedag. Gå igenom första modulen på CLOUD SECURITY kursen.
 
 ## Vecka 39
 
+#### Måndag
+
+#### Torsdag
+
 ## Vecka 40
+
+#### Måndag
+
+#### Torsdag
 
 ## Vecka 41
 
+#### Måndag
+
+#### Torsdag
+
 ## Vecka 42
 
+#### Måndag
+
+#### Torsdag
+
 ## Vecka 43
+
+#### Måndag
+
+#### Torsdag
 
 ## Vecka 44
 
