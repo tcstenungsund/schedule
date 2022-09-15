@@ -93,7 +93,7 @@ Deadline för uppgiften.
 
 ## Vecka 46
 
-[Prov: HTML & CSS.](https://netacad.com)
+Prov på HTML & CSS.
 
 ## Vecka 47
 
