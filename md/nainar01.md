@@ -7,7 +7,7 @@
 Genomgång kapitel 1.
 
 #### Onsdag 
-[Uppgift: Laboration - 6.4.3.5 Lab - Building a Switch and Router Network](https://www.netacad.com/)
+[Laboration - 6.4.3.5 Lab - Building a Switch and Router Network](https://www.netacad.com/)
 
 Vi testar en enkel nätverkslaboration.
 
