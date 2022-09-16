@@ -40,7 +40,9 @@ I samband med ovanstående uppgift talade vi om pre-processorspråket [SASS](htt
 
 #### Fredag
 
-Vi talar om mjukvara för UX-design, "single source of truth" och Adobes köp av Figma. Vi ser "[What Is Figma?](https://youtu.be/PaPIsyO1t3Q)" och "[Is Figma Dead?](https://youtu.be/pj7D0tSNmEg)". I kursen kommer vi använda [Penpot](https://penpot.app/) för detta ändamål.
+Vi talar om mjukvara för UX-design, "single source of truth" och Adobes köp av Figma. Vi ser "[What Is Figma?](https://youtu.be/PaPIsyO1t3Q)" och "[Is Figma Dead?](https://youtu.be/pj7D0tSNmEg)". I kursen kommer vi använda [Penpot](https://penpot.app/) för detta ändamål. 
+
+![Alternatives to Adobe products](https://i.imgur.com/ieDaMzO.png)
 
 *Veckans sociala medier:* 
 
