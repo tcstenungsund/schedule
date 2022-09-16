@@ -26,7 +26,7 @@ Inspiration till automatisering med [n8n](https://n8n.io/). Gemensamt försök a
 
 ## Vecka 36
 
-Veckan ägnas åt att komma beta av så mycket som möjligt av edX-kursen.
+Veckan ägnas åt att beta av så mycket som möjligt av edX-kursen.
 
 ## Vecka 37
 
@@ -39,6 +39,8 @@ Med utgångspunkt i artikeln [Case study: web design focused on interaction desi
 I samband med ovanstående uppgift talade vi om pre-processorspråket [SASS](https://sass-lang.com/) och taskrunners som Gulp, Grunt och [Node Task runner](https://www.npmjs.com/package/node-task-runner). Dessutom behandlar vi Object Oriented CSS och BEM, vilket är riktlinjer för hur man använder CSS. Läs gärna också artikeln "[Modern alternatives to BEM](https://daverupert.com/2022/08/modern-alternatives-to-bem/)" som bara är några dagar gammal. Ett exempel på mjukvara för en living style guide är [DocumentCSS](https://documentcss.com/)".
 
 #### Fredag
+
+Vi talar om mjukvara för UX-design, "single source of truth" och Adobes köp av Figma. Vi ser "[What Is Figma?](https://youtu.be/PaPIsyO1t3Q)" och "[Is Figma Dead?](https://youtu.be/pj7D0tSNmEg)". I kursen kommer vi använda [Penpot](https://penpot.app/) för detta ändamål.
 
 *Veckans sociala medier:* 
 
