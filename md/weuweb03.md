@@ -54,7 +54,7 @@ Idag knäcker vi JavaScript! Vi lånar Ronnies lektion och kör en heldag med Ja
 
 Först en föreläsning av Brad Traversy vid namn "[JavaScript Crash Course for Beginners](https://youtu.be/hdI2bqOjy3c)" (1h40min). 
 
-Sedan vänder vi oss till Per Harald Borgen :no: på Scrimba och kör kursen "[Learn JavaScript for free](https://scrimba.com/learn/learnjavascript)", en interaktiv föreläsning.
+Sedan vänder vi oss till Per Harald Borgen på Scrimba och kör kursen "[Learn JavaScript for free](https://scrimba.com/learn/learnjavascript)", en interaktiv föreläsning.
 
 Om du vill gå vidare efter det så rekommenderar jag kursen "[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)" från freeCodeCamp. 
 
