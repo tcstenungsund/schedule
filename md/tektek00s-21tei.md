@@ -41,9 +41,9 @@ Genomgång av kapitel 2.
 
 #### Måndag
 
-Då treorna är iväg på UF-kickoff i Göteborg får ni en uppgift att genomföra på valfri ort. . 
+Då treorna är iväg på UF-kickoff i Göteborg får ni en uppgift att genomföra på valfri ort.
 
-Uppgiften är att se dokumentären "[The Internet of Everything](https://www.youtube.com/watch?v=bqpJK2O2B-8&t=1061s)" (42 min). Vi kommer referera tillbaka till den längre fram. 
+[Uppgift: The Internet of Everything](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/tektek00s-internet_of_everything)
 
 #### Fredag 
 
