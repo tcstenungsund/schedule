@@ -35,8 +35,8 @@ En jättebra sida som går igenom mycket om hur man skriver HTML och CSS.
 
 ## Vecka 38
 
-Jag är sjuk så ni får titta på filmen nedan och jobba vidare med "Min fula lilla sida" på valfri plats.
-* Vi skall prata lite om the box model.
+Jag är sjuk så ni får titta på filmen om The Box Model nedan och jobba vidare med "Min fula lilla sida" på valfri plats.
+* [The Box Model](https://www.youtube.com/watch?v=rIO5326FgPE)
 
 ![The Box Model](https://miro.medium.com/max/725/1*2jZwpWH9XO_QllhEpyGqMA.png)
 
