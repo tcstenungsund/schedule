@@ -50,17 +50,21 @@ Vi talar om mjukvara för UX-design, "single source of truth" och Adobes köp av
 
 #### Måndag
 
-Idag knäcker vi JavaScript! Vi lånar Ronnies lektion och kör en heldag med JavaScript. Vi börjar med riktiga grunder, för så att ALLA är med. 
+Idag knäcker vi JavaScript! Vi lånar Ronnies lektion och kör en heldag. 
 
-Först en föreläsning av Brad Traversy vid namn "[JavaScript Crash Course for Beginners](https://youtu.be/hdI2bqOjy3c)" (1h40min). 
+Av Brad Traversy får vi en föreläsning fylld av god praxis, under namnet "[JavaScript Crash Course for Beginners](https://youtu.be/hdI2bqOjy3c)" (1h40min). 
 
-Sedan vänder vi oss till Per Harald Borgen på Scrimba och kör kursen "[Learn JavaScript for free](https://scrimba.com/learn/learnjavascript)", en interaktiv föreläsning.
+Norrmannen Per Harald Borgen på Scrimba ger oss en interaktiv föreläsning i kursen "[Learn JavaScript for free](https://scrimba.com/learn/learnjavascript)".
 
 Om du vill gå vidare efter det så rekommenderar jag kursen "[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)" från freeCodeCamp. 
 
 #### Torsdag 
 
+Ny djupdykning! Denna gång bygger vi en app.
+
 #### Fredag 
+
+*Veckans sociala medier:* 
 
 ## Vecka 39
 
