@@ -41,6 +41,8 @@ Genomgång av kapitel 2.
 
 #### Måndag
 
+Vi skall kolla på en kort dokumentär som heter [The Internet of Everything](https://www.youtube.com/watch?v=bqpJK2O2B-8&t=1061s)
+
 #### Fredag 
 
 ## Vecka 39
