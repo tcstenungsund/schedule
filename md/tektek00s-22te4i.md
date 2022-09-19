@@ -43,6 +43,8 @@ Studiedag. Gå igenom första modulen på CLOUD SECURITY kursen.
 
 #### Måndag
 
+Kenneth lånar dagens lektion för en ordentlig rotväta med JavaScript.
+
 #### Torsdag
 
 ## Vecka 39
