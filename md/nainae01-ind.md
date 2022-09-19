@@ -2,19 +2,46 @@
 
 ## Vecka 35
 
+Titta på CISCO material och snabb genomgång om kursupplägg.
+
+TED Talk: "[The Five Laws of Cybersecurity | Nick Espinosa](https://www.youtube.com/watch?v=_nVq7f26-Uo)"
+
+Skolverkets krav för kursen [Nätverkssäkerhet](https://www.skolverket.se/undervisning/gymnasieskolan/laroplan-program-och-amnen-i-gymnasieskolan/gymnasieprogrammen/amne?url=-996270488%2Fsyllabuscw%2Fjsp%2Fsubject.htm%3FsubjectCode%3DNAI%26version%3D2%26tos%3Dgy&sv.url=12.5dfee44715d35a5cdfa92a3#anchor_NAINAE0). 
+
+> "Saying you don't need privacy because you have nothing to hide is like saying you don't need freedom of speech because you have nothing to say." - Edward Snowden
+
+Lab: [1.1.1.4 i Cisco kursen](https://contenthub.netacad.com/legacy/CyberOps/1.1/en/course/files/1.1.1.4%20Lab%20-%20Installing%20the%20CyberOps%20Workstation%20Virtual%20Machine.pdf)
+
+[Image](https://www.netacad.com/portal/content/ccna-cyberops-vms-legacy)
+
+Ladda ner [wireshark](https://www.wireshark.org/download.html)
+
+Lab: [1.1.6 i Cisco kursen](https://contenthub.netacad.com/cyberops/1.1.6)
 
 ## Vecka 36
 
+Vi börjar med att kolla vad ni hittat för nyheter från [IDG](https://www.idg.se/)
+
+Vi börjar gå igenom kryptering
+
+Ceasarshiffer, Vigenère-shiffer, morsekod. Testar att göra egna krypteringar och lösa andras.
 
 ## Vecka 37
 
-Gör klart resten av Cisco-kursen. Hur svårt kan det va?!
+Tittar på video om cryptography: "[What is Cryptography? | Introduction to Cryptography | Cryptography for Beginners](https://youtu.be/5jpgMXt1Z9Y)"
+
+Vi skall göra labb 21.2.10 i netacad och lämna in bilder i ett dokument i inlämningsmappen.
+
+Vi skall göra labb 21.2.11 i netacad och lämna in bilder i ett dokument i inlämningsmappen.
 
 ## Vecka 38
 
 
 ## Vecka 39
 
+Vi skall börja prata lite om man-in-the-middle.
+
+Göra labb 21.2.12.
 
 ## Vecka 40
   
