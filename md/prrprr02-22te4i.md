@@ -1,4 +1,4 @@
-# Loggbok KURSNAMN
+# Programmering 2
 
 ## Vecka 35
 
