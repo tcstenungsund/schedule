@@ -16,7 +16,7 @@ Enskild uppgift.
 ## Resurser
 
 *   [Firefox Developer Edition](https://www.mozilla.org/sv-SE/firefox/developer/)
-*   En texteditor. 
+*   Du SKALL använda en enkel texteditor. I Windows har du Anteckningar och i Linux Kate. 
 *   [7Zip](https://www.7-zip.org/)
 *   [HTML Dog](https://htmldog.com/)
     *   [HTML Beginner](https://htmldog.com/guides/html/beginner/) och [CSS Beginner](https://htmldog.com/guides/css/beginner/)
