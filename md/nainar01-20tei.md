@@ -70,6 +70,18 @@ Genomgång av kapitel 3 klart. Gör övningar och Quiz.
 
 ![](https://user-images.githubusercontent.com/101390367/191296578-3f38cf86-5518-4bac-b198-5639afc6e4f5.png)
 
+Ni som INTE gjorde förra veckans laboration på fysisk utrustning gör den nu.
+
+[Laboration - 3.4.6 Lab - Configure VLANs and Trunking](https://www.netacad.com/)
+
+Ni som redan gjort VLAN laboration på fysisk utrustning gör följande Packet Tracer laborationer:
+
+[Packet Tracer - 3.3.12 Lab - VLAN Configuration](https://www.netacad.com/)
+
+[Laboration - 3.4.5 Lab - Configure Trunks](https://www.netacad.com/)
+
+Spara .pka filer och lämna in enskilt.
+
 #### Torsdag
 
 ## Vecka 39
