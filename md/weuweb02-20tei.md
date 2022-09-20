@@ -35,11 +35,15 @@ Prova att dra igång några containrar. Till exempel [ReactOS](https://github.co
 
 ## Vecka 38
 
-Genomgång av provet från vecka 36. 
-
 Introduktion till CMS:er. 
 
-Vi ser de första 15 avsnitten av instruktionsserien. 
+Det finns [många CMS:er](https://en.wikipedia.org/wiki/List_of_content_management_systems). Vi kommer använda en av de största, Drupal. Drupal är känd för att den har en aktiv utvecklarcommunity, många moduler och är både stabil att bygga komplexa lösningar på, men också enkel att arbeta med. Youtube-kursen vi skall se baseras på version 8, men vi kommer köra version 9 som ser nästan likadan ut. 
+
+![Drupals versioner](https://blog.twn.ee/sites/default/files/2020-10/Drupal%20Eng.png)
+
+Vi tittar på avsnitten 1-3 (Introduktion, 15min) och 8-15 (Systemöverblick, 17min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)". 
+
+Genomgång av provet från vecka 36. 
 
 ## Vecka 39
 
