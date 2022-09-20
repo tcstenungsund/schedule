@@ -35,7 +35,8 @@ Vi skall göra labb 21.2.10 i netacad och lämna in bilder i ett dokument i inl�
 Vi skall göra labb 21.2.11 i netacad och lämna in bilder i ett dokument i inlämningsmappen.
 
 ## Vecka 38
-
+Jag är sjuk så ni skall ta och läsa igenom Kapitel 21 i Netacad kursen CyberOps Security.
+Detta kan ni göra på valfri plats.
 
 ## Vecka 39
 
