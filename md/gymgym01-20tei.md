@@ -28,6 +28,8 @@ Vi ser - The art of innovation | Guy Kawasaki | TEDxBerkeley
 
 ## Vecka 38
 
+![](https://user-images.githubusercontent.com/101390367/191300956-4c25ab9f-9f45-48d9-a458-eec9b65dffa1.jpg)
+
 Måndag:
 
 UF kickoff på SvenskaMässan i Göteborg mellan klockan 13-15.
