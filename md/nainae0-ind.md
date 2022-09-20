@@ -38,6 +38,8 @@ Vi skall göra labb 21.2.11 i netacad och lämna in bilder i ett dokument i inl�
 Jag är sjuk så ni skall ta och läsa igenom Kapitel 21 i Netacad kursen CyberOps Associate.
 Detta kan ni göra på valfri plats.
 
+Säg till mig eller Ronnie om ni inte har kursen i netacad. (Kolla Netacad innan ni frågar)
+
 ## Vecka 39
 
 Vi skall börja prata lite om man-in-the-middle.
