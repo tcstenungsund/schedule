@@ -51,9 +51,9 @@ Vi slutför uppgiften HTML & CSS Basics.
 
 #### Tisdag
 
-Genomgång moment 1 av HTML & CSS. 
+Genomgång av [HTML Beginner](https://htmldog.com/guides/html/beginner/) och [CSS Beginner](https://htmldog.com/guides/css/beginner/).
 
-Påbörjar nästa uppgift. 
+[Uppgift: Min Fula Lilla Sida](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb01-min_fula_lilla_sida)
 
 ## Vecka 39
 
