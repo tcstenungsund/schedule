@@ -15,15 +15,15 @@ Enskild uppgift.
 
 ## Resurser
 
-*   [Valfri webbläsare](https://www.mozilla.org/sv-SE/firefox/new/)
-*   [Notepad++](https://notepad-plus-plus.org/)
+*   [Firefox Developer Edition](https://www.mozilla.org/sv-SE/firefox/developer/)
+*   En texteditor. 
 *   [7Zip](https://www.7-zip.org/)
 *   [HTML Dog](https://htmldog.com/)
     *   [HTML Beginner](https://htmldog.com/guides/html/beginner/) och [CSS Beginner](https://htmldog.com/guides/css/beginner/)
     *   [HTML Intermediate](https://htmldog.com/guides/html/intermediate/) och [CSS Intermediate](https://htmldog.com/guides/css/intermediate/)
     *   [HTML Advanced](https://htmldog.com/guides/html/advanced/) och [CSS Advanced](https://htmldog.com/guides/css/advanced/)
 
-> Tips! Om du kör Windows som OS kan mjukvarorna som nämns ovan installeras via den utmärkta tjänsten [Ninite](https://ninite.com/7zip-firefox-notepadplusplus/). Använder du Linux så finns de tillgängliga i din vanliga pakethanterare.
+> Tips! Om du kör Windows som OS finns [Microsoft Anteckningar](https://support.microsoft.com/sv-se/windows/hj%C3%A4lp-i-anteckningar-4d68c388-2ff2-0e7f-b706-35fb2ab88a8c) förinstallerat. 
 
 ## Uppgiftsbeskrivning
 
@@ -33,7 +33,7 @@ Du skall nu skapa din första webbsida.
 
 ![](https://user-images.githubusercontent.com/19572359/164436013-cf35c51e-4e6c-4978-ad61-708f6c6d4416.png)
 
-Börja med att skapa en ny [katalog](https://sv.wikipedia.org/wiki/Katalog_(datorteknik)) på valfri plats i [filsystemet](https://sv.wikipedia.org/wiki/Filsystem). Skapa i denna en katalog som heter **bilder**, en fil som heter **index.html** och en fil som heter **main.css**. Lägg sedan bilder du använder under projektets gång i underkatalogen bilder. Se Bild 2 för ett exempel av hur det kan se ut.
+Börja med att skapa en ny [katalog](https://sv.wikipedia.org/wiki/Katalog_(datorteknik)) på valfri plats i [filsystemet](https://sv.wikipedia.org/wiki/Filsystem). Skapa i denna en katalog som heter **bilder**, en fil som heter **index.html** och en fil som heter **main.css**. Både html- och css-filer är vanliga textfiler, så du kan [skapa en textfil](https://www.wikihow.com/Make-a-New-File-in-Windows) och byta filändelse till html eller css. Lägg sedan bilder du använder under projektets gång i underkatalogen bilder. Se Bild 2 för ett exempel av hur det kan se ut.
 
 Den resulterande sidan får med fördel vara riktigt ful.
 
