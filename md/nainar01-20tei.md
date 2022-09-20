@@ -68,7 +68,7 @@ Genomgång av kapitel 3 klart. Gör övningar och Quiz.
 
 #### Onsdag
 
-Laboration [https://imgur.com/a/GJ6UzD2](https://imgur.com/a/GJ6UzD2)
+![](https://user-images.githubusercontent.com/101390367/191296578-3f38cf86-5518-4bac-b198-5639afc6e4f5.png)
 
 #### Torsdag
 
