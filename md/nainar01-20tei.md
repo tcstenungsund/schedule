@@ -6,7 +6,8 @@
 
 Genomgång kapitel 1.
 
-#### Onsdag 
+#### Onsdag
+
 [Laboration - 6.4.3.5 Lab - Building a Switch and Router Network](https://www.netacad.com/)
 
 Vi testar en enkel nätverkslaboration.
@@ -21,11 +22,12 @@ Kolla enhetshanteraren efter COM port.
 
 ## Vecka 36
 
-#### Tisdag och Torsdag 
+#### Tisdag och Torsdag
 
 Genomgång kapitel 1 färdigt.
 
-#### Onsdag  
+#### Onsdag
+
 [Laboration - 6.4.3.5 Lab - Building a Switch and Router Network](https://www.netacad.com/)
 
 Vi gör om förra veckans labb. Denna gången ska ni testa ett anta SHOW kommandon och lämna in resultatet.
@@ -48,9 +50,9 @@ _Extra uppgift_ – skapa SSH anslutning – se 1.3.4 (kommer med i running-co
 
 Genomgång Kapitel 2 färdig. Gör interaktiva uppgifter och quiz.
 
-#### Onsdag 
+#### Onsdag
 
-Kort genomgång av kapitel 3 VLAN.  
+Kort genomgång av kapitel 3 VLAN.
 
 [Laboration - 3.4.6 Lab - Configure VLANs and Trunking](https://www.netacad.com/)
 
@@ -62,7 +64,11 @@ Genomgång av kapitel 3.
 
 #### Tisdag
 
+Genomgång av kapitel 3 klart. Gör övningar och Quiz.
+
 #### Onsdag
+
+Laboration [https://imgur.com/a/GJ6UzD2](https://imgur.com/a/GJ6UzD2)
 
 #### Torsdag
 
@@ -83,6 +89,7 @@ Genomgång av kapitel 3.
 #### Torsdag
 
 ## Vecka 41
+
 #### Tisdag
 
 #### Onsdag
