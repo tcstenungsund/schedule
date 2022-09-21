@@ -8,10 +8,6 @@ _Djupdyk i de olika OS som existerar för mobila plattformar._
 
 Enskilt eller i grupp om två.
 
-## Resurser
-
-* [MIT App Inventor](https://appinventor.mit.edu/)
-
 ## Uppgiftsbeskrivning
 
 Välj ett av följande OS: 
