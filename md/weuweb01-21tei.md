@@ -59,7 +59,7 @@ Genomgång av [HTML Beginner](https://htmldog.com/guides/html/beginner/) och [CS
 
 #### Måndag
 
-Fortsätter arbeta med uppgiften. 
+Fortsätter arbeta med Min Fula Lilla Sida. 
 
 #### Tisdag
 
@@ -69,22 +69,41 @@ Färglära.
 
 #### Måndag 
 
-Fortsätter arbeta med uppgiften. 
+Fortsätter arbeta med Min Fula Lilla Sida. 
 
 #### Tisdag 
 
-Genomgång av moment 2 av HTML & CSS. 
+Genomgång av [HTML Intermediate](https://htmldog.com/guides/html/intermediate/) och [CSS Intermediate](https://htmldog.com/guides/css/intermediate/).
 
 ## Vecka 41
+
+#### Måndag 
+
+Fortsätter arbeta med Min Fula Lilla Sida. 
+
+#### Tisdag 
 
 Positionering och layout
 
 ## Vecka 42
 
-Genomgång av moment 3 av HTML & CSS. 
+#### Måndag 
+
+Fortsätter arbeta med Min Fula Lilla Sida. 
+
+#### Tisdag 
+
+Genomgång av [HTML Advanced](https://htmldog.com/guides/html/advanced/) och [CSS Advanced](https://htmldog.com/guides/css/advanced/).
 
 ## Vecka 43
 
+#### Måndag 
+
+Fortsätter arbeta med Min Fula Lilla Sida. 
+
+#### Tisdag 
+
+Specificity och cascade. 
 
 ## Vecka 44
 
@@ -92,7 +111,7 @@ Genomgång av moment 3 av HTML & CSS.
 
 ## Vecka 45
 
-Deadline för uppgiften. 
+Deadline för Min Fula Lilla Sida. 
 
 ## Vecka 46
 
