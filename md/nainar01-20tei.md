@@ -78,7 +78,7 @@ Ni som redan gjort VLAN laboration på fysisk utrustning gör följande Packet T
 
 [Packet Tracer - 3.3.12 Lab - VLAN Configuration](https://www.netacad.com/)
 
-[Laboration - 3.4.5 Lab - Configure Trunks](https://www.netacad.com/)
+[Packet Tracer - 3.4.6 Lab - Configure VLANs and Trunking](https://www.netacad.com/)
 
 Spara .pka filer och lämna in enskilt.
 
