@@ -42,9 +42,7 @@ Säg till mig eller Ronnie om ni inte har kursen i netacad. (Kolla Netacad innan
 
 ## Vecka 39
 
-Vi skall börja prata lite om man-in-the-middle.
-
-Göra labb 21.2.12.
+Vi skall prata on kapitel 22, Endpoint Protection i Netacad kursen
 
 ## Vecka 40
   
