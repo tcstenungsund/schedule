@@ -60,7 +60,9 @@ Om du vill gå vidare efter det så rekommenderar jag kursen "[JavaScript Algori
 
 #### Torsdag 
 
-Ny djupdykning! Denna gång bygger vi en app.
+[10 Step Guide - How to make an app in 2021](https://codewithchris.com/how-to-make-iphone-apps-with-no-programming-experience/) 
+
+[Uppgift: My First App](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb33-my_first_app)
 
 #### Fredag 
 
