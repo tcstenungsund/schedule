@@ -42,15 +42,15 @@ Säg till mig eller Ronnie om ni inte har kursen i netacad. (Kolla Netacad innan
 
 ## Vecka 39
 
-Vi skall prata on kapitel 22, Endpoint Protection i Netacad kursen
+ - Vi skall prata on kapitel 22, Endpoint Protection i Netacad kursen
 
 ## Vecka 40
  
-Vi skall prata om Kapitel 23, Enpoint Vulnerability Assessment i Netacad Kursen.
+ - Vi skall prata om Kapitel 23, Enpoint Vulnerability Assessment i Netacad Kursen.
 
 ## Vecka 41
 
-## Prov på moduler 21-23
+ - Prov på moduler 21-23
 
 ## Vecka 42
 
