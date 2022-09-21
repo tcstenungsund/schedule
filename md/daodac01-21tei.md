@@ -28,7 +28,7 @@
 - Andra halvan går igenom andra halva Kapitel 3 med mig.
 
 ## Vecka 40
-
+ - Ni får en timme att repetera Kapitel 3
  - Prov på Kapitel 3
 
 ## Vecka 41
@@ -38,7 +38,7 @@
 
 ## Vecka 42
  
- - Ni får en timme att plugga på Kapitel 4
+ - Ni får en timme att repetera på Kapitel 4
  - Prov på Kapitel 4
 
 ## Vecka 43
