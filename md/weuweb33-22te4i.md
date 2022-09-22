@@ -34,7 +34,7 @@ Veckan ägnas åt att beta av så mycket som möjligt av edX-kursen.
 
 Med utgångspunkt i artikeln [Case study: web design focused on interaction design.](https://medium.com/design-code-repository/case-study-web-design-focused-on-interaction-design-3834617864d9) talar vi om projekt, samt hur man bemöter och hanterar både kunder och chefer. Vi lider med ["The Expert"](https://youtu.be/BKorP55Aqvg) och skrattar med ["Let's deploy to production"](https://youtu.be/5p8wTOr8AbU)-guy. 
 
-[Uppgift: Djupdykning i moderna webbteknologier](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb33-modern_webtechnologies)
+[Djupdykning: Moderna webbteknologier](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb33-modern_webtechnologies)
 
 I samband med ovanstående uppgift talade vi om pre-processorspråket [SASS](https://sass-lang.com/) och taskrunners som Gulp, Grunt och [Node Task runner](https://www.npmjs.com/package/node-task-runner). Dessutom behandlar vi Object Oriented CSS och BEM, vilket är riktlinjer för hur man använder CSS. Läs gärna också artikeln "[Modern alternatives to BEM](https://daverupert.com/2022/08/modern-alternatives-to-bem/)" som bara är några dagar gammal. Ett exempel på mjukvara för en living style guide är [DocumentCSS](https://documentcss.com/)".
 
@@ -62,7 +62,7 @@ Om du vill gå vidare efter det så rekommenderar jag kursen "[JavaScript Algori
 
 [10 Step Guide - How to make an app in 2021](https://codewithchris.com/how-to-make-iphone-apps-with-no-programming-experience/) 
 
-[Uppgift: My First App](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb33-my_first_app)
+[Djupdykning: My First App](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb33-my_first_app)
 
 #### Fredag 
 
