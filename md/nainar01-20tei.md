@@ -12,13 +12,10 @@ Genomgång kapitel 1.
 
 Vi testar en enkel nätverkslaboration.
 
-Använd Putty.
-
-Stäng av brandvägg.
-
-Stäng av WIFI.
-
-Kolla enhetshanteraren efter COM port.
+1. Använd Putty.
+2. Stäng av brandvägg.
+3. Stäng av WIFI.
+4. Kolla enhetshanteraren efter COM port.
 
 ## Vecka 36
 
