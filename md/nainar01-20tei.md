@@ -34,13 +34,10 @@ Vi gör om förra veckans labb. Denna gången ska ni testa ett anta SHOW kommand
 
 Lämna in ett word dokument där ni kopierar och klipper in följande:
 
-Show ip interface brief
-
-Show running-configuration
-
-Show ip route
-
-Show history
+    show ip interface brief
+    show running-configuration
+    show ip route
+    show history
 
 _Extra uppgift_ – skapa SSH anslutning – se 1.3.4 (kommer med i running-configuration)
 
