@@ -19,7 +19,7 @@ Enskild uppgift. Windows 10/11 Professional eller bättre (vilket självklart in
 
 ## Uppgiftsbeskrivning
 
-Målet är att installera och konfigurera Docker. För att göra detta enklare så använder vi mjukvaran Lando som installerar och konfigurerar Docker åt oss. 
+Målet är att installera och konfigurera :whale2: Docker. För att göra detta enklare så använder vi mjukvaran Lando som installerar och konfigurerar Docker åt oss. 
 
 I Linux räcker det att köra följande två kommandon. 
 
