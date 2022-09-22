@@ -145,7 +145,8 @@ async function getAssignments(html){
         contains(., 'Prov')or \
         contains(., 'PROV')or \
         contains(., 'Laboration')or \
-        contains(., 'Lab')"
+        contains(., 'Lab')or \
+        contains(., 'Djupdykning')"
 
     const highlightAssignmentKeyWords = [
         "test", 
