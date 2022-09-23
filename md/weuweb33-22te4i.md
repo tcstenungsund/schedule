@@ -68,7 +68,7 @@ Om du vill gå vidare efter det så rekommenderar jag kursen "[JavaScript Algori
 
 Studiebesök på Hogia + samtalsstund med gymnasieingenjörer som nu jobbar på Hogia. 
 
-*Veckans sociala medier:* 
+*Veckans sociala medier:* Jag rekommenderar varmt att ni läser artikeln "[Effortless personal productivity](https://jakobgreenfeld.com/personal-productivity)". Håller ni på med SSL så är "[Security Headers](https://securityheaders.com/)" en utmärkt resurs. Om du vill hålla koll på din copy/paste-ade kod så är "[StackFlex](https://stackflex.tronic247.com/)" ett alternativ för dig. Och ögna igenom den fantastiska listan med resurser på "[free-for.dev](https://free-for.dev/)"!
 
 ## Vecka 39
 
