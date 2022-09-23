@@ -66,6 +66,8 @@ Om du vill gå vidare efter det så rekommenderar jag kursen "[JavaScript Algori
 
 #### Fredag 
 
+Studiebesök på Hogia + samtalsstund med gymnasieingenjörer som nu jobbar på Hogia. 
+
 *Veckans sociala medier:* 
 
 ## Vecka 39
