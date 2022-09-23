@@ -72,18 +72,55 @@ Studiebesök på Hogia + samtalsstund med gymnasieingenjörer som nu jobbar på 
 
 ## Vecka 39
 
+#### Måndag
+
+#### Torsdag 
+
+#### Fredag 
+
+Presentation av dupdykningen "My First App".
+
+*Veckans sociala medier:* 
 
 ## Vecka 40
-  
+
+#### Måndag
+
+#### Torsdag 
+
+#### Fredag 
+
+*Veckans sociala medier:* 
 
 ## Vecka 41
 
+#### Måndag
+
+#### Torsdag 
+
+#### Fredag 
+
+*Veckans sociala medier:* 
 
 ## Vecka 42
 
+#### Måndag
+
+#### Torsdag 
+
+#### Fredag 
+
+*Veckans sociala medier:* 
 
 ## Vecka 43
 
+#### Måndag
+
+#### Torsdag 
+
+#### Fredag 
+
+*Veckans sociala medier:* 
 
 ## Vecka 44
 
