@@ -1,12 +1,12 @@
 # Webbutveckling 2: Workspace setup
 
-_För all mjukvaruutveckling behövs en vettig miljö. Den miljön kan inkludera olika saker, men i den här kursen så behöver vi en webbserver, databasserver och lite annat trevligt. Det verktyg som är absolut vanligast idag är containervirtualiseringsmjukvaran Docker._
+_Varje gång du startar ett nytt projekt, eller vill börja om med en ren installation så snurrar du igång en container i Docker. Eftersom vi tidigare installerat Lando kommer vi använda det verktyget för att starta en ny container med Drupal och sätta upp all konfigurering som behöver göras._
 
 ---
 
 ## Förutsättningar
 
-Enskild uppgift. Windows 10/11 Professional eller bättre (vilket självklart inkluderar Linux). 
+Enskild uppgift. Windows 10/11 Professional eller bättre (vilket självklart inkluderar Linux). Du bör ha installerat Lando i en tidigare uppgift. 
 
 ## Resurser
 
@@ -19,22 +19,37 @@ Enskild uppgift. Windows 10/11 Professional eller bättre (vilket självklart in
 
 ## Uppgiftsbeskrivning
 
-Målet är att installera och konfigurera :whale2: Docker. För att göra detta enklare så använder vi mjukvaran Lando som installerar och konfigurerar Docker åt oss. 
+En normal installation av Drupal kräver att man sätter upp en server med PHP, Apache, MariaDB (SQL), samt PHPs pakethanterare Composer. Med hjälp av Composer installerar man sedan Drupal och Drush, för att slutligen göra konfigurationen av Drupal med hjälp av Drush. 
 
-I Linux räcker det att köra följande två kommandon. 
+Vill du göra en installation i en container så krävs att du synkroniserar en Apache/PHP-container med en SQL-container och delar ut en katalog med ditt host-system. Tack och lov gör Lando detta åt oss. I exemplet nedan förutsätts vårt projekt heta "d8beginner", men det bör ju ändras beroende på vad för slags projekt vi gör. 
 
-    wget https://files.lando.dev/installer/lando-x64-stable.deb
-    sudo dpkg -i lando-x64-stable.deb
+Först skapar vi en ny projektkatalog och navigerar dit i vårt shell. Där ber vi Lando att ladda hem och förbereda en container med Drupal i. 
 
-Om du använder Windows måste du först aktivera Hyper-V genom att följa Microsofts guide, ladda ned den senaste stabila versionen av mjukvaran Lando och installera den. Lando inkluderar Docker och gör några trevliga inställningar automatiskt åt dig. 
+    lando init --source cwd --recipe drupal9 --webroot web --name d8beginner
 
-När Docker är installerat så kör du följande kommando, öppnar localhost i din webbläsare och läser igenom getting-started-tutorialen. 
+Nu ber vi Lando tala om för Composer att vi vill initiera en installation av Drupal 9. 
 
-    docker run -d -p 80:80 docker/getting-started
+    lando composer create-project drupal/recommended-project:9.x tmp && cp -r tmp/. . && rm -rf tmp
+
+Dags att snurra igång vår container!
+
+    lando start
+
+Nästa steg är att be Lando att installera Drush via Composer. 
+
+    lando composer require drush/drush
+
+Nu använder vi Drush till att konfigurera vår Drupal-installation. 
+
+    lando drush site:install --db-url=mysql://drupal9:drupal9@database/drupal9 -y
+
+Och en sista koll för att se att allting ser bra ut. 
+
+    lando info
 
 ## Förväntat resultat
 
-En färdig installation av Docker, där du kan starta virtuella containrar. 
+
 
 ### Vilka filer?
 
