@@ -10,10 +10,9 @@ Enskild uppgift. Windows 10/11 Professional eller bättre (vilket självklart in
 
 ## Resurser
 
-*   [Lando - Installation - Linux](https://docs.lando.dev/getting-started/installation.html#debian) 
-*   [Lando - Installation - Windows](https://docs.lando.dev/getting-started/installation.html#windows)
-*   [Microsoft - Enable Hyper-V](https://docs.microsoft.com/sv-se/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v)
-*   [Lando - Senaste stabila versionen](https://github.com/lando/lando/releases/latest)
+* "[What is Drush? Drupal Shell](https://youtu.be/WIjSfExbOCM)" (5:35) 
+* "[How To Install Composer PHP Package Manager](https://youtu.be/9renbvFpWsI)" (2:59)
+* [Lando - Installera Drupal](https://docs.lando.dev/drupal/getting-started.html#quick-start)
 
 > Tips! Alla kommandon skall köras i ett shell som bash i Linux eller PowerShell i Windows. 
 
