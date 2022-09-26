@@ -44,7 +44,7 @@ Jag är sjuk så ni får titta på filmen om The Box Model nedan och jobba vidar
 
 * Vi skall titta på en film om webbens historia [The web, past and future](https://www.youtube.com/watch?v=cCE2EyV_IiY)
 * Vi skall repetera lite om The Box Model, som ni fick i hemuppgift, förra veckan.
-* Vi skall prata lite om specificty ![Specificity](http://html5doctor.com/downloads/h5d-sectioning-flowchart.png)
+* Vi skall prata lite om Specificity ![Specificity](http://html5doctor.com/downloads/h5d-sectioning-flowchart.png)
 
 ## Vecka 40
 
