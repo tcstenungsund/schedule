@@ -59,23 +59,19 @@ Genomgång av [HTML Beginner](https://htmldog.com/guides/html/beginner/) och [CS
 
 #### Måndag
 
-Fortsätter arbeta med Min Fula Lilla Sida. 
+Fortsätt arbeta med Min Fula Lilla Sida. 
 
 #### Tisdag
 
 ###### Mått och färg
-Utöver uppbyggnaden av CSS är det viktigt att förstå mått och färg. "[The Lengths of CSS ](https://css-tricks.com/the-lengths-of-css/)" ger oss måtten, och färgerna hittar vi på "[MDN: color](https://developer.mozilla.org/en-US/docs/Web/CSS/color)".
+Utöver uppbyggnaden av CSS är det viktigt att förstå mått och färg. "[The Lengths of CSS ](https://css-tricks.com/the-lengths-of-css/)" ger oss måtten, och färgerna hittar vi på "[MDN: color](https://developer.mozilla.org/en-US/docs/Web/CSS/color)". Vi ser också "[What The Heck Is A Hex Value Anyway?](https://cgi.tutsplus.com/tutorials/what-the-heck-is-a-hex-value-anyway--ae-11932)" (4:15).
 
 (Läs om ytterligare sätt att ange färg som lab, lch, display-p3 på "[A Whistle-Stop Tour of 4 New CSS Color Features ](https://css-tricks.com/new-css-color-features-preview/)".)
 
-"[What The Heck Is A Hex Value Anyway?](https://cgi.tutsplus.com/tutorials/what-the-heck-is-a-hex-value-anyway--ae-11932)" (4:15)
-
-Förstå färger med hjälp av ett "[Color wheel](https://en.wikipedia.org/wiki/Color_wheel)" och "[The 60:30:10 design rule for web design](https://yuricodesbot.hashnode.dev/the-603010-color-rule-for-web-design)". Hitta nya kombinationer med hjälp av "[ColorKit](https://colorkit.co/)" och "[Color picker](https://htmlcolorcodes.com/color-picker/)".
+Hur vi använder färger kan du förstå genom att titta på ett "[Color wheel](https://en.wikipedia.org/wiki/Color_wheel)" och "[The 60:30:10 design rule for web design](https://yuricodesbot.hashnode.dev/the-603010-color-rule-for-web-design)". Hitta nya kombinationer med hjälp av "[ColorKit](https://colorkit.co/)" och "[Color picker](https://htmlcolorcodes.com/color-picker/)".
 
 ###### The box model 
-"[MDN: The box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)"
-
-"[The box model for beginners](https://youtu.be/MrAnu4zdjjY)" (1:54)
+"[MDN: The box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)", "[The box model for beginners](https://youtu.be/MrAnu4zdjjY)" (1:54)
 
 "[Read color hex codes](https://youtu.be/eqZqx6lRPe0)" (17:49) och "[Learn CSS Box Model In 8 Minutes](https://youtu.be/rIO5326FgPE)" (8:22).
 
@@ -83,7 +79,7 @@ Förstå färger med hjälp av ett "[Color wheel](https://en.wikipedia.org/wiki/
 
 #### Måndag 
 
-Fortsätter arbeta med Min Fula Lilla Sida. 
+Fortsätt arbeta med Min Fula Lilla Sida. 
 
 ###### Teckenkodning
 
@@ -101,7 +97,7 @@ Genomgång av [HTML Intermediate](https://htmldog.com/guides/html/intermediate/)
 
 #### Måndag 
 
-Fortsätter arbeta med Min Fula Lilla Sida. 
+Fortsätt arbeta med Min Fula Lilla Sida. 
 
 ###### Kontrast
 "[Contrast Rebellion](https://contrastrebellion.com/)"*\** talar om för oss varför kontrast är viktigt, och på "[Color review](https://color.review/)" kan vi testa våra färger. (Läs mer och gör interaktiva övningar på "[Color & Contrast](https://colorandcontrast.com/)".)
@@ -114,7 +110,7 @@ Positionering och layout
 
 #### Måndag 
 
-Fortsätter arbeta med Min Fula Lilla Sida. 
+Fortsätt arbeta med Min Fula Lilla Sida. 
 
 #### Tisdag 
 
@@ -124,7 +120,7 @@ Genomgång av [HTML Advanced](https://htmldog.com/guides/html/advanced/) och [CS
 
 #### Måndag 
 
-Fortsätter arbeta med Min Fula Lilla Sida. 
+Fortsätt arbeta med Min Fula Lilla Sida. 
 
 #### Tisdag 
 
