@@ -47,7 +47,7 @@ Genomgång av provet från vecka 36.
 
 ## Vecka 39
 
-[Uppgift: Workspace setup](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-installera_drupal)
+[Uppgift: Installera Drupal](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-installera_drupal)
 
 Gör uppgiften ovan, öppna Drupal i din webbläsare, logga in och skapa en article och ett block. 
 
