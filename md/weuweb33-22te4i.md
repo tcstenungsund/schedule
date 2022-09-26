@@ -80,7 +80,7 @@ Med ett avstamp i "[Frontend Developer Roadmap](https://roadmap.sh/frontend)" oc
 
 #### Fredag 
 
-Presentation av dupdykningen "My First App".
+Presentation av djupdykningen "My First App".
 
 *Veckans sociala medier:* 
 
