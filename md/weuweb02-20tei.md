@@ -47,11 +47,11 @@ Genomgång av provet från vecka 36.
 
 ## Vecka 39
 
-Starta en CMS med hjälp av Docker och Lando. 
+[Uppgift: Workspace setup](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-installera_drupal)
 
-[Lando-instruktion](https://docs.lando.dev/drupal/getting-started.html#quick-start)
+Gör uppgiften ovan, öppna Drupal i din webbläsare, logga in och skapa en article och ett block. 
 
-Vi ser avsnitt 16 - 31 av instruktionsserien. 
+Vi tittar på avsnitten 16-18, 22-26 (Content Type, 26min) samt avsnitten 27-29 (Taxonomy, 10min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".
 
 Läxa till vecka 40. 
 
