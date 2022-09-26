@@ -63,31 +63,19 @@ Fortsätter arbeta med Min Fula Lilla Sida.
 
 #### Tisdag
 
-##### Grundregler
-
-* Undvik svenska tecken, åäö
-* Undvik_mellanslag_
-* Undvik STORA bokstäver
-* Lägg alla filer i samma katalog!
-
-Vid all namngivning (filer, kataloger, etc) så gäller ovanstående grundregler. En av anledningarna till dessa är "[character encoding](https://developer.mozilla.org/en-US/docs/Glossary/character_encoding)". Idag förlitar vi oss på "[Unicode](https://youtu.be/2r6OZD5n-wc)".
-
-##### Mått och färg
-
+###### Mått och färg
 Utöver uppbyggnaden av CSS är det viktigt att förstå mått och färg. "[The Lengths of CSS ](https://css-tricks.com/the-lengths-of-css/)" ger oss måtten, och färgerna hittar vi på "[MDN: color](https://developer.mozilla.org/en-US/docs/Web/CSS/color)".
 
-> Läs om ytterligare sätt att ange färg som lab, lch, display-p3 på "[A Whistle-Stop Tour of 4 New CSS Color Features ](https://css-tricks.com/new-css-color-features-preview/)"
+(Läs om ytterligare sätt att ange färg som lab, lch, display-p3 på "[A Whistle-Stop Tour of 4 New CSS Color Features ](https://css-tricks.com/new-css-color-features-preview/)".)
 
 "[What The Heck Is A Hex Value Anyway?](https://cgi.tutsplus.com/tutorials/what-the-heck-is-a-hex-value-anyway--ae-11932)" (4:15)
 
 Förstå färger med hjälp av ett "[Color wheel](https://en.wikipedia.org/wiki/Color_wheel)" och "[The 60:30:10 design rule for web design](https://yuricodesbot.hashnode.dev/the-603010-color-rule-for-web-design)". Hitta nya kombinationer med hjälp av "[ColorKit](https://colorkit.co/)" och "[Color picker](https://htmlcolorcodes.com/color-picker/)".
 
-##### Kontrast
-
+###### Kontrast
 "[Contrast Rebellion](https://contrastrebellion.com/)"*\** talar om för oss varför kontrast är viktigt, och på "[Color review](https://color.review/)" kan vi testa våra färger. (Läs mer och gör interaktiva övningar på "[Color & Contrast](https://colorandcontrast.com/)".)
 
-##### The box model 
-
+###### The box model 
 "[MDN: The box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)"
 
 "[The box model for beginners](https://youtu.be/MrAnu4zdjjY)" (1:54)
@@ -99,6 +87,13 @@ Förstå färger med hjälp av ett "[Color wheel](https://en.wikipedia.org/wiki/
 #### Måndag 
 
 Fortsätter arbeta med Min Fula Lilla Sida. 
+
+* Undvik svenska tecken, åäö
+* Undvik\_mellanslag\_
+* Undvik STORA bokstäver
+* Lägg alla filer i samma katalog!
+
+Vid all namngivning (filer, kataloger, etc) så gäller ovanstående grundregler. En av anledningarna till dessa är "[character encoding](https://developer.mozilla.org/en-US/docs/Glossary/character_encoding)". Idag förlitar vi oss på "[Unicode](https://youtu.be/2r6OZD5n-wc)".
 
 #### Tisdag 
 
