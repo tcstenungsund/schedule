@@ -74,6 +74,8 @@ Studiebesök på Hogia + samtalsstund med gymnasieingenjörer som nu jobbar på 
 
 #### Måndag
 
+Med ett avstamp i "[Frontend Developer Roadmap](https://roadmap.sh/frontend)" och "[JavaScript Developer Roadmap](https://roadmap.sh/javascript)" talar vi mer om npm, Gulp/Grunt och liknande tekniker.
+
 #### Torsdag 
 
 #### Fredag 
