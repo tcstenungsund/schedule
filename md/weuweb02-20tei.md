@@ -53,8 +53,6 @@ Gör uppgiften ovan, öppna Drupal i din webbläsare, logga in och skapa en arti
 
 Vi tittar på avsnitten 16-18, 22-26 (Content Type, 26min) samt avsnitten 27-29 (Taxonomy, 10min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".
 
-Läxa till vecka 40. 
-
 ## Vecka 40
 CMS 
 
