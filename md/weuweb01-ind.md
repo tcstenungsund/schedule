@@ -43,6 +43,8 @@ Jag är sjuk så ni får titta på filmen om The Box Model nedan och jobba vidar
 ## Vecka 39
 
 * Vi skall titta på en film om webbens historia [The web, past and future](https://www.youtube.com/watch?v=cCE2EyV_IiY)
+* Vi skall repetera lite om The Box Model, som ni fick i hemuppgift, förra veckan.
+* Vi skall prata lite om specificty
 
 ## Vecka 40
 
