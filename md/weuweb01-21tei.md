@@ -71,7 +71,7 @@ Utöver uppbyggnaden av CSS är det viktigt att förstå mått och färg. "[The 
 Hur vi använder färger kan du förstå genom att titta på ett "[Color wheel](https://en.wikipedia.org/wiki/Color_wheel)" och "[The 60:30:10 design rule for web design](https://yuricodesbot.hashnode.dev/the-603010-color-rule-for-web-design)". Hitta nya kombinationer med hjälp av "[ColorKit](https://colorkit.co/)" och "[Color picker](https://htmlcolorcodes.com/color-picker/)".
 
 ###### The box model 
-"[MDN: The box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)", "[The box model for beginners](https://youtu.be/MrAnu4zdjjY)" (1:54)
+En av de absolut viktigaste momenten i kursen är att förstå "[the box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)". "[The box model for beginners](https://youtu.be/MrAnu4zdjjY)" (1:54)
 
 "[Read color hex codes](https://youtu.be/eqZqx6lRPe0)" (17:49) och "[Learn CSS Box Model In 8 Minutes](https://youtu.be/rIO5326FgPE)" (8:22).
 
