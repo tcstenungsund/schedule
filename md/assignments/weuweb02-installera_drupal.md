@@ -46,9 +46,11 @@ Och en sista koll för att se att allting ser bra ut.
 
     lando info
 
+Nu kan du besöka din nyinstallerade Drupal CMS i din webbläsare. 
+
 ## Förväntat resultat
 
-
+En container som kör Drupal 9. 
 
 ### Vilka filer?
 
