@@ -56,6 +56,27 @@ När ni diskuterat igenom de sju frågorna, har ni troligtvis stött på problem
 
 ## Vecka 39
 
+Text som ni ska skicka ut till era rådgivare och kontakter:
+
+  
+Hej
+
+Våra unga företagare i årskurs 3 är i startup-fasen av sitt UF år och behöver bolla sina idéer med just dig.
+
+Som besökare har du möjlighet att gå runt och träffa våra härliga UF-elever, ge dem kreativ feedback och hjälpa dem att slipa på sin affärsidé. 
+
+Medverka så länge du har tid eller lust!
+
+ Hjärtligt välkommen!
+
+ Tid: Tisdagen den 4/10 mellan klockan 9.30 - 11.30.
+
+Plats: Hogia, etapp 3, Hakenäs. (Södra byggnaden). Besöksparkering finns i anslutning till entrén, där vi möter upp.
+
+Fika: Ja
+
+Mer information: [https://app.tcstenungsund.se/evenemang](https://urldefense.com/v3/__https:/app.tcstenungsund.se/evenemang__;!!KtHZpw!DNNhvdTBV1c6HxeXnY40XE1bfPBcsW96LLdBYar50-D6CvD-rL3b4fTheH8tUjYUfKiorZFQJ5-JgDwq-tS-0NYu1n6N8PAMZK6w$)      [https://ungforetagsamhet.se/](https://urldefense.com/v3/__https:/ungforetagsamhet.se/__;!!KtHZpw!DNNhvdTBV1c6HxeXnY40XE1bfPBcsW96LLdBYar50-D6CvD-rL3b4fTheH8tUjYUfKiorZFQJ5-JgDwq-tS-0NYu1n6N8IOBeJf5$)
+
 ## Vecka 40
 
 ## Vecka 41
