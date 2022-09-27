@@ -43,6 +43,8 @@ Säg till mig eller Ronnie om ni inte har kursen i netacad. (Kolla Netacad innan
 ## Vecka 39
 
  - Vi skall prata on kapitel 22, Endpoint Protection i Netacad kursen.
+ - "[Sammanfattning av kapitel 22 på Youtube](https://www.youtube.com/watch?v=BgqbSQJqS7M)"
+ - Finns olika längder som man kan kolla på om man har svårt att bara sitta och läsa.
 
 ## Vecka 40
  
