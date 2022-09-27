@@ -28,7 +28,9 @@ Först skapar vi en ny projektkatalog och navigerar dit i vårt shell. Där ber 
 
 Nu ber vi Lando tala om för Composer att vi vill initiera en installation av Drupal 9. 
 
-    lando composer create-project drupal/recommended-project:9.x tmp && cp -r tmp/. . && rm -rf tmp
+    lando composer create-project drupal/recommended-project:9.x tmp
+    
+Flytta nu alla filer och kataloger från tmp till din projektkatalog. Det vill säga flytta projekt/tmp/* --> projekt/ Ta sedan bort tmp.
 
 Dags att snurra igång vår container!
 
