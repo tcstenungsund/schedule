@@ -73,7 +73,7 @@ Hur vi använder färger kan du förstå genom att titta på ett "[Color wheel](
 ###### The box model 
 En av de absolut viktigaste momenten i kursen är att förstå "[the box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)". "[The box model for beginners](https://youtu.be/MrAnu4zdjjY)" (1:54)
 
-"[Read color hex codes](https://youtu.be/eqZqx6lRPe0)" (17:49) och "[Learn CSS Box Model In 8 Minutes](https://youtu.be/rIO5326FgPE)" (8:22).
+*Läxa till vecka 40* Se följande två klipp och lämna sedan in två saker du lärde dig, en från vardera klippet. "[Read color hex codes](https://youtu.be/eqZqx6lRPe0)" (17:49) och "[Learn CSS Box Model In 8 Minutes](https://youtu.be/rIO5326FgPE)" (8:22).
 
 ## Vecka 40
 
