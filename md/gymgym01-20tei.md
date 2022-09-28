@@ -58,7 +58,6 @@ När ni diskuterat igenom de sju frågorna, har ni troligtvis stött på problem
 
 Text som ni ska skicka ut till era rådgivare och kontakter:
 
-  
 Hej
 
 Våra unga företagare i årskurs 3 är i startup-fasen av sitt UF år och behöver bolla sina idéer med just dig.
@@ -75,7 +74,12 @@ Plats: Hogia, etapp 3, Hakenäs. (Södra byggnaden). Besöksparkering finns i an
 
 Fika: Ja
 
-Mer information: [https://app.tcstenungsund.se/evenemang](https://urldefense.com/v3/__https:/app.tcstenungsund.se/evenemang__;!!KtHZpw!DNNhvdTBV1c6HxeXnY40XE1bfPBcsW96LLdBYar50-D6CvD-rL3b4fTheH8tUjYUfKiorZFQJ5-JgDwq-tS-0NYu1n6N8PAMZK6w$)      [https://ungforetagsamhet.se/](https://urldefense.com/v3/__https:/ungforetagsamhet.se/__;!!KtHZpw!DNNhvdTBV1c6HxeXnY40XE1bfPBcsW96LLdBYar50-D6CvD-rL3b4fTheH8tUjYUfKiorZFQJ5-JgDwq-tS-0NYu1n6N8IOBeJf5$)
+Mer information: [https://app.tcstenungsund.se/evenemang](https://urldefense.com/v3/__https:/app.tcstenungsund.se/evenemang__;!!KtHZpw!DNNhvdTBV1c6HxeXnY40XE1bfPBcsW96LLdBYar50-D6CvD-rL3b4fTheH8tUjYUfKiorZFQJ5-JgDwq-tS-0NYu1n6N8PAMZK6w$)      [https://ungforetagsamhet.se/](https://ungforetagsamhet.se/)
+
+<table><tbody><tr><td><p><br>&nbsp;</p><figure class="image"><img src="https://eu1files.itslearning.com/data/3293/400041/Screenshot_20200929_112145.png" alt=""></figure><p>Vi ska börja fila på vår affärsidé. Arbeta gruppvis med dokumentet "Min affärsidé.docx" (ligger under INNEHÅLL), se videon först: <a href="https://www.youtube.com/watch?v=yfN68MLviog&amp;feature=youtu.be">https://www.youtube.com/watch?v=yfN68MLviog&amp;feature=youtu.be</a></p><p>Gå med fördel in på <a href="https://www.verksamt.se/fundera/har-du-en-affarside">https://www.verksamt.se/fundera/har-du-en-affarside</a></p><p>&nbsp;</p><p>Ni ska fundera på eran produkt/tjänst styrkor och svagheter, vem är kunden?</p><p>Nyckelord för er - lokalt, klimatsmart, unikt.</p></td></tr></tbody></table>
+
+  
+ 
 
 ## Vecka 40
 
