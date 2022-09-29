@@ -78,8 +78,7 @@ Mer information: [https://app.tcstenungsund.se/evenemang](https://urldefense.com
 
 <table><tbody><tr><td><p><br>&nbsp;</p><figure class="image"><img src="https://eu1files.itslearning.com/data/3293/400041/Screenshot_20200929_112145.png" alt=""></figure><p>Vi ska börja fila på vår affärsidé. Arbeta gruppvis med dokumentet "Min affärsidé.docx" (ligger under INNEHÅLL), se videon först: <a href="https://www.youtube.com/watch?v=yfN68MLviog&amp;feature=youtu.be">https://www.youtube.com/watch?v=yfN68MLviog&amp;feature=youtu.be</a></p><p>Gå med fördel in på <a href="https://www.verksamt.se/fundera/har-du-en-affarside">https://www.verksamt.se/fundera/har-du-en-affarside</a></p><p>&nbsp;</p><p>Ni ska fundera på eran produkt/tjänst styrkor och svagheter, vem är kunden?</p><p>Nyckelord för er - lokalt, klimatsmart, unikt.</p></td></tr></tbody></table>
 
-  
- 
+;P
 
 ## Vecka 40
 
