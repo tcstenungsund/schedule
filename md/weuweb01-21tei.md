@@ -59,7 +59,8 @@ Genomgång av [HTML Beginner](https://htmldog.com/guides/html/beginner/) och [CS
 
 #### Måndag
 
-Fortsätt arbeta med Min Fula Lilla Sida. 
+Fortsätt arbet
+a med Min Fula Lilla Sida. 
 
 #### Tisdag
 
