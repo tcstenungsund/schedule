@@ -76,6 +76,13 @@ Gästföreläsning från Hogia + samtalsstund med gymnasieingenjörer som nu job
 
 Med ett avstamp i "[Frontend Developer Roadmap](https://roadmap.sh/frontend)" och "[JavaScript Developer Roadmap](https://roadmap.sh/javascript)" talar vi mer om npm, Gulp/Grunt och liknande tekniker. Även "[The TypeScript Guide I Wish I Had](https://betterprogramming.pub/the-typescript-guide-i-wish-i-had-185087d66dd1)", "[How the Question Mark (?) Operator Works in JavaScript](https://www.freecodecamp.org/news/how-the-question-mark-works-in-javascript/)" och "[So you’re in if/else hell — here’s how to get out of it](https://www.freecodecamp.org/news/so-youre-in-if-else-hell-here-s-how-to-get-out-of-it-fc6407fec0e/)". 
 
+Saker man kan göra med en taskrunner
+* Livereload
+* CSS minification
+* Autoprefixer
+* Compile Sass
+* Lints the compiled css
+
 #### Torsdag 
 
 Idag talar vi om ethical hacking, med [Kevin Mitnick](https://en.wikipedia.org/wiki/Kevin_Mitnick) som exempel. Vi ser en [interview with renowned hacker Kevin Mitnick](https://youtu.be/LaypU4qAuYw) och påminner oss dokumentet [How To Become A Hacker](http://vadeker.net/articles/hacker-howto.html). Klassisk comic "[Exploits of a Mom](https://xkcd.com/327/)". 
