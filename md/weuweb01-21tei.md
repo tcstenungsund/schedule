@@ -66,8 +66,6 @@ Fortsätt arbeta med Min Fula Lilla Sida.
 ###### Mått och färg
 Utöver uppbyggnaden av CSS är det viktigt att förstå mått och färg. "[The Lengths of CSS ](https://css-tricks.com/the-lengths-of-css/)" ger oss måtten, och färgerna hittar vi på "[MDN: color](https://developer.mozilla.org/en-US/docs/Web/CSS/color)". Vi ser också "[What The Heck Is A Hex Value Anyway?](https://cgi.tutsplus.com/tutorials/what-the-heck-is-a-hex-value-anyway--ae-11932)" (4:15) och "[Are you using the right CSS units?](https://youtu.be/N5wpD9Ov_To)" (6:29).
 
-(Läs om ytterligare sätt att ange färg som lab, lch, display-p3 på "[A Whistle-Stop Tour of 4 New CSS Color Features ](https://css-tricks.com/new-css-color-features-preview/)".)
-
 Hur vi använder färger kan du förstå genom att titta på ett "[Color wheel](https://en.wikipedia.org/wiki/Color_wheel)" och "[The 60:30:10 design rule for web design](https://yuricodesbot.hashnode.dev/the-603010-color-rule-for-web-design)". Hitta nya kombinationer med hjälp av "[ColorKit](https://colorkit.co/)" och "[Color picker](https://htmlcolorcodes.com/color-picker/)".
 
 ###### The box model 
