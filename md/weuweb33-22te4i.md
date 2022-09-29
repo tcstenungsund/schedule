@@ -78,7 +78,7 @@ Med ett avstamp i "[Frontend Developer Roadmap](https://roadmap.sh/frontend)" oc
 
 #### Torsdag 
 
-Idag talar vi om ethical hacking, med [Kevin Mitnick](https://en.wikipedia.org/wiki/Kevin_Mitnick) som exempel. Vi ser en [interview with renowned hacker Kevin Mitnick](https://youtu.be/LaypU4qAuYw) och påminner oss dokumentet [How To Become A Hacker](http://vadeker.net/articles/hacker-howto.html). "[Exploits of a Mom](https://xkcd.com/327/)"
+Idag talar vi om ethical hacking, med [Kevin Mitnick](https://en.wikipedia.org/wiki/Kevin_Mitnick) som exempel. Vi ser en [interview with renowned hacker Kevin Mitnick](https://youtu.be/LaypU4qAuYw) och påminner oss dokumentet [How To Become A Hacker](http://vadeker.net/articles/hacker-howto.html). Klassisk comic "[Exploits of a Mom](https://xkcd.com/327/)".
 
 #### Fredag 
 
