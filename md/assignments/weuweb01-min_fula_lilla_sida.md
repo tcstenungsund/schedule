@@ -37,6 +37,11 @@ Börja med att skapa en ny [katalog](https://sv.wikipedia.org/wiki/Katalog_(dato
 
 Den resulterande sidan får med fördel vara riktigt ful.
 
+Följande absnitt är överkurs. Du får hemskt gärna läsa dem, men du måste inte. 
+HTML Beginner: Tables, Forms
+HTML Intermediate: Tables: rowspan and colspan
+HTML Advanced: Conditional Comments, Tables: Colmns, Headers, and Footers, Accessible Forms, HTML5 Forms Pt. 1 and 2.
+
 ## Förväntat resultat
 
 I slutet av den här uppgiften förväntas du ha skapat en ful liten sida bestående av minst ett html-dokument och minst ett css-dokument. Sidan skall innehålla alla de moment som återfinns i HTML- och CSS-delarna på HTML Dog.
