@@ -93,7 +93,7 @@ Kalle tipsar om att "[Ad blockers struggle under Chrome's new rules](https://www
 
 Presentation av djupdykningen "My First App".
 
-*Veckans sociala medier:* 
+*Veckans sociala medier:* Tre helt nya "[Modern CSS selectors](https://blog.openreplay.com/modern-css-selectors/)" och "[Git Concepts I Wish I Knew Years Ago (https://dev.to/g_abud/advanced-git-reference-1o9j)".
 
 ## Vecka 40
 
