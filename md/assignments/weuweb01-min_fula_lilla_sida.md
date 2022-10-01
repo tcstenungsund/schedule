@@ -39,8 +39,8 @@ Den resulterande sidan får med fördel vara riktigt ful.
 
 Följande absnitt är överkurs. Du får hemskt gärna läsa dem, men du måste inte. 
 * HTML Beginner: "Tables", "Forms"
-* HTML Intermediate: "Tables: rowspan and colspan"
-* HTML Advanced: "Conditional Comments", "Tables: Colmns, Headers, and Footers", "Accessible Forms", "HTML5 Forms Pt. 1" och "2".
+* HTML Intermediate: "Meta Tags","Tables: rowspan and colspan", "Descripton Lists", "Text: Addresses, Definitions, Bi-directional, and Editorial"
+* HTML Advanced: "Text: Time, Mark, and 'Presentational'", "Conditional Comments", "Tables: Colmns, Headers, and Footers", "Accessible Forms", "HTML5 Forms Pt. 1" och "2".
 
 ## Förväntat resultat
 
