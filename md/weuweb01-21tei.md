@@ -111,6 +111,23 @@ Positionering och layout
 
 Fortsätt arbeta med Min Fula Lilla Sida. 
 
+```mermaid
+gantt
+    title HTML Timeline
+    dateFormat  YYYY-MM-DD
+    axisFormat %Y
+    todayMarker off
+    Tim Berners-Lee :milestone, 1989-01-01, 1d
+    HTML            :milestone, 1991-10-01, 1d
+    HTML 2          :milestone, 1995-11-24, 1d
+    HTML 3          :milestone, 1997-01-14, 1d
+    HTML 4          :milestone, 1997-12-18, 1d
+    XHTML           :milestone, 2000-01-26, 1d
+    HTML 5          :milestone, 2014-10-28, 1d
+    WHATWG          :milestone, 2019-01-01, 1d
+    Idag            :milestone, 2022-12-31, 1d
+```
+
 #### Tisdag 
 
 Genomgång av [HTML Advanced](https://htmldog.com/guides/html/advanced/) och [CSS Advanced](https://htmldog.com/guides/css/advanced/).
