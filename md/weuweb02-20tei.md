@@ -51,7 +51,7 @@ Genomgång av provet från vecka 36.
 
 Gör uppgiften ovan, öppna Drupal i din webbläsare, logga in och skapa en article och ett block. 
 
-Stöter du på patrull, ladda hem docker-compose.yml-filen och följ instruktionen i [förra årets uppgift](https://github.com/seetee/manual/blob/master/weuweb02/src/weuweb02_-_workspace_setup.md).
+Stöter du på patrull, ladda hem docker-compose.yml-filen och följ [förra årets instruktion](https://github.com/seetee/manual/blob/master/weuweb02/src/weuweb02_-_workspace_setup.md).
 
 ## Vecka 40
 CMS 
