@@ -48,6 +48,10 @@ Jag är sjuk så ni får titta på filmen om The Box Model nedan och jobba vidar
 
 ## Vecka 40
 
+* Vi skall gå igenom [HTMLDog HTML Intermediate](https://htmldog.com/guides/html/intermediate/spandiv/)
+* Vi skall gå igenom [HTMLDog CSS Intermediate](https://htmldog.com/guides/css/intermediate/classid/)
+* Sedan skall ni fortsätta jobba med Min Fula Lilla Sida
+
 ## Vecka 41
 
 ## Vecka 42
