@@ -10,7 +10,7 @@ I grupp om två, eller enskilt.
 
 ## Uppgiftsbeskrivning
 
-Utifrån [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) skissar vi upp riktlinjer för projektet. Bygg en [PWA](https://whitespace.se/blogg/vad-ar-pwa-eller-progressive-web-apps/). Skapa först en projektplan utifrån artikeln "[How to make an app](https://aimconsulting.com/insights/blog/how-to-build-an-app-mobile-development/)". Följ den steg för steg, men hoppa över de sista två.
+Bygg en [PWA](https://whitespace.se/blogg/vad-ar-pwa-eller-progressive-web-apps/). Skapa först en projektplan utifrån artikeln "[How to make an app](https://aimconsulting.com/insights/blog/how-to-build-an-app-mobile-development/)". Följ den steg för steg, men hoppa över de sista två.
 
 Följande resurser skall ni använda i projektet.
 
