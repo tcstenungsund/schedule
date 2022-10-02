@@ -43,13 +43,15 @@
 
 ## Vecka 43
 
-
+ - Vi  börjar prata lite om Kapitel 5.
 
 ## Vecka 44
 
 HÖSTLOV
 
 ## Vecka 45
+
+ - Vi går igenom mer av Kapitel 5
 
 ## Vecka 46
 
