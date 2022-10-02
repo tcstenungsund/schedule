@@ -91,7 +91,7 @@ Kalle tipsar om att "[Ad blockers struggle under Chrome's new rules](https://www
 
 #### Fredag 
 
-Presentation av djupdykningen "My First App".
+Presentation av djupdykningen "My First App". 
 
 *Veckans sociala medier:* Tre helt nya "[Modern CSS selectors](https://blog.openreplay.com/modern-css-selectors/)" och "[Git Concepts I Wish I Knew Years Ago](https://dev.to/g_abud/advanced-git-reference-1o9j)".
 
@@ -99,9 +99,21 @@ Presentation av djupdykningen "My First App".
 
 #### Måndag
 
+###### Mobila Operativsystem
+
+Vi ser och diskuterar "[Are Linux Smartphones about to KILL Android?](https://youtu.be/GSudn0qB6u0)" (11:18). "[Top 12 Mobile Operating Systems](https://beebom.com/android-alternative/)". 
+
+[Djupdykning: Mobila Operativsystem](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb33-mobila_operativsystem)
+
 #### Torsdag 
 
+###### Progressive Web Apps
+
+[Projekt: Progressive Web Apps](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb33-pwa)
+
 #### Fredag 
+
+Web apps vs. Native apps 
 
 *Veckans sociala medier:* 
 
@@ -109,9 +121,15 @@ Presentation av djupdykningen "My First App".
 
 #### Måndag
 
+Testning
+
 #### Torsdag 
 
+
+
 #### Fredag 
+
+Presentation av djupdykningen "Mobila Operativsystem" 
 
 *Veckans sociala medier:* 
 
@@ -141,9 +159,11 @@ Presentation av djupdykningen "My First App".
 
 ## Vecka 45
 
+Versionshantering  
 
 ## Vecka 46
 
+Agil utveckling 
 
 ## Vecka 47
 
