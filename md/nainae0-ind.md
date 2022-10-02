@@ -49,6 +49,8 @@ Säg till mig eller Ronnie om ni inte har kursen i netacad. (Kolla Netacad innan
 ## Vecka 40
  
  - Vi skall prata om Kapitel 23, Enpoint Vulnerability Assessment i Netacad Kursen.
+ - "[Sammanfattning av kapitel 23 på youtube](https://www.youtube.com/watch?v=Aa5hyETSJek)"
+ - Sista tillfället att plugga inför provet.
 
 ## Vecka 41
 
@@ -56,9 +58,9 @@ Säg till mig eller Ronnie om ni inte har kursen i netacad. (Kolla Netacad innan
 
 ## Vecka 42
 
+ - Då ni har utvecklingssamtal denna dagen uteblir våran lektion.
 
 ## Vecka 43
-
 
 ## Vecka 44
 
