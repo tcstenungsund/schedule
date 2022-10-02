@@ -100,20 +100,23 @@ Presentation av djupdykningen "My First App".
 #### Måndag
 
 ###### Mobila Operativsystem
-
 Vi ser och diskuterar "[Are Linux Smartphones about to KILL Android?](https://youtu.be/GSudn0qB6u0)" (11:18). "[Top 12 Mobile Operating Systems](https://beebom.com/android-alternative/)". 
 
 [Djupdykning: Mobila Operativsystem](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb33-mobila_operativsystem)
 
 #### Torsdag 
 
-###### Progressive Web Apps
-
-[Projekt: Progressive Web Apps](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb33-pwa)
+###### Web apps vs. Native apps 
+* "[Apache Cordova](https://cordova.apache.org/)"
+* "[Ionic](https://ionicframework.com/)"
+* "[PwaToTwa](https://github.com/RikudouSage/PwaToTwa)"
+* "[Convert Progressive Web App (PWA) to Android App (APK)](https://fedi.dev/gytis/convert-progressive-web-app-pwa-to-android-app-apk)"
+* "[Appmaker pwa2apk](https://appmaker.xyz/pwa-to-apk)"
 
 #### Fredag 
 
-Web apps vs. Native apps 
+###### Progressive Web Apps
+[Projekt: Progressive Web Apps](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb33-pwa)
 
 *Veckans sociala medier:* 
 
