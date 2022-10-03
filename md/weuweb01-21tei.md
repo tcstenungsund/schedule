@@ -95,7 +95,7 @@ Genomgång av [HTML Intermediate](https://htmldog.com/guides/html/intermediate/)
 
 Vi lär oss [semantisk HTML](https://en.wikipedia.org/wiki/Semantic_HTML), tittar på [HTML5 Sectioning flowchart](http://html5doctor.com/downloads/h5d-sectioning-flowchart.png) och läser "[8 HTML tags you need to be using (and 5 to avoid)](https://www.creativebloq.com/advice/html-tags)". 
 
-[<img alt="HTML5 Sectioning Flowchart" src="[https://i.imgur.com/ieDaMzO.png](http://html5doctor.com/downloads/h5d-sectioning-flowchart.png)" width="60%">]([https://i.imgur.com/ieDaMzO.png](http://html5doctor.com/downloads/h5d-sectioning-flowchart.png))
+[<img alt="HTML5 Sectioning Flowchart" src="http://html5doctor.com/downloads/h5d-sectioning-flowchart.png" width="60%">]([https://i.imgur.com/ieDaMzO.png](http://html5doctor.com/downloads/h5d-sectioning-flowchart.png))
 
 ###### Specificity
 Ett av de absolut viktigaste momenten i kursen! Vi ser "[How CSS Specificity Is Calculated](https://youtu.be/ZBphodDntVc)" (4:53), läser "[MDN Specificity](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity)" och skrattar åt "[Batficity](http://batificity.com/)". 
