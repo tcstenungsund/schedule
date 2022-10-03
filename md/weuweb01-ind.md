@@ -54,6 +54,8 @@ Jag är sjuk så ni får titta på filmen om The Box Model nedan och jobba vidar
 
 ## Vecka 41
 
+ * Vi skall titta på en film om [Positioning](https://www.youtube.com/watch?v=6o-J6We3hkQ)
+
 ## Vecka 42
 
 ## Vecka 43
