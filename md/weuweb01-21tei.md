@@ -39,8 +39,6 @@ Dokumentären "The web, past and future" introducerade oss till Tim Berners-Lee 
 
 Hur är CSS strukturerat och hur använder man det? Några vanliga värden och egenskaper. CSS styr färg och position. Om HTML är till för webbläsaren så är CSS till för människor. 
 
-![Selektor, egenskap och värde](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics/css-declaration-small.png)
-
 [<img alt="Selektor, egenskap och värde" src="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics/css-declaration-small.png" width="60%">](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics/css-declaration-small.png)
 
 [Uppgift: HTML & CSS Basics](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb01-html_css_basics)
