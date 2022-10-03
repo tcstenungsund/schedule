@@ -106,19 +106,20 @@ Vi ser och diskuterar "[Are Linux Smartphones about to KILL Android?](https://yo
 
 [Djupdykning: Mobila Operativsystem](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb33-mobila_operativsystem)
 
-#### Torsdag 
-
 ###### Web apps vs. Native apps 
-* "[Apache Cordova](https://cordova.apache.org/)"
-* "[Ionic](https://ionicframework.com/)"
-* "[PwaToTwa](https://github.com/RikudouSage/PwaToTwa)"
-* "[Convert Progressive Web App (PWA) to Android App (APK)](https://fedi.dev/gytis/convert-progressive-web-app-pwa-to-android-app-apk)"
-* "[Appmaker pwa2apk](https://appmaker.xyz/pwa-to-apk)"
+* [React Native](https://reactnative.dev/) ([Explain Like I'm 5: React Native](https://youtu.be/wUDeLT6WXnQ))
+* [Apache Cordova](https://cordova.apache.org/)
+* [Ionic](https://ionicframework.com/)
+* [PwaToTwa](https://github.com/RikudouSage/PwaToTwa)
+* [Convert Progressive Web App (PWA) to Android App (APK)](https://fedi.dev/gytis/convert-progressive-web-app-pwa-to-android-app-apk)
+* [Appmaker pwa2apk](https://appmaker.xyz/pwa-to-apk)
 
-#### Fredag 
+#### Torsdag 
 
 ###### Progressive Web Apps
 [Projekt: Progressive Web Apps](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb33-pwa)
+
+#### Fredag 
 
 *Veckans sociala medier:* 
 
