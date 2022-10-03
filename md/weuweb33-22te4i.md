@@ -102,7 +102,7 @@ Presentation av djupdykningen "My First App".
 Först delar Kenneth med sig en aha-upplevelse som han fick när han läste artikeln "[Understanding Layout Algorithms](https://www.joshwcomeau.com/css/understanding-layout-algorithms/)" och rekommenderar varmt att även ni läser den. 
 
 ###### Mobila Operativsystem
-Vi ser och diskuterar "[Are Linux Smartphones about to KILL Android?](https://youtu.be/GSudn0qB6u0)" (11:18). "[Top 12 Mobile Operating Systems](https://beebom.com/android-alternative/)". 
+Vi ser och diskuterar "[Are Linux Smartphones about to KILL Android?](https://youtu.be/GSudn0qB6u0)" (11:18) och "[Top 12 Mobile Operating Systems](https://beebom.com/android-alternative/)". 
 
 [Djupdykning: Mobila Operativsystem](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb33-mobila_operativsystem)
 
