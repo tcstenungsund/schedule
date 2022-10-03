@@ -7,7 +7,7 @@ Uppstartsvecka!
 #### Måndag
 Kursplanering, presentation och introduktion till ämnet. Tittar på [Skolverkets riktlinjer](https://www.skolverket.se/undervisning/gymnasieskolan/laroplan-program-och-amnen-i-gymnasieskolan/gymnasieprogrammen/amne?url=1530314731%2Fsyllabuscw%2Fjsp%2Fsubject.htm%3FsubjectCode%3DWEU%26lang%3Dsv%26tos%3Dgy%26p%3Dp). 
 
-*Upphovsrätt och Creative Commons.* Tar upp [Statute of Anne](https://en.wikipedia.org/wiki/Statute_of_Anne), [Gutenberg](https://en.wikipedia.org/wiki/Johannes_Gutenberg), [Cory Doctorow](https://craphound.com/) och [Jonathan Coulton](https://www.jonathancoulton.com/). 
+*Upphovsrätt och Creative Commons.* Tar upp [Statute of Anne](https://en.wikipedia.org/wiki/Statute_of_Anne), [Gutenberg](https://en.wikipedia.org/wiki/Johannes_Gutenberg), [The Mickey Mouse Curve](https://techliberation.com/2009/08/06/copyright-duration-and-the-mickey-mouse-curve/), [The Disney History](https://www.boredpanda.com/funny-disney-history/), [Cory Doctorow](https://craphound.com/) och [Jonathan Coulton](https://www.jonathancoulton.com/). 
 
 #### Tisdag
 Fortsätter tala om Creative Commons. Tittar på klippet "[Vad är Creative Commons?](https://youtu.be/Yd9dP3vlOyk)" och ser exempel på sidor där man hittar verk under Creative commons-licenser, som "[Free SVG](https://freesvg.org/)", "[Free Music Archive](https://freemusicarchive.org/)" och "[Pexels](https://www.pexels.com/sv-se/)". Mer information finns på [Creative Commons egna webbplats](http://www.creativecommons.se/). 
