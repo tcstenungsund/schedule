@@ -51,7 +51,9 @@ Vi slutför uppgiften HTML & CSS Basics.
 
 #### Tisdag
 
-Genomgång av [HTML Beginner](https://htmldog.com/guides/html/beginner/) och [CSS Beginner](https://htmldog.com/guides/css/beginner/).
+Genomgång av [HTML Beginner](https://htmldog.com/guides/html/beginner/) och [CSS Beginner](https://htmldog.com/guides/css/beginner/). 
+
+När du skall lägga till en bild måste du avgöra om den är en del av innehållet eller utseendet, för att kunna bestämma om den skall ligga som en IMG-tag i HTML eller som en background-image i CSS. 
 
 [Uppgift: Min Fula Lilla Sida](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb01-min_fula_lilla_sida)
 
@@ -91,6 +93,13 @@ Vid all namngivning (filer, kataloger, etc) så gäller ovanstående grundregler
 
 Genomgång av [HTML Intermediate](https://htmldog.com/guides/html/intermediate/) och [CSS Intermediate](https://htmldog.com/guides/css/intermediate/).
 
+Vi lär oss [semantisk HTML](https://en.wikipedia.org/wiki/Semantic_HTML), tittar på [HTML5 Sectioning flowchart](http://html5doctor.com/downloads/h5d-sectioning-flowchart.png) och läser "[8 HTML tags you need to be using (and 5 to avoid)](https://www.creativebloq.com/advice/html-tags)". 
+
+![HTML5 Sectioning flowchart](http://html5doctor.com/downloads/h5d-sectioning-flowchart.png)
+
+###### Specificity
+Ett av de absolut viktigaste momenten i kursen! Vi ser "[How CSS Specificity Is Calculated](https://youtu.be/ZBphodDntVc)" (4:53), läser "[MDN Specificity](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity)" och skrattar åt "[Batficity](http://batificity.com/)". 
+
 ## Vecka 41
 
 #### Måndag 
@@ -102,7 +111,7 @@ Fortsätt arbeta med Min Fula Lilla Sida.
 
 #### Tisdag 
 
-Positionering och layout
+Layout modes 
 
 ## Vecka 42
 
@@ -139,7 +148,7 @@ Fortsätt arbeta med Min Fula Lilla Sida.
 
 #### Tisdag 
 
-Specificity och cascade. 
+Cascade. 
 
 ## Vecka 44
 
