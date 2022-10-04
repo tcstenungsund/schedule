@@ -61,6 +61,8 @@ När inget uppdaterats på 2-3 minuter, tryck [ctrl] + [c] och starta/stoppa din
     docker-compose start 
     
     docker-compose stop 
+  
+Efter att du öppnat localhost på rätt port i din webbläsare slutför du installationen med hjälp av informationen i docker-compose.yml-filen du nyss laddade ned. 
 
 ## Förväntat resultat
 
