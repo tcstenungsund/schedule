@@ -56,10 +56,10 @@ CMS
 
 Vi tittar på avsnitten 16-18, 22-26 (Content Type, 26min) samt avsnitten 27-29 (Taxonomy, 10min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".
 
-Vi ser avsnitt 34 - 40 av instruktionsserien. 
-
 ## Vecka 41
 CMS
+
+Vi ser avsnitt 34 - 40 av instruktionsserien. 
 
 Vi ser avsnitt 43 - 51 av instruktionsserien. 
 
