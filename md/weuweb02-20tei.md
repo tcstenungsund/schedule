@@ -52,30 +52,28 @@ Genomgång av provet från vecka 36.
 Gör uppgiften ovan, öppna Drupal i din webbläsare, logga in och skapa en article och ett block. 
 
 ## Vecka 40
-CMS 
+
+Första lektionen går till UF-aktiviteter på bottenvåningen. Andra lektionen viger vi åt att slutföra förra veckans uppgift.
+
+## Vecka 41
 
 Vi tittar på avsnitten 16-18, 22-26 (Content Type, 26min) samt avsnitten 27-29 (Taxonomy, 10min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".
 
-## Vecka 41
-CMS
-
 Vi ser avsnitt 34 - 40 av instruktionsserien. 
-
-Vi ser avsnitt 43 - 51 av instruktionsserien. 
 
 Läxa till vecka 42. 
 
 ## Vecka 42
-CMS
+
+Vi ser avsnitt 43 - 51 av instruktionsserien. 
 
 Vi ser avsnitt 52 - 62 av instruktionsserien. 
-
-Teman i en CMS. 
 
 Test på läxan.
 
 ## Vecka 43
-CMS
+
+Teman i en CMS. 
 
 Arbetsflöde och versionshantering
 
