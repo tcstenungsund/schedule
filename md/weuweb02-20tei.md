@@ -51,11 +51,8 @@ Genomgång av provet från vecka 36.
 
 Gör uppgiften ovan, öppna Drupal i din webbläsare, logga in och skapa en article och ett block. 
 
-Stöter du på patrull, ladda hem docker-compose.yml-filen och följ [förra årets instruktion](https://github.com/seetee/manual/blob/master/weuweb02/src/weuweb02_-_workspace_setup.md).
-
 ## Vecka 40
 CMS 
-
 
 Vi tittar på avsnitten 16-18, 22-26 (Content Type, 26min) samt avsnitten 27-29 (Taxonomy, 10min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".
 
