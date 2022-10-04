@@ -50,7 +50,7 @@ Och en sista koll för att se att allting ser bra ut.
 
 Nu kan du besöka din nyinstallerade Drupal CMS i din webbläsare. 
 
-###### Fel? 
+##### Fel? 
 
 Om du efter två timmars felsökning fortfarande inte har fått bukt med Windowsbuggarna, så kan du tanka ned filen "[docker-compose.yml](https://raw.githubusercontent.com/seetee/docker/version2.0/drupal/docker-compose.yml)", lägga i en *ny* projektkatalog och där köra följande kommando. 
 
