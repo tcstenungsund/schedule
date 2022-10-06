@@ -117,6 +117,11 @@ Vi ser och diskuterar "[Are Linux Smartphones about to KILL Android?](https://yo
 #### Torsdag 
 
 ###### Progressive Web Apps
+
+Dagens föreläsning bygger på "[Vad är PWA eller Progressive Web Apps?](https://whitespace.se/blogg/vad-ar-pwa-eller-progressive-web-apps/)", hur skapar man en "[Progressive Web App](https://web.dev/progressive-web-apps/)", "[Creating a Progressive Web Application (PWA) - HTML, CSS & JavaScript Tutorial](https://youtu.be/WbbAPfDVqfY)", "[Build a PWA Using Only Vanilla JavaScript](https://levelup.gitconnected.com/build-a-pwa-using-only-vanilla-javascript-bdf1eee6f37a)" och "[Web App Manifest Generator](https://app-manifest.firebaseapp.com/)".
+
+Projektet vi påbörjar går ut på att vi skall bygga en PWA, med hjälp av de verktyg vi bekantat oss med i denna och föregående kurser. Detta inkluderar Node.js, SASS, Bootstrap och GitHub.
+
 [Projekt: Progressive Web Apps](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb33-pwa)
 
 #### Fredag 
