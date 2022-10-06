@@ -107,7 +107,7 @@ Ett av de absolut viktigaste momenten i kursen! Vi ser "[How CSS Specificity Is 
 Fortsätt arbeta med Min Fula Lilla Sida. 
 
 ###### Kontrast
-"[Contrast Rebellion](https://contrastrebellion.com/)"*\** talar om för oss varför kontrast är viktigt, och på "[Color review](https://color.review/)" kan vi testa våra färger. (Läs mer och gör interaktiva övningar på "[Color & Contrast](https://colorandcontrast.com/)".)
+"[Contrast Rebellion](https://contrastrebellion.com/)"*\** talar om för oss varför kontrast är viktigt, och på "[Color review](https://color.review/)"/"[APCA Contrast Calculator ](https://www.myndex.com/APCA/)" kan vi testa våra färger. (Läs mer och gör interaktiva övningar på "[Color & Contrast](https://colorandcontrast.com/)".)
 
 #### Tisdag 
 
