@@ -83,7 +83,7 @@ Saker man kan göra med en taskrunner
 * Compile Sass
 * Lints the compiled css
 
-"[Introduction to NPM scripts](https://www.geeksforgeeks.org/introduction-to-npm-scripts/)" och "[npm Tutorial for Beginners - npm Scripts](https://youtu.be/hHt3oVk3XVk)".
+"[Introduction to NPM scripts](https://www.geeksforgeeks.org/introduction-to-npm-scripts/)" och "[Using Npm Scripts as a Build Tool ](https://deliciousbrains.com/npm-build-script/)".
 
 Även "[The TypeScript Guide I Wish I Had](https://betterprogramming.pub/the-typescript-guide-i-wish-i-had-185087d66dd1)", "[How the Question Mark (?) Operator Works in JavaScript](https://www.freecodecamp.org/news/how-the-question-mark-works-in-javascript/)" och "[So you’re in if/else hell — here’s how to get out of it](https://www.freecodecamp.org/news/so-youre-in-if-else-hell-here-s-how-to-get-out-of-it-fc6407fec0e/)". 
 
