@@ -130,7 +130,7 @@ Projektet vi påbörjar går ut på att vi skall bygga en PWA, med hjälp av de 
 
 #### Fredag 
 
-*Veckans sociala medier:* 
+*Veckans sociala medier:* "[Gradient Animations with HTML & CSS](https://www.tiktok.com/@tomisloading/video/7136659984884206894)", "[After self-hosting my email for twenty-three years I have thrown in the towel. The oligopoly has won. ](https://cfenollosa.com/blog/after-self-hosting-my-email-for-twenty-three-years-i-have-thrown-in-the-towel-the-oligopoly-has-won.html)" och "[How do you exit vim?!](https://www.tiktok.com/@lewismenelaws/video/7137336448386092293)".
 
 ## Vecka 41
 
