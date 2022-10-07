@@ -33,7 +33,7 @@ Studiedag.
 
 Genomgång av kapitel 1 färdig.
 
-#### Fredag 
+#### Fredag
 
 Genomgång av kapitel 2.
 
@@ -45,37 +45,57 @@ Då treorna är iväg på UF-kickoff i Göteborg får ni en uppgift att genomfö
 
 [Uppgift: The Internet of Everything](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/tektek00s-internet_of_everything)
 
-#### Fredag 
+#### Fredag
 
 ## Vecka 39
 
 #### Måndag
 
-#### Fredag 
+Genomgång av kapitel 2.
+
+#### Fredag
+
+Genomgång av kapitel 2 färdigt, gör quiz och interaktiva övningar.
 
 ## Vecka 40
 
 #### Måndag
 
-#### Fredag 
+![](https://user-images.githubusercontent.com/101390367/194496439-2fc59149-6f3d-4f07-a02d-0146971760d7.png)
+
+Förberedelse inför nästa veckas IoT laborationer.
+
+[https://tech.microbit.org/hardware/#temperature-sensing](https://tech.microbit.org/hardware/#temperature-sensing)
+
+[https://microbit.org/code/](https://microbit.org/code/)
+
+[https://learn.sparkfun.com/tutorials/getting-started-with-micropython-and-the-sparkfun-inventors-kit-for-microbit/experiment-1-blinking-an-led](https://learn.sparkfun.com/tutorials/getting-started-with-micropython-and-the-sparkfun-inventors-kit-for-microbit/experiment-1-blinking-an-led)
+
+[https://learn.sparkfun.com/tutorials/getting-started-with-micropython-and-the-sparkfun-inventors-kit-for-microbit/experiment-2-](https://learn.sparkfun.com/tutorials/getting-started-with-micropython-and-the-sparkfun-inventors-kit-for-microbit/experiment-2-)
+
+[https://learn.sparkfun.com/tutorials/getting-started-with-micropython-and-the-sparkfun-inventors-kit-for-microbit/experiment-3-reading-a-photoresistor](https://learn.sparkfun.com/tutorials/getting-started-with-micropython-and-the-sparkfun-inventors-kit-for-microbit/experiment-3-reading-a-photoresistor)
+
+#### Fredag
 
 ## Vecka 41
 
 #### Måndag
 
-#### Fredag 
+Jonas går igenom IT Ess kapitel 4. Vi byter lektion, så på onsdagens DAODAC lektion labbar vi med IoT.
+
+#### Fredag
 
 ## Vecka 42
 
 #### Måndag
 
-#### Fredag 
+#### Fredag
 
 ## Vecka 43
 
 #### Måndag
 
-#### Fredag 
+#### Fredag
 
 ## Vecka 44
 
