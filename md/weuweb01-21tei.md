@@ -98,7 +98,7 @@ Vi lär oss [semantisk HTML](https://en.wikipedia.org/wiki/Semantic_HTML), titta
 [<img alt="HTML5 Sectioning Flowchart" src="http://html5doctor.com/downloads/h5d-sectioning-flowchart.png" width="60%">]([https://i.imgur.com/ieDaMzO.png](http://html5doctor.com/downloads/h5d-sectioning-flowchart.png))
 
 ###### Specificity
-Ett av de absolut viktigaste momenten i kursen! Vi ser "[How CSS Specificity Is Calculated](https://youtu.be/ZBphodDntVc)" (4:53), läser "[MDN Specificity](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity)" och skrattar åt "[Batficity](http://batificity.com/)". 
+Ett av de absolut viktigaste momenten i kursen! Vi ser "[How CSS Specificity Is Calculated](https://youtu.be/ZBphodDntVc)" (4:53), läser "[MDN Specificity](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity)" och skrattar åt "[Batficity](http://batificity.com/)". Verktyg som "[CSS Specificity Calculator](https://polypane.app/css-specificity-calculator/)" kan hjälpa oss. 
 
 ## Vecka 41
 
