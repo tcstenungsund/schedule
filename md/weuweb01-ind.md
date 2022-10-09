@@ -60,8 +60,7 @@ Jag är sjuk så ni får titta på filmen om The Box Model nedan och jobba vidar
 
 ## Vecka 42
 
- * Vi kommer ha en liten gäst föreläsare (pen annan lärare på skolan) som kommer att prata om processen bakom kodandet av en hemsida.
- * Jag är hos veterinären på morgonen, så det är den andra läraren som kommer att ta närvaro och ta hand om er tills jag kommer in.
+ * Vi kommer ha en liten gäst föreläsare (en annan lärare på skolan) som kommer att prata om processen bakom kodandet av en hemsida.
  * Sedan vill jag att ni fortsätter arbeta med "Min Fula Lilla sifa"
 
 ## Vecka 43
