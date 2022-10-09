@@ -41,7 +41,7 @@ Det finns [många CMS:er](https://en.wikipedia.org/wiki/List_of_content_manageme
 
 ![Drupals versioner](https://blog.twn.ee/sites/default/files/2020-10/Drupal%20Eng.png)
 
-Vi tittar på avsnitten 1-3 (Introduktion, 15min) och 8-15 (Systemöverblick, 17min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)". 
+Vi ser avsnitten 1-3 (Introduktion, 15min) och 8-15 (Systemöverblick, 17min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)". 
 
 Genomgång av provet från vecka 36. 
 
@@ -57,25 +57,31 @@ Första lektionen går till UF-aktiviteter på bottenvåningen. Andra lektionen 
 
 ## Vecka 41
 
-Vi tittar på avsnitten 16-18, 22-26 (Content Type, 26min) samt avsnitten 27-29 (Taxonomy, 10min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".
+Vi ser avsnitten 16-18, 22-26 (Content Type, 26min) samt avsnitten 27-29 (Taxonomy, 10min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".
 
-Vi ser avsnitt 34 - 40 av instruktionsserien. 
+CSS pre-processor-språk
 
-Läxa till vecka 42. 
+--
+
+Vi ser avsnitten 37-40 (Views, 20min), avsnitten 43-47 (Moduler, 23min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".
+
+"[Uppgift: Moduler i CMS](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-moduler_i_cms)"
+
+Läxa till vecka 42: Se avsnitten 30-31 (Content, 10min), 34-36 (Displays, 15min), 32 och 33 (Revisions och Devel, 9min), samt 41-42 (Image Styles och Photo Gallery, 8min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".
 
 ## Vecka 42
 
-Vi ser avsnitt 43 - 51 av instruktionsserien. 
+Vi ser avsnitten 48-51 (Block och Menyer, 13min) och 52-55 (Teman, 15min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".
 
-Vi ser avsnitt 52 - 62 av instruktionsserien. 
+--
 
-Test på läxan.
+Vi ser avsnitten 56-57 (Rättigheter, 8min), 58-60 (Rapporter och Uppdatering, 10min) och 61-62 (Drupals Community, 6min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".
 
 ## Vecka 43
 
 Teman i en CMS. 
 
-Arbetsflöde och versionshantering
+--
 
 Prov
 
