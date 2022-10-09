@@ -59,7 +59,7 @@ Första lektionen går till UF-aktiviteter på bottenvåningen. Andra lektionen 
 
 Vi ser avsnitten 16-18, 22-26 (Content Type, 26min) samt avsnitten 27-29 (Taxonomy, 10min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".
 
----  
+--  
 
 Vi ser avsnitten 37-40 (Views, 20min), avsnitten 43-47 (Moduler, 23min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".
 
@@ -71,7 +71,7 @@ Läxa till vecka 42: Se avsnitten 30-31 (Content, 10min), 34-36 (Displays, 15min
 
 Vi ser avsnitten 48-51 (Block och Menyer, 13min) och 52-55 (Teman, 15min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".
 
----  
+--  
 
 Vi ser avsnitten 56-57 (Rättigheter, 8min), 58-60 (Rapporter och Uppdatering, 10min) och 61-62 (Drupals Community, 6min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".
 
@@ -79,7 +79,7 @@ Vi ser avsnitten 56-57 (Rättigheter, 8min), 58-60 (Rapporter och Uppdatering, 1
 
 Teman i en CMS. 
 
----  
+--  
 
 Prov
 
