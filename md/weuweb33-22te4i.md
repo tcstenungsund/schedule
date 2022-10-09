@@ -136,7 +136,11 @@ Projektet vi påbörjar går ut på att vi skall bygga en PWA, med hjälp av de 
 
 #### Måndag
 
-Testning
+###### Testning
+
+Inom mjukvaruutveckling finns mycket att testa. I början gör man det manuellt, men efter hand måste man automatisera. Webbutvecklare brukar testa kontrast, a11y, om koden validerar, laddningshastighet, [LCP](https://web.dev/lcp/), osv. Andra programmerare talar oftare om "[Unit Testing](https://softwaretestingfundamentals.com/unit-testing/)", "[Integration Testing](https://softwaretestingfundamentals.com/integration-testing/)" och "[End-to-End Testing](https://www.indeed.com/career-advice/career-development/end-to-end-testing)".
+
+Cain Maddox tells us to "[Stop testing your software](https://twitter.com/ctrlshifti/status/1307599545803575296)", but Michael Lynch gives us "[End-to-End Testing Web Apps: The Painless Way](https://mtlynch.io/painless-web-app-testing/)" in [Cypress](https://www.cypress.io/). "[Cypress in 100 Seconds](https://youtu.be/BQqzfHQkREo)"
 
 #### Torsdag 
 
