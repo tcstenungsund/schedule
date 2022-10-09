@@ -55,8 +55,14 @@ Jag är sjuk så ni får titta på filmen om The Box Model nedan och jobba vidar
 ## Vecka 41
 
  * Vi skall titta på en film om [Positioning](https://www.youtube.com/watch?v=6o-J6We3hkQ)
+ * Det är även dags för er att visa hur långt ni har kommit på "Min Fula Lilla Sida" så att jag har lite underlag till era utvecklingssamtal.
+ * Vi jobbar även vidare med "Min fula lilla sida"
 
 ## Vecka 42
+
+ * Vi kommer ha en liten gäst föreläsare (pen annan lärare på skolan) som kommer att prata om processen bakom kodandet av en hemsida.
+ * Jag är hos veterinären på morgonen, så det är den andra läraren som kommer att ta närvaro och ta hand om er tills jag kommer in.
+ * Sedan vill jag att ni fortsätter arbeta med "Min Fula Lilla sifa"
 
 ## Vecka 43
 
