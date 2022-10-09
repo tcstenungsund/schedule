@@ -138,8 +138,8 @@ async function getAssignments(html){
         contains(., 'inlämning') or \
         contains(., 'Inlämning') or \
         contains(., 'INLÄMING') or \
-        contains(., 'test') or \
-        contains(., 'Test') or \
+        contains(., 'test ') or \
+        contains(., 'Test ') or \
         contains(., 'TEST')or \
         contains(., 'prov')or \
         contains(., 'Prov')or \
