@@ -59,8 +59,6 @@ Första lektionen går till UF-aktiviteter på bottenvåningen. Andra lektionen 
 
 Vi ser avsnitten 16-18, 22-26 (Content Type, 26min) samt avsnitten 27-29 (Taxonomy, 10min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".
 
-CSS pre-processor-språk
-
 --
 
 Vi ser avsnitten 37-40 (Views, 20min), avsnitten 43-47 (Moduler, 23min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".
