@@ -69,33 +69,34 @@ Läxa till vecka 42: Se avsnitten 30-31 (Content, 10min), 34-36 (Displays, 15min
 
 ## Vecka 42
 
+Gymnasiearbetesdag & Utvecklingssamtal 
+
+## Vecka 43
+
 Vi ser avsnitten 48-51 (Block och Menyer, 13min) och 52-55 (Teman, 15min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".
 
 --  
 
 Vi ser avsnitten 56-57 (Rättigheter, 8min), 58-60 (Rapporter och Uppdatering, 10min) och 61-62 (Drupals Community, 6min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".
 
-## Vecka 43
+## Vecka 44
+**HÖSTLOV**
+
+## Vecka 45
 
 Teman i en CMS. 
 
 --  
 
-Prov
-
-## Vecka 44
-**HÖSTLOV**
-
-## Vecka 45
-Versionshantering
+Prov  
 
 ## Vecka 46
-Individuellt projekt
-
-Test på versionshantering
+Versionshantering  
 
 ## Vecka 47
-Individuellt projekt
+Individuellt projekt  
+
+Test på versionshantering  
 
 ## Vecka 48
 Individuellt projekt
