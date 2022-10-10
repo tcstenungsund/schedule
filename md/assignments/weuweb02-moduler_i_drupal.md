@@ -15,11 +15,13 @@ Enskild uppgift.
 
 ## Uppgiftsbeskrivning
 
-Lyssna på avsnitt nummer 84 "Våra måste måste-moduler" av podcasten "Drupalsnack". 
+Lyssna på avsnitt nummer 84 "Våra måste måste-moduler" av podcasten "Drupalsnack". Läs in dig på den modul du blir tilldelad. 
 
 ## Förväntat resultat
 
-Du skall ha en översikt av de mest använda modulerna för Drupal, samt ha en djupare förståelse för en av dem. Det blir ett test på momentet. 
+Du skall ha en översikt av de mest använda modulerna för Drupal, samt ha en djupare förståelse för en av dem. 
+
+Det blir ett test på podcasten och du kommer få göra en presentation av din tilldelade modul. 
 
 ### Vilka filer?
 
