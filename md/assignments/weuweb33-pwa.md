@@ -17,13 +17,12 @@ Följande resurser skall ni använda i projektet.
 * [Node.js](https://nodejs.org/en/)
   * npm (package manager)
   * npm scripts (taskrunner)
-* [npm precommit-scripts](https://elijahmanor.com/blog/npm-precommit-scripts) (Synkronisera git och npm)
 * [SASS](https://sass-lang.com/) (CSS preprocessingspråk)
 * [Bootstrap](https://getbootstrap.com/) (CSS Ramverk) 
 * [CSS Lint](http://csslint.net/) (CSS linter)
 * [Squoosh](https://squoosh.app/) (Bildkomprimerare)
 
-Ni skall även änvända lämpliga verktyg för att optimera bilder, javascript och CSS. All kod skall ligga på GitHub.
+Ni skall även änvända lämpliga verktyg för att optimera bilder, javascript och CSS. Eventuellt kan ni behöva [npm precommit-scripts](https://elijahmanor.com/blog/npm-precommit-scripts). All kod skall ligga på GitHub.
 
     npm install bootstrap
     npm install -g sass
