@@ -122,7 +122,7 @@ Fortsätt arbeta med Min Fula Lilla Sida.
 
 [Layout modes](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_mode) är ett stort område i CSS. Se [exempel på layout modes](https://codepen.io/collection/PYJyGp) på Codepen. Se klippen "[Flexbox vs. CSS Grid — Which is Better?](https://youtu.be/hs3piaN4b5I)" (4:18) och "[The Lowdown on CSS Positioning](https://youtu.be/6o-J6We3hkQ)" (9:28). Referera till de kompletta guiderna på CSS-Tricks till [Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) och [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/).
 
-När ni är klara med avsnittet HTMLdog CSS Beginner gör ni [Grid Garden](https://cssgridgarden.com/) och [Flexbox Froggy](https://flexboxfroggy.com/#sv).
+När ni är klara med avsnittet HTMLdog CSS Intermediate gör ni [Grid Garden](https://cssgridgarden.com/) och [Flexbox Froggy](https://flexboxfroggy.com/#sv).
 
 ## Vecka 42
 
