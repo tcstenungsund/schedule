@@ -12,10 +12,10 @@ Genomgång kapitel 1.
 
 Vi testar en enkel nätverkslaboration.
 
-1. Använd Putty.
-2. Stäng av brandvägg.
-3. Stäng av WIFI.
-4. Kolla enhetshanteraren efter COM port.
+1.  Använd Putty.
+2.  Stäng av brandvägg.
+3.  Stäng av WIFI.
+4.  Kolla enhetshanteraren efter COM port.
 
 ## Vecka 36
 
@@ -84,33 +84,61 @@ Spara .pka filer och lämna in enskilt.
 
 #### Tisdag
 
+Genomgång av kapitel 4.
+
 #### Onsdag
 
+Genomgång av kapitel 4.2, Inter VLAN routing.
+
 #### Torsdag
+
+Förberedelser inför tisdagens UF workshop.
 
 ## Vecka 40
 
-#### Tisdag
+#### Tisdag 
+
+UF workshop med samverkansföretag.
 
 #### Onsdag
 
+![](https://user-images.githubusercontent.com/101390367/195036750-601919c5-6d40-4caf-ad36-1e1fa894eb49.png)
+
+Laboration 4.2.8
+
 #### Torsdag
+
+Uppföljning av tisdagens UF workshop.
 
 ## Vecka 41
 
 #### Tisdag
 
+Genomgång av Laboration 4.2.8 - Router on a stick.
+
+Läs på kapitel 1,2,3 och 4 inför nästa veckas modulprov.
+
 #### Onsdag
 
+Laboration 4.2.8 - Lämna in running configuration för Switch 1 och Router 1.
+
 #### Torsdag
+
+Axel och Jack som gick gymnasieingenjörsutbildningen förra året kommer och pratar om hur det är att arbeta på Hogia.
 
 ## Vecka 42
 
 #### Tisdag
 
+Genomgång av kapitel 4.3 - Lager 3 switch.
+
 #### Onsdag
 
+Laboration på Lager 3 switch.
+
 #### Torsdag
+
+PROV Modulprov för kapitel 1,2,3 och 4.
 
 ## Vecka 43
 
