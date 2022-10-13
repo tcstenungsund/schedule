@@ -143,7 +143,7 @@ Cain Maddox på [Twitter](https://twitter.com/ctrlshifti/status/1307599545803575
 
 #### Torsdag 
 
-
+Vi talar om hur man planerar sin apps struktur, hierarki, säkerhet och a11y. Följ [HTML5 Sectioning Flowchart](http://html5doctor.com/downloads/h5d-sectioning-flowchart.png), "[Foundations: HTML semantics](https://tetralogical.com/blog/2022/10/05/foundations-html-semantics/)", "[How to Safely Share Your Email Address on a Website ](https://css-tricks.com/how-to-safely-share-your-email-address-on-a-website/)" och "[Easy Fluid Typography With clamp() Using Sass Functions](https://www.smashingmagazine.com/2022/10/fluid-typography-clamp-sass-functions/)".
 
 #### Fredag 
 
