@@ -130,6 +130,28 @@ När ni är klara med avsnittet HTMLdog CSS Intermediate gör ni [Grid Garden](h
 
 Fortsätt arbeta med Min Fula Lilla Sida. 
 
+#### Tisdag 
+
+Arbeta vidare hemma med Min Fula Lilla sida. Dessutom utvecklingssamtal. 
+
+## Vecka 43
+
+#### Måndag 
+
+Fortsätt arbeta med Min Fula Lilla Sida. 
+
+#### Tisdag 
+
+Genomgång av [HTML Advanced](https://htmldog.com/guides/html/advanced/) och [CSS Advanced](https://htmldog.com/guides/css/advanced/).
+
+## Vecka 44
+
+**HÖSTLOV**
+
+## Vecka 45
+
+Deadline för Min Fula Lilla Sida. 
+
 ```mermaid
 gantt
     title HTML Timeline
@@ -146,28 +168,6 @@ gantt
     WHATWG          :milestone, 2019-01-01, 1d
     Idag            :milestone, 2022-12-31, 1d
 ```
-
-#### Tisdag 
-
-Genomgång av [HTML Advanced](https://htmldog.com/guides/html/advanced/) och [CSS Advanced](https://htmldog.com/guides/css/advanced/).
-
-## Vecka 43
-
-#### Måndag 
-
-Fortsätt arbeta med Min Fula Lilla Sida. 
-
-#### Tisdag 
-
-Cascade. 
-
-## Vecka 44
-
-**HÖSTLOV**
-
-## Vecka 45
-
-Deadline för Min Fula Lilla Sida. 
 
 ## Vecka 46
 
