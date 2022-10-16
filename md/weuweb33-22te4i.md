@@ -155,9 +155,15 @@ Presentation av djupdykningen "Mobila Operativsystem"
 
 #### Måndag
 
+Fortsätt med projektet Progressive Web Apps.
+
 #### Torsdag 
 
+Fortsätt med projektet Progressive Web Apps.
+
 #### Fredag 
+
+Presentation av projektet Progressive Web Apps.
 
 *Veckans sociala medier:* 
 
