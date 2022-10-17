@@ -82,9 +82,39 @@ Mer information: [https://app.tcstenungsund.se/evenemang](https://urldefense.com
 
 ## Vecka 40
 
+Arbete med UF företag.
+
 ## Vecka 41
 
+Arbete med UF företag.
+
 ## Vecka 42
+
+Tisdag - UF dag / utvecklingssamtal
+
+Idag ska ni arbeta en heldag med UF företagen. Förutom att arbeta med er innovation ska ni göra tre saker:
+
+*   Lämna in dokumentet "Min affärsidé"
+*   Gör en marknadsundersökning.
+*   Kolla att det ni registrerat på ungföretagsamhet.se stämmer. Är alla deltagare med, har ni uppdaterat affärsidén, rådgivare osv. 
+
+Marknadsundersökning!
+
+När ni diskuterat igenom de sju frågorna (se vecka 38), har ni troligtvis stött på problem som resulterat i att ni förändrat och utvecklat delar av projektet.
+
+Detta är bra och syftet med metoden!
+
+Efter ett tag, när ni resonerat klart och bestämt er för vad och hur ni ska göra är det dags att testa ert projekt även utanför projektgruppen!
+
+För att ta reda på om projektidén verkligen kommer att uppskattas av _andra_ eller få den effekt ni hoppas på, kan ni göra en extern undersökning med hjälp av en marknadsundersökning.
+
+I en marknadsundersökning tar ni reda på vad målgruppen för projektet tycker och tänker. För att ta reda på det ställer ni frågor som ni vill ha svar på.
+
+Vi kommer att använda google forms för att skapa ett digitalt frågeformulär. Detta kan ni sprida till er målgrupp via exempelvis sociala medier.
+
+[https://www.google.com/forms/about/](https://www.google.com/forms/about/)
+
+Fundera på vilka frågor som ni behöver ha svar på i nuläget. Skicka ut till målgruppen.
 
 ## Vecka 43
 
