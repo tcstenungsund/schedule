@@ -61,7 +61,8 @@ Jag är sjuk så ni får titta på filmen om The Box Model nedan och jobba vidar
 ## Vecka 42
 
  * Vi kommer ha en liten gäst föreläsare (en annan lärare på skolan) som kommer att prata om processen bakom kodandet av en hemsida.
- * Föreläsaren kommer prata om "Vad är en Wireframe?" och "Hur gör man en Moodboard?"
+ * Föreläsaren kommer prata om "Vad är en Wireframe?" och "Hur gör man en Moodboard?".
+ * "Vad är en Style Guide?" och " Vad är ett Pattern Library?"
  * Sedan vill jag att ni fortsätter arbeta med "Min Fula Lilla sifa"
 
 ## Vecka 43
