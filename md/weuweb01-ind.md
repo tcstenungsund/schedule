@@ -64,18 +64,13 @@ Gästföreläsning av KFN.
 
 ###### Projektplannering 
 För att samarbeta kring planneringen av en webbplats finns flera verktyg som används.  
-* **Comp** - En [comprehensive layout](https://en.wikipedia.org/wiki/Comprehensive_layout) är en bild av den färdiga sidan. Den tar ganska lång tid att skapa och är inte så flexibel. 
-
-* **Style Guide** - En mall för hur webbsidan skall se ut. Färger, typsnitt, marginaler och liknande. "[Creating Style Guides](https://alistapart.com/article/creating-style-guides/)". 
-
-* **Pattern Library** - Ett bibliotek med färdiga komponenter som är enkla att lyfta in. Legobitar. "[How to Create a Pattern Library and Why You Should Bother](https://boagworld.com/design/pattern-library/)".
-
-* **Wireframe** - En skiss av layouten på sidan. Innehåller inte rätt text, bilder, typsnitt eller färger. "[How to wireframe a website](https://youtu.be/PmmQjLqJQlY)" (4:55), "[Why and How You Should Create Wireframes With Others](https://boagworld.com/season/lean-ux/episode/create-wireframes/)" och "[What is a Wireframe](https://youtu.be/T0vt3nLZKks)" (5:09). 
-
-* **Moodboard** - Ett kollage bestående av bilder, rubriker och texturer. Förmedlar färger, känslor och strukturer. "[How moodboards can save time, money and your sanity!](https://boagworld.com/design/mood/)", "[Generating web design moodboards through collaboration](https://boagworld.com/design/moodboards/)" och "[How To Make A Mood Board](https://youtu.be/JiHkYXDzamI)" (1:44).
+* __Comp__ - En [comprehensive layout](https://en.wikipedia.org/wiki/Comprehensive_layout) är en bild av den färdiga sidan. Den tar ganska lång tid att skapa och är inte så flexibel. 
+* __Style Guide__ - En mall för hur webbsidan skall se ut. Färger, typsnitt, marginaler och liknande. "[Creating Style Guides](https://alistapart.com/article/creating-style-guides/)". 
+* __Pattern Library__ - Ett bibliotek med färdiga komponenter som är enkla att lyfta in. Legobitar. "[How to Create a Pattern Library and Why You Should Bother](https://boagworld.com/design/pattern-library/)".
+* __Wireframe__ - En skiss av layouten på sidan. Innehåller inte rätt text, bilder, typsnitt eller färger. "[How to wireframe a website](https://youtu.be/PmmQjLqJQlY)" (4:55), "[Why and How You Should Create Wireframes With Others](https://boagworld.com/season/lean-ux/episode/create-wireframes/)" och "[What is a Wireframe](https://youtu.be/T0vt3nLZKks)" (5:09). 
+* __Moodboard__ - Ett kollage bestående av bilder, rubriker och texturer. Förmedlar färger, känslor och strukturer. "[How moodboards can save time, money and your sanity!](https://boagworld.com/design/mood/)", "[Generating web design moodboards through collaboration](https://boagworld.com/design/moodboards/)" och "[How To Make A Mood Board](https://youtu.be/JiHkYXDzamI)" (1:44).
 
 Går att göra digitalt, men fungerar ofta väldigt bra rent fysiskt. För att göra Wireframes rekommenderas [wireframe.cc](https://wireframe.cc/) och för annan design [Penpot](https://penpot.app/). 
-
 
 ## Vecka 43
 
