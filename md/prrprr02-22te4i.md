@@ -46,7 +46,7 @@ Eller
 [Gör Astroids](https://www.rikardkarlsson.se/programmering/uppgifter.php?url=4532-astroids)
 
 ## Vecka 42
-
+Fortsätt med uppgifterna!
 
 ## Vecka 43
 
