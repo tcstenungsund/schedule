@@ -1,25 +1,49 @@
-# Programmering 2
+# Programmering 2 och Mjukvarudesign
 
 ## Vecka 35
+Kursmål.
 
+[Installera Visual Studio mm](https://www.rikardkarlsson.se/programmering/uppgifter.php?url=4010-installera-visual-studio-mm)
+
+[Introduktion till C#, exempelkod på GitHub, därefter följer övningsuppgifter.](https://www.rikardkarlsson.se/programmering/uppgifter.php?url=4015-intro-c-sharp)
+
+[Fler introduktionsuppgifter för den som behöver öva mer.](https://www.rikardkarlsson.se/programmering/uppgifter.php?url=4016-fler-introduktionsuppgifter)
 
 ## Vecka 36
+[Introduktion till C#, exempelkod på GitHub, därefter följer övningsuppgifter.](https://www.rikardkarlsson.se/programmering/uppgifter.php?url=4015-intro-c-sharp)
 
+[Fler introduktionsuppgifter för den som behöver öva mer.](https://www.rikardkarlsson.se/programmering/uppgifter.php?url=4016-fler-introduktionsuppgifter)
 
 ## Vecka 37
+Demo Unity
 
+[Installera Unity](https://unity.com/download) Välj personal.
+
+[Ett första spel - Crab](https://www.rikardkarlsson.se/programmering/uppgifter.php?url=4530-crab)
 
 ## Vecka 38
+Pacman
 
+Tips: [Unity 2D guide](https://www.rikardkarlsson.se/programmering/uppgifter.php?url=4501-unity-2d-guide)
 
 ## Vecka 39
+Fortsätt med Pacman eller gör något som liknar:
 
+[Cheese Girl](https://github.com/karlsson0214/CheeseGirl)
+
+[Mapp med bilder, men bara \*.png](https://github.com/karlsson0214/CheeseGirl/tree/master/Assets/Sprites)
 
 ## Vecka 40
-  
+[Gör ett eget spel som liknar Cheese Girl](https://www.rikardkarlsson.se/programmering/uppgifter.php?url=4531-cheese-girl)
 
 ## Vecka 41
+[Prata om kod](https://www.rikardkarlsson.se/programmering/uppgifter.php?url=4590-prata-om-kod)
 
+[Fortsätt med Cheese Girl](https://www.rikardkarlsson.se/programmering/uppgifter.php?url=4531-cheese-girl)
+
+Eller
+
+[Gör Astroids](https://www.rikardkarlsson.se/programmering/uppgifter.php?url=4532-astroids)
 
 ## Vecka 42
 
