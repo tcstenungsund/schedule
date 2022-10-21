@@ -91,9 +91,13 @@ Jonas går igenom IT Ess kapitel 4. Vi byter lektion, så på onsdagens DAODAC l
 
 #### Fredag
 
+Vi har kollat på filmen [Drones, Hackers and mercenaries](https://www.youtube.com/watch?v=MZ60UDys_ZE).
+
 ## Vecka 43
 
 #### Måndag
+
+Vi tar en ca 30-40min av lektionen för att köra lite parlamentet med våra ämnen som ni blev tilldelade i fredags.
 
 #### Fredag
 
