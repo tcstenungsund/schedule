@@ -25,6 +25,8 @@ Enskild uppgift.
 * [Grid Garden](https://cssgridgarden.com/)  
 * [Flexbox Froggy](https://flexboxfroggy.com/#sv)  
 
+#### Ett annat sätt att lära
+* [Learn CSS in 20 Minutes](https://youtu.be/1PnVor36_40)  
 * [Learn CSS Box Model In 8 Minutes](https://youtu.be/rIO5326FgPE)  
 * [Learn CSS Specificity In 11 Minutes](https://youtu.be/CHyPGSpIhSs)  
 * [Learn Flexbox in 15 Minutes](https://youtu.be/fYq5PXgSsbE)  
@@ -32,6 +34,9 @@ Enskild uppgift.
 * [Learn CSS Display Property In 4 Minutes](https://youtu.be/Qf-wVa9y9V4)  
 * [Learn CSS Position In 9 Minutes](https://youtu.be/jx5jmI0UlXU)  
 * [Learn Every CSS Selector In 20 Minutes](https://youtu.be/l1mER1bV0N0)  
+* [Learn CSS Pseudo Elements In 8 Minutes](https://youtu.be/OtBpgtqrjyo)  
+* [Learn CSS Transform In 15 Minutes](https://youtu.be/rzD-cPhq02E)  
+* [Learn CSS Animation In 15 Minutes](https://youtu.be/YszONjKpgg4)  
 * [Learn CSS Media Query In 7 Minutes](https://youtu.be/yU7jJ3NbPdA)  
 
 > Tips! Om du kör Windows som OS finns [Microsoft Anteckningar](https://support.microsoft.com/sv-se/windows/hj%C3%A4lp-i-anteckningar-4d68c388-2ff2-0e7f-b706-35fb2ab88a8c) förinstallerat. 
