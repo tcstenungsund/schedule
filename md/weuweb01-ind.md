@@ -74,6 +74,8 @@ Går att göra digitalt, men fungerar ofta väldigt bra rent fysiskt. För att g
 
 ## Vecka 43
 
+* Jag har ingetning nytt att gå igenom idag, så skall ni fortsätta jobba med min fula lilla sida. 
+
 ## Vecka 44
 
 HÖSTLOV
