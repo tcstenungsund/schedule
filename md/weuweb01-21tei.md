@@ -150,7 +150,47 @@ Genomgång av [HTML Advanced](https://htmldog.com/guides/html/advanced/) och [CS
 
 ## Vecka 45
 
-Deadline för Min Fula Lilla Sida. 
+Deadline för Min Fula Lilla Sida, 2022-10-16 23:59.
+
+#### Måndag 
+
+Fortsätt arbeta med Min Fula Lilla Sida. 
+
+#### Tisdag 
+
+Ni får tillgång till ett övningsprov inför provet vecka 46.
+
+Slutför uppgiften Min Fula Lilla Sida. 
+
+## Vecka 46
+
+#### Måndag 
+
+Repetition inför provet. 
+
+#### Tisdag 
+
+Prov på HTML & CSS.
+
+## Vecka 47
+
+#### Måndag 
+
+#### Tisdag 
+
+## Vecka 48
+
+#### Måndag 
+
+#### Tisdag 
+
+## Vecka 49
+
+#### Måndag 
+
+#### Tisdag 
+
+Webbens historia
 
 ```mermaid
 gantt
@@ -169,27 +209,25 @@ gantt
     Idag            :milestone, 2022-12-31, 1d
 ```
 
-## Vecka 46
-
-Prov på HTML & CSS.
-
-## Vecka 47
-
-
-## Vecka 48
-
-
-## Vecka 49
-
-
 ## Vecka 50
 
+#### Måndag 
+
+#### Tisdag 
 
 ## Vecka 51
 
+#### Måndag 
+
+#### Tisdag 
 
 ## Vecka 52
 
+#### Måndag 
+
+#### Tisdag 
+
+Praktisk labb.
 
 ## Vecka 53
 
@@ -197,18 +235,35 @@ Prov på HTML & CSS.
 
 ## Vecka 2
 
+#### Måndag 
+
+#### Tisdag 
+
+Tävling
 
 ## Vecka 3
 
+#### Måndag 
+
+#### Tisdag 
 
 ## Vecka 4
 
+#### Måndag 
+
+#### Tisdag 
 
 ## Vecka 5
 
+#### Måndag 
+
+#### Tisdag 
 
 ## Vecka 6
 
+#### Måndag 
+
+#### Tisdag 
 
 ## Vecka 7
 
