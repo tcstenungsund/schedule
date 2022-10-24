@@ -15,13 +15,15 @@ Enskild uppgift.
 
 ## Resurser
 
-*   [Firefox Developer Edition](https://www.mozilla.org/sv-SE/firefox/developer/)
-*   Du SKALL använda en enkel texteditor. I Windows har du Anteckningar och i Linux Kate. 
-*   [7Zip](https://www.7-zip.org/)
-*   [HTML Dog](https://htmldog.com/)
-    *   [HTML Beginner](https://htmldog.com/guides/html/beginner/) och [CSS Beginner](https://htmldog.com/guides/css/beginner/)
-    *   [HTML Intermediate](https://htmldog.com/guides/html/intermediate/) och [CSS Intermediate](https://htmldog.com/guides/css/intermediate/)
-    *   [HTML Advanced](https://htmldog.com/guides/html/advanced/) och [CSS Advanced](https://htmldog.com/guides/css/advanced/)
+* [Firefox Developer Edition](https://www.mozilla.org/sv-SE/firefox/developer/)
+* Du SKALL använda en enkel texteditor. I Windows har du Anteckningar och i Linux Kate. 
+* [7Zip](https://www.7-zip.org/)
+* [HTML Dog](https://htmldog.com/)
+    * [HTML Beginner](https://htmldog.com/guides/html/beginner/) och [CSS Beginner](https://htmldog.com/guides/css/beginner/)
+    * [HTML Intermediate](https://htmldog.com/guides/html/intermediate/) och [CSS Intermediate](https://htmldog.com/guides/css/intermediate/)
+    * [HTML Advanced](https://htmldog.com/guides/html/advanced/) och [CSS Advanced](https://htmldog.com/guides/css/advanced/)
+* [Grid Garden](https://cssgridgarden.com/)  
+* [Flexbox Froggy](https://flexboxfroggy.com/#sv)  
 
 > Tips! Om du kör Windows som OS finns [Microsoft Anteckningar](https://support.microsoft.com/sv-se/windows/hj%C3%A4lp-i-anteckningar-4d68c388-2ff2-0e7f-b706-35fb2ab88a8c) förinstallerat. 
 
@@ -33,18 +35,20 @@ Du skall nu skapa din första webbsida.
 
 ![](https://user-images.githubusercontent.com/19572359/164436013-cf35c51e-4e6c-4978-ad61-708f6c6d4416.png)
 
-Börja med att skapa en ny [katalog](https://sv.wikipedia.org/wiki/Katalog_(datorteknik)) på valfri plats i [filsystemet](https://sv.wikipedia.org/wiki/Filsystem). Skapa i denna en katalog som heter _bilder_, en fil som heter _index.html_ och en fil som heter _main.css_. Både html- och css-filer är vanliga textfiler, så du kan [skapa en textfil](https://www.wikihow.com/Make-a-New-File-in-Windows) och byta filändelse till html eller css. Lägg sedan bilder du använder under projektets gång i underkatalogen bilder. Se Bild 2 för ett exempel av hur det kan se ut.
+Börja med att skapa en ny [katalog](https://sv.wikipedia.org/wiki/Katalog_(datorteknik)) på valfri plats i [filsystemet](https://sv.wikipedia.org/wiki/Filsystem). Skapa i denna en katalog som heter _bilder_, en fil som heter _index.html_ och en fil som heter _main.css_. Både html- och css-filer är vanliga textfiler, så du kan [skapa en textfil](https://www.wikihow.com/Make-a-New-File-in-Windows) och byta filändelse till html eller css. Lägg sedan bilder du använder under projektets gång i underkatalogen bilder. Se bilden ovan för ett exempel av hur det kan se ut.
 
 Den resulterande sidan får med fördel vara riktigt ful.
 
-Följande absnitt är överkurs. Du får hemskt gärna läsa dem, men du måste inte. 
+Följande avsnitt är överkurs. Du får hemskt gärna läsa dem, men du måste inte. 
 * HTML Beginner: "Tables", "Forms"
 * HTML Intermediate: "Meta Tags","Tables: rowspan and colspan", "Descripton Lists", "Text: Addresses, Definitions, Bi-directional, and Editorial"
 * HTML Advanced: "Text: Time, Mark, and 'Presentational'", "Conditional Comments", "Tables: Colmns, Headers, and Footers", "Accessible Forms", "HTML5 Forms Pt. 1" och "2".
 
 ## Förväntat resultat
 
-I slutet av den här uppgiften förväntas du ha skapat en ful liten sida bestående av minst ett html-dokument och minst ett css-dokument. Sidan skall innehålla alla de moment som återfinns i HTML- och CSS-delarna på HTML Dog.
+Du skall visa att du förstår strukturen i HTML och CSS, mått och färg, the box model, teckenkodning, specificity och layout modes.
+
+I slutet av den här uppgiften förväntas du ha skapat en ful liten sida bestående av minst ett html-dokument och minst ett css-dokument. Sidan skall innehålla alla de moment som återfinns i HTML- och CSS-delarna på HTML Dog. Den skall också visa att du kan använda komplexa selektorer, en stor variation i att ange mått och färger, samt exempel på följande layout modes: flow, multi-column, grid, flexible box, positioned och float.
 
 ### Vilka filer?
 
