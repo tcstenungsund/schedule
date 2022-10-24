@@ -81,7 +81,7 @@ Presentation av uppgiften Moduler i Drupal.
 
 Vi ser avsnitten 56-57 (Rättigheter, 8min), 58-60 (Rapporter och Uppdatering, 10min) och 61-62 (Drupals Community, 6min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".
 
-Test på uppgiften Moduler i Drupal. 
+[Test: Moduler i Drupal](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-moduler_i_drupal)
 
 ## Vecka 44
 **HÖSTLOV**
