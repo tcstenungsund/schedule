@@ -176,17 +176,17 @@ Prov på HTML & CSS.
 
 #### Måndag 
 
+Genomgång av provet. 
+
 #### Tisdag 
+
+CSS-ramverk
 
 ## Vecka 48
 
 #### Måndag 
 
-#### Tisdag 
-
-## Vecka 49
-
-#### Måndag 
+CSS-ramverk
 
 #### Tisdag 
 
@@ -209,17 +209,29 @@ gantt
     Idag            :milestone, 2022-12-31, 1d
 ```
 
+## Vecka 49
+
+#### Måndag 
+
+#### Tisdag 
+
+Planeringsverktyg
+
 ## Vecka 50
 
 #### Måndag 
 
 #### Tisdag 
 
+Planeringsverktyg
+
 ## Vecka 51
 
 #### Måndag 
 
 #### Tisdag 
+
+Planeringsverktyg
 
 ## Vecka 52
 
