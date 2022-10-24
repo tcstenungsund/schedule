@@ -151,9 +151,7 @@ async function getAssignments(html){
 
     const highlightAssignmentKeyWords = [
         "test", 
-        "Test",
-        "prov",
-        "Prov"
+        "prov"
     ]
 
     //Empty assignments variable
