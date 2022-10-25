@@ -88,7 +88,7 @@ Vi ser avsnitten 56-57 (Rättigheter, 8min), 58-60 (Rapporter och Uppdatering, 1
 
 ## Vecka 45
 
-######Teman i en CMS.   
+###### Teman i en CMS.   
 * Main theme vs. subtheme 
 * Bootstrap / Barrio
 * YAML 
