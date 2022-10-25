@@ -88,22 +88,22 @@ Vi ser avsnitten 56-57 (Rättigheter, 8min), 58-60 (Rapporter och Uppdatering, 1
 
 ## Vecka 45
 
-Teman i en CMS. 
-
---  
-
-Prov  
+Teman i en CMS.   
 
 ## Vecka 46
 Versionshantering  
 
+--
+
+Prov
+
 ## Vecka 47
 Individuellt projekt  
 
-Test på versionshantering  
-
 ## Vecka 48
 Individuellt projekt
+
+Test på versionshantering  
 
 ## Vecka 49
 Individuellt projekt
