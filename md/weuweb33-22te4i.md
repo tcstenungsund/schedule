@@ -163,7 +163,7 @@ Fortsätt med projektet Progressive Web Apps.
 
 #### Fredag 
 
-Presentation av projektet Progressive Web Apps.
+Fortsätt med projektet Progressive Web Apps.
 
 *Veckans sociala medier:* 
 
@@ -171,9 +171,25 @@ Presentation av projektet Progressive Web Apps.
 
 #### Måndag
 
+Presentation av projektet Progressive Web Apps.
+
 #### Torsdag 
 
+###### Agil utveckling med SCRUM/Kanban
+
+"[SCRUM: Twice the Work, Half the Time](https://youtu.be/RaaBrPCo_Mw)" (11 min)  
+"[Introduction to Scrum](https://youtu.be/9TycLR0TqFA)" (7 min)  
+"[5 Scrum Meeting Best Practices: Master the Daily Stand-Up](https://sprint.ly/blog/scrum-meeting-best-practices/)"  
+"[IBM Agile Academy: Daily Stand-up Meeting](https://youtu.be/oHcmLKroPqw)" (2 min)  
+"[How to Use GitHub for Automated Kanban Project Management](https://youtu.be/YVFa5VljCDY)" (12 min)
+"[git-standup](https://github.com/kamranahmedse/git-standup)" 
+"[Trello Agile Series: The Sprint Board](https://youtu.be/pFbVxXOvQ8I)" (60 min)
+
+[Projekt: ?](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb33-)
+
 #### Fredag 
+
+###### API
 
 *Veckans sociala medier:* 
 
@@ -183,29 +199,67 @@ Presentation av projektet Progressive Web Apps.
 
 ## Vecka 45
 
-Versionshantering  
+#### Måndag
+
+#### Torsdag 
+
+#### Fredag 
 
 ## Vecka 46
 
-Agil utveckling 
+#### Måndag
+
+#### Torsdag 
+
+#### Fredag 
 
 ## Vecka 47
 
+#### Måndag
+
+#### Torsdag 
+
+#### Fredag 
 
 ## Vecka 48
 
+#### Måndag
+
+#### Torsdag 
+
+#### Fredag 
 
 ## Vecka 49
 
+#### Måndag
+
+#### Torsdag 
+
+#### Fredag 
 
 ## Vecka 50
 
+#### Måndag
+
+#### Torsdag 
+
+#### Fredag 
 
 ## Vecka 51
 
+#### Måndag
+
+#### Torsdag 
+
+#### Fredag 
 
 ## Vecka 52
 
+#### Måndag
+
+#### Torsdag 
+
+#### Fredag 
 
 ## Vecka 53
 
@@ -213,18 +267,45 @@ Agil utveckling
 
 ## Vecka 2
 
+#### Måndag
+
+Tävling: CSS Zen Garden 
+
+#### Torsdag 
+
+#### Fredag 
 
 ## Vecka 3
 
+#### Måndag
+
+#### Torsdag 
+
+#### Fredag 
 
 ## Vecka 4
 
+#### Måndag
+
+#### Torsdag 
+
+#### Fredag 
 
 ## Vecka 5
 
+#### Måndag
+
+#### Torsdag 
+
+#### Fredag 
 
 ## Vecka 6
 
+#### Måndag
+
+#### Torsdag 
+
+#### Fredag 
 
 ## Vecka 7
 
@@ -232,21 +313,27 @@ Agil utveckling
 
 ## Vecka 8
 
+APL  
 
 ## Vecka 9
 
+APL  
 
 ## Vecka 10
 
+APL  
 
 ## Vecka 11
 
+APL  
 
 ## Vecka 12
 
+APL  
 
 ## Vecka 13
 
+APL  
 
 ## Vecka 14
 
@@ -254,24 +341,31 @@ Agil utveckling
 
 ## Vecka 15
 
+APL  
 
 ## Vecka 16
 
+APL  
 
 ## Vecka 17
 
+APL  
 
 ## Vecka 18
 
+APL  
 
 ## Vecka 19
 
+APL  
 
 ## Vecka 20
 
+APL  
 
 ## Vecka 21
 
+[Projekt: Gränssnitt](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb33-granssnitt)
 
 ## Vecka 22
 
