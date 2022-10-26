@@ -62,12 +62,17 @@ Säg till mig eller Ronnie om ni inte har kursen i netacad. (Kolla Netacad innan
 
 ## Vecka 43
 
+Idag intruducerades uppgiften om virus. 
+Där ni har delats in i grupper för att skriva ner lite fakta och argument kring varför erat virus är det bästa för att skapa en samhällskollaps.
+
 ## Vecka 44
 
 **HÖSTLOV**
 
 ## Vecka 45
 
+Idag får ni ca 1 timme på er att repitera era argument, välja en debatör från gruppen, sedan lämna in erat dokument.
+Sedan kör vi debatten.
 
 ## Vecka 46
 
