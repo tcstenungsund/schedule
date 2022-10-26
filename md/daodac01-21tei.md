@@ -43,15 +43,14 @@
 
 ## Vecka 43
 
- - Vi  börjar prata lite om Kapitel 5.
+ - Vi skall börja kolla lite på PacketTracer och se hur det används i nätverkssammanhang.
+ - Sedan skall ni alla göra labben 6.4.3.5 för att bli lite familjära med att göra labbar i PacketTracer.
 
 ## Vecka 44
 
 HÖSTLOV
 
 ## Vecka 45
-
- - Vi går igenom mer av Kapitel 5
 
 ## Vecka 46
 
