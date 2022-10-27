@@ -50,6 +50,7 @@ Fortsätt med uppgifterna!
 
 ## Vecka 43
 
+[Git i Visual Studio](https://www.rikardkarlsson.se/programmering/uppgifter.php?url=4011-github-och-vs)  
 
 ## Vecka 44
 
