@@ -124,6 +124,8 @@ Vi ser och diskuterar "[Are Linux Smartphones about to KILL Android?](https://yo
 
 Dagens föreläsning bygger på "[Vad är PWA eller Progressive Web Apps?](https://whitespace.se/blogg/vad-ar-pwa-eller-progressive-web-apps/)", hur skapar man en "[Progressive Web App](https://web.dev/progressive-web-apps/)", "[Creating a Progressive Web Application (PWA) - HTML, CSS & JavaScript Tutorial](https://youtu.be/WbbAPfDVqfY)", "[Build a PWA Using Only Vanilla JavaScript](https://levelup.gitconnected.com/build-a-pwa-using-only-vanilla-javascript-bdf1eee6f37a)" och "[Web App Manifest Generator](https://app-manifest.firebaseapp.com/)".
 
+"[Progressive Web Apps: Where Do I Begin?](https://vimeo.com/382335406)" (58 min)  
+
 Projektet vi påbörjar går ut på att vi skall bygga en PWA, med hjälp av de verktyg vi bekantat oss med i denna och föregående kurser. Detta inkluderar Node.js, SASS, Bootstrap och GitHub.
 
 [Projekt: Progressive Web Apps](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb33-pwa)
@@ -188,6 +190,12 @@ För att förstå hur vi skall tillämpa Scrum i praktiken ser vi "[How to Use G
 #### Fredag 
 
 ###### API
+
+Majoriteten av alla [API](https://en.wikipedia.org/wiki/API)er idag är av typen [REST](https://en.wikipedia.org/wiki/Representational_state_transfer). Vi ser "[RESTful APIs in 100 Seconds](https://youtu.be/-MTSQjw5DrM)" (3 min), "[REST API concepts and examples](https://youtu.be/7YcW25PHnAA)" (9 min) och "[GET Data from API & Display in HTML with JavaScript Fetch API](https://youtu.be/zUcc4vW-jsI)" (7 min) för att förstå oss på APIer. Sedan roas vi av "[You Give REST a Bad Name](https://youtu.be/nSKp2StlS6s)" (4 min). 
+
+Vi rekommenderas verktyg som "[Insomnia](https://insomnia.rest/)" - Open Source API Client. Men också "[The Programmable Web API Directory](https://www.programmableweb.com/apis/directory)", "[Public APIs](https://github.com/public-apis/public-apis)" och "[Svenska API-katalogen](http://apikatalogen.se/)".  
+
+Överkurs när det gäller hantering av JSON får vi i "[Faster apps with JSON.parse](https://youtu.be/ff4fgQxPaO0)" (7 min).  
 
 *Veckans sociala medier:* 
 
