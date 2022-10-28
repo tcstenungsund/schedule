@@ -197,7 +197,7 @@ Vi rekommenderas verktyg som "[Insomnia](https://insomnia.rest/)" - Open Source 
 
 Överkurs när det gäller hantering av JSON får vi i "[Faster apps with JSON.parse](https://youtu.be/ff4fgQxPaO0)" (7 min).  
 
-*Veckans sociala medier:* 
+*Veckans sociala medier:* "[10 Important Array Methods In JavaScript Explained](https://blog.oliverjumpertz.dev/10-important-array-methods-in-javascript-explained)", "[Node got a native test runner]()", 
 
 ## Vecka 44
 
