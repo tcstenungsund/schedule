@@ -151,7 +151,7 @@ Vi talar om hur man planerar sin apps struktur, hierarki, säkerhet och a11y. F�
 
 Presentation av djupdykningen "Mobila Operativsystem" 
 
-*Veckans sociala medier:* 
+*Veckans sociala medier:* "[CSS Tip: Scroll snap](https://www.tiktok.com/@thenetninjauk/video/7143904022720679173)", "[Must read for web developers: how modern browsers work](https://twitter.com/addyosmani/status/1492398000500404227)".  
 
 ## Vecka 42
 
@@ -167,7 +167,7 @@ Fortsätt med projektet Progressive Web Apps.
 
 Fortsätt med projektet Progressive Web Apps.
 
-*Veckans sociala medier:* 
+*Veckans sociala medier:* "[Wrapping code with a promise](https://www.tiktok.com/@coolzyte/video/7141856746062056710)", "[The Illustrated TLS 1.3 Connection](https://tls13.xargs.org/)".  
 
 ## Vecka 43
 
