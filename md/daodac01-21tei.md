@@ -48,7 +48,7 @@
 
 ## Vecka 44
 
-*HÖSTLOV*
+**HÖSTLOV**
 
 ## Vecka 45
 
@@ -68,7 +68,7 @@
 
 ## Vecka 53
 
-VINTERLOV
+**VINTERLOV**
 
 ## Vecka 2
 
@@ -82,7 +82,7 @@ VINTERLOV
 
 ## Vecka 7
 
-SPORTLOV
+**SPORTLOV**
 
 ## Vecka 8
 
@@ -98,7 +98,7 @@ SPORTLOV
 
 ## Vecka 14
 
-PÅSKLOV
+**PÅSKLOV**
 
 ## Vecka 15
 
@@ -120,5 +120,5 @@ PÅSKLOV
 
 ## Vecka 24
 
-SOMMARLOV
+**SOMMARLOV**
 
