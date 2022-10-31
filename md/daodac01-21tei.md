@@ -48,7 +48,7 @@
 
 ## Vecka 44
 
-HÖSTLOV
+*HÖSTLOV*
 
 ## Vecka 45
 
