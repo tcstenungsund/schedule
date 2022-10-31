@@ -78,7 +78,7 @@ Går att göra digitalt, men fungerar ofta väldigt bra rent fysiskt. För att g
 
 ## Vecka 44
 
-HÖSTLOV
+**HÖSTLOV**
 
 ## Vecka 45
 
@@ -98,7 +98,7 @@ HÖSTLOV
 
 ## Vecka 53
 
-VINTERLOV
+**VINTERLOV**
 
 ## Vecka 2
 
@@ -128,7 +128,7 @@ SPORTLOV
 
 ## Vecka 14
 
-PÅSKLOV
+**PÅSKLOV**
 
 ## Vecka 15
 
@@ -150,5 +150,5 @@ PÅSKLOV
 
 ## Vecka 24
 
-SOMMARLOV
+**SOMMARLOV**
 
