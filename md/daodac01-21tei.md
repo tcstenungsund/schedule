@@ -52,7 +52,11 @@
 
 ## Vecka 45
 
+- Vi skall börja prata om Kapitel 5 i Netacad denna veckan. Vi kommer göra lite genomgång och även läsning själva.
+
 ## Vecka 46
+
+- Vi skall fortsätta mer med kapitel 5 i Netacad denna veckan. Vi komme ratt köra genomgång och även läsning själva.
 
 ## Vecka 47
 
