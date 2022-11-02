@@ -94,6 +94,8 @@ Går att göra digitalt, men fungerar ofta väldigt bra rent fysiskt. För att g
 
 ## Vecka 48
 
+* Vi skall börja titta på någonting som heter Ecma Script och Java Script, vi har en gästföreläsare vid namn Pontus som kommer hålla en föreläsning av detta.
+
 ## Vecka 49
 
 ## Vecka 50
