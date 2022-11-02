@@ -82,9 +82,15 @@ Går att göra digitalt, men fungerar ofta väldigt bra rent fysiskt. För att g
 
 ## Vecka 45
 
+* Vi skall titta på Internets Historia där vi har en gästföreläsare vid namn Alex som kommer hålla en föreläsning med vad ni behöver veta.
+
 ## Vecka 46
 
+* Vi skall titta mer på hur man gör korrekt dokumentation i sitt arbete, vi kommer ha en gästföreläsare vid namn Lisa som kommer hålla en föreläsning med vad ni behöver veta.
+
 ## Vecka 47
+
+* Vi skall specifiera oss mer på just Specificity och Sudo selectors där vi har en gästföreläsare vid namn Nicolas som kommer hålla en föreläsning med detta.
 
 ## Vecka 48
 
