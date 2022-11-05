@@ -150,8 +150,6 @@ Genomgång av [HTML Advanced](https://htmldog.com/guides/html/advanced/) och [CS
 
 ## Vecka 45
 
-Deadline för Min Fula Lilla Sida, 2022-10-16 23:59.
-
 #### Måndag 
 
 Fortsätt arbeta med Min Fula Lilla Sida. 
@@ -163,6 +161,8 @@ Ni får tillgång till ett övningsprov inför provet vecka 46.
 Slutför uppgiften Min Fula Lilla Sida. 
 
 ## Vecka 46
+
+Deadline för Min Fula Lilla Sida, 2022-11-20 23:59.
 
 #### Måndag 
 
