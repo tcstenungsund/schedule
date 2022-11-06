@@ -197,7 +197,7 @@ Vi rekommenderas verktyg som "[Insomnia](https://insomnia.rest/)" - Open Source 
 
 Överkurs när det gäller hantering av JSON får vi i "[Faster apps with JSON.parse](https://youtu.be/ff4fgQxPaO0)" (7 min).  
 
-*Veckans sociala medier:* "[10 Important Array Methods In JavaScript Explained](https://blog.oliverjumpertz.dev/10-important-array-methods-in-javascript-explained)", "[Node got a native test runner](https://twitter.com/oliverjumpertz/status/1582337938503110656)", "[Top 10 CSS One Liners That Will Blow Your Mind](https://youtu.be/Xc6G3oV24yE)" och "[Top 10 Javascript One Liners YOU MUST KNOW!](https://youtu.be/bbnkAV12Tig)". 
+*Veckans sociala medier:* "[10 Important Array Methods In JavaScript Explained](https://blog.oliverjumpertz.dev/10-important-array-methods-in-javascript-explained)", "[Node got a native t3st runner](https://twitter.com/oliverjumpertz/status/1582337938503110656)", "[Top 10 CSS One Liners That Will Blow Your Mind](https://youtu.be/Xc6G3oV24yE)" och "[Top 10 Javascript One Liners YOU MUST KNOW!](https://youtu.be/bbnkAV12Tig)". 
 
 ## Vecka 44
 
