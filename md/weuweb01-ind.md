@@ -82,19 +82,19 @@ Går att göra digitalt, men fungerar ofta väldigt bra rent fysiskt. För att g
 
 ## Vecka 45
 
-Vi skall titta på Internets Historia där vi har en gästföreläsare vid namn Alex som kommer hålla en föreläsning med vad ni behöver veta.
+Vi skall titta på Internets Historia där vi har en gästföreläsare vid namn Alex som kommer hålla en föreläsning om vad ni behöver veta.
 
 ## Vecka 46
 
-Vi skall titta mer på hur man gör korrekt dokumentation i sitt arbete, vi kommer ha en gästföreläsare vid namn Lina som kommer hålla en föreläsning med vad ni behöver veta.
+Vi skall titta mer på hur man gör korrekt dokumentation i sitt arbete, vi kommer ha en gästföreläsare vid namn Lina som kommer hålla en föreläsning om vad ni behöver veta.
 
 ## Vecka 47
 
-Vi skall specifiera oss mer på just Specificity och Sudo selectors där vi har en gästföreläsare vid namn Nicolas som kommer hålla en föreläsning med detta.
+Vi skall specifiera oss mer på just Specificity och Sudo selectors där vi har en gästföreläsare vid namn Nicolas som kommer hålla en föreläsning om detta.
 
 ## Vecka 48
 
-Vi skall börja titta på någonting som heter Ecma Script och Java Script, vi har en gästföreläsare vid namn Pontus som kommer hålla en föreläsning av detta.
+Vi skall börja titta på någonting som heter Ecma Script och Java Script, vi har en gästföreläsare vid namn Pontus som kommer hålla en föreläsning om detta.
 
 ## Vecka 49
 
