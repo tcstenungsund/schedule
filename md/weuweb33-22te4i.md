@@ -185,7 +185,7 @@ Vi börjar med att se "[SCRUM: Twice the Work, Half the Time](https://youtu.be/R
 
 För att förstå hur vi skall tillämpa Scrum i praktiken ser vi "[How to Use GitHub for Automated Kanban Project Management](https://youtu.be/YVFa5VljCDY)" (12 min) och tittar på "[git-standup](https://github.com/kamranahmedse/git-standup)".  
 
-[Projekt: ?](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb33-)
+[Projekt: Bord](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb33-bord)
 
 #### Fredag 
 
@@ -206,6 +206,8 @@ Vi rekommenderas verktyg som "[Insomnia](https://insomnia.rest/)" - Open Source 
 ## Vecka 45
 
 #### Måndag
+
+Ta tag i Projekt Bord och Projekt Bokning!
 
 #### Torsdag 
 
