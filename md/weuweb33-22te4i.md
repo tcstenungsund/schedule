@@ -209,10 +209,10 @@ Vi rekommenderas verktyg som "[Insomnia](https://insomnia.rest/)" - Open Source 
 
 Ta tag i [Projekt Bord](https://github.com/orgs/tcstenungsund/projects/1/views/1) och Projekt Bokning!  
 
-1) Välj en issue och assigna den till dig
-2) Skapa en branch
-3) Gör flera meningsfulla commits 
-4) Merga branchen och stäng issuen
+1) Välj en issue och assigna den till dig  
+2) Skapa en branch  
+3) Gör flera meningsfulla commits  
+4) Merga branchen och stäng issuen  
 
 #### Torsdag 
 
