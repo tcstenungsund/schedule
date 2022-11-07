@@ -207,7 +207,7 @@ Vi rekommenderas verktyg som "[Insomnia](https://insomnia.rest/)" - Open Source 
 
 #### Måndag
 
-Ta tag i Projekt Bord och Projekt Bokning!
+Ta tag i [Projekt Bord](https://github.com/orgs/tcstenungsund/projects/1/views/1) och Projekt Bokning!
 
 #### Torsdag 
 
