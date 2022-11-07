@@ -100,7 +100,7 @@ Vi ser avsnitten 56-57 (Rättigheter, 8min), 58-60 (Rapporter och Uppdatering, 1
 ###### Skapa ett subtheme      
 * "[How to Create a Sub Theme in Drupal 8 or 9](https://youtu.be/hPXUn_D2-lE)" (4 min)
 * "[Creating a custom Barrio sub-theme - Create manually](https://www.drupal.org/docs/8/themes/barrio-bootstrap-4-drupal-89-theme/bootstrap-barrio-installation/creating-a-custom-barrio-sub-theme#s-create-manually)"  
-  1) Kopiera 1 katalog   
+  1) Kopiera och byt namn på 1 katalog   
   2) Byt namn på 5 filer   
   3) Ändra några ord i 6 filer   
 
