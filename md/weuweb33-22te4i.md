@@ -216,7 +216,13 @@ Ta tag i [Projekt Bord](https://github.com/orgs/tcstenungsund/projects/1/views/1
 
 #### Torsdag 
 
+Fortsätt med Projekt Bord och Bokning!  
+
 #### Fredag 
+
+Fortsätt med Projekt Bord och Bokning!   
+
+*Veckans sociala medier:*   
 
 ## Vecka 46
 
