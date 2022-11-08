@@ -107,19 +107,59 @@ HÖSTLOV
 
 ## Vecka 45
 
+#### NÄTVERK!
+
+![](https://user-images.githubusercontent.com/101390367/200660421-b27a46d0-45d0-477d-8052-a7e997da8e30.png)
+
+#### Måndag
+
+Genomgång av kapitel 5 i IT Essentials kursen.
+
+#### Fredag
+
 ## Vecka 46
+
+#### NÄTVERK!
+
+#### Måndag
+
+#### Fredag
 
 ## Vecka 47
 
+#### Måndag
+
+#### Fredag
+
 ## Vecka 48
+
+#### Måndag
+
+#### Fredag
 
 ## Vecka 49
 
+#### Måndag
+
+#### Fredag
+
 ## Vecka 50
+
+#### Måndag
+
+#### Fredag
 
 ## Vecka 51
 
+#### Måndag
+
+#### Fredag
+
 ## Vecka 52
+
+#### Måndag
+
+#### Fredag
 
 ## Vecka 53
 
