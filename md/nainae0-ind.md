@@ -71,11 +71,20 @@ Där ni har delats in i grupper för att skriva ner lite fakta och argument krin
 
 ## Vecka 45
 
-Idag får ni ca 30 minuter på er att repetera era argument, välja en debatör från gruppen och lämna in ert dokument.  
-Sedan kör vi debatten.
+Idag blir det arbete i sin grupp på valfri plats.
+Jag har lagt till lite specifikationer på hur dokumentet om era virus skall se ut, dessa står nedan.
+
+    * Dokumentet skall vara mellan minst 1,5 A4 till 2,5 A4 långt.
+    * Det skall vara storlek 12 på texten.
+    * Huvudrubriken storlek 18 på texten.
+    * Underrubriker skall ha storlek 15 på texten.
+    * Radavstånd skall vara 1,15.
+    
+ Dokumentet skall lämnas gruppvis på Its nästa vecka på måndag 14/11 senast klockan 20:00.
+ Så kör vi debatten nästa vecka.
 
 ## Vecka 46
-
+* Idag kör vi debatten om era virus typer.
 
 ## Vecka 47
 
