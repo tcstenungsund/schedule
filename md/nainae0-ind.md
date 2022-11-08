@@ -71,7 +71,7 @@ Där ni har delats in i grupper för att skriva ner lite fakta och argument krin
 
 ## Vecka 45
 
-Idag får ni ca 1 timme på er att repetera era argument, välja en debatör från gruppen och lämna in ert dokument.  
+Idag får ni ca 30 minuter på er att repetera era argument, välja en debatör från gruppen och lämna in ert dokument.  
 Sedan kör vi debatten.
 
 ## Vecka 46
