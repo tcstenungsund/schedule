@@ -96,7 +96,7 @@ Idag ska ni arbeta en heldag med UF företagen. Förutom att arbeta med er innov
 
 *   Lämna in dokumentet "Min affärsidé"
 *   Gör en marknadsundersökning.
-*   Kolla att det ni registrerat på ungföretagsamhet.se stämmer. Är alla deltagare med, har ni uppdaterat affärsidén, rådgivare osv. 
+*   Kolla att det ni registrerat på ungföretagsamhet.se stämmer. Är alla deltagare med, har ni uppdaterat affärsidén, rådgivare osv.
 
 Marknadsundersökning!
 
@@ -117,6 +117,8 @@ Vi kommer att använda google forms för att skapa ett digitalt frågeformulär.
 Fundera på vilka frågor som ni behöver ha svar på i nuläget. Skicka ut till målgruppen.
 
 ## Vecka 43
+
+Förberedelser inför workshops vecka 44.
 
 ## Vecka 44
 
