@@ -96,7 +96,7 @@ Förberedelser inför tisdagens UF workshop.
 
 ## Vecka 40
 
-#### Tisdag 
+#### Tisdag
 
 UF workshop med samverkansföretag.
 
@@ -138,13 +138,15 @@ Laboration på Lager 3 switch.
 
 #### Torsdag
 
-PROV Modulprov för kapitel 1,2,3 och 4.
-
 ## Vecka 43
 
 #### Tisdag
 
+Genomgång/repetition av kapitel 4.
+
 #### Onsdag
+
+PROV Modulprov för kapitel 1,2,3 och 4.
 
 #### Torsdag
 
@@ -154,17 +156,71 @@ HÖSTLOV
 
 ## Vecka 45
 
+![](https://user-images.githubusercontent.com/101390367/200656803-90c3f4d3-850c-45aa-b72b-2df2d37a2988.png)
+
+#### Tisdag
+
+Genomgång av Pitch för UF företag av Therese R.
+
+#### Onsdag
+
+Genomgång av kapitel 5 och 6. 
+
+Laboration 6.4.2 Etherchannel 
+
+Lämna in: show etherchannel summary och running conf på en av switcharna
+
+#### Torsdag
+
+Genomgång av kapitel 5 och 6. 
+
 ## Vecka 46
+
+#### Tisdag
+
+#### Onsdag
+
+#### Torsdag
 
 ## Vecka 47
 
+#### Tisdag
+
+#### Onsdag
+
+#### Torsdag
+
 ## Vecka 48
+
+#### Tisdag
+
+#### Onsdag
+
+#### Torsdag
 
 ## Vecka 49
 
+#### Tisdag
+
+#### Onsdag
+
+#### Torsdag
+
 ## Vecka 50
 
+#### Tisdag
+
+#### Onsdag
+
+#### Torsdag
+
 ## Vecka 51
+
+#### Tisdag
+
+#### Onsdag
+
+#### Torsdag
 
 ## Vecka 52
 
@@ -173,6 +229,12 @@ HÖSTLOV
 VINTERLOV
 
 ## Vecka 2
+
+#### Tisdag
+
+#### Onsdag
+
+#### Torsdag
 
 ## Vecka 3
 
