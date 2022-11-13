@@ -228,41 +228,81 @@ Fortsätt med Projekt Bord och Bokning!
 
 #### Måndag
 
+09:30 Scrum standup   
+
 #### Torsdag 
 
+09:30 Scrum standup   
+
 #### Fredag 
+
+09:30 Scrum standup   
+
+*Veckans sociala medier:*   
 
 ## Vecka 47
 
 #### Måndag
 
+09:30 Scrum standup   
+
 #### Torsdag 
 
+09:30 Scrum standup   
+
 #### Fredag 
+
+09:30 Scrum standup   
+
+*Veckans sociala medier:*   
 
 ## Vecka 48
 
 #### Måndag
 
+09:30 Scrum standup   
+
 #### Torsdag 
 
+09:30 Scrum standup   
+
 #### Fredag 
+
+09:30 Scrum standup   
+
+*Veckans sociala medier:*   
 
 ## Vecka 49
 
 #### Måndag
 
+09:30 Scrum standup   
+
 #### Torsdag 
 
+09:30 Scrum standup   
+
 #### Fredag 
+
+09:30 Scrum standup   
+
+*Veckans sociala medier:*   
 
 ## Vecka 50
 
 #### Måndag
 
+09:30 Scrum standup   
+
 #### Torsdag 
 
+09:30 Scrum standup   
+
 #### Fredag 
+
+09:30 Scrum standup   
+
+*Veckans sociala medier:*   
 
 ## Vecka 51
 
