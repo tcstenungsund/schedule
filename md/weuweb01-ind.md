@@ -87,14 +87,20 @@ Vi skall titta på Internets Historia där vi har en gästföreläsare vid namn 
 ## Vecka 46
 
 Vi skall titta mer på hur man gör korrekt dokumentation i sitt arbete, vi kommer ha en gästföreläsare vid namn Lina som kommer hålla en föreläsning om vad ni behöver veta.
+* https://mycolor.space/
 
+Resten av lektionen jobbar ni med Min Fula Lilla Sida
 ## Vecka 47
 
 Vi skall specifiera oss mer på just Specificity och Sudo selectors där vi har en gästföreläsare vid namn Nicolas som kommer hålla en föreläsning om detta.
 
+Resten av lektionen jobbar ni med Min Fula Lilla Sida
+
 ## Vecka 48
 
 Vi skall börja titta på någonting som heter Ecma Script och Java Script, vi har en gästföreläsare vid namn Pontus som kommer hålla en föreläsning om detta.
+
+Resten av lektionen jobbar ni med Min Fula Lilla Sida
 
 ## Vecka 49
 
