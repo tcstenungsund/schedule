@@ -105,7 +105,8 @@ Vi ser avsnitten 56-57 (Rättigheter, 8min), 58-60 (Rapporter och Uppdatering, 1
 
 ###### Versionshantering  
 
-Vad är [Git](https://en.wikipedia.org/wiki/Git) och var kommer det ifrån? "[What is GitHub?](https://youtu.be/pBy1zgt0XPc)" (3 min), "[A Web Developers Workflow for GitHub](https://dev.to/rembertdesigns/a-web-developers-workflow-for-github-1b72)" och "[Git & GitHub](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF)" (16 min)
+Vad är [Git](https://en.wikipedia.org/wiki/Git) och "[What is GitHub?](https://youtu.be/pBy1zgt0XPc)" (3 min)   
+"[A Web Developers Workflow for GitHub](https://dev.to/rembertdesigns/a-web-developers-workflow-for-github-1b72)" och "[Git & GitHub](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF)" (16 min)
 
 ![Git Structure](https://krishnaiitd.github.io/gitcommands/images/GitWorkflow-3.png) 
 
