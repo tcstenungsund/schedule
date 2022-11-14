@@ -98,6 +98,9 @@ Vi skall börja titta på någonting som heter Ecma Script och Java Script, vi h
 
 ## Vecka 49
 
+* Idag kommer vi att jobba med Min Fula Lilla Sida i ca en timme.
+* Sedan andra timmen kör vi prov på HTML och CSS.
+
 ## Vecka 50
 
 ## Vecka 51
