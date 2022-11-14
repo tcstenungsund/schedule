@@ -116,10 +116,11 @@ Vad är [Git](https://en.wikipedia.org/wiki/Git) och "[What is GitHub?](https://
 
 --
 
-Prov på "Drupal 8 Beginner". 
+Prov på "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)". 
 
 ## Vecka 47
-Individuellt projekt  
+
+Gästföreläsare 
 
 ## Vecka 48
 Individuellt projekt
