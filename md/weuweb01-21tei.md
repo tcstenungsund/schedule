@@ -166,7 +166,7 @@ Deadline för Min Fula Lilla Sida, 2022-11-20 23:59.
 
 #### Måndag 
 
-Repetition inför provet med hjälp av "[The CSS Cascade](https://wattenberger.com/blog/css-cascade)" och "[HTML Tags Memory Test](https://codepen.io/plfstr/full/zYqQeRw)". 
+Repetition inför provet med hjälp av "[The CSS Cascade](https://wattenberger.com/blog/css-cascade)", "[MDN HTML Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)" och "[HTML Tags Memory Test](https://codepen.io/plfstr/full/zYqQeRw)". 
 
 #### Tisdag 
 
