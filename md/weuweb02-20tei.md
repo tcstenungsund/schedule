@@ -112,11 +112,9 @@ Vad är [Git](https://en.wikipedia.org/wiki/Git) och "[What is GitHub?](https://
 
 "[git - the simple guide](https://rogerdudler.github.io/git-guide/)", "[Write Git Commit Messages That Your Colleagues Will Love](https://prplcode.hashnode.dev/write-git-commit-messages-that-your-colleagues-will-love)" och "[Inviting collaborators to a personal repository](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository)". 
 
-"[Learn Git Branching](https://learngitbranching.js.org/)"
-
 --
 
-Prov på "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)". 
+Gör övningarna på "[Learn Git Branching](https://learngitbranching.js.org/)" och registrera ett konto på [GitHub](https://github.com/signup).
 
 ## Vecka 47
 
@@ -125,13 +123,15 @@ Gästföreläsare
 ## Vecka 48
 Individuellt projekt
 
-Test på versionshantering  
+Prov på "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)". 
 
 ## Vecka 49
 Individuellt projekt
 
 ## Vecka 50
 Individuellt projekt
+
+Test på versionshantering  
 
 ## Vecka 51
 Individuellt projekt
