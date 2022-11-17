@@ -232,6 +232,10 @@ Fortsätt med Projekt Bord och Bokning!
 
 #### Torsdag 
 
+###### M.V.C.
+
+Fokus på en av de absolut vanligaste utvecklingsteorierna. Ett bra sätt att dela upp kod på för att öka stabilitet och minska behov av merarbete. "[MVC Explained in 4 Minutes](https://youtu.be/DUg2SWWK18I)", "[Model View Controller Explained](https://www.tomdalling.com/blog/software-design/model-view-controller-explained/)".
+
 09:30 Scrum standup   
 
 #### Fredag 
