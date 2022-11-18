@@ -242,6 +242,8 @@ Fokus på en av de absolut vanligaste utvecklingsteorierna. Ett bra sätt att de
 
 09:30 Scrum standup   
 
+12:00 Sprint review
+
 *Veckans sociala medier:*   
 
 ## Vecka 47
