@@ -108,10 +108,13 @@ Resten av lektionen jobbar ni med Min Fula Lilla Sida
 * Sedan andra timmen kör vi prov på HTML och CSS.
 
 ## Vecka 50
+
 * Vi skall kolla på lite olika enkla och användbara verktyg som man kan använda under sin skapande period av en websida, vi har en gästföreläsare vid namn Kalle som går igenom detta.
 * Sedan fortsätter ni att jobba med projektet Min Fula Lilla Sida.
 
 ## Vecka 51
+
+* Idag skall ni få testa på att göra egna moodboards, klippa, klistra och låta kreativiteten flyta.
 
 ## Vecka 52
 
