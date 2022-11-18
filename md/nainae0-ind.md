@@ -84,13 +84,13 @@ Jag har lagt till lite specifikationer på hur dokumentet om era virus skall se 
  Så kör vi debatten nästa vecka.
 
 ## Vecka 46
-* Idag kör vi debatten om era virus typer.
+* Var det att jobba på egen plats med Kapitel 4 om Linux i CyberOps Assosiate kursen i Netacad.
 
 ## Vecka 47
-
+* Idag kör vi debatten om era olika virus typer. 
 
 ## Vecka 48
-
+* Idag kommer vi att gå igenom gemensamt en del av kapitel 4 av Cyberops Kursen.
 
 ## Vecka 49
 
