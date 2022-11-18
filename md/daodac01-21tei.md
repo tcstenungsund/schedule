@@ -59,8 +59,11 @@
 - Vi skall fortsätta mer med kapitel 5 i Netacad denna veckan. Vi komme ratt köra genomgång och även läsning själva.
 
 ## Vecka 47
+- Denna onsdagen kommer vi att labba genom att göra en nätverkskabel.
 
 ## Vecka 48
+- Idag blir det att plugga en timme.
+- Sedan kör vi ett prov på både kapitel 5-6.
 
 ## Vecka 49
 
