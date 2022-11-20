@@ -124,11 +124,25 @@ Förberedelser inför workshops vecka 44.
 
 **HÖSTLOV**
 
-## Vecka 45
+## Vecka 45​
+
+<table><tbody><tr><td>&nbsp;</td><td><p>Dags för Draknäste på Nösnäsgymnasiet, måndagen den 21/11. Fundera på om ditt företag vill vara med där. Ni ska genomföra en “pitch” på två minuter. Se gärna på hur ungdomarna i Blixtlåsfinalen presenterar sig:&nbsp;<a href="https://www.youtube.com/watch?v=ucVMhjukuZQ&amp;feature=emb_logo&amp;ab_channel=CurtNicolinGymnasiet">https://www.youtube.com/watch?v=ucVMhjukuZQ&amp;feature=emb_logo&amp;ab_channel=CurtNicolinGymnasiet</a></p><p>&nbsp;</p><p>Marknadsföring:</p><p>&nbsp;</p><p>&nbsp;</p><figure class="image"><img src="https://eu1files.itslearning.com/data/3293/400041/marknadsf%c3%b6ring.jpg" alt=""></figure><figure class="image"><img src="https://user-images.githubusercontent.com/101390367/202910735-78c3f76c-0bf6-4e6a-9d32-c22d7485a7e1.gif"></figure><p>​​​​</p><p>&nbsp;</p><p>&nbsp;</p><h4>Retorik</h4><h4>Retorik är en teknik som beskrevs redan under antiken. Retorik handlar om att formulera budskap så att de når fram. Tre områden att tänka igenom inför en presentation enligt retorikens grunder är:</h4><ol><li><strong>Etos:</strong>&nbsp;Presentationen av dig själv. Vem är jag som person som ska berätta det jag tänkt säga? Vad berättigar mig att tala? Varför ska åhörarna lita på och lyssna till just mig?</li><li><strong>Logos:</strong>&nbsp;Handlar om presentationens innehåll, fakta, struktur och logik.</li><li><strong>Patos:</strong>&nbsp;Vilken känsla ska jag förmedla i presentationen? Medkänsla, lust, glädje, rädsla, avsky?</li></ol><p>&nbsp;</p><p>&nbsp;</p><figure class="image"><img src="https://eu1files.itslearning.com/data/3293/400041/Ratorik.jpg" alt=""></figure><figure class="image"><img src="https://user-images.githubusercontent.com/101390367/202910734-d17e7f5f-cd7b-4add-9974-38796fbe8dd4.gif"></figure><p>​​​​</p><p>&nbsp;</p><p>Exempel på disposition av en presentation:</p><p><strong>Inledning</strong></p><p>Här gäller det att skapa intresse. Gärna med en retorisk frågeställning (d.v.s. en fråga som ställs på ett sätt så svaret är givet) eller någon kortare historia som berör det ni tänkt berätta. Här presenterar ni även er själva.</p><p><strong>Mitt</strong></p><p><strong>Bakgrund:</strong>&nbsp;Beskriv bakgrunden till det ni ska presentera och se till att ni knyter an till målgruppen så att den känner igen sig.</p><p><i>”Vi känner alla till problemen att knyta sin halsduk på ett snyggt sätt.” ”Tänk er en kall vinterkväll och snön yr i luf-ten, du är på väg till en fest men hittar bara din gamla stickade halsduk i garderoben. Vad gör du? Det är bland annat mot den bakgrunden vi nu kommer att presentera vårt projekt ...”</i></p><p><strong>Tes (förslag):</strong>&nbsp;Lösningen till bakgrundsbeskrivningen.</p><p><i>”Vi kommer att utföra en modevisning och presentera 10 olika sätt att knyta din halsduk på.”</i></p><p><strong>Argument:</strong>&nbsp;Här presenterar ni tre argument som bevisar att er tes är riktig. Ta gärna med ett motargument också. Det är bra att ta med motargument. På så sätt förbereder ni er inför vad de som är tveksamma till er idé kanske tänker och känner, och kan bemöta det.</p><p><i>”Ingen tidigare modevisning har genomförts kring halsdukar i vår stad – så vår idé är helt unik.” ”Vi har genomfört en marknadsundersökning som visar att 90 % av vår målgrupp är intresserade av att få tips och hjälp med att knyta sin halsduk.” ”Vi har tagit hjälp av kompetenta personer inom mode och design för att kunna visa upp halsduksmode som ligger i tiden.” ”Kanske du tvekar, kanske du aldrig använder halsduk, i så fall är vår modevisning ett tillfälle för dig att inspireras – kanske just du kommer att älska halsdukar i framtiden.”</i></p><p><strong>Avslutning</strong></p><p>Sammanfattning av tes och argument.</p><p><i>”Vi har sett ett behov av att kunna knyta halsdukar på nya och kreativa sätt hos blandade åldrar i området. Vi arrangerar därför en modevisning den 4 december på Café Knutpunkten. Varmt välkomna!”</i></p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p></td></tr></tbody></table>
+
+​
 
 ## Vecka 46
 
+Arbeta med era företag, ni som ska pitcha inför Draknäste har redovisning tisdag och fredag.
+
+Jag har Teknik ettor i produktutveckling.
+
 ## Vecka 47
+
+Måndag - **Draknäste** för **EDU-Table UF** och **LearnIT UF**! Lycka till!
+
+![](https://user-images.githubusercontent.com/101390367/202910920-ae119ded-6693-460c-aa70-301908afc9e9.jpg)
+
+![](https://user-images.githubusercontent.com/101390367/202910931-e26d671c-86b4-476b-81ba-b29007a0ec65.jpg)
 
 ## Vecka 48
 
