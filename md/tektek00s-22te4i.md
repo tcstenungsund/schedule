@@ -35,7 +35,7 @@ Studiedag.
 
 Lämna in CV, personligt brev och en .pdf på den jobbannons som ni riktat er mot.
 
-#### Torsdag 
+#### Torsdag
 
 Studiedag. Gå igenom första modulen på CLOUD SECURITY kursen.
 
@@ -51,6 +51,8 @@ Kenneth lånar dagens lektion för en ordentlig rotväta med JavaScript.
 
 #### Måndag
 
+![](https://user-images.githubusercontent.com/101390367/202911320-9bb0afd4-4697-42ef-b832-d428560def05.png)
+
 #### Torsdag
 
 ## Vecka 40
@@ -63,17 +65,23 @@ Kenneth lånar dagens lektion för en ordentlig rotväta med JavaScript.
 
 #### Måndag
 
+![](https://user-images.githubusercontent.com/101390367/202911438-9c60c886-e67d-4e88-ba7e-a4f6e0b7158c.png)
+
 #### Torsdag
 
 ## Vecka 42
 
 #### Måndag
 
+![](https://user-images.githubusercontent.com/101390367/202911523-bb0e6c7c-e843-40c1-8cb7-d6bc4a324e09.png)
+
 #### Torsdag
 
 ## Vecka 43
 
 #### Måndag
+
+![](https://user-images.githubusercontent.com/101390367/202911620-2d23e879-6abf-4df8-899e-844245cbe94d.png)
 
 #### Torsdag
 
@@ -83,17 +91,51 @@ HÖSTLOV
 
 ## Vecka 45
 
+#### Måndag
+
+![](https://user-images.githubusercontent.com/101390367/202911721-5675ae4c-406c-45cc-a5c5-4683ec2e111e.png)
+
+#### Torsdag
+
 ## Vecka 46
+
+#### Måndag
+
+![](https://user-images.githubusercontent.com/101390367/202911753-ed6312c9-8f7a-46fd-9fd6-f7eae36b9f6f.png)
+
+#### Torsdag
 
 ## Vecka 47
 
+#### Måndag
+
+![](https://user-images.githubusercontent.com/101390367/202911778-673950b8-1134-4822-9405-7b50c9c6fbf2.png)
+
+#### Torsdag
+
 ## Vecka 48
+
+#### Måndag
+
+#### Torsdag
 
 ## Vecka 49
 
+#### Måndag
+
+#### Torsdag
+
 ## Vecka 50
 
+#### Måndag
+
+#### Torsdag
+
 ## Vecka 51
+
+#### Måndag
+
+#### Torsdag
 
 ## Vecka 52
 
