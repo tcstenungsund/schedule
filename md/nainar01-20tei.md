@@ -178,9 +178,15 @@ Genomgång av kapitel 5 och 6. 
 
 #### Tisdag
 
+Repetition av kapitel 5 och 6.
+
 #### Onsdag
 
+Arbeta med kapitel 5 och 6. Ni som inte blev färdiga med Etherchannel labben förra veckan gör klart den. Finns Packet Tracer laboration på kapitel 5.
+
 #### Torsdag
+
+PROV på kapitel 5 och 6.
 
 ## Vecka 47
 
