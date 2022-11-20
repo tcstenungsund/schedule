@@ -111,6 +111,8 @@ HÖSTLOV
 
 ![](https://user-images.githubusercontent.com/101390367/202911778-673950b8-1134-4822-9405-7b50c9c6fbf2.png)
 
+#### Ronnie är på Draknäste på Stenungsbaden under måndagen.
+
 #### Torsdag
 
 ## Vecka 48
