@@ -117,15 +117,23 @@ Genomgång av kapitel 5 i IT Essentials kursen.
 
 #### Fredag
 
+Genomgång av kapitel 5 i IT Essentials kursen.
+
 ## Vecka 46
 
 #### NÄTVERK!
 
 #### Måndag
 
+Genomgång av kapitel 5 i IT Essentials kursen.
+
 #### Fredag
 
+Specialuppgift med Caroline. Ronnie har produktutveckling med Teknik ettor.
+
 ## Vecka 47
+
+#### NÄTVERK!
 
 #### Måndag
 
