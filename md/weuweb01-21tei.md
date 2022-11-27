@@ -182,7 +182,7 @@ Genomgång av provet.
 
 ###### Mjukvara   
 
-Felsöka sin kod i webbläsaren och vår IDE. 
+Felsöka kod i webbläsare och IDE. 
 
 ###### CSS-ramverk
 
@@ -192,15 +192,20 @@ Att använda andras kod.
 
 #### Måndag 
 
-CSS-ramverk
+[Uppgift: CSS-ramverk](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb01-cssramverk)
+
+* [Utan Bootstrap](https://codepen.io/seetee/pen/rNKKZMz)   
+* [Med Bootstrap](https://codepen.io/seetee/pen/JjZZaKv)   
 
 #### Tisdag 
 
-Planeringsverktyg
+###### Planeringsverktyg
 
 ## Vecka 49
 
 #### Måndag 
+
+Fortsätt med uppgiften CSS-ramverk
 
 #### Tisdag 
 
@@ -210,6 +215,8 @@ Planeringsverktyg
 
 #### Måndag 
 
+Uppgift: Planeringsverktyg
+
 #### Tisdag 
 
 Planeringsverktyg
@@ -218,6 +225,8 @@ Planeringsverktyg
 
 #### Måndag 
 
+Uppgift: Planeringsverktyg
+
 #### Tisdag 
 
 Planeringsverktyg
@@ -225,6 +234,8 @@ Planeringsverktyg
 ## Vecka 52
 
 #### Måndag 
+
+Planeringsverktyg 
 
 #### Tisdag 
 
