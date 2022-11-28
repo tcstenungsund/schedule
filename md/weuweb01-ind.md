@@ -114,11 +114,9 @@ Resten av lektionen jobbar ni med Min Fula Lilla Sida
 
 ## Vecka 51
 
-* Idag skall ni få testa på att göra egna moodboards, klippa, klistra och låta kreativiteten flyta.
+Idag skall ni få testa på att göra egna moodboards, klippa, klistra och låta kreativiteten flyta.
 
 ## Vecka 52
-
-## Vecka 53
 
 **VINTERLOV**
 
