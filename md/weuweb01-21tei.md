@@ -225,23 +225,13 @@ Planeringsverktyg
 
 #### Måndag 
 
-Uppgift: Planeringsverktyg
-
-#### Tisdag 
-
-Planeringsverktyg
-
-## Vecka 52
-
-#### Måndag 
-
 Planeringsverktyg 
 
 #### Tisdag 
 
 Praktisk labb.
 
-## Vecka 53
+## Vecka 52
 
 **VINTERLOV**
 
