@@ -230,8 +230,6 @@ PROV på kapitel 5 och 6.
 
 ## Vecka 52
 
-## Vecka 53
-
 VINTERLOV
 
 ## Vecka 2
