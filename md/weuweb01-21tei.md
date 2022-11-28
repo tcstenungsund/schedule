@@ -196,6 +196,7 @@ Hur använder man andras kod? Det största CSS-ramverket i världen heter "[Boot
 
 [Uppgift: CSS-ramverk](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb01-cssramverk)
 
+Exempel på hur Bootstrap påverkar:    
 * [Utan Bootstrap](https://codepen.io/seetee/pen/rNKKZMz)   
 * [Med Bootstrap](https://codepen.io/seetee/pen/JjZZaKv)   
 
