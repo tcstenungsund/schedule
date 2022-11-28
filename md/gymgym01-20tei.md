@@ -154,8 +154,6 @@ Måndag - **Draknäste** för **EDU-Table UF** och **LearnIT UF**! Lycka till!
 
 ## Vecka 52
 
-## Vecka 53
-
 **VINTERLOV**
 
 ## Vecka 2
