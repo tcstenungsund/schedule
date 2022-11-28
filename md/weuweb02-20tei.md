@@ -118,7 +118,7 @@ Gör övningarna på "[Learn Git Branching](https://learngitbranching.js.org/)" 
 
 ## Vecka 47
 
-Gästföreläsare Johan Wilfer
+Gästföreläsare Johan Wilfer    
 "[Workshop om versionshantering i git och programmering](https://docs.google.com/presentation/d/e/2PACX-1vQO8QUAWMZ-esUJFphgEcpF0aycp-q5qwY_zSBWePAzDCEtomfEMPpc4z7kqF1F4sy660c2JTB_reep/pub?start=false&loop=true&delayms=3000)"   
 
 ## Vecka 48
