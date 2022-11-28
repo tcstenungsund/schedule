@@ -189,6 +189,7 @@ Hur felsöker man kod? "[MDN: Debugging CSS](https://developer.mozilla.org/en-US
 ###### CSS-ramverk
 
 Hur använder man andras kod? Det största CSS-ramverket i världen heter "[Bootstrap](https://getbootstrap.com/)". Bootstrap är ett gäng CSS-filer du länkar in på din sida, och sedan lägger du till ett tema med hjälp av "[Bootstrap Build](https://bootstrap.build/)".   
+
 Vi ser "[Intro & Setup](https://youtu.be/O_9u1P5YjVc)" (7 min) från serien "[Bootstrap 5 Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR)".   
 
 ## Vecka 48
