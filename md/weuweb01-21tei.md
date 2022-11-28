@@ -203,7 +203,7 @@ Hur använder man andras kod? Det största CSS-ramverket i världen heter "[Boot
 
 ###### Planeringsverktyg
 
-[Exit ticket](https://ars.particify.de/p/17380599)   
+[Återkoppling](https://ars.particify.de/p/17380599)   
 
 ## Vecka 49
 
