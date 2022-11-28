@@ -73,8 +73,6 @@
 
 ## Vecka 52
 
-## Vecka 53
-
 **VINTERLOV**
 
 ## Vecka 2
