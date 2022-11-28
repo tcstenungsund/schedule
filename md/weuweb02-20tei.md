@@ -118,28 +118,40 @@ Gör övningarna på "[Learn Git Branching](https://learngitbranching.js.org/)" 
 
 ## Vecka 47
 
-Gästföreläsare 
+Gästföreläsare och Workshop
 
 ## Vecka 48
-Individuellt projekt
+
+Fortsätt med uppgift Drupal Subtheme.   
+
+Skapa ett nytt repocitory på GitHub. Döp det till exakt samma sak som namnet på ditt subtheme (kom ihåg reglerna för namngivning från förra kursen!). Klona ned ditt nyskapade repocitory till din hårddisk. Flytta innehållet från din projektkatalog som du skapade förra veckan till ditt nedklonade repocitory och gör add, commit och push. Nu ligger all din kod på GitHub. 
+
+I slutet av varje lektion, eller efter att du arbetat klart för stunden, gör en add, commit och push. 
+
+--
 
 Prov på "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)". 
 
 ## Vecka 49
-Individuellt projekt
+
+Fortsätt med uppgift Drupal Subtheme.   
 
 ## Vecka 50
-Individuellt projekt
+
+Fortsätt med uppgift Drupal Subtheme.   
 
 Test på versionshantering  
 
 ## Vecka 51
-Individuellt projekt
+
+Fortsätt med uppgift Drupal Subtheme.   
 
 ## Vecka 52
+
 **VINTERLOV**
 
 ## Vecka 2
+
 Tävling
 
 ## Vecka 3
