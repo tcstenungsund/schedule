@@ -165,12 +165,6 @@ Specialuppgift med Caroline. Ronnie har produktutveckling med Teknik ettor.
 
 ## Vecka 52
 
-#### Måndag
-
-#### Fredag
-
-## Vecka 53
-
 VINTERLOV
 
 ## Vecka 2
