@@ -320,14 +320,6 @@ Fokus på en av de absolut vanligaste utvecklingsteorierna. Ett bra sätt att de
 
 ## Vecka 52
 
-#### Måndag
-
-#### Torsdag 
-
-#### Fredag 
-
-## Vecka 53
-
 **VINTERLOV**
 
 ## Vecka 2
