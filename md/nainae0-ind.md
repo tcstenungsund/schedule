@@ -103,9 +103,6 @@ Jag har lagt till lite specifikationer på hur dokumentet om era virus skall se 
 
 ## Vecka 52
 
-
-## Vecka 53
-
 **VINTERLOV**
 
 ## Vecka 2
