@@ -107,7 +107,7 @@ Ett av de absolut viktigaste momenten i kursen! Vi ser "[How CSS Specificity Is 
 Fortsätt arbeta med Min Fula Lilla Sida. 
 
 ###### Kontrast
-"[Contrast Rebellion](https://contrastrebellion.com/)"**\*** talar om för oss varför kontrast är viktigt, och på "[Color review](https://color.review/)"/"[APCA Contrast Calculator ](https://www.myndex.com/APCA/)" kan vi testa våra färger. (Läs mer och gör interaktiva övningar på "[Color & Contrast](https://colorandcontrast.com/)".)
+"[Contrast Rebellion](https://contrastrebellion.com/)" talar om för oss varför kontrast är viktigt, och på "[Color review](https://color.review/)"/"[APCA Contrast Calculator ](https://www.myndex.com/APCA/)" kan vi testa våra färger. (Läs mer och gör interaktiva övningar på "[Color & Contrast](https://colorandcontrast.com/)".)
 
 #### Tisdag 
 
@@ -188,7 +188,8 @@ Hur felsöker man kod? "[MDN: Debugging CSS](https://developer.mozilla.org/en-US
 
 ###### CSS-ramverk
 
-Hur använder man andras kod? Det största CSS-ramverket i världen heter "[Bootstrap](https://getbootstrap.com/)". "[Bootstrap 5 Crash Course Tutorial](https://youtu.be/O_9u1P5YjVc)" (7 min) och  "[Bootstrap Build](https://bootstrap.build/)".   
+Hur använder man andras kod? Det största CSS-ramverket i världen heter "[Bootstrap](https://getbootstrap.com/)". Bootstrap är ett gäng CSS-filer du länkar in på din sida, och sedan lägger du till ett tema med hjälp av "[Bootstrap Build](https://bootstrap.build/)".   
+Vi ser "[Intro & Setup](https://youtu.be/O_9u1P5YjVc)" (7 min) från serien "[Bootstrap 5 Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR)".   
 
 ## Vecka 48
 
@@ -196,13 +197,15 @@ Hur använder man andras kod? Det största CSS-ramverket i världen heter "[Boot
 
 [Uppgift: CSS-ramverk](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb01-cssramverk)
 
-Exempel på hur Bootstrap påverkar:    
+Exempel på hur Bootstrap fungerar:    
 * [Utan Bootstrap](https://codepen.io/seetee/pen/rNKKZMz)   
 * [Med Bootstrap](https://codepen.io/seetee/pen/JjZZaKv)   
 
 #### Tisdag 
 
-###### Planeringsverktyg
+Vi ser "[Colours & Typography](https://youtu.be/iUCyU_U0J2E)" (10 min) och "[Grid Layout (part 1)](https://youtu.be/irfbn103AzE)" (12 min) från serien "[Bootstrap 5 Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR)". 
+
+Fortsätt med uppgiften CSS-ramverk
 
 [Återkoppling](https://ars.particify.de/p/17380599)   
 
@@ -214,13 +217,15 @@ Fortsätt med uppgiften CSS-ramverk
 
 #### Tisdag 
 
-Planeringsverktyg
+###### Planeringsverktyg
+
+[Återkoppling](https://ars.particify.de/p/17380599)   
 
 ## Vecka 50
 
 #### Måndag 
 
-Uppgift: Planeringsverktyg
+Planeringsverktyg
 
 #### Tisdag 
 
@@ -230,7 +235,7 @@ Planeringsverktyg
 
 #### Måndag 
 
-Planeringsverktyg 
+Uppgift: Planeringsverktyg
 
 #### Tisdag 
 
