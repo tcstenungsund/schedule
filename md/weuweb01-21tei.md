@@ -182,11 +182,13 @@ Genomgång av provet.
 
 ###### Mjukvara   
 
-Felsöka kod i webbläsare och IDE. 
+Vad är en IDE? Vi talar om den nya generationens lightweight-IDEer som Brackets, Atom och Visual Studio Code, men nämner även traditionella IDEer som Dreamweaver, Eclipse och PHPStorm. Slutsats: vi installerar och använder [VScodium](https://vscodium.com/). "[Visual Studio Code Web Dev Setup In 6 Minutes](https://youtu.be/4NfFFsQC77M)" (4 min).    
+
+Hur felsöker man kod? "[MDN: Debugging CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Debugging_CSS)" och "[Why isn't this CSS doing anything?](https://youtu.be/O3DAm82vIvU)".    
 
 ###### CSS-ramverk
 
-Att använda andras kod.
+Hur använder man andras kod? Det största CSS-ramverket i världen heter "[Bootstrap](https://getbootstrap.com/)". "[Bootstrap 5 Crash Course Tutorial](https://youtu.be/O_9u1P5YjVc)" (7 min) och  "[Bootstrap Build](https://bootstrap.build/)".   
 
 ## Vecka 48
 
