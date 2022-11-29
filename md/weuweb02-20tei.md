@@ -125,9 +125,11 @@ Gästföreläsare Johan Wilfer
 
 Fortsätt med uppgift Drupal Subtheme.   
 
-Installera [GitHub Desktop](https://desktop.github.com/).   
+1) Logga in på GitHub.com och skapa ett nytt repocitory. Döp det till exakt samma sak som namnet på ditt subtheme (kom ihåg reglerna för namngivning från förra kursen!).   
 
-Skapa ett nytt repocitory på GitHub. Döp det till exakt samma sak som namnet på ditt subtheme (kom ihåg reglerna för namngivning från förra kursen!). Klona ned ditt nyskapade repocitory till din hårddisk. Flytta innehållet från din projektkatalog som du skapade förra veckan till ditt nedklonade repocitory och gör add, commit och push. Nu ligger all din kod på GitHub. 
+2) Installera [GitHub Desktop](https://desktop.github.com/). Klona ned ditt nyskapade repocitory till din hårddisk. Lägg det i din utvecklingsmiljös theme-katalog.    
+
+3) Flytta innehållet från din projektkatalog som du skapade förra veckan till ditt nedklonade repocitory och gör add, commit och push. Nu ligger all din kod på GitHub. 
 
 I slutet av varje lektion, eller efter att du arbetat klart för stunden, gör en add, commit och push. 
 
