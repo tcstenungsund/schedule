@@ -190,25 +190,49 @@ PROV på kapitel 5 och 6.
 
 ## Vecka 47
 
+![](https://user-images.githubusercontent.com/101390367/204894807-d11f5e04-7958-4e85-9e6d-2dd2063cbbcc.png)
+
 #### Tisdag
+
+Genomgång av kapitel 7.
 
 #### Onsdag
 
+Laboration 7.4.2
+
 #### Torsdag
+
+Genomgång av kapitel 8.
 
 ## Vecka 48
 
+![](https://user-images.githubusercontent.com/101390367/204894328-117064ac-7e8a-4418-8a6a-60ccda0d7e5c.png)
+
 #### Tisdag
 
+Genomgång av kapitel 8.
+
 #### Onsdag
+
+Genomgång av laboration 7.4.2, ni kan göra om den idag om ni vill.
+
+Laboration 8.5.1 - DHCP för IPv6.
 
 #### Torsdag
 
+Genomgång av kapitel 9.
+
 ## Vecka 49
+
+![](https://user-images.githubusercontent.com/101390367/204894647-0208fd8c-a715-4413-a165-5d11c6e14700.png)
 
 #### Tisdag
 
+Prov på kapitel 7, 8 och 9.
+
 #### Onsdag
+
+Genomgång av kapitel 10.
 
 #### Torsdag
 
