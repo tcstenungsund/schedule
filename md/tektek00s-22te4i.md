@@ -117,9 +117,17 @@ HÖSTLOV
 
 ## Vecka 48
 
+![](https://user-images.githubusercontent.com/101390367/204898370-a4ba6d54-a30e-404d-8e06-cc3fdc0e496a.png)
+
 #### Måndag
 
+Dags för anställningsintervju hos Hogia. Obligatoriskt för alla. Skriv ihop ett personligtbrev och CV och lämna in på ITs.
+
 #### Torsdag
+
+[https://arbetsformedlingen.se/for-arbetssokande/cv-ansokan-och-intervju/jobbintervjun](https://arbetsformedlingen.se/for-arbetssokande/cv-ansokan-och-intervju/jobbintervjun)
+
+Vi pratar lite kring hur en anställningsintervju går till.
 
 ## Vecka 49
 
@@ -127,9 +135,13 @@ HÖSTLOV
 
 #### Torsdag
 
+Anställningsintervju Hogia.
+
 ## Vecka 50
 
 #### Måndag
+
+Anställningsintervju Hogia.
 
 #### Torsdag
 
