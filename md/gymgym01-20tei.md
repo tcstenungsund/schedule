@@ -146,9 +146,19 @@ Måndag - **Draknäste** för **EDU-Table UF** och **LearnIT UF**! Lycka till!
 
 ## Vecka 48
 
+![](https://user-images.githubusercontent.com/101390367/204896190-f037bb97-f443-46c0-8174-49724ce18377.png)
+
+Julmarknad den 14 december. Förbered så att ni kan visa upp och demonstrera era produkter och tjänster! Varför inte erbjuda en mässprodukt? Lite billigare produkt att sälja just på julmarknaden.
+
+![](https://user-images.githubusercontent.com/101390367/204897259-76e4895d-8ef2-4ddc-9f3e-4ff2e84b1d1e.png)
+
+Se över er galleria. Kolla så att logga och affärsidé ser bra ut. Lägg upp era produkter och tjänster med bild och pris!
+
 ## Vecka 49
 
 ## Vecka 50
+
+Onsdag - Julmarknad!
 
 ## Vecka 51
 
