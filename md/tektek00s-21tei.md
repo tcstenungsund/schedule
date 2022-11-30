@@ -137,17 +137,27 @@ Specialuppgift med Caroline. Ronnie har produktutveckling med Teknik ettor.
 
 #### Måndag
 
+Genomgång av kapitel 5 IT Essentials.
+
 #### Fredag
+
+Dreamhack för RJO - plugga på kapitel 5 och 6.
 
 ## Vecka 48
 
 #### Måndag
 
+Genomgång av kapitel 6 IT Essentials.
+
 #### Fredag
+
+Prov kapitel 5 och 6 IT Essentials.
 
 ## Vecka 49
 
 #### Måndag
+
+IoT som vanligt igen! Äntligen!!
 
 #### Fredag
 
