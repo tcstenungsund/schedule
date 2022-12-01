@@ -94,9 +94,11 @@ Jag har lagt till lite specifikationer på hur dokumentet om era virus skall se 
 
 ## Vecka 49
 
+* Idag får ni tid att sitta och läsa kapitel 3, ni skall sitta iallafall en timme av lektionen på plats sedan är det läsa på valfri plats.
 
 ## Vecka 50
 
+* Idag blir det prov på kapitel 3-4 hela lektionen.
 
 ## Vecka 51
 
