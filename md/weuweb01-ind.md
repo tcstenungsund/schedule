@@ -104,8 +104,7 @@ Resten av lektionen jobbar ni med Min Fula Lilla Sida
 
 ## Vecka 49
 
-* Idag kommer vi att jobba med Min Fula Lilla Sida i ca en timme.
-* Sedan andra timmen kör vi prov på HTML och CSS.
+* Idag blir det prov hela lektionen. Se till att komma i tid till lektionen, sedan slutar man och lämnar tyst när man är klar.
 
 ## Vecka 50
 
