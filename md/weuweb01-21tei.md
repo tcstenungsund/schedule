@@ -68,7 +68,7 @@ Fortsätt arbeta med Min Fula Lilla Sida.
 ###### Mått och färg
 Utöver uppbyggnaden av CSS är det viktigt att förstå mått och färg. "[The Lengths of CSS ](https://css-tricks.com/the-lengths-of-css/)" ger oss måtten, och färgerna hittar vi på "[MDN: color](https://developer.mozilla.org/en-US/docs/Web/CSS/color)". Vi ser också "[What The Heck Is A Hex Value Anyway?](https://cgi.tutsplus.com/tutorials/what-the-heck-is-a-hex-value-anyway--ae-11932)" (4:15) och "[Are you using the right CSS units?](https://youtu.be/N5wpD9Ov_To)" (6:29).
 
-Hur vi använder färger kan du förstå genom att titta på ett "[Color wheel](https://en.wikipedia.org/wiki/Color_wheel)" och "[The 60:30:10 design rule for web design](https://yuricodesbot.hashnode.dev/the-603010-color-rule-for-web-design)". Hitta nya kombinationer med hjälp av "[ColorKit](https://colorkit.co/)" och "[Color picker](https://htmlcolorcodes.com/color-picker/)".
+Hur vi använder färger kan du förstå genom att titta på ett "[Color wheel](https://en.wikipedia.org/wiki/Color_wheel)", "[How to Choose Colors (Easy 3-Step Process)](https://youtu.be/KMS3VwGh3HY)" och "[The 60:30:10 design rule for web design](https://yuricodesbot.hashnode.dev/the-603010-color-rule-for-web-design)". Hitta nya kombinationer med hjälp av "[ColorKit](https://colorkit.co/)" och "[Color picker](https://htmlcolorcodes.com/color-picker/)".
 
 ###### The box model 
 En av de absolut viktigaste momenten i kursen är att förstå "[the box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)". "[The box model for beginners](https://youtu.be/MrAnu4zdjjY)" (1:54)
@@ -184,7 +184,7 @@ Genomgång av provet.
 
 Vad är en IDE? Vi talar om den nya generationens lightweight-IDEer som Brackets, Atom och Visual Studio Code, men nämner även traditionella IDEer som Dreamweaver, Eclipse och PHPStorm. Slutsats: vi installerar och använder [VScodium](https://vscodium.com/). "[Visual Studio Code Web Dev Setup In 6 Minutes](https://youtu.be/4NfFFsQC77M)" (4 min).    
 
-Hur felsöker man kod? "[MDN: Debugging CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Debugging_CSS)" och "[Why isn't this CSS doing anything?](https://youtu.be/O3DAm82vIvU)". "[Browser Default Styles](https://browserdefaultstyles.com/)"     
+Hur felsöker man kod? "[MDN: Debugging CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Debugging_CSS)" och "[Why isn't this CSS doing anything?](https://youtu.be/O3DAm82vIvU)". "[Stop using Chrome if you're writing CSS](https://youtu.be/a-V8GFtwjos)"   
 
 ###### CSS-ramverk
 
@@ -218,11 +218,17 @@ Fortsätt med uppgiften CSS-ramverk
 
 #### Tisdag 
 
-Fortsätt med uppgiften CSS-ramverk
+"[The 6 most important CSS concepts for beginners](https://youtu.be/JnTPd9G6hoY)"   
+
+Alla uppgifter bygger på tidigare uppgifter. Har du missat något, hoppat över något eller uteblivit från något så är det ditt ansvar att gå tillbaka och genomföra de momenten.  
+
+Fortsätt med uppgiften CSS-ramverk    
 
 ## Vecka 50
 
 #### Måndag 
+
+"[Where do Browser Styles Come From?](https://youtu.be/spK_S0HfzFw)" (7 min) och "[Browser Default Styles](https://browserdefaultstyles.com/)"    
 
 Fortsätt med uppgiften CSS-ramverk
 
