@@ -158,7 +158,10 @@ Fortsätt med uppgift Drupal Subtheme.
 Tävling
 
 ## Vecka 3
-Stora projektet
+
+Repetition av bedömningskriterier och kurskrav. 
+
+###### Arbetsflöde. 
 
 ## Vecka 4
 Stora projektet
