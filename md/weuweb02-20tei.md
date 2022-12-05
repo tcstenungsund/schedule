@@ -145,8 +145,6 @@ Fortsätt med uppgift Drupal Subtheme.
 
 Fortsätt med uppgift Drupal Subtheme.   
 
-Test på versionshantering  
-
 ## Vecka 51
 
 Fortsätt med uppgift Drupal Subtheme.   
