@@ -218,9 +218,11 @@ Fortsätt med uppgiften CSS-ramverk
 
 #### Tisdag 
 
-"[The 6 most important CSS concepts for beginners](https://youtu.be/JnTPd9G6hoY)"   
+###### Kunskap för webbutvecklare   
 
-Alla uppgifter bygger på tidigare uppgifter. Har du missat något, hoppat över något eller uteblivit från något så är det ditt ansvar att gå tillbaka och genomföra de momenten.  
+Du förväntas lära dig, du förväntas inte "lämna in uppgifter, göra prov och få betyg". Alla uppgifter bygger på tidigare uppgifter. Har du missat något, hoppat över något eller uteblivit från något så är det ditt ansvar att gå tillbaka och genomföra de momenten.  
+
+"[Tech Support Cheat Sheet](https://xkcd.com/627/)", "This frame" / "Open frame in new tab", "[The 6 most important CSS concepts for beginners](https://youtu.be/JnTPd9G6hoY)" (29 min)   
 
 Fortsätt med uppgiften CSS-ramverk    
 
