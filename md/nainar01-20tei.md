@@ -228,9 +228,11 @@ Genomgång av kapitel 9.
 
 #### Tisdag
 
-Prov på kapitel 7, 8 och 9.
+Läs på kapitel 7, 8 och 9.
 
 #### Onsdag
+
+Prov på kapitel 7, 8 och 9.
 
 Genomgång av kapitel 10.
 
@@ -249,6 +251,8 @@ Genomgång av kapitel 10.
 #### Tisdag
 
 #### Onsdag
+
+Jul-LAN
 
 #### Torsdag
 
