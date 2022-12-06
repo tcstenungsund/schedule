@@ -159,7 +159,11 @@ Prov kapitel 5 och 6 IT Essentials.
 
 IoT som vanligt igen! Äntligen!!
 
+Genomgång av kapitel 4.1.
+
 #### Fredag
+
+Genomgång av kapitel 4.2.
 
 ## Vecka 50
 
