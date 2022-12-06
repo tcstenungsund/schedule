@@ -45,6 +45,8 @@ Börja med att ladda ned Barrio och packa upp filen. Kopiera alla filer i katalo
 
 Skapa nu en ny projektkatalog. Starta en ny Drupal-instans där.  
 
+![Projektfilstruktur](https://i.imgur.com/9Ullbgu.png) 
+
 > Tips! Om du försöker använda samma docker-compose.yml-fil som i ett tidigare projekt så måste du byta namn på de virtuella maskinerna som skapas! Det är enkelt, ändra bara i din nya docker-compose.yml-fil
 
 Logga nu in på din Drupal-installation och sätt ditt subtheme som standardtheme. Fyll sedan din sida med exempeldata och bygg upp en enkel liten sida med block, pages och menyalternativ.
