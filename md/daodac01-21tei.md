@@ -66,6 +66,7 @@
 - Sedan kör vi ett prov på både kapitel 5-6.
 
 ## Vecka 49
+- Vi börjar kika på kapitel 7 i Netacad.
 
 ## Vecka 50
 
