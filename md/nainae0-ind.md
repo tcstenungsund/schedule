@@ -101,7 +101,8 @@ Jag har lagt till lite specifikationer på hur dokumentet om era virus skall se 
 * Idag blir det prov på kapitel 3-4 hela lektionen.
 
 ## Vecka 51
-
+* Idag skall vi göra lite minilabbar, den första är en övning som heter [hacker, hacker] (https://hacker-game--eco27.repl.co/)
+* Om ni blir klara med denna så skall ni köra [Genesis Mud](https://www.genesismud.org/)
 
 ## Vecka 52
 
