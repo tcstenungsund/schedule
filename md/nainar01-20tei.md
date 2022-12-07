@@ -234,9 +234,17 @@ Läs på kapitel 7, 8 och 9.
 
 Prov på kapitel 7, 8 och 9.
 
-Genomgång av kapitel 10.
+Kika på följande inför kapitel 10:
+
+[https://www.a10networks.com/blog/5-most-famous-ddos-attacks/](https://www.a10networks.com/blog/5-most-famous-ddos-attacks/)
+
+[https://www.youtube.com/watch?v=KKSyB476n9o](https://www.youtube.com/watch?v=KKSyB476n9o)
+
+[https://www.youtube.com/watch?v=1pywzRTJDaY](https://www.youtube.com/watch?v=1pywzRTJDaY)
 
 #### Torsdag
+
+Genomgång av kapitel 10.
 
 ## Vecka 50
 
