@@ -135,7 +135,7 @@ Vi pratar lite kring hur en anställningsintervju går till.
 
 #### Torsdag
 
-Anställningsintervju Hogia.
+Anställningsintervju Hogia. Anmäl er till Jenny Cedervall 10 minuter innan.
 
 9.00 - 9.45 Alex
 
@@ -149,7 +149,7 @@ Anställningsintervju Hogia.
 
 #### Måndag
 
-Anställningsintervju Hogia.
+Anställningsintervju Hogia. Anmäl er till Jenny Cedervall 10 minuter innan.
 
 Måndag den 12/12
 
