@@ -137,11 +137,27 @@ Vi pratar lite kring hur en anställningsintervju går till.
 
 Anställningsintervju Hogia.
 
+9.00 - 9.45 Alex
+
+11.30 - 12.15 Pontus
+
+13.00 - 13.45 Anton
+
+15.30 - 16.15 Karl Johan
+
 ## Vecka 50
 
 #### Måndag
 
 Anställningsintervju Hogia.
+
+Måndag den 12/12
+
+13.00 - 13.45 Nicolas
+
+14.30 - 15.15 Lina
+
+16.00 - 16.45 William
 
 #### Torsdag
 
