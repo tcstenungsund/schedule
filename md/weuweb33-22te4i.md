@@ -222,7 +222,7 @@ Fortsätt med Projekt Bord och Bokning!
 
 Fortsätt med Projekt Bord och Bokning!   
 
-*Veckans sociala medier:*   
+*Veckans sociala medier:* "[Most important developer skill!](https://twitter.com/oliverjumpertz/status/1590755133800923136?s=09&t=iJpDbaF931bBz5iSVJKA6A)", "[If you don't make mistakes, your doing it wrong](https://mobile.twitter.com/ProfFeynman/status/1542037385361657857?s=09&t=dwMYmDesuDaIgJjJRuKnXA)" och "[Browsersync](https://browsersync.io/)".    
 
 ## Vecka 46
 
@@ -244,7 +244,7 @@ Fokus på en av de absolut vanligaste utvecklingsteorierna. Ett bra sätt att de
 
 12:00 Sprint review
 
-*Veckans sociala medier:*   
+*Veckans sociala medier:* "[E-ink dress](https://www.tiktok.com/@daily_dose_of_stem/video/7139176843646668075?_r=1&_t=8WuBuHRN7R8&is_from_webapp=v1&item_id=7139176843646668075)", [browsers.fyi](https://www.browsers.fyi/), "[Setting up Visual Studio Code for Web Development](https://zellwk.com/blog/beginner-and-intermediate-web-development-setup-2022/)" och "[Gillar du datahallar är detta läsnnig för dig!](https://twitter.com/jonasbjork/status/1582613685079801859?s=09&t=jvsbFh7XCYENJLlO415T1g)". 
 
 ## Vecka 47
 
@@ -260,7 +260,7 @@ Fokus på en av de absolut vanligaste utvecklingsteorierna. Ett bra sätt att de
 
 09:30 Scrum standup   
 
-*Veckans sociala medier:*   
+13:30 Sprint review
 
 ## Vecka 48
 
@@ -276,7 +276,7 @@ Fokus på en av de absolut vanligaste utvecklingsteorierna. Ett bra sätt att de
 
 09:30 Scrum standup   
 
-*Veckans sociala medier:*   
+*Veckans sociala medier:* "[8 must-know tips for writing clean code with Javascript](https://dev.to/alexomeyer/8-must-know-tips-for-writing-clean-code-with-javascript-i4)", "[Top 14 Cutting-Edge Web Development Trends in 2023](https://yellow.systems/blog/web-development-future-trends)", "[Become a CORS Wizard](https://fatimamo.com/become-a-cors-wizard)",   
 
 ## Vecka 49
 
