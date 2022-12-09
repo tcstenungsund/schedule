@@ -160,6 +160,8 @@ Se över er galleria. Kolla så att logga och affärsidé ser bra ut. Lägg upp 
 
 Onsdag - Julmarknad!
 
+Klockan 12 - 14 på skolan, 16 - 18 på Arenan. Placeringskarta för marknaderna ligger under INNEHÅLL.
+
 ## Vecka 51
 
 ## Vecka 52
