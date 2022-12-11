@@ -51,7 +51,7 @@ Skapa nu en ny projektkatalog. Starta en ny Drupal-instans där.
 
 Logga nu in på din Drupal-installation och sätt ditt subtheme som standardtheme. Fyll sedan din sida med exempeldata och bygg upp en enkel liten sida med block, pages och menyalternativ.
 
-Utgå ifrån ditt färgschema och skapa ett Bootstrap-tema med hjälp av [Bootstrap Buil](https://bootstrap.build/) och lägg CSS-filen för det i ditt subtheme. Ladda sedan in det i libraries-filen.   
+Utgå ifrån ditt färgschema och skapa ett Bootstrap-tema med hjälp av [Bootstrap Build](https://bootstrap.build/) och lägg CSS-filen för det i ditt subtheme. Ladda sedan in det i libraries-filen.   
 
 För att skriva egen CSS, skapa dokumentet style.css i katalogen CSS i din subtheme-katalog. Högerklicka sedan i webbläsaren på det element du vill ändra och välj "Inspect Element". Konstruera en selektor av klasser och element, till exempel ".region-secondary-menu h2" för att ändra underrubriken över sekundärmenyn. Lägg till selektorn och skriv dina CSS-regler ditt CSS-dokument.
 
