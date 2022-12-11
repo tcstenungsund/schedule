@@ -309,6 +309,7 @@ Tävling
 
 ## Vecka 13
 
+Test: Podcast
 
 ## Vecka 14
 
@@ -334,6 +335,7 @@ Tävling
 
 ## Vecka 21
 
+Prov: Planeringsverktyg, Vektorgrafik, Logotypedesign, SVG-animation och Tester
 
 ## Vecka 22
 
