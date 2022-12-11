@@ -143,6 +143,8 @@ Fortsätt med uppgift Drupal Subtheme.
 
 ## Vecka 50
 
+Går igenom provet från vecka 48. 
+
 Fortsätt med uppgift Drupal Subtheme.   
 
 ## Vecka 51
