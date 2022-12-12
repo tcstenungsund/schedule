@@ -109,6 +109,7 @@ Resten av lektionen jobbar ni med Min Fula Lilla Sida
 ## Vecka 50
 
 * Vi skall kolla på lite olika enkla och användbara verktyg som man kan använda under sin skapande period av en websida, vi har en gästföreläsare vid namn Kalle som går igenom detta.
+* Klicka på följande länk till [Kalles Gitbub](https://github.com/BensinBosse/Lektion-Om-Verktyg)
 * Sedan fortsätter ni att jobba med projektet Min Fula Lilla Sida.
 
 ## Vecka 51
