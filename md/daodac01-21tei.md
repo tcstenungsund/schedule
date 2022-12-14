@@ -70,7 +70,7 @@
 
 ## Vecka 50
 
-- Höger klicka på denna länken för att öppna i ny flik. [Hacker, hacker](https://replit.com/@Eq_Tran/hacker-game)
+- Höger klicka på denna länken för att öppna i ny flik. [Hacker, hacker](https://hacker-game--eco27.repl.co/)
 - Ni får gärna samarbeta, men alla skall fortfarande göra den på varsin dator.
 - Är man klar skall man gå runt och hjälpa varandra.
 
