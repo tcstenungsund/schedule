@@ -53,6 +53,8 @@ Vi slutför uppgiften HTML & CSS Basics.
 
 Genomgång av [HTML Beginner](https://htmldog.com/guides/html/beginner/) och [CSS Beginner](https://htmldog.com/guides/css/beginner/). 
 
+I HTML finns det "[globala attribut](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes#list_of_global_attributes)" som går att lägga till alla taggar, samt icke-globala attribut. Se MDN för [en lista över alla attribut](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes).   
+
 När du skall lägga till en bild måste du avgöra om den är en del av innehållet eller utseendet, för att kunna bestämma om den skall ligga som en IMG-tag i HTML eller som en background-image i CSS. 
 
 [Uppgift: Min Fula Lilla Sida](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb01-min_fula_lilla_sida)
