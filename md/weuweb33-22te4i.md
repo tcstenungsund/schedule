@@ -290,9 +290,7 @@ Fokus på en av de absolut vanligaste utvecklingsteorierna. Ett bra sätt att de
 
 #### Fredag 
 
-09:30 Scrum standup   
-
-*Veckans sociala medier:*   
+13:30 Sprint review
 
 ## Vecka 50
 
@@ -308,15 +306,15 @@ Fokus på en av de absolut vanligaste utvecklingsteorierna. Ett bra sätt att de
 
 09:30 Scrum standup   
 
-*Veckans sociala medier:*   
+*Veckans sociala medier:* "[Minimal Dark Mode](https://meiert.com/en/blog/minimal-dark-mode/)" och "[https://meiert.com/en/blog/minimal-dark-mode/](https://www.tiktok.com/@wesbos/video/7163652821210975494?_r=1&_t=8XUfleU1zb3&is_from_webapp=v1&item_id=7163652821210975494)".     
 
 ## Vecka 51
 
 #### Måndag
 
-#### Torsdag 
+09:30 Scrum standup   
 
-#### Fredag 
+12:30 Sprint review
 
 ## Vecka 52
 
