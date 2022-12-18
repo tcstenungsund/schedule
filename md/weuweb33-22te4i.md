@@ -306,7 +306,7 @@ Fokus på en av de absolut vanligaste utvecklingsteorierna. Ett bra sätt att de
 
 09:30 Scrum standup   
 
-*Veckans sociala medier:* "[Minimal Dark Mode](https://meiert.com/en/blog/minimal-dark-mode/)" och "[https://meiert.com/en/blog/minimal-dark-mode/](https://www.tiktok.com/@wesbos/video/7163652821210975494?_r=1&_t=8XUfleU1zb3&is_from_webapp=v1&item_id=7163652821210975494)".     
+*Veckans sociala medier:* "[Minimal Dark Mode](https://meiert.com/en/blog/minimal-dark-mode/)" och "[Use CSS :where() to select multiple children inside a parent selector](https://www.tiktok.com/@wesbos/video/7163652821210975494?_r=1&_t=8XUfleU1zb3&is_from_webapp=v1&item_id=7163652821210975494)".     
 
 ## Vecka 51
 
