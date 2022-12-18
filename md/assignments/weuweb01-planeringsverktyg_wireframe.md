@@ -1,6 +1,6 @@
 # Webbutveckling 1: Planeringsverktyg - Wireframe
 
-\_Wireframes är ett av de viktigaste planeringsverktygen för en webbutvecklare. De används för att snabbt kunna överväga olika layouter och förmedla dina tankar till både kollegor och kund.\_
+_Wireframes är ett av de viktigaste planeringsverktygen för en webbutvecklare. De används för att snabbt kunna överväga olika layouter och förmedla dina tankar till både kollegor och kund._
 
 ---
 
