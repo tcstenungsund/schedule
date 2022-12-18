@@ -260,6 +260,8 @@ Alla dessa verktyg är bäst att göra fysiskt, men går även att göra digital
 
 Uppgift: Planeringsverktyg
 
+Idag skall ni ägna hela lektionen åt uppgiften ovan. Det betyder att ni inte kan göra klart den på 10 minuter och sedan göra något annat. _Hela_ lektionen *skall* ägnas åt uppgiften. Inlämningsrummet på vår lärplattform öppnar tio minuter före lektionens slut.   
+
 #### Tisdag 
 
 Praktisk labb.
