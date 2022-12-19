@@ -120,9 +120,9 @@ Idag skall ni få testa på att göra egna moodboards, klippa, klistra och låta
 
 **VINTERLOV**
 
-## Vecka 2
-
 ## Vecka 3
+
+* CSS Zen Garden.
 
 ## Vecka 4
 
