@@ -258,7 +258,7 @@ Alla dessa verktyg är bäst att göra fysiskt, men går även att göra digital
 
 #### Måndag 
 
-Uppgift: Planeringsverktyg
+[Uppgift: Planeringsverktyg - Wireframe](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb01-planeringsverktyg_wireframe)
 
 Idag skall ni ägna hela lektionen åt uppgiften ovan. Det betyder att ni inte kan göra klart den på 10 minuter och sedan göra något annat. _Hela_ lektionen *skall* ägnas åt uppgiften. Inlämningsrummet på vår lärplattform öppnar tio minuter före lektionens slut.   
 
