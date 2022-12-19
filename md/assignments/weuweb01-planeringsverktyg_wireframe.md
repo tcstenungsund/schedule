@@ -17,7 +17,7 @@ Enskild uppgift.
 
 ## Uppgiftsbeskrivning
 
-Öppna upp historiken i din webbläsare. Gå till den tionde webbplatsen och besök den för att färska upp minnet.
+Öppna upp historiken i din webbläsare. Gå till den trettonde webbplatsen och besök den för att färska upp minnet.
 
 Du skall nu skapa åtta stycken wireframes på ett A4 med helt olika utkast till layouter som skulle kunna fungera för den webbsidan.
 
