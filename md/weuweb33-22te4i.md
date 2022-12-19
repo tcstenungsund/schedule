@@ -312,8 +312,6 @@ Fokus på en av de absolut vanligaste utvecklingsteorierna. Ett bra sätt att de
 
 #### Måndag
 
-09:30 Scrum standup   
-
 12:30 Sprint review
 
 ## Vecka 52
