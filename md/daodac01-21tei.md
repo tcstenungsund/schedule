@@ -75,12 +75,14 @@
 - Är man klar skall man gå runt och hjälpa varandra.
 
 ## Vecka 51
+ - Jul-lan
 
 ## Vecka 52
 
 **VINTERLOV**
 
 ## Vecka 2
+ - Vi fortsätter på kapitel 7 och går igenom delarna 7.2, 7.3 och 7.4.
 
 ## Vecka 3
 
