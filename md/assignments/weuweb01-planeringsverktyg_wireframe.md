@@ -23,7 +23,7 @@ Du skall nu skapa åtta stycken wireframes på ett A4 med helt olika utkast till
 
 När du har åtta förslag går du igenom dem och analyserar vad som är bra och dåligt med olika aspekter. Sätt en liten stjärna vid de element du tror skulle fungera bäst.
 
-Gå till wireframe.cc och kombinera de bästa delarna av dina utkast till en slutlig wireframe.
+Gå till wireframe.cc och kombinera de bästa delarna av dina utkast till en slutlig wireframe. När du klickar på [Save] så får du en unik URL till din wireframe. 
 
 ## Förväntat resultat
 
@@ -35,7 +35,7 @@ Du bör ha skaffat dig en förståelse för hur man arbetar med wireframes och h
 
 ### Vilka filer?
 
-Ett foto i png-format och en länk.
+Ett foto i png-format och en URL till din wireframe på wireframe.cc.
 
 ### Var skall de lämnas in?
 
