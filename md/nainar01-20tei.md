@@ -258,6 +258,26 @@ Genomgång av kapitel 10.
 
 #### Tisdag
 
+WIRESHARK
+
+Installera Wireshark på din dator.
+
+Se följande instruktionsvideos:
+
+[https://itlararen.se/videos/network/network17.html](https://itlararen.se/videos/network/network17.html)
+
+[https://itlararen.se/videos/network/network18.html](https://itlararen.se/videos/network/network18.html)
+
+[https://itlararen.se/videos/network/network19.html](https://itlararen.se/videos/network/network19.html)
+
+[https://itlararen.se/videos/network/network20.html](https://itlararen.se/videos/network/network20.html)
+
+Gör laboration:
+
+[http://itlararen.se/labbar/Laboration-Wireshark.pdf](http://itlararen.se/labbar/Laboration-Wireshark.pdf)
+
+Lämna in laboration.
+
 #### Onsdag
 
 Jul-LAN
