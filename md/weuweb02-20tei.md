@@ -149,7 +149,9 @@ Fortsätt med uppgift Drupal Subtheme.
 
 ## Vecka 51
 
-Fortsätt med uppgift Drupal Subtheme.   
+Slutför uppgift Drupal Subtheme.   
+
+Deadline: 2022
 
 ## Vecka 52
 
