@@ -264,7 +264,7 @@ Idag skall ni ägna hela lektionen åt uppgiften ovan. Det betyder att ni inte k
 
 #### Tisdag 
 
-Praktisk labb.
+[Uppgift: Planeringsverktyg - Moodboard](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb01-planeringsverktyg_moodboard)
 
 ## Vecka 52
 
