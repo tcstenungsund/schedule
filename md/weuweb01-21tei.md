@@ -272,8 +272,6 @@ Idag skall ni ägna hela lektionen åt uppgiften ovan. Det betyder att ni inte k
 
 ## Vecka 2
 
-#### Måndag 
-
 #### Tisdag 
 
 Tävling    
