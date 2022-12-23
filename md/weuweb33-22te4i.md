@@ -320,13 +320,15 @@ Fokus på en av de absolut vanligaste utvecklingsteorierna. Ett bra sätt att de
 
 ## Vecka 2
 
-#### Måndag
+#### Torsdag 
 
 Tävling: CSS Zen Garden 
 
-#### Torsdag 
-
 #### Fredag 
+
+09:30 Scrum standup    
+
+*Veckans sociala medier:*    
 
 ## Vecka 3
 
