@@ -112,7 +112,7 @@ Jag har lagt till lite specifikationer på hur dokumentet om era virus skall se 
 
 * Jag har lagt till er alla i en ny kurs i Netacad som heter Network Security. 
 * Vi skall prata om någonting som heter ACL:er och titta på kapitel 8 i kursen ovan.
-* I denna finns det en lab som heter 8.5.12 som skall göras idag, som skall lämnas in i en mapp på ITs learning.
+* I denna finns det en lab som heter 8.5.12 och 8.5.13 som skall göras idag, som skall lämnas in i respektive mapp på ITs learning.
 
 ## Vecka 3
 
