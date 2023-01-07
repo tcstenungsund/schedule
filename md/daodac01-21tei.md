@@ -82,7 +82,7 @@
 **VINTERLOV**
 
 ## Vecka 2
- - Vi fortsätter på kapitel 7 och går igenom delarna 7.2, 7.3 och 7.4.
+ - Vi fortsätter på kapitel 7 och går igenom delarna 7.2, 7.3, 7.4 och kanske 7.5.
 
 ## Vecka 3
 
