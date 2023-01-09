@@ -54,7 +54,7 @@ urlPrefix = 'md/';
 urlSuffix = '.md'
 url = urlPrefix + courseParam + urlSuffix; //censored for github
 //Link to edit the md file
-mdEditUrl = 'editor.html?link=';
+mdEditUrl = 'https://github.com/tcstenungsund/schedule/edit/main/md/';
 
 // Returns the ISO week of the date.
 // Code modified version of https://weeknumber.com/how-to/javascript.
@@ -138,12 +138,16 @@ async function getAssignments(html){
         contains(., 'inlämning') or \
         contains(., 'Inlämning') or \
         contains(., 'INLÄMING') or \
-        contains(., 'test') or \
-        contains(., 'Test') or \
+        contains(., 'test ') or \
+        contains(., 'Test ') or \
         contains(., 'TEST')or \
         contains(., 'prov')or \
         contains(., 'Prov')or \
-        contains(., 'PROV')"
+        contains(., 'PROV')or \
+        contains(., 'Laboration')or \
+        contains(., 'Lab')or \
+        contains(., 'Projekt')or \
+        contains(., 'Djupdykning')"
 
     const highlightAssignmentKeyWords = [
         "test", 
@@ -286,7 +290,7 @@ async function groupDropdown(){
 async function addEditLink(link){
     //Edit link
     editLink = document.createElement("a");
-    editLink.href = mdEditUrl + link;
+    editLink.href = mdEditUrl + link + urlSuffix;
     editLink.innerHTML = '<i class="fa-solid fa-pen"></i>'
 
     title = document.getElementById("main").firstChild;
