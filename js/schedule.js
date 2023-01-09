@@ -17,7 +17,7 @@ async function htmlToDom(html){
     main = document.getElementById("main")
     main.insertBefore(title, main.firstChild);
     //Place a duplicate of the current week plan in current week section
-    currentWeekPlan = document.querySelector('[id$="' + window.weekNumber + '"]:not([id^="flow"]').parentElement;
+    currentWeekPlan = document.querySelector('h2[id$="vecka' + window.weekNumber + '"]:not([id^="flow"]').parentElement;
     currentWeekPlan.classList.add("current-week");//add class of current week to plan for current week in schedule section
     document.getElementById("current-week").innerHTML = currentWeekPlan.innerHTML;
     document.getElementById("current-week").firstChild.id = ""; //empty id of clone of current week plan in cirrent week section
@@ -25,7 +25,7 @@ async function htmlToDom(html){
     a = document.createElement("a");
     //a.href = '#' + currentWeekPlan.firstChild.id;
     a.onclick = function() {
-        document.querySelector('h2[id$="' + window.weekNumber + '"]:not([id^="flow"]').parentElement.scrollIntoView({block: 'center',})
+        document.querySelector('h2[id$="vecka' + window.weekNumber + '"]:not([id^="flow"]').parentElement.scrollIntoView({block: 'center',})
     };
     a.appendChild(document.createTextNode("Jump to week"))
     a.style = 'cursor: pointer;';
