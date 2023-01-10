@@ -159,7 +159,8 @@ Deadline: 2022
 
 ## Vecka 02
 
-Tävling
+Tävling: 
+[CSS Zen Garden](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb01-css_zen_garden)  
 
 ## Vecka 03
 
