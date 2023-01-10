@@ -157,32 +157,32 @@ Deadline: 2022
 
 **VINTERLOV**
 
-## Vecka 2
+## Vecka 02
 
 Tävling
 
-## Vecka 3
+## Vecka 03
 
 Repetition av bedömningskriterier och kurskrav. 
 
 ###### Arbetsflöde. 
 
-## Vecka 4
+## Vecka 04
 Stora projektet
 
-## Vecka 5
+## Vecka 05
 Stora projektet
 
-## Vecka 6
+## Vecka 06
 Stora projektet
 
-## Vecka 7
+## Vecka 07
 **SPORTLOV**
 
-## Vecka 8
+## Vecka 08
 Stora projektet
 
-## Vecka 9
+## Vecka 09
 Stora projektet
 
 ## Vecka 10
