@@ -274,7 +274,7 @@ Idag skall ni ägna hela lektionen åt uppgiften ovan. Det betyder att ni inte k
 
 #### Tisdag 
 
-Tävling    
+Tävling: [CSS Zen Garden](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb01-css_zen_garden)       
 
 ## Vecka 03
 
