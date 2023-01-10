@@ -270,13 +270,13 @@ Idag skall ni ägna hela lektionen åt uppgiften ovan. Det betyder att ni inte k
 
 **VINTERLOV**
 
-## Vecka 2
+## Vecka 02
 
 #### Tisdag 
 
 Tävling    
 
-## Vecka 3
+## Vecka 03
 
 #### Måndag 
 
@@ -288,7 +288,7 @@ Repetition av kursplanering, ämnesmål och [Skolverkets riktlinjer](https://www
 
 ###### Vektorgrafik   
 
-## Vecka 4
+## Vecka 04
 
 #### Måndag 
 
@@ -298,7 +298,7 @@ Vektorgrafikövning 1
 
 ###### Logotypedesign   
 
-## Vecka 5
+## Vecka 05
 
 #### Måndag 
 
@@ -308,7 +308,7 @@ Vektorgrafikövning 2
 
 ###### SVG-animation     
 
-## Vecka 6
+## Vecka 06
 
 #### Måndag 
 
@@ -318,14 +318,14 @@ SVG-animationövning
 
 ###### Design systems   
 
-## Vecka 7
+## Vecka 07
 
 **SPORTLOV**
 
-## Vecka 8
+## Vecka 08
 
 
-## Vecka 9
+## Vecka 09
 
 
 ## Vecka 10
