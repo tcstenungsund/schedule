@@ -170,6 +170,18 @@ Klockan 12 - 14 på skolan, 16 - 18 på Arenan. Placeringskarta för marknaderna
 
 ## Vecka 2
 
+![](https://user-images.githubusercontent.com/101390367/211774438-8b84039f-1780-4b51-a22d-89f6ae4a3758.png)
+
+Anmäl er till årets UF mässa i Göteborg den 2 Mars.
+
+Anmäl via UFs hemsida, med start klockan 09.00.
+
+Anmälningsavgiften på 700 kronor står skolan för. Som motprestation ska ni ha reklam för TCStenungsund i er monter.
+
+Kort genomgång av tävlingar på mässan, läs mer och anmäl er här:
+
+[https://ungforetagsamhet.se/internal/goteborg/tavlingar-2022-2023](https://ungforetagsamhet.se/internal/goteborg/tavlingar-2022-2023)
+
 ## Vecka 3
 
 ## Vecka 4
