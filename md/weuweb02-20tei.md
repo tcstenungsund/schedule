@@ -164,7 +164,7 @@ Tävling:
 
 ## Vecka 03
 
-Repetition av bedömningskriterier och kurskrav. 
+Repetition av bedömningskriterier och kurskrav samt roadmap.    
 
 ###### Arbetsflöde. 
 
