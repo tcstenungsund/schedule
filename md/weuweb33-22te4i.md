@@ -322,13 +322,15 @@ Fokus på en av de absolut vanligaste utvecklingsteorierna. Ett bra sätt att de
 
 #### Torsdag 
 
-Tävling: CSS Zen Garden 
+Tävling: [CSS Zen Garden](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb01-css_zen_garden) 
 
 #### Fredag 
 
-09:30 Scrum standup    
+Omröstning i CSS Zen Garden 2023. Vinnare: Kalle!    
 
-*Veckans sociala medier:*    
+Uppstart av sprint #4! Näst sista sprinten, vart vill vi komma de närmaste 14 dagarna?   
+
+*Veckans sociala medier:* Steve talar om för oss att "[you might be using 'fetch' wrong...](https://twitter.com/Steve8708/status/1611437686958739456)", Wes Bos tipsar om [CSS-selektorn :has](https://www.tiktok.com/@wesbos/video/7164779850258025734) och Kenneth rekommenderar dig att föra anteckningar! Skriv ned när du löser problem. Ett ställe du kan göra det på är [GitHub Gist](https://gist.github.com/) och ett annat är [Obsidian.md](https://obsidian.md/).       
 
 ## Vecka 3
 
