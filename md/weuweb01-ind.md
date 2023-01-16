@@ -122,7 +122,22 @@ Idag skall ni få testa på att göra egna moodboards, klippa, klistra och låta
 
 ## Vecka 3
 
-* CSS Zen Garden.
+Uppgiftsbeskrivning
+
+Du skall skapa en komplett layout för CSS Zen Garden. Det innebär att du måste bestämma dig för ett färgschema, typsnitt, bakgrundsbilder och liknande. Du får använda alla resurser vi gått igenom i ämnet Webbutveckling.
+
+1) Gå till CSS Zen Garden och ladda ned endast HTML-dokumentet.
+2) Skapa ett eget CSS-dokument och döp det till "style.css".
+3) Fyll det med all CSS-kod som behövs för att skapa en snygg webbsida! 4) När lektionstiden är slut tar du ett screenshot av hela sidan.
+
+Du får inte redigera någonting alls i HTML-dokumentet. Vill du använda bilder så får du länka in dem direkt från webben, och se till att du har upphovsrätten som gäller för dem klar för dig. 
+
+Vilka filer?
+
+Ett CSS-dokument samt en screenshot av hela sidan.
+Var skall de lämnas in?
+
+På vår lärplattform It's Learning finns ett kursrum vid namn "Webbutveckling 1", under Innehåll / Inlämningar hittar du en inlämningskatalog med samma namn som den här uppgiften.
 
 ## Vecka 4
 
