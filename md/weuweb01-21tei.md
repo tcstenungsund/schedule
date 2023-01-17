@@ -282,11 +282,15 @@ Tävling: [CSS Zen Garden](https://tcstenungsund.github.io/schedule/assignment.h
 
 Omröstning   
 
-Repetition av kursplanering, ämnesmål och [Skolverkets riktlinjer](https://www.skolverket.se/undervisning/gymnasieskolan/laroplan-program-och-amnen-i-gymnasieskolan/gymnasieprogrammen/amne?url=1530314731%2Fsyllabuscw%2Fjsp%2Fsubject.htm%3FsubjectCode%3DWEU%26lang%3Dsv%26tos%3Dgy%26p%3Dp) för kursen. 
-
 #### Tisdag 
 
+Repetition av kursplanering, ämnesmål och [Skolverkets riktlinjer](https://www.skolverket.se/undervisning/gymnasieskolan/laroplan-program-och-amnen-i-gymnasieskolan/gymnasieprogrammen/amne?url=1530314731%2Fsyllabuscw%2Fjsp%2Fsubject.htm%3FsubjectCode%3DWEU%26lang%3Dsv%26tos%3Dgy%26p%3Dp) för kursen. 
+
 ###### Vektorgrafik   
+
+Ladda ned vektorgrafikmjukvaran [Inkscape](https://inkscape.org/).   
+
+Vi ser klippet [InkScape - Tutorial for Beginners in 11 MINUTES!](https://piped.video/watch?v=-_KJZPOYBeA). Testa vad du lär dig i videon!   
 
 ## Vecka 04
 
