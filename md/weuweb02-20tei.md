@@ -164,11 +164,18 @@ Tävling:
 
 ## Vecka 03
 
+Omröstning i tävlingen från vecka 02.    
+
 Repetition av bedömningskriterier och kurskrav samt roadmap.    
 
-###### Arbetsflöde. 
+###### Arbetsflöde 
+
+GitHub Projects och Issues. Arbetssätt.   
 
 ## Vecka 04
+
+Kodens väg genom projektet.   
+
 Stora projektet
 
 ## Vecka 05
