@@ -292,23 +292,69 @@ VINTERLOV
 
 #### Tisdag
 
+Kapitel 10
+
+#### Onsdag
+
+Kapitel 10 - färdig.
+
+#### Torsdag
+
+Genomgång av kapitel 11.1
+
+## Vecka 3
+
+![](https://user-images.githubusercontent.com/101390367/212854944-34ef6184-3512-4dfd-b7d2-767c1022aaf5.png)
+
+#### Tisdag
+
+Genomgång av 11.2-11.5.
+
+Gör simulatorlaboration 11.6.1 - Lämna in.
+
+#### Onsdag
+
+Förberedelser inför inriktningsinformation.
+
+#### Torsdag
+
+Gör simulatorlaboration 11.6.1 - Lämna in.
+
+## Vecka 4
+
+#### Tisdag
+
 #### Onsdag
 
 #### Torsdag
 
-## Vecka 3
-
-## Vecka 4
-
 ## Vecka 5
 
+#### Tisdag
+
+#### Onsdag
+
+#### Torsdag
+
 ## Vecka 6
+
+#### Tisdag
+
+#### Onsdag
+
+#### Torsdag
 
 ## Vecka 7
 
 SPORTLOV
 
 ## Vecka 8
+
+#### Tisdag
+
+#### Onsdag
+
+#### Torsdag
 
 ## Vecka 9
 
