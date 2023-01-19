@@ -270,13 +270,13 @@ Idag skall ni ägna hela lektionen åt uppgiften ovan. Det betyder att ni inte k
 
 **VINTERLOV**
 
-## Vecka 02
+## Vecka 2
 
 #### Tisdag 
 
 Tävling: [CSS Zen Garden](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb01-css_zen_garden)       
 
-## Vecka 03
+## Vecka 3
 
 #### Måndag 
 
@@ -292,7 +292,7 @@ Ladda ned vektorgrafikmjukvaran [Inkscape](https://inkscape.org/).
 
 Vi ser klippet [InkScape - Tutorial for Beginners in 11 MINUTES!](https://piped.video/watch?v=-_KJZPOYBeA). Testa vad du lär dig i videon!   
 
-## Vecka 04
+## Vecka 4
 
 #### Måndag 
 
@@ -302,7 +302,7 @@ Vektorgrafikövning 1
 
 ###### Logotypedesign   
 
-## Vecka 05
+## Vecka 5
 
 #### Måndag 
 
@@ -312,7 +312,7 @@ Vektorgrafikövning 2
 
 ###### SVG-animation     
 
-## Vecka 06
+## Vecka 6
 
 #### Måndag 
 
@@ -322,14 +322,14 @@ SVG-animationövning
 
 ###### Design systems   
 
-## Vecka 07
+## Vecka 7
 
 **SPORTLOV**
 
-## Vecka 08
+## Vecka 8
 
 
-## Vecka 09
+## Vecka 9
 
 
 ## Vecka 10
