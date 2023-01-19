@@ -157,12 +157,12 @@ Deadline: 2022
 
 **VINTERLOV**
 
-## Vecka 02
+## Vecka 2
 
 Tävling: 
 [CSS Zen Garden](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb01-css_zen_garden)  
 
-## Vecka 03
+## Vecka 3
 
 Omröstning i tävlingen från vecka 02.    
 
@@ -172,25 +172,25 @@ Repetition av bedömningskriterier och kurskrav samt roadmap.
 
 GitHub Projects och Issues. Arbetssätt.   
 
-## Vecka 04
+## Vecka 4
 
 Kodens väg genom projektet.   
 
 Stora projektet
 
-## Vecka 05
+## Vecka 5
 Stora projektet
 
-## Vecka 06
+## Vecka 6
 Stora projektet
 
-## Vecka 07
+## Vecka 7
 **SPORTLOV**
 
-## Vecka 08
+## Vecka 8
 Stora projektet
 
-## Vecka 09
+## Vecka 9
 Stora projektet
 
 ## Vecka 10
