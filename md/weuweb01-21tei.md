@@ -288,13 +288,13 @@ Repetition av kursplanering, ämnesmål och [Skolverkets riktlinjer](https://www
 
 ###### Vektorgrafik   
 
-Ladda ned vektorgrafikmjukvaran [Inkscape](https://inkscape.org/).   
-
 Vi ser klippet [InkScape - Tutorial for Beginners in 11 MINUTES!](https://piped.video/watch?v=-_KJZPOYBeA). Testa vad du lär dig i videon!   
 
 ## Vecka 4
 
 #### Måndag 
+
+Ladda ned vektorgrafikmjukvaran [Inkscape](https://inkscape.org/).   
 
 Vektorgrafikövning 1   
 
