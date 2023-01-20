@@ -336,9 +336,15 @@ Uppstart av sprint #4! Näst sista sprinten, vart vill vi komma de närmaste 14 
 
 #### Måndag
 
+Sprint #4 Startup Meeting   
+
 #### Torsdag 
 
+09:30 Scrum standup  
+
 #### Fredag 
+
+*Veckans sociala medier:*    
 
 ## Vecka 4
 
