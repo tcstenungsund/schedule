@@ -42,7 +42,7 @@ Nästa steg är att be Lando att installera Drush via Composer.
 
 Nu använder vi Drush till att konfigurera vår Drupal-installation. 
 
-    lando drush site:install --db-url=mysql://drupal9:drupal9@database/drupal9 -y
+    lando drush site:install --db-url=mysql://drupal9:drupal9@database/drupal9 --site-name=bengt --account-pass=Cisco1337! --notify -y
 
 Och en sista koll för att se att allting ser bra ut. 
 
