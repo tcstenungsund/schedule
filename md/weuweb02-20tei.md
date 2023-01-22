@@ -166,7 +166,7 @@ Tävling:
 
 Omröstning i tävlingen från vecka 02.    
 
-Repetition av bedömningskriterier och kurskrav samt roadmap.    
+Repetition av bedömningskriterier och kurskrav samt [frontend developer roadmap](https://roadmap.sh/frontend).    
 
 ###### Arbetsflöde 
 
