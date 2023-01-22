@@ -288,7 +288,11 @@ Repetition av kursplanering, ämnesmål och [Skolverkets riktlinjer](https://www
 
 ###### Vektorgrafik   
 
-Vi ser klippet [InkScape - Tutorial for Beginners in 11 MINUTES!](https://piped.video/watch?v=-_KJZPOYBeA). Testa vad du lär dig i videon!   
+Vad är [rastergrafik](https://sv.wikipedia.org/wiki/Rastergrafik) och vad är [vektorgrafik](https://sv.wikipedia.org/wiki/Vektorgrafik)? När använder man det ena och det andra? 
+
+Verktyget för vektorgrafik som vi kommer använda är det bästa på marknaden, Inkscape. Vad är Inkscape? "[Inkscape explained in 5 minutes](https://piped.video/pa6a7oz7vEE)" (5 min).    
+
+För att få en ännu bättre överblick av funktionerna i programmet så ser vi klippet [InkScape - Tutorial for Beginners in 11 MINUTES!](https://piped.video/-_KJZPOYBeA) (12 min).      
 
 ## Vecka 4
 
@@ -296,21 +300,27 @@ Vi ser klippet [InkScape - Tutorial for Beginners in 11 MINUTES!](https://piped.
 
 Ladda ned vektorgrafikmjukvaran [Inkscape](https://inkscape.org/).   
 
-Vektorgrafikövning 1   
+Testa vad du lärde dig i videon vi såg sist (Tutorial for Beginners in 11 MINUTES!).     
 
 #### Tisdag 
 
-###### Logotypedesign   
+###### Logotypedesign  
+
+Uppgift: Personligt varumärke    
 
 ## Vecka 5
 
 #### Måndag 
 
-Vektorgrafikövning 2   
+Fortsätt med uppgiften Personligt varumärke.       
 
 #### Tisdag 
 
+Fortsätt med uppgiften Personligt varumärke.  
+
 ###### SVG-animation     
+
+Hur använder man CSS för att animera vektorgrafik?    
 
 ## Vecka 6
 
