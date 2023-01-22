@@ -170,7 +170,11 @@ Repetition av bedömningskriterier och kurskrav samt roadmap.
 
 ###### Arbetsflöde 
 
-GitHub Projects och Issues. Arbetssätt.   
+Sedan tidigare förstår ni git, commit och branches. Nu är det dags att lära sig två nya saker, GitHub Issues och GitHub Projects.   
+
+GitHub Issues är ett sätt att hålla koll på vad som behöver göras i projektet. "[What is GitHub Issues?](https://piped.video/6HWw7rhwvtY)" (1 min) Innan du skapar din första issue, ta en titt på "[Quickstart for GitHub Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/quickstart)" och "[Writing a proper GitHub Issue](https://medium.com/nyc-planning-digital/writing-a-proper-github-issue-97427d62a20f)".   
+
+GitHub Projects är ett sätt att sortera GitHub Issues som kallas för "[Kanban](https://en.wikipedia.org/wiki/Kanban_board)" (tänk postit-lappar på en whiteboard). Det vanligaste är att man har tre listor som heter "Att göra", "Görs" och "Gjort".    
 
 ## Vecka 4
 
