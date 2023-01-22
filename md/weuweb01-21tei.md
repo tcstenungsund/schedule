@@ -306,7 +306,7 @@ Testa vad du lärde dig under föreläsningen om vektorgrafik i vecka 4).
 
 ###### Logotypedesign  
 
-[Uppgift: Personligt varumärke](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb01-personligt_varumarke)    
+Uppgift: Personligt varumärke   
 
 ## Vecka 5
 
