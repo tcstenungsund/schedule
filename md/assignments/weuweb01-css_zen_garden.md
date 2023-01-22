@@ -1,4 +1,4 @@
-# Webbutveckling 1: CSS Zen Garden
+# Webbutveckling: CSS Zen Garden
 
 _Dags att ta allt du hitills lärt dig och utmana dina klasskamrater! Vem är bäst designer?_  
 
