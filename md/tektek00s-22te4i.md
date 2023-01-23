@@ -179,6 +179,28 @@ VINTERLOV
 
 ## Vecka 4
 
+![](https://user-images.githubusercontent.com/101390367/214059519-d8b5d9b9-beae-4ffc-80f0-2e7b7ef84c53.png)
+
+AWS konton!
+
+Vi har fem konton att använda:
+
+[tcstenungsund1.22te4@gmail.com](mailto:tcstenungsund1.22te4@gmail.com)
+
+[tcstenungsund2.22te4@gmail.com](mailto:tcstenungsund1.22te4@gmail.com)
+
+[tcstenungsund3.22te4@gmail.com](mailto:tcstenungsund1.22te4@gmail.com)
+
+[tcstenungsund4.22te4@gmail.com](mailto:tcstenungsund1.22te4@gmail.com)
+
+[tcstenungsund5.22te4@gmail.com](mailto:tcstenungsund5.22te4@gmail.com)
+
+Lösenordet är "Cisco-1337".
+
+VIKTIGT
+
+Håll er till FREE TIER maskiner på AWS och ha inte igång flera maskiner samtidigt. Då kan vi bli debiterade varje minut som de ligger uppe.
+
 ## Vecka 5
 
 ## Vecka 6
