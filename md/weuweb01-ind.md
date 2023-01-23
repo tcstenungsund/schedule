@@ -144,7 +144,7 @@ Idag har vi William på besök som pratar om webbläsare.
 
 När han är klar skall vi börja med det som står nedan:
 
-Ni skall börja med att registrera ett konto på Wordpress.com. 
+Ni skall börja med att registrera ett konto på [Wordpress.com](wordpress.com). 
 Var vaksamma, de försöker lura er till att betala en massa hela tiden, men det finns alltid ett alternativ som är gratis. 
 
 När ni registrerat er sida följer ni instruktionerna nedan:
