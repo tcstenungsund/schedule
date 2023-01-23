@@ -167,13 +167,21 @@ Genomgång av kapitel 4.2.
 
 ## Vecka 50
 
+![](https://user-images.githubusercontent.com/101390367/214004683-14e35d86-db66-4a55-aeba-ad49c4de18ab.png)
+
 #### Måndag
 
+GEnomgång av kapitel 4 färdig.
+
 #### Fredag
+
+Kapitel 5.
 
 ## Vecka 51
 
 #### Måndag
+
+Genomgång av kapitel 5.
 
 #### Fredag
 
@@ -183,13 +191,67 @@ VINTERLOV
 
 ## Vecka 2
 
+![](https://user-images.githubusercontent.com/101390367/214004987-8bb40ba2-f0f2-42e5-ac01-63be268d002f.png)
+
+#### Måndag
+
+#### Fredag
+
+Genomgång kapitel 6.
+
+[https://www.youtube.com/watch?v=5G0ndS3uRdo](https://www.youtube.com/watch?v=5G0ndS3uRdo)
+
 ## Vecka 3
+
+![](https://user-images.githubusercontent.com/101390367/214005990-6d61f078-20e6-4ce7-be63-446d512a34ad.png)
+
+#### Måndag
+
+Genomgång kapitel 6.
+
+[https://50breakthroughs.org/](https://50breakthroughs.org/)
+
+[https://transformativetechnologies.org/about-us/](https://transformativetechnologies.org/about-us/)
+
+#### Fredag
+
+Genomgång kapitel 6 färdig. Gör Quiz.
+
+[https://www.youtube.com/watch?v=QoAOzMTLP5s](https://www.youtube.com/watch?v=QoAOzMTLP5s)
 
 ## Vecka 4
 
+#### Måndag
+
+Repetition av kapitel 1-6. Gör interaktiva övningar och repetera Quizar.
+
+#### Fredag
+
+Repetition av kapitel 1-6. Gör interaktiva övningar och repetera Quizar.
+
 ## Vecka 5
 
+#### Måndag
+
+Prov - Praktiskt slutprov.
+
+Repetition av kapitel 1-6. Gör interaktiva övningar och repetera Quizar.
+
+#### Fredag
+
+Prov - Praktiskt slutprov.
+
+Repetition av kapitel 1-6. Gör interaktiva övningar och repetera Quizar.
+
 ## Vecka 6
+
+#### Måndag
+
+Prov - Teoretiskt slutprov.
+
+#### Fredag
+
+Prov - Teoretiskt slutprov, omprov.
 
 ## Vecka 7
 
@@ -197,17 +259,47 @@ SPORTLOV
 
 ## Vecka 8
 
+#### Måndag
+
+Iot Security och IoT projekt under våren.
+
+#### Fredag
+
 ## Vecka 9
+
+#### Måndag
+
+#### Fredag
 
 ## Vecka 10
 
+#### Måndag
+
+#### Fredag
+
 ## Vecka 11
+
+#### Måndag
+
+#### Fredag
 
 ## Vecka 12
 
+#### Måndag
+
+#### Fredag
+
 ## Vecka 13
 
+#### Måndag
+
+#### Fredag
+
 ## Vecka 14
+
+#### Måndag
+
+#### Fredag
 
 PÅSKLOV
 
