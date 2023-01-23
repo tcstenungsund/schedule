@@ -184,7 +184,15 @@ Kort genomgång av tävlingar på mässan, läs mer och anmäl er här:
 
 ## Vecka 3
 
+Inriktningsinformation till årets Teknikettor.
+
+Arbeta med era anmälningar till tävlingarna på UF mässan!
+
+Det ligger exempel på tidigare anmälningar i ITs rummet för gymnasiearbetet.
+
 ## Vecka 4
+
+Anmälningar till tävlingarna på UF mässan ska vara inskickade den 26/1!
 
 ## Vecka 5
 
