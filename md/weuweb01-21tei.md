@@ -300,6 +300,8 @@ För att få en ännu bättre överblick av funktionerna i programmet så ser vi
 
 Ladda ned vektorgrafikmjukvaran [Inkscape](https://inkscape.org/).   
 
+Exempel på vad som går att skapa är "[7 Mind-Blowing Designs Made with Inkscape](https://logosbynick.com/professional-designs-made-with-inkscape/)", "[Wine glass vector illustration using Inkscape](https://piped.video/7DTjbKHX1J0)" (6 min) och "[Autumn landscape. Made in Inkscape](https://piped.video/nl-qkWAUD5U)" (24 min).    
+
 Testa vad du lärde dig under föreläsningen om vektorgrafik i vecka 3.     
 
 #### Tisdag 
