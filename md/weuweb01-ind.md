@@ -156,7 +156,7 @@ När ni registrerat er sida följer ni instruktionerna nedan:
     5. Lansera sidan!
     6. Lämna in länken till erasn sida på Its.
 
-Länken nedan har en väldigt bra guide som är bra att läsa.
+Denna länken har en väldigt bra guide som är bra att läsa.
 [Kom igång med Wordpress](https://internetstiftelsen.se/app/uploads/2021/01/kom-igang-med-wordpress.pdf)
 
    
