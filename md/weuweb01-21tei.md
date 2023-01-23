@@ -300,7 +300,7 @@ För att få en ännu bättre överblick av funktionerna i programmet så ser vi
 
 Ladda ned vektorgrafikmjukvaran [Inkscape](https://inkscape.org/).   
 
-Testa vad du lärde dig under föreläsningen om vektorgrafik i vecka 4.     
+Testa vad du lärde dig under föreläsningen om vektorgrafik i vecka 3.     
 
 #### Tisdag 
 
