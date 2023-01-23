@@ -140,7 +140,26 @@ Var skall de lämnas in?
 På vår lärplattform It's Learning finns ett kursrum vid namn "Webbutveckling 1", under Innehåll / Inlämningar hittar du en inlämningskatalog med samma namn som den här uppgiften.
 
 ## Vecka 4
+Idag har vi William på besök som pratar om webbläsare.
 
+När han är klar skall vi börja med det som står nedan:
+
+Ni skall börja med att registrera ett konto på Wordpress.com. 
+Var vaksamma, de försöker lura er till att betala en massa hela tiden, men det finns alltid ett alternativ som är gratis. 
+
+När ni registrerat er sida följer ni instruktionerna nedan:
+
+    1. Skapa två inlägg på er exempelsida, med bilder
+    2. Sätt titel och annan relevant information för sidan (som etiketter och liknande)
+    3. Se över menyerna så de stämmer och ligger på rätt ställe
+    4. Välj ett (gratis) tema, aktivera det och anpassa det med egna färger
+    5. Lansera sidan!
+    6. Lämna in länken till erasn sida på Its.
+
+Länken nedan har en väldigt bra guide som är bra att läsa.
+[Kom igång med Wordpress](https://internetstiftelsen.se/app/uploads/2021/01/kom-igang-med-wordpress.pdf)
+
+   
 ## Vecka 5
 
 ## Vecka 6
