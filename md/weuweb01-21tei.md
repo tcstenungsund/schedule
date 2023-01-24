@@ -310,7 +310,7 @@ Testa vad du lärde dig under föreläsningen om vektorgrafik i vecka 3.
 
 [Logotype vs. logomark vs. logo: What is the difference? ](https://99designs.com/blog/logo-branding/logotype-vs-logomark-vs-logo/), [How to Design a Logo](https://www.wikihow.com/Design-a-Logo), [Color Meanings](https://www.color-meanings.com/), [Colors by cultures](https://1.bp.blogspot.com/-rL543v4ZBfI/VZqHuWURzdI/AAAAAAAAG4k/evED63dQLXY/s1600/culture-2.jpg), "[How to design a logo](https://piped.video/watch?v=Vmilq3KDJio)" (4 min), [How to design a logo: 15 pro tips](https://www.creativebloq.com/graphic-design/pro-guide-logo-design-21221), [Logggos - Explore well-designed logos](https://www.logggos.club/), "[Inkscape For Beginners: Skyline Logo Tutorial](https://piped.video/vRJiA0e6Clk)" (12 min), "[Inkscape Logo Design Tutorial 2022](https://piped.video/VaJWiVZdqSo)" (16 min).   
 
-[Uppgift: Personligt varumärke](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb01-personligt_varumarke.md)      
+[Uppgift: Personligt varumärke](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb01-personligt_varumarke)      
 
 ## Vecka 5
 
