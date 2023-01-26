@@ -324,9 +324,17 @@ Gör simulatorlaboration 11.6.1 - Lämna in.
 
 #### Tisdag
 
+Genomgång av kapitel 11 färdigt.
+
 #### Onsdag
 
+Gör laboration 11.6.2 - Lämna in running configuration för S1, S2 och R1.
+
 #### Torsdag
+
+Repetera kapitel 11. Gör Quizen.
+
+Arbeta med UF tävlingsansökningarna - ska in klockan 12.00.
 
 ## Vecka 5
 
