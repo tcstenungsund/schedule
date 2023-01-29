@@ -316,6 +316,8 @@ Testa vad du lärde dig under föreläsningen om vektorgrafik i vecka 3.
 
 #### Måndag 
 
+När ni arbetar med era personliga varumärken, låt er inspireras av "[20 Inkscape Tutorials for Creating Awesome Graphics](https://webdesigndev.com/inkscape-tutorials/)". Men tänk också på att optimera SVG-filen när ni är klara, där verktyg som [SVGOMG](https://jakearchibald.github.io/svgomg/) kan hjälpa till.   
+
 Fortsätt med uppgiften Personligt varumärke.       
 
 #### Tisdag 
