@@ -326,7 +326,11 @@ Fortsätt med uppgiften Personligt varumärke.
 
 ###### SVG-animation     
 
-Hur använder man CSS för att animera vektorgrafik?    
+Då SVG är en version av [XML](https://en.wikipedia.org/wiki/XML) (ett märkspråk släkt med HTML) går det att använda CSS för att animera dina bilder. Vi gick igenom animationer under uppgiften "Min Fula Lilla Sida", men det är nu dags att färska upp minnet med artikeln "[Using CSS animations](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)". För att se innehållet i din SVG-fil kan du öppna den i en texteditor, eller trycka [Shift]+[Ctrl]+[x] i Inkscape. Exempel på hur animationer kan se ut är denna "[Desk CSS Animation](https://codepen.io/luishodesign/pen/VwaawWd)" och denna "[Bucketful of SVG examples](http://srufaculty.sru.edu/david.dailey/svg/bucketful.htm)".    
+
+Följande introduktion till hur SVG-animationer skapas innehåller några moment vi ännu inte behandlat. Bland annat "[CSS custom properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)" och "[JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript) (HTML Dog har en [trevlig guide till JavaScript](https://htmldog.com/guides/javascript/)). Du behöver inte ha koll på custom properties och JavaScript, men det är bra att du har ett hum om hur det ser ut.    
+
+Nu är det dags för en introduktion till SVG-animationer, och den står Kevin Powell för i klippet "[Basic, Intermediate & Pro animated hamburger icons](https://piped.video/R00QiudbD4Y)".    
 
 ## Vecka 6
 
