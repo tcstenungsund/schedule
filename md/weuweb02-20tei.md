@@ -180,13 +180,15 @@ GitHub Projects är ett sätt att sortera GitHub Issues som kallas för "[Kanban
 
 Kodens väg genom projektet.   
 
-Stora projektet
+Vi ser presentationen "[Arbetsgång 3.0](https://docs.google.com/presentation/d/e/2PACX-1vTcTrnVHJBhflvxOQ4Kwdt_jXRGu9K5NWCjr1SA3zdMSN8QXgSvsqG6f4p9GJlZbaejzIeSaN4q4iE6/pub?start=false&loop=false&delayms=3000)" och presenterar gruppindelning samt vad projekten skall gå ut på.    
 
 ## Vecka 5
-Stora projektet
+
+Stora projektet    
 
 ## Vecka 6
-Stora projektet
+
+Stora projektet    
 
 ## Vecka 7
 **SPORTLOV**
