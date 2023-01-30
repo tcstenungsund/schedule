@@ -78,11 +78,11 @@ Alla skall ha bidragit till ert repocitory med vettiga commits, samt hanterat mi
 
 ### Vilka filer?
 
-En 7z-fil med din kompletta subtheme-katalog så som den sett ut om den tankats ned från drupal.org.
+En länk till ert repocitoiry som innehåller ett komplett subtheme så som det sett ut om det tankats ned från drupal.org.    
 
-En designsystem bestående av en PDF med information och ett pattern library.
+En designsystem bestående av en PDF med information och ett pattern library.     
 
-En komplett webbplats.
+En komplett webbplats.    
 
 ### Var skall de lämnas in?
 
