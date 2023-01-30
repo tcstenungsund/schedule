@@ -184,7 +184,7 @@ Vi ser presentationen "[Arbetsgång 3.0](https://docs.google.com/presentation/d/
 
 ## Vecka 5
 
-Stora projektet    
+[Uppgift: Stora Projektet](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-stora_projektet)
 
 ## Vecka 6
 
