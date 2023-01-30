@@ -8,7 +8,7 @@ Gruppuppgift.
 
 ### Resurser
 
-* [Drupal 9](https://www.drupal.org/) och [Bootstrap 5 Barrio](https://www.drupal.org/project/bootstrap_barrio) med "[Bootstrap Build](https://bootstrap.build/)"    
+* [Drupal 10](https://www.drupal.org/) och [Bootstrap 5 Barrio](https://www.drupal.org/project/bootstrap_barrio) med [Bootstrap Build](https://bootstrap.build/)    
 * [Docker](https://www.docker.com/) tillsammans med filen [docker-compose.yml v.2.0](https://github.com/seetee/docker/tree/version2.0/drupal)
 * [GitHub](https://github.com/)
 * [HTTrack](https://www.httrack.com/)
@@ -22,7 +22,7 @@ I denna uppgift skall alla delta i att skriva kod, bidra med dokumentation och i
 
 Ansvarsområdena är _Arbetsledare_, _Gitmaster_, _Dokumentation_, _Data_, _Designsystem_, _Infrastruktur_.
 
-Era _Arbetsledare_ skall se till att ingenting hindrar arbetet. De skall ta ledningen under gruppdiskussioner och se till att det alltid finns tillgängliga arbetsuppgifter som kort på Trello.
+Era _Arbetsledare_ skall se till att ingenting hindrar arbetet. De skall ta ledningen under gruppdiskussioner och se till att det alltid finns tillgängliga arbetsuppgifter i form av Issues på GitHub (och därmed också kort på GitHub Projects).
 
 De som agerar _Gitmaster_ svarar på frågor och hjälper resten av gruppen med git-relaterade problem. De ansvarar också för att Pull Requests och git-konflikter löses.
 
@@ -38,7 +38,7 @@ Det förekommer inte direkt något backend-jobb i detta projekt, men det finns e
 
 Börja varje lektion med en 5-10 minuter lång snabbgenomgång av hur arbetsläget ser ut. Låt var och en i gruppen svara kort (c:a 1 mening) på frågorna "Vad gjorde jag förra gången?", "Vad skall jag göra idag?" och "Vilka problem ser jag?".
 
-Varannan vecka skickar Dokumentationsansvariga in en rapport på It's där de kort redogör för vilka uppgifter som slutförts under de senaste fjorton dagarna, samt om det finns några problem som hindrar att gruppens arbete går vidare. Rapporten skall innehålla en översikt över de commits som gjorts på GitHub, samt de kort som slutförts på Trello.
+Varannan vecka skickar Dokumentationsansvariga in en rapport på It's där de kort redogör för vilka uppgifter som slutförts under de senaste fjorton dagarna, samt om det finns några problem som hindrar att gruppens arbete går vidare. Rapporten skall innehålla en översikt över de commits som gjorts på GitHub, och fokusera på vad gruppen som helhet åstakommit i projektet, inte individuella insatser.    
 
 ##### Större moment
 
@@ -52,9 +52,9 @@ Gör en sitemap. Basera denna på den gamla sidans innehåll, fast ta hänsyn ti
 
 > Tips! Ni behöver inte en "Hem"-länk eller en "Om oss"-sida. Denna informationen kan med fördel visas för besökaren genom att de först hamnar på en nyhetssida och att webbplatsen har en informativ footer.
 
-Ta fram en Bootstrap 5-temafil.
+Ta fram en Bootstrap 5-temafil med hjälp av Bootstrap Build.    
 
-Bygg ett subtheme till Bootstrap 5 Barrio för Drupal 9.
+Bygg ett subtheme till Bootstrap 5 Barrio för Drupal 10.
 
 Använd [YAML](https://en.wikipedia.org/wiki/YAML) och [Twig](https://en.wikipedia.org/wiki/Twig_(template_engine)) för att skapa väl integrerade template-filer till webbplatsen. Förstasidan skall ha en egen template-fil, men det är upp till er vilka övriga sidor som behöver det.
 
