@@ -288,7 +288,7 @@ Repetition av kursplanering, ämnesmål, betygskriterier och [Skolverkets riktli
 
 ###### Vektorgrafik   
 
-Vad är [rastergrafik](https://sv.wikipedia.org/wiki/Rastergrafik) och vad är [vektorgrafik](https://sv.wikipedia.org/wiki/Vektorgrafik)? När använder man det ena och det andra? 
+Vad är [rastergrafik](https://sv.wikipedia.org/wiki/Rastergrafik) och vad är [vektorgrafik](https://sv.wikipedia.org/wiki/Vektorgrafik)? När använder man det ena och det andra? Se de viktigaste delarna av SVG på den interaktiva referensen "[SSSV](https://fffuel.co/sssvg/)".      
 
 Verktyget för vektorgrafik som vi kommer använda är det bästa på marknaden, Inkscape. Vad är Inkscape? "[Inkscape explained in 5 minutes](https://piped.video/pa6a7oz7vEE)" (5 min).    
 
