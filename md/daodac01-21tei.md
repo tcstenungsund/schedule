@@ -85,10 +85,13 @@
  - Vi fortsätter på kapitel 7 och går igenom delarna 7.2, 7.3, 7.4 och kanske 7.5.
 
 ## Vecka 3
+- Ingen lektion denna veckan, läxan är att läsa kapitel 8.
 
 ## Vecka 4
+- Ni sitter själva och läser Kapitel 9.
 
 ## Vecka 5
+- Vi börjar gå igenom Kapitel 10, både genomgång och läsa lite själva.
 
 ## Vecka 6
 
