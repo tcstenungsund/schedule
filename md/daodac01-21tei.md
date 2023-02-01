@@ -91,9 +91,10 @@
 - Ni sitter själva och läser Kapitel 9.
 
 ## Vecka 5
-- Vi börjar gå igenom Kapitel 10, både genomgång och läsa lite själva.
+- Då vi inte är så många idag, kör vi labben 6.4.3.5 som finns i Itslearning, på nätverksutrustningen.
 
 ## Vecka 6
+- Vi börjar gå igenom Kapitel 10, både genomgång och läsa lite själva.
 
 ## Vecka 7
 
