@@ -161,9 +161,17 @@ Denna länken har en väldigt bra guide som är bra att läsa.
 
    
 ## Vecka 5
+Idag, har vi den sista föreläsningen från en av fyrorna där Anton kommer gå igenom baserna kring CSS.
 [Antons Codepen](https://codepen.io/fluff-otto/pen/abjKrWB)
+Vi tittar sedan på en liten [Film om Wordpress](https://www.youtube.com/watch?v=Ti9q_rr4PI8)
 
 ## Vecka 6
+Idag skall vi kolla lite mer om hur man sorterar upp en webbsida.
+Minns ni när jag bratade om The Box model? Detta kommer upp igen och hur det hänger ihop med uppbyggnaer av en hemsida.
+
+Klicka på dessa länkar för arr öva på följande:
+[Froggy Flexbox](https://flexboxfroggy.com)
+[Grid Garden](https://cssgridgarden.com)
 
 ## Vecka 7
 
