@@ -36,7 +36,7 @@ Med utgångspunkt i artikeln [Case study: web design focused on interaction desi
 
 [Djupdykning: Moderna webbteknologier](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb33-modern_webtechnologies)
 
-I samband med ovanstående uppgift talade vi om pre-processorspråket [SASS](https://sass-lang.com/) och taskrunners som Gulp, Grunt och [Node Task runner](https://www.npmjs.com/package/node-task-runner). Dessutom behandlar vi Object Oriented CSS och BEM, vilket är riktlinjer för hur man använder CSS. Läs gärna också artikeln "[Modern alternatives to BEM](https://daverupert.com/2022/08/modern-alternatives-to-bem/)" som bara är några dagar gammal. Ett exempel på mjukvara för en living style guide är [DocumentCSS](https://documentcss.com/)".
+I samband med ovanstående uppgift talade vi om pre-processorspråket [SASS](https://sass-lang.com/) ("[The Absolute Beginner’s Guide to Sass](https://blog.teamtreehouse.com/the-absolute-beginners-guide-to-sass)") och taskrunners som Gulp, Grunt och [Node Task runner](https://www.npmjs.com/package/node-task-runner). Dessutom behandlar vi Object Oriented CSS och BEM, vilket är riktlinjer för hur man använder CSS. Läs gärna också artikeln "[Modern alternatives to BEM](https://daverupert.com/2022/08/modern-alternatives-to-bem/)" som bara är några dagar gammal. Ett exempel på mjukvara för en living style guide är [DocumentCSS](https://documentcss.com/)".
 
 #### Fredag
 
