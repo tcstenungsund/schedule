@@ -17,7 +17,7 @@ Jeffrey Zeldman är en legend i webbutvecklingsbranschen av samma dignitet som T
 [Prov: Repetition HTML & CSS](https://lms.netacad.com/mod/quiz/view.php?id=56448311)
 
 ## Vecka 37
-Installation av mjukvara för virtualisering.
+Installation av mjukvara för virtualisering. Djupdyk gärna i [Docker for beginners](https://docker-curriculum.com/), det kommer du ha nytta av!
 
 [Uppgift: Workspace setup](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-workspace_setup)
 
