@@ -124,7 +124,7 @@ Jag har lagt till lite specifikationer på hur dokumentet om era virus skall se 
 
 
 ## Vecka 6
-
+ Vi skall börja kika på kapitel 18 i Network Security som handlar VPN:er.
 
 ## Vecka 7
 
