@@ -177,6 +177,12 @@ VINTERLOV
 
 ## Vecka 3
 
+Servicekunskap!
+
+[https://online.liber.se/](https://online.liber.se/)
+
+![](https://user-images.githubusercontent.com/101390367/216588919-54b0e8fe-4abb-4af5-ab5e-17ad6fbe3c8a.png)
+
 ## Vecka 4
 
 ![](https://user-images.githubusercontent.com/101390367/214059519-d8b5d9b9-beae-4ffc-80f0-2e7b7ef84c53.png)
@@ -203,7 +209,19 @@ Håll er till FREE TIER maskiner på AWS och ha inte igång flera maskiner samti
 
 ## Vecka 5
 
+Fortsatt arbete med projekt.
+
+Servicekunskap - vad är bra service - diskussion.
+
+Presentation av inlämningsuppgift:
+
+*   Bra service, vad är det egentligen och varför är det viktigt att alla i en organisation inser värdet av service?
+*   Varför är det viktigt med nöjda kunder? Kan du ge exempel på hur man kan skapa goda kundrelationer?
+*   Du ska börja på en ny arbetsplats som systemutvecklare. Hur ska du göra ett bra intryck? Utgå ifrån: attityden,  kroppsspråket (hållning, gester, mimik, blick, mun), rösten, språket, klädseln.
+
 ## Vecka 6
+
+Fredag - Demo av projekt inför Molekylverkstan.
 
 ## Vecka 7
 
