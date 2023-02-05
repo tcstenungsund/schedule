@@ -336,7 +336,7 @@ Nu är det dags för en introduktion till SVG-animationer, och den står Kevin P
 
 #### Måndag 
 
-SVG-animationövning   
+[Uppgift: Animation av SVG](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb01-animation_av_svg) 
 
 #### Tisdag 
 
