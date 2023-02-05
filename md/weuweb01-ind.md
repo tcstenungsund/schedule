@@ -170,8 +170,8 @@ Idag skall vi kolla lite mer om hur man sorterar upp en webbsida.
 Minns ni när jag bratade om The Box model? Detta kommer upp igen och hur det hänger ihop med uppbyggnaer av en hemsida.
 
 Klicka på dessa länkar för arr öva på följande:
-[Froggy Flexbox](https://flexboxfroggy.com)
-[Grid Garden](https://cssgridgarden.com)
+- [Froggy Flexbox](https://flexboxfroggy.com)
+- [Grid Garden](https://cssgridgarden.com)
 
 ## Vecka 7
 
