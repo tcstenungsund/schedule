@@ -11,6 +11,11 @@ Enskild uppgift.
 ## Resurser
 
 * [Inkscape](https://inkscape.org/)    
+* [HTML Dog - CSS Transitions](https://htmldog.com/guides/css/advanced/transitions/)    
+* [HTML Dog - Transformations](https://htmldog.com/guides/css/advanced/transformations/)    
+* [@keyframes](https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes)    
+* [How SVG Line Animation Works ](https://css-tricks.com/svg-line-animation-works/)     
+* [SVGOMG](https://jakearchibald.github.io/svgomg/)      
 
 ## Uppgiftsbeskrivning
 
