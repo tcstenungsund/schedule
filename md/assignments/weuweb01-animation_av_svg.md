@@ -37,7 +37,7 @@ Kreativitet och originalitet i animationen, uppmärksamhet på detaljer samt kor
   
 ### Vilka filer?
 
-En vektorgrafikbild i SVG-format.      
+Ett 7z-arkiv innehållande 1 htmldokument och eventuella cssdokument.   
 
 ### Var skall de lämnas in?
 
