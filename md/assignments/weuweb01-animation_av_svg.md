@@ -20,13 +20,9 @@ I förra uppgiften skapade du en SVG-fil som innehöll ditt personliga varumärk
 2) Infoga innehållet från din SVG-fil i HTML-dokumentet med hjälp av en SVG-tagg.    
 3) Identifiera de delar av logotypen som du vill animera och ge varje av dem ett unikt id.    
 4) Använd CSS för att skapa keyframe-animationer för varje del av logotypen som du vill animera. Är du osäker på hur man gör kan du referera tillbaka till HTMLdog.com       
-5) I HTML-filen tillämpar du animationerna på motsvarande delar av logotypen med hjälp av CSS-klasserna. 
+5) I HTML-filen tillämpar du animationerna på motsvarande delar av logotypen med hjälp av CSS-klasserna.       
 6) Testa animationen genom att öppna HTML-filen i en webbläsare.    
 7) Om nödvändigt, gör justeringar till animationerna och testa igen.    
-
-Effektiv användning av HTML, CSS och SVG för att skapa animationen
-Kreativitet och originalitet i animationen
-Uppmärksamhet på detaljer, inklusive korrekt syntax och presentation
 
 ## Förväntat resultat
 
