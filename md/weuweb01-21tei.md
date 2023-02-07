@@ -340,7 +340,7 @@ Nu är det dags för en introduktion till SVG-animationer, och den står Kevin P
 
 #### Tisdag 
 
-###### Design systems   
+Slutför SVG-uppgifterna.    
 
 ## Vecka 7
 
@@ -348,6 +348,7 @@ Nu är det dags för en introduktion till SVG-animationer, och den står Kevin P
 
 ## Vecka 8
 
+###### Design systems   
 
 ## Vecka 9
 
