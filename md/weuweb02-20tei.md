@@ -186,7 +186,26 @@ Vi ser presentationen "[Arbetsgång 3.0](https://docs.google.com/presentation/d/
 
 [Uppgift: Stora Projektet](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-stora_projektet)
 
+### Grupp BIN 
+
+Projekt: "[Stenungsunds Biodlareförening](https://stenungsundsbi.se/)"    
+Ansvariga för projektledning är Vera och Emil.   
+[Repocitory](https://github.com/tcstenungsund/bin2023) och [Project board](https://github.com/orgs/tcstenungsund/projects/4/views/1).     
+Rapporterar in udda veckor.      
+
+### Grupp GAK 
+
+Projekt: "[Göteborgs Astronomiska Klubb](http://goteborgsastronomiskaklubb.se/)"   
+Ansvariga för projektledning är Johannes och Thor.   
+[Repocitory](https://github.com/tcstenungsund/gak2023) och [Project board](https://github.com/orgs/tcstenungsund/projects/3/views/1).     
+Rapporterar in jämna veckor.  
+
 ## Vecka 6
+
+Vi fortsätter att tala om arbetsflöde med hjälp av Gantt chart och Responsibility Assignment Matrix (eller RACI chart).    
+
+"[Project Management Tutorial - Undrstanding Gantt charts](https://piped.video/OI93w4xtgM8)" (2 min)   
+"[What is A RACI Chart](https://piped.video/oirrcObNpL0)" (1 min)     
 
 Stora projektet    
 
