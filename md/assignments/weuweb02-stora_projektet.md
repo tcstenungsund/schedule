@@ -20,13 +20,13 @@ Gruppuppgift.
 
 I denna uppgift skall alla delta i att skriva kod, bidra med dokumentation och idéer. Men ni har också ett specifikt ansvarsområde som ni fått er tilldelade. Det innebär inte att ni _endast_ skall göra det som ingår i ansvarsområdet, eller att endast _ni_ skall göra uppgifter som faller under ansvarsområdet. Vad det innebär är att du bär ansvaret. Det är du som kommer få skulden om uppgiften inte utförs (oasett om du är på lektionen eller inte).
 
-Ansvarsområdena är _Arbetsledare_, _Gitmaster_, _Dokumentation_, _Data_, _Designsystem_, _Infrastruktur_.
+Ansvarsområdena är _Projektledning_, _Versionshantering_, _Dokumentation_, _Data_, _Designsystem_, _Infrastruktur_.
 
-Era _Arbetsledare_ skall se till att ingenting hindrar arbetet. De skall ta ledningen under gruppdiskussioner och se till att det alltid finns tillgängliga arbetsuppgifter i form av Issues på GitHub (och därmed också kort på GitHub Projects).
+De som är ansvariga för _Projektledning_ skall se till att ingenting hindrar arbetet. De skall ta ledningen under gruppdiskussioner och se till att det alltid finns tillgängliga arbetsuppgifter i form av Issues på GitHub (och därmed också kort på GitHub Projects).
 
-De som agerar _Gitmaster_ svarar på frågor och hjälper resten av gruppen med git-relaterade problem. De ansvarar också för att Pull Requests och git-konflikter löses.
+Tar du hand om _Versionshantering_ svarar du på frågor och hjälper resten av gruppen med git-relaterade problem. Du ansvarar också för att Pull Requests och git-konflikter löses.
 
-Eftersom dokumentationen och rapportering av ert arbete är väldigt viktigt, bör alla vara inställda på att dokumentera ert arbete. Att detta arbete samordnas och sker kontinuerligt är en del av ansvarsområdet _Dokumentation_. Här ingår också att formatera och uppdatera dokumentationen, samt att se till att en rapport sänds in varannan vecka.
+Eftersom dokumentationen och rapportering av ert arbete är väldigt viktigt, bör alla vara inställda på att dokumentera ert arbete. Att detta arbete samordnas och sker kontinuerligt är en del av ansvarsområdet _Dokumentation_. Här ingår också att formatera och uppdatera dokumentationen, samt att se till att en rapport sänds in varannan vecka. All dokumentation skall sparas i en katalog vid namn /docs i ert repocitory.   
 
 De gamla webbplatserna innehåller mycket information. Denna informationen är ofta dåligt sorterad och svår för besökare att hitta. Det krävs att de som är ansvariga för _Data_ sätter sig in i hur man kan strukturera upp informationen och sortera den på ett logiskt och lättförståeligt sätt, både för kommande besökare samt användare av er webbplats. Den största uppgiften är dock att migrera data från den gamla webbplatsen till den nya.
 
@@ -36,7 +36,7 @@ Det förekommer inte direkt något backend-jobb i detta projekt, men det finns e
 
 ##### Regelbundna uppgifter
 
-Börja varje lektion med en 5-10 minuter lång snabbgenomgång av hur arbetsläget ser ut. Låt var och en i gruppen svara kort (c:a 1 mening) på frågorna "Vad gjorde jag förra gången?", "Vad skall jag göra idag?" och "Vilka problem ser jag?".
+Börja varje lektion med en 5-10 minuter lång snabbgenomgång av hur arbetsläget ser ut. Låt var och en i gruppen svara kort (c:a 1 mening) på frågorna "Vad gjorde jag förra gången?", "Vad skall jag göra idag?" och "Vad hindrar mig?".
 
 Varannan vecka skickar Dokumentationsansvariga in en rapport på It's där de kort redogör för vilka uppgifter som slutförts under de senaste fjorton dagarna, samt om det finns några problem som hindrar att gruppens arbete går vidare. Rapporten skall innehålla en översikt över de commits som gjorts på GitHub, och fokusera på vad gruppen som helhet åstakommit i projektet, inte individuella insatser.    
 
