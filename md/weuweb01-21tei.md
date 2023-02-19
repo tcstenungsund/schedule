@@ -348,23 +348,53 @@ Slutför SVG-uppgifterna.
 
 ## Vecka 8
 
+#### Måndag    
+
+**Veckans läxa:** Lyssna på avsnittet ”[001 The Box-model](https://thecsspodcast.libsyn.com/-the-css-podcast-box-model-episode-1)” (12 min) av podcasten “The CSS Podcast”. (Finns också på [Spotfy](https://open.spotify.com/episode/1j2EhMoMkbiuC9LkrLG1gX).)    
+
+#### Tisdag    
+
 ###### Design systems   
 
 ## Vecka 9
 
+#### Måndag    
+
+**Veckans läxa:** Lyssna på avsnittet ”[002 Selectors](http://thecsspodcast.googledevelopers.libsynpro.com/002-selectors)” (15 min) av podcasten “The CSS Podcast”. (Finns också på [Spotify](https://open.spotify.com/episode/4hv6ogNtJZtvxKcQ67Ctpn).)    
+
+#### Tisdag    
 
 ## Vecka 10
 
+#### Måndag    
+
+**Veckans läxa:** Lyssna på avsnittet ”[003 Specificity](http://thecsspodcast.googledevelopers.libsynpro.com/003-specificity)” (13 min) av podcasten “The CSS Podcast”. (Finns också på [Spotify](https://open.spotify.com/episode/2I3gJ9AFUi08Sm9CV7wydO).)    
+
+#### Tisdag    
 
 ## Vecka 11
 
+#### Måndag    
+
+**Veckans läxa:** Lyssna på avsnittet ”[004 The Cascade](http://thecsspodcast.googledevelopers.libsynpro.com/004-the-cascade)” (12 min) av podcasten “The CSS Podcast”. (Finns också på [Spotify](https://open.spotify.com/episode/698XEvD2VUmg4iVZEZqL7I).)    
+
+#### Tisdag    
 
 ## Vecka 12
 
+#### Måndag    
+
+**Veckans läxa:** Lyssna på avsnittet ”[005 Inheritance](http://thecsspodcast.googledevelopers.libsynpro.com/005-inheritance)” (8 min) av podcasten “The CSS Podcast”. (Finns också på [Spotify](https://open.spotify.com/episode/7q4lpdJOIYaUTNMwjUvRxP).)    
+
+#### Tisdag    
 
 ## Vecka 13
 
-Test: Podcast
+#### Måndag    
+
+#### Tisdag    
+
+**Test:** The CSS Podcast avsnitt 1 – 5.
 
 ## Vecka 14
 
@@ -372,31 +402,59 @@ Test: Podcast
 
 ## Vecka 15
 
+#### Måndag    
+
+#### Tisdag    
 
 ## Vecka 16
 
+#### Måndag    
+
+#### Tisdag    
 
 ## Vecka 17
 
+#### Måndag    
+
+#### Tisdag    
 
 ## Vecka 18
 
+#### Måndag    
+
+#### Tisdag    
 
 ## Vecka 19
 
+#### Måndag    
+
+#### Tisdag    
 
 ## Vecka 20
 
+#### Måndag    
+
+#### Tisdag    
 
 ## Vecka 21
+
+#### Måndag    
+
+#### Tisdag    
 
 Prov: Planeringsverktyg, Vektorgrafik, Logotypedesign, SVG-animation och Tester
 
 ## Vecka 22
 
+#### Måndag    
+
+#### Tisdag    
 
 ## Vecka 23
 
+#### Måndag    
+
+#### Tisdag    
 
 ## Vecka 24
 
