@@ -200,22 +200,23 @@ Ansvariga för projektledning är Johannes och Thor.
 [Repocitory](https://github.com/tcstenungsund/gak2023) och [Project board](https://github.com/orgs/tcstenungsund/projects/3/views/1).     
 Rapporterar in jämna veckor.  
 
-## Vecka 6
-
-Vi fortsätter att tala om arbetsflöde med hjälp av Gantt chart och Responsibility Assignment Matrix (eller RACI chart).    
-
-"[Project Management Tutorial - Undrstanding Gantt charts](https://piped.video/OI93w4xtgM8)" (2 min)   
-"[What is A RACI Chart](https://piped.video/oirrcObNpL0)" (1 min)     
+## Vecka 6  
 
 Stora projektet    
 
 ## Vecka 7
 **SPORTLOV**
 
-## Vecka 8
+## Vecka 8    
+
+Vi fortsätter att tala om arbetsflöde med hjälp av Gantt chart och Responsibility Assignment Matrix (eller RACI chart).    
+
+"[Project Management Tutorial - Undrstanding Gantt charts](https://piped.video/OI93w4xtgM8)" (2 min)   
+"[What is A RACI Chart](https://piped.video/oirrcObNpL0)" (1 min)   
+
 Stora projektet
 
-## Vecka 9
+## Vecka 9   
 Stora projektet
 
 ## Vecka 10
