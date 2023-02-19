@@ -350,6 +350,20 @@ Slutför SVG-uppgifterna.
 
 #### Måndag    
 
+Haldor   
+
+1) [Installera Haldor](https://support.haldor.se/hc/sv/articles/4402997294098-Installera-Haldor) (1 min)     
+2) [Introduktion till Haldor](https://support.haldor.se/hc/sv/articles/4402982654738-Introduktion-till-Haldor) (4 min)    
+3) [Uppgifter](https://support.haldor.se/hc/sv/articles/4403090916754-Uppgifter) (4 min)     
+
+Markdown    
+
+Vad är [Markdown](https://en.wikipedia.org/wiki/Markdown)? Vi lär oss med "[Markdown Guide](https://www.markdownguide.org/getting-started/)" och genom att göra övningen på "[Markdown Tutorial](https://www.markdowntutorial.com/)".   
+
+Vad kan man använda markdown till? "[How to set up a GitHub Profile README](https://piped.video/-otyb0ngsa4)" (2 min)    
+
+Skapa en profil med hjälp av [ProfileMe.dev](https://www.profileme.dev/). Logga in på GitHub och lägg till din profil.    
+
 **Veckans läxa:** Lyssna på avsnittet ”[001 The Box-model](https://thecsspodcast.libsyn.com/-the-css-podcast-box-model-episode-1)” (12 min) av podcasten “The CSS Podcast”. (Finns också på [Spotfy](https://open.spotify.com/episode/1j2EhMoMkbiuC9LkrLG1gX).)    
 
 #### Tisdag    
