@@ -338,19 +338,15 @@ Arbeta med UF tävlingsansökningarna - ska in klockan 12.00.
 
 ## Vecka 5
 
-#### Tisdag
+#### Kapitel 12 - WLAN Concepts
 
-#### Onsdag
-
-#### Torsdag
+![](https://user-images.githubusercontent.com/101390367/220185200-baa285cc-f68e-4062-9e21-8e70f8eb458f.png)
 
 ## Vecka 6
 
-#### Tisdag
+![](https://user-images.githubusercontent.com/101390367/220184471-f392bbbc-df19-4264-9f72-43747e4bcd50.png)
 
-#### Onsdag
-
-#### Torsdag
+Genomgång av kapitel 12 färdigt. Gör Quiz.
 
 ## Vecka 7
 
@@ -358,7 +354,11 @@ SPORTLOV
 
 ## Vecka 8
 
-#### Tisdag
+#### Tisdag - WLAN Configuration.
+
+Genomgång av kapitel 13.1 och 13.2
+
+Gör Packet Tracer 13.2.7
 
 #### Onsdag
 
@@ -366,19 +366,55 @@ SPORTLOV
 
 ## Vecka 9
 
+#### Tisdag
+
+#### Onsdag UF mässa i Göteborg.
+
+#### Torsdag UF mässa i Göteborg.
+
 ## Vecka 10
+
+#### Tisdag
+
+#### Onsdag
+
+#### Torsdag
 
 ## Vecka 11
 
+#### Tisdag
+
+#### Onsdag
+
+#### Torsdag
+
 ## Vecka 12
+
+#### Tisdag
+
+#### Onsdag
+
+#### Torsdag
 
 ## Vecka 13
 
+#### Tisdag
+
+#### Onsdag
+
+#### Torsdag
+
 ## Vecka 14
 
-PÅSKLOV
+#### Tisdag
+
+#### Onsdag
+
+#### Torsdag
 
 ## Vecka 15
+
+PÅSKLOV
 
 ## Vecka 16
 
