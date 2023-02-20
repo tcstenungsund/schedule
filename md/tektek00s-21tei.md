@@ -259,15 +259,33 @@ SPORTLOV
 
 ## Vecka 8
 
-#### Måndag
+#### Måndag - IoT Security 21TEI 22/23
 
-Iot Security och IoT projekt under våren.
+Iot Security och IoT projekt under våren!
+
+![](https://user-images.githubusercontent.com/101390367/220185925-6af9df1e-b2bb-4d8f-a9cc-6daa5f1efb04.png)
+
+Genomgång av upplägget under våren. Ni som inte tagit certifikatet i IoT Fundamentals gör kompletteringar på studiepasset torsdagar.
+
+Vi kommer att arbeta med IoT Security kursen på fredagar och laborera med Raspberry Pi och SenseHat under måndagar.
+
+Vi rekommenderar att du tar IoT Security certifikatet också, men det kommer att kräva egen studier.
+
+Genomgång av kapitel 1 - gör Quizen.
 
 #### Fredag
+
+Genomgång av kapitel 2.
 
 ## Vecka 9
 
 #### Måndag
+
+Laboration med Raspberry Pi. 
+
+Installera OS.
+
+Fjärranslutning.
 
 #### Fredag
 
