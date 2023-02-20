@@ -370,6 +370,20 @@ Skapa en profil med hjälp av [ProfileMe.dev](https://www.profileme.dev/). Logga
 
 ###### Design systems   
 
+Ett designsystem är en uppsättning återanvändbara komponenter samt regler för hur de skall användas. "[What is a Design System? A simple guide to get started](https://uxdesign.cc/what-is-a-design-system-a-simple-guide-to-get-started-529fb4b38f9b)" I ett designsystem hittar du bland annat: Style guide, Component library, Colour paletts, Typography, Tone of copy, Sitemap, Iconography, Grid, Templates, A11y.    
+
+"[Design Systems, Pattern Libraries & Style Guides... Oh My!](https://piped.video/rO5dBA-avfw)" (10 min)    
+
+Style guide 
+* "[How To Create Brand Style Guides Like A Pro](https://piped.video/AjgQBC_XyS4)" (5 min)     
+* "[How to Create a Website Style Guide](https://whitepeak.io/blog/website-style-guide-template/)"      
+
+Pattern library 
+* "[How to Create a Pattern Library and Why You Should Bother](https://boagworld.com/design/pattern-library/)"     
+* "[Bootstrap Pattern Library](https://getbootstrap.com/docs/5.3/components/accordion/)"     
+
+"[5 Best Design Systems and How to Learn (and Steal) From Them](https://piped.video/BISC15OPeGA)" (12 min)    
+
 ## Vecka 9
 
 #### Måndag    
@@ -456,7 +470,7 @@ Skapa en profil med hjälp av [ProfileMe.dev](https://www.profileme.dev/). Logga
 
 #### Tisdag    
 
-Prov: Planeringsverktyg, Vektorgrafik, Logotypedesign, SVG-animation och Tester
+Prov: Planeringsverktyg, Vektorgrafik, Logotypedesign, SVG-animation, Design systems och Tester
 
 ## Vecka 22
 
