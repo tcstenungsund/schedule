@@ -178,6 +178,8 @@ Klicka på dessa länkar för att öva på följande:
 SPORTLOV
 
 ## Vecka 8
+- Idag skall vi kolla på en video vid namn [Wordpress Tutorial For Beginners](https://www.youtube.com/watch?v=EXKwAk0j3k8)
+- Sedan skall ni fortsätta jobba med era egna Wordpress sidor, och använda er av 
 
 ## Vecka 9
 
