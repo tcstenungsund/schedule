@@ -176,6 +176,8 @@ GitHub Issues är ett sätt att hålla koll på vad som behöver göras i projek
 
 GitHub Projects är ett sätt att sortera GitHub Issues som kallas för "[Kanban](https://en.wikipedia.org/wiki/Kanban_board)" (tänk postit-lappar på en whiteboard). Det vanligaste är att man har tre listor som heter "Att göra", "Görs" och "Gjort".    
 
+För att koppla en Pull Request för din branch till en issue, se "[Linking a pull request to an issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue)".    
+
 ## Vecka 4
 
 Kodens väg genom projektet.   
