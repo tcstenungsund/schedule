@@ -364,7 +364,7 @@ Vad kan man använda markdown till? "[How to set up a GitHub Profile README](htt
 
 Skapa en profil med hjälp av [ProfileMe.dev](https://www.profileme.dev/). Logga in på GitHub och lägg till din profil.    
 
-**Veckans läxa:** Lyssna på avsnittet ”[001 The Box-model](https://thecsspodcast.libsyn.com/-the-css-podcast-box-model-episode-1)” (12 min) av podcasten “The CSS Podcast”. (Finns också på [Spotfy](https://open.spotify.com/episode/1j2EhMoMkbiuC9LkrLG1gX).)    
+**Veckans läxa:** Lyssna på avsnittet ”[001 The Box-model](https://thecsspodcast.libsyn.com/-the-css-podcast-box-model-episode-1)” (12 min) av podcasten “The CSS Podcast”. (Finns också på [Spotify](https://open.spotify.com/episode/1j2EhMoMkbiuC9LkrLG1gX).)    
 
 #### Tisdag    
 
