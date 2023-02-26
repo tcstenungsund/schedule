@@ -279,13 +279,21 @@ Genomgång av kapitel 2.
 
 ## Vecka 9
 
+![](https://user-images.githubusercontent.com/101390367/221440438-4dc69438-4789-4666-920e-289a69191147.png)
+
 #### Måndag
 
 Laboration med Raspberry Pi. 
 
+[https://www.raspberrypi.com/documentation/computers/](https://www.raspberrypi.com/documentation/computers/)
+
 Installera OS.
 
+[https://www.raspberrypi.com/documentation/computers/getting-started.html](https://www.raspberrypi.com/documentation/computers/getting-started.html)
+
 Fjärranslutning.
+
+[https://raspberrytips.com/xrdp-on-raspberry-pi/](https://raspberrytips.com/xrdp-on-raspberry-pi/)
 
 #### Fredag
 
