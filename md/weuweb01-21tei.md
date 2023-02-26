@@ -396,6 +396,8 @@ Pattern library
 
 #### Måndag    
 
+[Uppgift: Vårprojektet](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb01-varprojektet)     
+
 **Veckans läxa:** Lyssna på avsnittet ”[003 Specificity](http://thecsspodcast.googledevelopers.libsynpro.com/003-specificity)” (13 min) av podcasten “The CSS Podcast”. (Finns också på [Spotify](https://open.spotify.com/episode/2I3gJ9AFUi08Sm9CV7wydO).)    
 
 #### Tisdag    
