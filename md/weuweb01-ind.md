@@ -182,6 +182,17 @@ SPORTLOV
 - Sedan skall ni fortsätta jobba med era egna Wordpress sidor, och använda er av det han gick igenom i videon.
 
 ## Vecka 9
+- Idag skall vi börja med ett nytt projekt. Där ni kommer att jobba i grupper som jag har gjort.
+- Vi kommer anväda oss av ett program som heter Trello. 
+
+
+Olika sidor att använda sig av:
+- [Canva](https://www.canva.com/) Är bra för digitala moodboards.
+- [Wireframes](https://wireframe.cc/) Är bra för att göra wireframes på.
+- [Coolers](https://coolors.co/) Hjälper dig hitta ett bra färgschema.
+- [Color Space](https://mycolor.space/) Också väldigt bra för att hjälpa dig hitta färgscheman.
+
+
 
 ## Vecka 10
 
