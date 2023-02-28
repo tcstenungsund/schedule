@@ -1,6 +1,6 @@
-# Webbutveckling 1: Min Fula Lilla Sida
+# Webbutveckling 1: Vårprojektet
 
-_Ni har tidigare lärt er hur man bygger en webbplats med hjälp av HTML och CSS. Dessutom vet ni både hur man planerar för och samarbetar kring ett projekt. Tillsammans med kunskaper om ramverk som Bootstrap och andra hjälpmedel som finns på nätet så skall ni nu omsätta denna kunskapen i praktiken._
+_Ni har tidigare lärt er hur man bygger en webbplats med hjälp av HTML och CSS. Dessutom vet ni både hur man planerar för och samarbetar kring ett projekt. Tillsammans med kunskaper om ramverk som Bootstrap och andra hjälpmedel som finns på nätet så skall ni nu omsätta denna kunskapen i praktiken. Ni kommer också skriva loggbok över vad ni gör varje lektion._
 
 ---
 
@@ -25,7 +25,11 @@ Detta projekt kommer att löpa under hela våren, men är uppdelad i tre större
 > Skolverket centrala innehåll säger att ni i kursen Webbutveckling 1 skall lära er:
 > * Processen för ett webbutvecklingsprojekt med målsättningar, planering, specifikation av struktur och design, kodning, optimering, testning, dokumentation och uppföljning.
 > * Applikationer som fungerar oberoende av val av användaragent, operativsystem eller hårdvaruplattform och hur tillgänglighet uppnås även för användare med funktionsnedsättning.
-> * Kvalitetssäkring av applikationens funktion och validering av kodens kvalitet."
+> * Kvalitetssäkring av applikationens funktion och validering av kodens kvalitet."     
+
+Loggbok     
+
+Logga in på GitHub, skapa ett nytt publikt "repocitory" med namnet "varprojektet", kryssa i "Create README.md". Fyll dokumentet med en huvudrubrik med temat "Vårprojektet", och sedan en underrubrik med namnen "Vecka XX" och under den en beskrivning av vad du ägnat lektionen åt.    
 
 ### Planering
 
@@ -88,6 +92,8 @@ En färdig sida som passerar W3C's Unicorn-validering. Genomtänkt namngivna dok
 Ni kommer även få presentera sidan för era klassamrater, samt skriva en personlig utvärdering av hur projektet gått.
 
 ### Vilka filer?
+
+En kontinuerlig inlämning i form av en loggbok i markdown-format inlämnad på GitHub.     
 
 Första inlämningen skall bestå av följande:     
 * Ett Designsystem i PDF-format.       
