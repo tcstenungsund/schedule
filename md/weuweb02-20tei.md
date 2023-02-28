@@ -219,25 +219,43 @@ Vi fortsätter att tala om arbetsflöde med hjälp av Gantt chart och Responsibi
 Stora projektet
 
 ## Vecka 9   
+
 Stora projektet
+
+Se videon [Resilient CSS 1: “Introduction to Resilient CSS”](https://piped.video/u00FY9vADfQ) (9:08 min) av Jen Simmons.    
 
 ## Vecka 10
-Stora projektet
+
+Stora projektet    
+
+Se videon [Resilient CSS 2: “The Secrets of 'Can I Use'”](https://piped.video/WM_cKHH7bZ0) (10 min) av Jen Simmons.      
 
 ## Vecka 11
-Stora projektet
+
+Stora projektet     
+
+Se videon [Resilient CSS 3: “How Browsers Handle Errors in CSS”](https://piped.video/NJjlzxud4_M) (7:30 min) av Jen Simmons.     
 
 ## Vecka 12
-Stora projektet
+
+Stora projektet     
+
+Se videon [Resilient CSS 4: “Unlocking the Power of CSS Overrides”](https://piped.video/0X6zrW2QW8Q) (8:42 min) av Jen Simmons.    
 
 ## Vecka 13
-Stora projektet
+
+Stora projektet     
+
+Se videon [Resilient CSS 5 & 6: ”The Magic of Feature Queries”, Part 1 och 2](https://piped.video/T8uxmUQZsck) (15 min) av Jen Simmons.    
 
 ## Vecka 14
 **PÅSKLOV**
 
 ## Vecka 15
-Stora projektet
+
+Stora projektet    
+
+**Test** på videoserien [“Resilient CSS”](https://piped.video/playlist?list=PLbSquHt1VCf1kpv9WRGMCA9_Nn4vCLZ9Y). (Finns på Netacad.)
 
 ## Vecka 16
 Stora projektet
