@@ -101,10 +101,13 @@
 **SPORTLOV**
 
 ## Vecka 8
+- Vi sitter och läser kapitel 11.
 
 ## Vecka 9
+ - Vi går igenom kapitel 12 fram tills 12.3.2.1.
 
 ## Vecka 10
+- Idag forstätter vi med kapitel 12 och går igenom från 12.3.2.1.
 
 ## Vecka 11
 
