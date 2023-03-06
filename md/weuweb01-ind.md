@@ -210,6 +210,12 @@ Anton, Alex, Joel, Wilmer
 
 
 ## Vecka 10
+Idag pratar vi mer om förarbetet kring webbsidor, nedan har jag länkat hur en bra loggbok ser ut och hur en styleguide ser ut.
+- [Styleguide](https://docs.google.com/document/d/1RnLF1X_K7Rfizj1nWGlQUUUhHMrfky0NvCLc8NYQeq0/edit?usp=sharing)
+- [Loggbok](https://docs.google.com/document/d/1Zi1Spl1ILXpykD6Dw1b2cMRrgRBT5o1cIn9cfMsAjzE/edit?usp=sharing)
+
+Sedan här ligger länkat dom det som vi pratade om, de 7 stegen i en webbsidas process.
+[7 Steg i en Webbsidas Process](https://www.infolio.co/use-cases/design-team-management/7-steps-of-web-design-development-process-template)
 
 ## Vecka 11
 
