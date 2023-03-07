@@ -182,6 +182,8 @@ SPORTLOV
 - Sedan skall ni fortsätta jobba med era egna Wordpress sidor, och använda er av det han gick igenom i videon.
 
 ## Vecka 9
+
+Uppgift: Vårprojektet
 - Idag skall vi börja med ett nytt projekt. Där ni kommer att jobba i grupper som jag har gjort.
 - Vi kommer anväda oss av ett program som heter Trello. 
 
