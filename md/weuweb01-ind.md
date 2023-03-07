@@ -183,7 +183,8 @@ SPORTLOV
 
 ## Vecka 9
 
-Uppgift: Vårprojektet
+[Uppgift: Vårprojektet](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb01ind-varprojektet)
+
 - Idag skall vi börja med ett nytt projekt. Där ni kommer att jobba i grupper som jag har gjort.
 - Vi kommer anväda oss av ett program som heter Trello. 
 
