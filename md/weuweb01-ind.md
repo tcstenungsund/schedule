@@ -201,15 +201,15 @@ Grupper:
 
 Tottenham
 Oliver, Oskar, Ivar, Tim
-[https://trello.com/invite/b/U4EQ3MN6/ATTI8cd26fe96ab2dc4bdab43ce5ab8f0705051D7E81/tottenham-hotspur-fc]
+[Trello](https://trello.com/invite/b/U4EQ3MN6/ATTI8cd26fe96ab2dc4bdab43ce5ab8f0705051D7E81/tottenham-hotspur-fc)
 
 Man Utd
 Hjalmar, Ossian, Karl, Alvin
-[https://trello.com/invite/b/mmLTXIJz/ATTI40c5a03f3ea4fc39b489f7e17c3f49c4E2060512/manchester-united]
+[Trello](https://trello.com/invite/b/mmLTXIJz/ATTI40c5a03f3ea4fc39b489f7e17c3f49c4E2060512/manchester-united)
 
 Chelsea
 Anton, Alex, Joel, Wilmer
-[https://trello.com/invite/b/vmFv4Nh8/ATTIcabeaeacc2e222fc57e004a7e5b9eec91DBA1CDE/chelsea]
+[Trello](https://trello.com/invite/b/vmFv4Nh8/ATTIcabeaeacc2e222fc57e004a7e5b9eec91DBA1CDE/chelsea)
 
 
 ## Vecka 10
