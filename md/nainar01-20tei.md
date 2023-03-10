@@ -376,9 +376,15 @@ Gör Packet Tracer 13.2.7
 
 #### Tisdag
 
+Förberedelser inför ÅR 8-dagar.
+
 #### Onsdag
 
+ÅR 8-dagar.
+
 #### Torsdag
+
+Studiebesök Högskolan Väst.
 
 ## Vecka 11
 
