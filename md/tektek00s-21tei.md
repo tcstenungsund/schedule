@@ -297,11 +297,21 @@ Fjärranslutning.
 
 #### Fredag
 
+Genomgång av måndagens praktiskövning.
+
 ## Vecka 10
 
 #### Måndag
 
+Fortsatt laboration med Raspberry Pi. Anslut till BatPi - lösenord mat-bulle
+
 #### Fredag
+
+Genomgång av hela kapitel 2 - IoT Systems and Architectures.
+
+[https://learn.microsoft.com/en-us/biztalk/core/threat-model-analysis](https://learn.microsoft.com/en-us/biztalk/core/threat-model-analysis)
+
+[https://wiki.owasp.org/index.php/OWASP_Internet_of_Things_Project#tab=IoT_Top_10](https://wiki.owasp.org/index.php/OWASP_Internet_of_Things_Project#tab=IoT_Top_10)
 
 ## Vecka 11
 
