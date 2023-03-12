@@ -317,7 +317,41 @@ Genomgång av hela kapitel 2 - IoT Systems and Architectures.
 
 #### Måndag
 
+Fortsatt laboration med Raspberry Pi. Anslut till BatPi - lösenord mat-bulle
+
+Målet är att alla ska ha en fungerande Pi, med fast IP,  som går att fjärransluta till. Ni som är färdiga kan testa Sense Hat emulatorn.
+
+Sätt en statisk ipadress på din Pi.
+
+[https://www.tomshardware.com/how-to/static-ip-raspberry-pi](https://www.tomshardware.com/how-to/static-ip-raspberry-pi)
+
+För att kunna göra detta behöver ni ändra på filbehörigheten för filen etc/dhcpcd.conf
+
+Från komandopromt:
+
+**cd /**
+
+**cd etc**
+
+**chmod 777 dhcpcd.conf**
+
+ Följ sedan guiden ovan.
+
+Välj din fasta IPadress här:
+
+[https://docs.google.com/spreadsheets/d/1ZzMIDqGIf9Q4f4ezSWRclSZDJHG82krprUFSkMyuocA/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1ZzMIDqGIf9Q4f4ezSWRclSZDJHG82krprUFSkMyuocA/edit?usp=sharing)
+
+Starta om Pi och anslut till ny IPadress.
+
+Testa Sense Hat emulator:
+
+[https://trinket.io/sense-hat](https://trinket.io/sense-hat)
+
+[https://projects.raspberrypi.org/en/projects/getting-started-with-the-sense-hat](https://projects.raspberrypi.org/en/projects/getting-started-with-the-sense-hat)
+
 #### Fredag
+
+Genomgång av kapitel 3. IoT Security.
 
 ## Vecka 12
 
