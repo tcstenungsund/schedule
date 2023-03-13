@@ -410,6 +410,8 @@ Pattern library
 
 #### Tisdag    
 
+##### Typografi    
+
 ## Vecka 12
 
 #### Måndag    
@@ -428,13 +430,13 @@ Pattern library
 
 ## Vecka 14
 
-**PÅSKLOV**
-
-## Vecka 15
-
 #### Måndag    
 
 #### Tisdag    
+
+## Vecka 15
+
+**PÅSKLOV**
 
 ## Vecka 16
 
