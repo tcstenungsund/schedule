@@ -33,8 +33,7 @@ Logga in på GitHub, skapa ett nytt publikt "repocitory" med namnet "varprojekte
 
 ### Planering
 
-I projektets första skede skall ni skapa det Designsystem ni sedan kommer att utgå ifrån i ert arbete.
-Detta designsystem skall innehålla en logotyp, en Style Guide och ett Pattern Library.   
+I projektet skall ni skapa ett Designsystem som skall innehålla en logotyp, en Style Guide och ett Pattern Library. I projektets planeringsfas är det en Style Guide ni skall fokusera på, då den ligger till grund för resten av ert arbete. Denna Style Guide kommer lämnas in efter planeringsfasen.    
 
 * Definiera, beskriv och förklara webbplatsens buisness objectives
 * Skapa en moodboard
@@ -93,10 +92,10 @@ Ni kommer även få presentera sidan för era klassamrater, samt skriva en perso
 
 ### Vilka filer?
 
-En kontinuerlig inlämning i form av en loggbok i markdown-format inlämnad på GitHub.     
+En kontinuerlig individuell inlämning i form av en loggbok i markdown-format inlämnad på GitHub.     
 
 Första inlämningen skall bestå av följande:     
-* Ett Designsystem i PDF-format.       
+* En Style Guide i PDF-format.       
 
 Andra inlämningen skall bestå av följande:      
 * Ett 7Zip-arkiv av er kompletta sidas fulla katalogstruktur.     
