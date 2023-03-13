@@ -24,33 +24,32 @@ Detta projekt kommer att löpa under hela våren, men är uppdelad i två störr
 ### Planering
 
 I projektets första skede skall ni skapa det Designsystem ni sedan kommer att utgå ifrån i ert arbete.
-Detta designsystem skall innehålla en logotyp, en Style Guide och ett Pattern Library.   
+Detta designsystem skall innehålla en Style Guide och ett Pattern Library.   
 
-* Definiera, beskriv och förklara webbplatsens buisness objectives
-* Skapa en moodboard
-* Definiera Call To Actions för varje undersida
-* Bestäm ett färgschema och typsnitt för webbplatsen
-* Skapa relevanta wireframes (en för förstasidan, en för varje typ av undersida, samt varianter för plattor och mobiler)
-* Sammanställ informationen ovan och lägg till det som saknas för att få en komplett style guide
-* Skapa en genomtänkt katalogstruktur och skapa alla filer ni behöver
-* Fyll alla filer med Lorem Ipsum så ni har något att arbeta med 
+* Definiera, beskriv och förklara webbplatsens buisness objectives.
+* Skapa en moodboard.
+* Definiera Call To Actions för varje undersida.
+* Bestäm ett färgschema och typsnitt för webbplatsen.
+* Skapa relevanta wireframes (en för förstasidan, en för varje typ av undersida).
+* Sammanställ informationen ovan och lägg till det som saknas för att få en komplett style guide.
+* Skapa en genomtänkt katalogstruktur och skapa alla filer ni behöver.
+* Fyll alla filer med Lorem Ipsum så ni har något att arbeta med.
 
 ### Konstruktion
 
-* Ersätt exempeldata på index.html med skarpt innehåll
-* Layout
-* Widgets
-* Ersätt exempeldata med skarpt innehåll på övriga undersidor
-* Typografi
-* Bakgrunder
-* Färgschema
-* Se till att ni har minst en tydligt CTA (Call to Action) på varje sida
+* Ersätt exempeldata på index.html med skarpt innehåll.
+* Layout.
+* Ersätt exempeldata med skarpt innehåll på övriga undersidor.
+* Typografi.
+* Bakgrunder.
+* Färgschema.
+* Se till att ni har minst en tydligt CTA (Call to Action) på varje sida.
 
 > Tips! Bootstrap har ett pattern library där ni kan finna många färdiga komponenter som går att anpassa och använda på er webbplats.
 
 ## Förväntat resultat
 
-Genomtänkt namngivna dokument, kataloger och en bra struktur. Allt innehåll skall vara på plats. Designen skall fungera i alla webbläsare samt mobila enheter.
+Genomtänkt namngivna dokument, kataloger och en bra struktur. Allt innehåll skall vara på plats. Designen skall fungera i alla webbläsare.
 
 Ni kommer även få presentera sidan för era klassamrater, samt skriva en personlig utvärdering av hur projektet gått.
 
