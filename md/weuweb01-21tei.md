@@ -408,9 +408,7 @@ Pattern library
 
 **Veckans läxa:** Lyssna på avsnittet ”[004 The Cascade](http://thecsspodcast.googledevelopers.libsynpro.com/004-the-cascade)” (12 min) av podcasten “The CSS Podcast”. (Finns också på [Spotify](https://open.spotify.com/episode/698XEvD2VUmg4iVZEZqL7I).)    
 
-#### Tisdag    
-
-##### Typografi    
+#### Tisdag     
 
 ## Vecka 12
 
