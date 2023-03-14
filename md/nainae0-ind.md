@@ -141,6 +141,8 @@ Jag har lagt till lite specifikationer på hur dokumentet om era virus skall se 
 
 ## Vecka 11
 
+**TÄVLING**
+ - [PicoCTF](https://play.picoctf.org)
 
 ## Vecka 12
 
@@ -150,10 +152,10 @@ Jag har lagt till lite specifikationer på hur dokumentet om era virus skall se 
 
 ## Vecka 14
 
-**PÅSKLOV**
 
 ## Vecka 15
 
+**PÅSKLOV**
 
 ## Vecka 16
 
