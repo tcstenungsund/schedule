@@ -367,6 +367,10 @@ Installation av Sense Hat:
 
 [https://www.raspberrypi.com/documentation/accessories/sense-hat.html](https://www.raspberrypi.com/documentation/accessories/sense-hat.html)
 
+Slå på SPI, I2C och Remote GPIO.
+
+![](https://user-images.githubusercontent.com/101390367/226204544-14d8e6fa-83d2-4c47-846a-89706c52a096.png)
+
 Kom igång med din Sense Hat:
 
 https://github.com/raspberrypipress/released-pdfs/raw/main/experiment-with-the-sense-hat.pdf
