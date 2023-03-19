@@ -357,6 +357,22 @@ Genomgång av kapitel 3. IoT Security.
 
 #### Måndag
 
+Anslut till din Pi med den statiska IPadress som vi satte förra måndagen.
+
+Lista på IPadresser finns här (uppdatera med er adress):
+
+[https://docs.google.com/spreadsheets/d/1ZzMIDqGIf9Q4f4ezSWRclSZDJHG82krprUFSkMyuocA/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1ZzMIDqGIf9Q4f4ezSWRclSZDJHG82krprUFSkMyuocA/edit?usp=sharing)
+
+Installation av Sense Hat:
+
+[https://www.raspberrypi.com/documentation/accessories/sense-hat.html](https://www.raspberrypi.com/documentation/accessories/sense-hat.html)
+
+Kom igång med din Sense Hat:
+
+https://github.com/raspberrypipress/released-pdfs/raw/main/experiment-with-the-sense-hat.pdf
+
+[https://projects.raspberrypi.org/en/projects/getting-started-with-the-sense-hat](https://projects.raspberrypi.org/en/projects/getting-started-with-the-sense-hat)
+
 #### Fredag
 
 ## Vecka 13
