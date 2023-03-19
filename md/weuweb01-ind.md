@@ -224,6 +224,20 @@ Sedan här ligger länkat dom det som vi pratade om, de 7 stegen i en webbsidas 
 
 ## Vecka 12
 
+Gästföreläsning av KFN. 
+
+###### CSS-ramverk   
+
+Nu när du kan grunderna och kan skriva kod själv är det dags att lära sig arbeta med andras kod. Hur använder man andras kod? Det största CSS-ramverket i världen heter "[Bootstrap](https://getbootstrap.com/)". Bootstrap är ett gäng CSS-filer du länkar in på din sida, och sedan använder man färdigskrivna kodsnuttar och teman.    
+
+Exempel på hur Bootstrap fungerar. Så här der det ut:    
+* [Utan Bootstrap](https://codepen.io/seetee/pen/rNKKZMz)   
+* [Med Bootstrap](https://codepen.io/seetee/pen/JjZZaKv)  
+
+Vi ser "[Intro & Setup](https://youtu.be/O_9u1P5YjVc)" (7 min) från serien "[Bootstrap 5 Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR)".    
+
+Avslutningsvis gör vi en liten övning tillsammans.    
+
 ## Vecka 13
 
 ## Vecka 14
