@@ -357,6 +357,16 @@ Genomgång av kapitel 3. IoT Security.
 
 #### Måndag
 
+GEnomgång av kapitel 3 i IoT Security färdig - via TEAMs.
+
+Arbeta med interaktiva uppgifter och gör Quiz.
+
+#### Fredag
+
+## Vecka 13
+
+#### Måndag
+
 Anslut till din Pi med den statiska IPadress som vi satte förra måndagen.
 
 Lista på IPadresser finns här (uppdatera med er adress):
@@ -376,12 +386,6 @@ Kom igång med din Sense Hat:
 https://github.com/raspberrypipress/released-pdfs/raw/main/experiment-with-the-sense-hat.pdf
 
 [https://projects.raspberrypi.org/en/projects/getting-started-with-the-sense-hat](https://projects.raspberrypi.org/en/projects/getting-started-with-the-sense-hat)
-
-#### Fredag
-
-## Vecka 13
-
-#### Måndag
 
 #### Fredag
 
