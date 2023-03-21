@@ -146,6 +146,8 @@ Jag har lagt till lite specifikationer på hur dokumentet om era virus skall se 
 
 ## Vecka 12
 
+**TÄVLING**
+ - [PicoCTF](https://play.picoctf.org)
 
 ## Vecka 13
 
