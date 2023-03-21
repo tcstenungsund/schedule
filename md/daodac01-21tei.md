@@ -111,7 +111,10 @@
 
 ## Vecka 11
 
+**Utvecklingssamtal**
+
 ## Vecka 12
+- Idag börjar vi med Kapitel 13.
 
 ## Vecka 13
 
