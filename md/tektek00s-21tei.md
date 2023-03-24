@@ -363,6 +363,8 @@ Arbeta med interaktiva uppgifter och gör Quiz.
 
 #### Fredag
 
+GEnomgång av kapitel 4.1. ARbeta med kapitel 4.1 och repetera kapitel 3. Interaktiva uppgifter och Quiz.
+
 ## Vecka 13
 
 #### Måndag
