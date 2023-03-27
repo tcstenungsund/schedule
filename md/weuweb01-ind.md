@@ -240,11 +240,13 @@ Avslutningsvis gör vi en liten övning tillsammans.
 
 ## Vecka 13
 
+Idag går jag inte igenom någonting nytt. Utan vi fortsätter med designsystemen i våra vårprojekt.
+
 ## Vecka 14
 
-**PÅSKLOV**
-
 ## Vecka 15
+
+**PÅSKLOV**
 
 ## Vecka 16
 
