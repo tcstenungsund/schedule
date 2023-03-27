@@ -402,13 +402,19 @@ Pattern library
 
 #### Tisdag    
 
+Vårprojektet   
+
 ## Vecka 11
 
 #### Måndag    
 
+Vårprojektet   
+
 **Veckans läxa:** Lyssna på avsnittet ”[004 The Cascade](http://thecsspodcast.googledevelopers.libsynpro.com/004-the-cascade)” (12 min) av podcasten “The CSS Podcast”. (Finns också på [Spotify](https://open.spotify.com/episode/698XEvD2VUmg4iVZEZqL7I).)    
 
 #### Tisdag     
+
+Vårprojektet   
 
 ## Vecka 12
 
@@ -418,11 +424,17 @@ Pattern library
 
 #### Tisdag    
 
+Vårprojektet   
+
 ## Vecka 13
 
 #### Måndag    
 
+Vårprojektet   
+
 #### Tisdag    
+
+Vårprojektet   
 
 **Test:** The CSS Podcast avsnitt 1 – 5.
 
@@ -430,7 +442,11 @@ Pattern library
 
 #### Måndag    
 
+Vårprojektet   
+
 #### Tisdag    
+
+Vårprojektet   
 
 ## Vecka 15
 
@@ -440,37 +456,61 @@ Pattern library
 
 #### Måndag    
 
+Vårprojektet   
+
 #### Tisdag    
+
+Vårprojektet   
 
 ## Vecka 17
 
 #### Måndag    
 
+Vårprojektet   
+
 #### Tisdag    
+
+Vårprojektet   
 
 ## Vecka 18
 
 #### Måndag    
 
+Vårprojektet   
+
 #### Tisdag    
+
+Vårprojektet   
 
 ## Vecka 19
 
 #### Måndag    
 
+Vårprojektet   
+
 #### Tisdag    
+
+Vårprojektet   
 
 ## Vecka 20
 
 #### Måndag    
 
+Vårprojektet   
+
 #### Tisdag    
+
+Vårprojektet   
 
 ## Vecka 21
 
 #### Måndag    
 
+Vårprojektet   
+
 #### Tisdag    
+
+Vårprojektet   
 
 Prov: Planeringsverktyg, Vektorgrafik, Logotypedesign, SVG-animation, Design systems och Tester
 
