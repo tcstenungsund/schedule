@@ -402,8 +402,8 @@ Föreläsning aulan - samverkansföretag.
 
 #### Onsdag
 
-Läs på kapitel 14. Gör Quiz. 
-Gör Packet Tracer 14.3.5 och lämna in.
+Läs på kapitel 14. Gör Quiz.  
+Gör Packet Tracer 14.3.5 och lämna in.  
 Modulprovet för Kapitel 10 - 13 är öppet. Gör det vid valfri plats och tidpunkt.
 
 #### Torsdag
@@ -414,9 +414,15 @@ Kapitel 15.
 
 #### Tisdag
 
+Genomgång av kapitel 15 klart. Arbeta med interaktiva uppgifter och gör Quiz.
+
 #### Onsdag
 
+Laboration.
+
 #### Torsdag
+
+Besök av vårt samverkansföretag Yousr.
 
 ## Vecka 14
 
