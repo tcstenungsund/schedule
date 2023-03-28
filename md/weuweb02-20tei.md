@@ -252,14 +252,15 @@ Se videon [Resilient CSS 5 & 6: ”The Magic of Feature Queries”, Part 1 och 2
 
 Stora projektet    
 
-**Test** på videoserien [“Resilient CSS”](https://piped.video/playlist?list=PLbSquHt1VCf1kpv9WRGMCA9_Nn4vCLZ9Y). (Finns på Netacad.)    
-
 ## Vecka 15
 
 **PÅSKLOV**
 
 ## Vecka 16
+
 Stora projektet
+
+**Test** på videoserien [“Resilient CSS”](https://piped.video/playlist?list=PLbSquHt1VCf1kpv9WRGMCA9_Nn4vCLZ9Y). (Finns på Netacad.)    
 
 ## Vecka 17
 Stora projektet
