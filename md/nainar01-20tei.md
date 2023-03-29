@@ -420,6 +420,10 @@ Genomgång av kapitel 15 klart. Arbeta med interaktiva uppgifter och gör Quiz.
 
 Laboration.
 
+Gör Packet Tracer 15.6.1, vill du labba med fysisk utrustning gör laboration 15.6.2.
+
+Övrig tid läser vi på kapitel 14, 15 och 16.
+
 #### Torsdag
 
 Besök av vårt samverkansföretag Yousr.
@@ -428,7 +432,11 @@ Besök av vårt samverkansföretag Yousr.
 
 #### Tisdag
 
+Besök av vårt samverkansföretag Smoothcomp.
+
 #### Onsdag
+
+Modulprov på kapitel 14, 15 och 16.
 
 #### Torsdag
 
