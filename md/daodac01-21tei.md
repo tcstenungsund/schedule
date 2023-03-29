@@ -117,8 +117,10 @@
 - Idag börjar vi med Kapitel 13.
 
 ## Vecka 13
+ - Vi tar och tittar på 13.4 och 13.5.
 
 ## Vecka 14
+ - Vi tar en snabb överblick av kapitel 14.
 
 **PÅSKLOV**
 
