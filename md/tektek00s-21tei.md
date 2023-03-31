@@ -395,6 +395,10 @@ sense.show\_message("Hello world")
 
 #### Fredag
 
+Ronnie är på Blixtlåset, Jonas tar hand om er.
+
+Arbeta med kapitel 4.1 och repetera kapitel 3. Interaktiva uppgifter och Quiz.
+
 ## Vecka 14
 
 #### Måndag
