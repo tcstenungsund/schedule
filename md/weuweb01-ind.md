@@ -244,6 +244,10 @@ Idag går jag inte igenom någonting nytt. Utan vi fortsätter med designsysteme
 
 ## Vecka 14
 
+[Uppgift: Vårprojektet](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb01ind-varprojektet)
+
+Idag går jag inte igenom någonting nytt. Utan vi fortsätter med designsystemen i våra vårprojekt.
+
 ## Vecka 15
 
 **PÅSKLOV**
