@@ -403,6 +403,14 @@ Arbeta med kapitel 4.1 och repetera kapitel 3. Interaktiva uppgifter och Quiz.
 
 #### Måndag
 
+Se uppgifter från måndag v13. 
+
+Målet är att alla ska ha en fungerande Sense Hat.
+
+Ni som blev färdiga förra veckan, fortsätter med Sense Hat projekt:
+
+[https://projects.raspberrypi.org/en/projects?hardware%5B%5D=sense-hat](https://projects.raspberrypi.org/en/projects?hardware%5B%5D=sense-hat)
+
 #### Fredag
 
 PÅSKLOV
