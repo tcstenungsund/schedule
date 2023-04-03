@@ -248,6 +248,8 @@ Idag går jag inte igenom någonting nytt. Utan vi fortsätter med designsysteme
 
 Idag går jag inte igenom någonting nytt. Utan vi fortsätter med designsystemen i våra vårprojekt.
 
+- OBS! Inlämning är på Torsdag 6/4-23!
+
 ## Vecka 15
 
 **PÅSKLOV**
