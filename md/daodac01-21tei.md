@@ -130,7 +130,7 @@
  - Vi börjar repetera alla kapitel i kursen.
 
 ## Vecka 17
-- Vi förstätter med repetering av alla kepitlerna i kursen.
+- Vi förstätter med repetering av alla kapitlerna i kursen.
 
 ## Vecka 18
 **KURSPROV**
