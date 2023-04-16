@@ -122,15 +122,18 @@
 ## Vecka 14
  - Vi tar en snabb överblick av kapitel 14.
 
-**PÅSKLOV**
-
 ## Vecka 15
 
+**PÅSKLOV**
+
 ## Vecka 16
+ - Vi börjar repetera alla kapitel i kursen.
 
 ## Vecka 17
+- Vi förstätter med repetering av alla kepitlerna i kursen.
 
 ## Vecka 18
+**KURSPROV**
 
 ## Vecka 19
 
