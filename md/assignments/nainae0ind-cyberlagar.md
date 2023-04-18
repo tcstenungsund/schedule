@@ -13,7 +13,7 @@ Du skall använda er av trovärdiga källor, som till exempel regeringshemsidor 
 
 ## Uppgiftsbeskrivning
 
-Nedanstående punkter skall besvaras i eran text.
+Nedanstående punkter skall besvaras i er text.
 
 - Du ska undersöka de viktigaste cybersäkerhetslagarna i Sverige, såsom till exempel personuppgiftslagen (PuL) och dataskyddsförordningen (GDPR). 
 - Beskriv PuL och GDPR: beskriv de viktigaste bestämmelserna i PuL och GDPR, inklusive vilka typer av data de skyddar, vilka organisationer som omfattas av reglerna och vilka rättigheter individer har med avseende på sin data. 
@@ -24,11 +24,11 @@ Nedanstående punkter skall besvaras i eran text.
 
 ## Förväntat resultat
 
-En uppstats som besvarar punkterna ovan.
+En uppsats som besvarar punkterna ovan.
 
 ### Vilka filer?     
 
-Ett text dokument som är skriver i word och är i .docx format.
+Ett text dokument som är skrivet i word och är i .docx format.
 
 ### Var skall de lämnas in?
 
