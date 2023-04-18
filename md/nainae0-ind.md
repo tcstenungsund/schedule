@@ -141,25 +141,27 @@ Jag har lagt till lite specifikationer på hur dokumentet om era virus skall se 
 
 ## Vecka 11
 
-**TÄVLING**
  - [PicoCTF](https://play.picoctf.org)
 
 ## Vecka 12
 
-**TÄVLING**
  - [PicoCTF](https://play.picoctf.org)
 
 ## Vecka 13
 
+ - [PicoCTF](https://play.picoctf.org)
 
 ## Vecka 14
 
+ - [PicoCTF](https://play.picoctf.org)
 
 ## Vecka 15
 
 **PÅSKLOV**
 
 ## Vecka 16
+
+[Uppgift: Svenska Cybersäkerhetslagar](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/nainae0ind-cyberlagar.md)
 
 
 ## Vecka 17
