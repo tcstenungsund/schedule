@@ -1,4 +1,4 @@
-Nätverkssäkerhet - Svenska cybersäkerhetslagar
+Nätverkssäkerhet - Svenska Cybersäkerhetslagar.
 
 _Syftet med denna uppgift är att hjälpa eleverna att förstå vikten av cybersäkerhet och dess relevans i det svenska rättssystemet._ 
 _Vid slutet av denna uppgift ska eleverna ha en grundläggande förståelse för de viktigaste cybersäkerhetslagarna i Sverige._
