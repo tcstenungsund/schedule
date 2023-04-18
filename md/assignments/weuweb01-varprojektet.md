@@ -59,7 +59,7 @@ I projektet skall ni skapa ett Designsystem som skall innehålla en logotyp, en 
 * Typografi
 * Bakgrunder
 * Färgschema
-* Lägg till länkad logotyp till TC Stenungsund
+* Lägg till länkad [logotyp](https://app.tcstenungsund.se/themes/tcapp/images/tc-s-trans.svg) till TC Stenungsund
 * Optimera rastergrafik
 * Se till att ni har minst en tydligt CTA på varje sida
 
