@@ -161,7 +161,7 @@ Jag har lagt till lite specifikationer på hur dokumentet om era virus skall se 
 
 ## Vecka 16
 
-[Uppgift: Svenska Cybersäkerhetslagar](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/nainae0ind-cyberlagar.md)
+[Uppgift: Svenska Cybersäkerhetslagar](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/nainae0ind-cyberlagar)
 
 
 ## Vecka 17
