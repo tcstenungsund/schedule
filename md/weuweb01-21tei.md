@@ -502,7 +502,11 @@ Prov: Planeringsverktyg, Vektorgrafik, Logotypedesign, SVG-animation, Design sys
 
 #### Måndag    
 
+Vårprojektet   
+
 #### Tisdag    
+
+Presentation Vårprojektet    
 
 ## Vecka 23 
 
@@ -510,7 +514,11 @@ Prov: Planeringsverktyg, Vektorgrafik, Logotypedesign, SVG-animation, Design sys
 
 #### Måndag    
 
+Fördjupning    
+
 #### Tisdag   
+
+Fördjupning    
 
 ## Vecka 25
 
