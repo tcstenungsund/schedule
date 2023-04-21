@@ -263,28 +263,31 @@ Stora projektet
 **Test** på videoserien [“Resilient CSS”](https://piped.video/playlist?list=PLbSquHt1VCf1kpv9WRGMCA9_Nn4vCLZ9Y). (Finns på Netacad.)    
 
 ## Vecka 17
-Stora projektet
+
+Stora projektet   
 
 ## Vecka 18
-Stora projektet
+
+Stora projektet    
 
 ## Vecka 19
-Stora projektet
+
+Stora projektet    
 
 ## Vecka 20
-Stora projektet
+
+Deadline för dokumentationen 
+
+Stora projektet    
 
 ## Vecka 21
-Stora projektet
+
+Presentation av Stora projektet   
 
 ## Vecka 22
-Stora projektet
+
+Terapisession   
 
 ## Vecka 23
-Stora projektet
 
-## Vecka 24
-Stora projektet
-
-## Vecka 25
-**SOMMARLOV**
+Studentavslutning på fredag...   
