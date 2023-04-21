@@ -464,8 +464,6 @@ Vårprojektet
 
 Låt dig inspireras! Läs artiklar som "[10 Cool CodePen Demos](https://dev.to/alvaromontoro/10-cool-codepen-demos-march-23-484p)", följ sidor som "[Modern CSS Solutions for Old CSS Problems](https://moderncss.dev/)" och sök på sidor som "[Dribbble](https://dribbble.com/)". 
 
-
-
 Vårprojektet   
 
 ## Vecka 17
@@ -474,15 +472,7 @@ Vårprojektet
 
 Vårprojektet   
 
-#### Tisdag    
-
-Vårprojektet   
-
 ## Vecka 18
-
-#### Måndag    
-
-Vårprojektet   
 
 #### Tisdag    
 
@@ -494,25 +484,13 @@ Vårprojektet
 
 Vårprojektet   
 
-#### Tisdag    
-
-Vårprojektet   
-
 ## Vecka 20
-
-#### Måndag    
-
-Vårprojektet   
 
 #### Tisdag    
 
 Vårprojektet   
 
 ## Vecka 21
-
-#### Måndag    
-
-Vårprojektet   
 
 #### Tisdag    
 
@@ -526,12 +504,14 @@ Prov: Planeringsverktyg, Vektorgrafik, Logotypedesign, SVG-animation, Design sys
 
 #### Tisdag    
 
-## Vecka 23
-
-#### Måndag    
-
-#### Tisdag    
+## Vecka 23 
 
 ## Vecka 24
 
-**SOMMARLOV**
+#### Måndag    
+
+#### Tisdag   
+
+## Vecka 25
+
+**SOMMARLOV**     
