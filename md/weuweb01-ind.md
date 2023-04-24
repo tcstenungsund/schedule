@@ -262,6 +262,8 @@ Idag går jag inte igenom någonting nytt. Utan vi fortsätter med våra vårpro
 
 ## Vecka 17
 
+Vi fortsätter med våra vårprojekt.
+
 ## Vecka 18
 
 ## Vecka 19
