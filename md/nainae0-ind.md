@@ -166,8 +166,11 @@ Jag har lagt till lite specifikationer på hur dokumentet om era virus skall se 
 
 ## Vecka 17
 
+Vi fortsätter med uppgiften: Svenska Cybersäkerhetslagar.
+
 
 ## Vecka 18
+
 
 
 ## Vecka 19
