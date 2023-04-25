@@ -196,7 +196,13 @@ Anmälningar till tävlingarna på UF mässan ska vara inskickade den 26/1!
 
 ## Vecka 5
 
+Förbered inför mässa i GBG.
+
+Genomgång av gymnasiearbetsrapporten.
+
 ## Vecka 6
+
+Förbered inför mässa i GBG.
 
 ## Vecka 7
 
@@ -204,27 +210,102 @@ Anmälningar till tävlingarna på UF mässan ska vara inskickade den 26/1!
 
 ## Vecka 8
 
+Förbered inför mässa i GBG.
+
 ## Vecka 9
+
+Torsdag 2/3 UF mässa i Göteborg.
+
+![](https://user-images.githubusercontent.com/101390367/234284161-643d2959-3111-4d67-bbe9-8c4b0eb42ebd.png)
 
 ## Vecka 10
 
+ÅR 8 dag.
+
 ## Vecka 11
+
+Utvecklingssamtal.
 
 ## Vecka 12
 
+UF arbete.
+
 ## Vecka 13
+
+Arbeta med gymnasiearbetsrapporten.
+
+  
+ 
 
 ## Vecka 14
 
-**PÅSKLOV**
+Lämna in gymnasiearbetsrapporten. Ska vara 90% färdig.
 
 ## Vecka 15
 
+**PÅSKLOV**
+
 ## Vecka 16
+
+Förbered redovisning av gymnasiearbetet, hela gruppen ska medverka, någon form av digitalpresentation ska finnas, gärna en demo av det man arbetat med. Eftersom tvåorna kommer att lyssna på er är det bra om ni även ger tips inför deras gymnasiearbete. Går det att arbeta vidare med det som ni har gjort?
 
 ## Vecka 17
 
+Redovisning av gymnasiearbetet. Vi samlas 8.35 onsdagen den 26/4 i Hogia klassrummet. Redovisningar börjat klockan 09.00 och beräknas pågå till lunch.
+
+Efter lunch ska ni färdigställa er gymnasiearbetsrapport med den feedback som ni fått av mig. Lämna in den färdiga rapporten.
+
+Lämna in den digitalapresentationen på ITs.
+
 ## Vecka 18
+
+Opponering på gymnasiearbeten. På tisdagens nätverkslektion kör vi opponering.
+
+Onsdag - vi påbörjar nedstängning av våra UF företag. 
+
+**OPPONERING:**
+
+**I korthet: Ni ska läsa igenom den andra gruppens arbete. Notera gärna felaktigheter eller om det fattas något i rapporten.**
+
+**Vid opponeringstillfället ska ni sammanfatta den andra gruppens arbete.**
+
+**Sedan ska ni framföra två bra saker med arbetet och en förbättringspunkt.**
+
+**Ni ska också kunna svara på frågor om ert eget arbete.**
+
+**Opponeringsseminarier**
+
+Förutom att själv göra en undersökning och skriva en rapport så ska eleverna också ge respons på andras arbeten och därmed bidra till att dessa arbeten blir ännu bättre.
+
+Kort om opponeringsseminarier
+
+Här följer en beskrivning av hur opponering kan gå till:
+
+Efter att ni lämnat in rapporterna så kommer ni delas in seminariegrupper. Varje elev/grupp i seminariegruppen blir tilldelad en rapport som man blir huvudopponent till.
+
+Ni ska sedan gå igenom uppsatserna och förbereda er inför opponeringen. Varje seminarium pågår i ungefär en och en halv timme då man diskuterar rapporterna. Varje rapport diskuteras i sammanlagt ca 20 minuter.
+
+De som arbetat i grupp genomför opponeringen tillsammans men självklart ska varje person i gruppen kunna svara för arbetet i sin helhet. Det gäller både det egna arbetet och det arbete gruppen ska opponera på.
+
+Hur går ett opponeringsseminarium till?
+
+Det finns tre aktörer vid ett opponeringsseminarium. Den som har skrivit rapporten kallas respondent (svarare), den som har läst rapporten och ska ge respons på den kallas opponent. Övriga deltagare är seminariedeltagare. Följande ordning följs på seminariet:
+
+\* Vi börjar med att opponenterna/granskarna har ordet. De frågar författarna om dessa vill lägga till, förklara eller ändra något. Sen sammanfattar opponenterna hur de har uppfattat texten/förslaget, och kollar med författarna om det stämmer så. Sen tar de ställning till frågan om förslaget är i sig konsistent (sammanhängande), dvs. om antaganden, omständigheter, åtgärder och resultat-bedömning hänger ihop rent logiskt.
+
+\* Här går frågan till andra deltagare hur de har uppfattat saken.
+
+\* Vi går in på ev. detaljer, delresonemang etc. (författarna kan förklara, ta till sig, slå ifrån sig, etc).
+
+\* Starka och svaga sidor (inte ”det här tycker vi om” utan ”det här är viktigt därför att ...”). Och frågar övriga deltagare.
+
+\* Avslutningsvis lämnar opponenterna och övriga deltagare förbättrings- och förändringsförslag.
+
+\* Det hela hålls i vetenskaplig-rationell ton med syfte att förbättra arbetet som granskas.
+
+Länk: Konsten att opponera - https://www.iei.liu.se/stat/statsvetenskap-3/kandidatuppsats/filarkiv-kandidatuppsats/1.315936/konsten-att-opponeragissur.pdf
+
+6 Instruktionsfilm – Att opponera - https://www.youtube.com/watch?v=k0FWQWwO6Ks
 
 ## Vecka 19
 
