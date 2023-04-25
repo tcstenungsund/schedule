@@ -440,25 +440,93 @@ Modulprov på kapitel 14, 15 och 16.
 
 #### Torsdag
 
+Övningsslutprovet öppnat.
+
 ## Vecka 15
 
 PÅSKLOV
 
 ## Vecka 16
 
+#### Tisdag
+
+Repetera alla kapitel och gör övningsslutprovet inför slutprovet.
+
+#### Onsdag
+
+Repetera alla kapitel och gör övningsslutprovet inför slutprovet.
+
+#### Torsdag
+
+Förbered inför gymnasiearbetsredovisning nästa vecka.
+
 ## Vecka 17
+
+#### Tisdag
+
+Förbered inför gymnasiearbetsredovisning nästa vecka.
+
+#### Onsdag
+
+Redovisning av gymnasiearbetet.
+
+#### Torsdag
+
+Repetera alla kapitel och gör övningsslutprovet inför slutprovet.
 
 ## Vecka 18
 
+#### Tisdag
+
+#### Onsdag
+
+Nationellt prov.
+
+#### Torsdag
+
 ## Vecka 19
+
+#### Tisdag
+
+#### Onsdag
+
+#### Torsdag
 
 ## Vecka 20
 
+#### Tisdag
+
+#### Onsdag
+
+#### Torsdag
+
 ## Vecka 21
+
+#### Tisdag
+
+TEORETISKT SLUTPROV i CCNA2 kursen.
+
+#### Onsdag
+
+#### Torsdag
+
+LOV
 
 ## Vecka 22
 
+#### Tisdag
+
+#### Onsdag
+
+#### Torsdag
+
 ## Vecka 23
+
+#### Tisdag
+
+#### Onsdag
+
+#### Torsdag
 
 ## Vecka 24
 
