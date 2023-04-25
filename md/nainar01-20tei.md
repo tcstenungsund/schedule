@@ -496,21 +496,29 @@ Nationellt prov.
 
 #### Tisdag
 
+TEORETISKT SLUTPROV i CCNA2 kursen.
+
 #### Onsdag
 
+PRAKTISKT SLUTPROV i CCNA2 kursen.
+
 #### Torsdag
+
+LOV
 
 ## Vecka 21
 
 #### Tisdag
 
-TEORETISKT SLUTPROV i CCNA2 kursen.
+SM i UF, Stockholm.
 
 #### Onsdag
 
+SM i UF, Stockholm.
+
 #### Torsdag
 
-LOV
+SM i UF, Stockholm.
 
 ## Vecka 22
 
