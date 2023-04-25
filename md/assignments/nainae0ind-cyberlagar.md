@@ -9,7 +9,7 @@ Enskild uppgift.
 
 ## Resurser
 
-Du skall använda er av trovärdiga källor, som till exempel regeringshemsidor och akademiska tidskrifter.
+Du skall använda dig av trovärdiga källor, som till exempel regeringshemsidor och akademiska tidskrifter.
 
 ## Uppgiftsbeskrivning
 
