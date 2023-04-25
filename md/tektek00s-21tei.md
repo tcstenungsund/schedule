@@ -413,25 +413,67 @@ Ni som blev färdiga förra veckan, fortsätter med Sense Hat projekt:
 
 #### Fredag
 
-PÅSKLOV
+LOV
 
 ## Vecka 15
 
+PÅSKLOV
+
 ## Vecka 16
+
+#### Måndag
+
+Repetition av IT Essentials kursen.
+
+#### Fredag
+
+Repetition av IT Essentials kursen.
 
 ## Vecka 17
 
+#### Måndag
+
+Repetition av IT Essentials kursen.
+
+#### Fredag
+
+Repetition av IT Essentials kursen.
+
 ## Vecka 18
+
+#### Måndag
+
+#### Fredag
 
 ## Vecka 19
 
+#### Måndag
+
+#### Fredag
+
 ## Vecka 20
+
+#### Måndag
+
+#### Fredag
 
 ## Vecka 21
 
+#### Måndag
+
+#### Fredag
+
 ## Vecka 22
 
+#### Måndag
+
+#### Fredag
+
 ## Vecka 23
+
+#### Måndag
+
+#### Fredag
 
 ## Vecka 24
 
