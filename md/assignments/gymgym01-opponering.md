@@ -45,4 +45,4 @@ Genomförd opposition.
 
 Detta dokument är licenserat under Creative Commons BY-SA. Bilder och fotografier tillhör respektive upphovsman, och befinner sig inte nödvändigtsvis under en Creative Commons-licens.
 
-Dokumentet är skapat och uppdaterat av Ronnie Johansson (@seetee på GitHub).
+Dokumentet är skapat och uppdaterat av Ronnie Johansson (@mrronniejohansson på GitHub).
