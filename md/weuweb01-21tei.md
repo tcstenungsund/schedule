@@ -478,7 +478,9 @@ Vårprojektet
 
 ###### Tester  
 
-En webbsida bör byggas och utveckla med fakta som bas. För att få fakta om just din webbplats används olika sorters tester. Att testa innebär ALDRIG att fråga någon vad de tycker. Istället har vi användbarhetstestning (usability testing), hastighetstestning (speed testing), tillgänglighetstestning (a11y testing) och många fler.   
+Det första du skall testa är såklart om din webbplats följer W3Cs riktlinjer och validerar. Det finns många verktyg som gör detta, och några kan du finna på "[W3C Developers](https://w3c.github.io/developers/tools/)".    
+
+En webbplats bör byggas och utveckla med fakta som bas. För att få fakta om just din webbplats används olika sorters tester. Att testa innebär ALDRIG att fråga någon vad de tycker. Istället har vi användbarhetstestning (usability testing), hastighetstestning (speed testing), tillgänglighetstestning (a11y testing) och många fler.   
 
 _Usability testing_    
 * "[Usability testing](https://en.wikipedia.org/wiki/Usability_testing)"
