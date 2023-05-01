@@ -489,7 +489,7 @@ _Usability testing_
 
 _Speed testing_    
 * "[How Fast Should Websites Load in 2023](https://www.stanventures.com/blog/google-pagespeed-insights/google-recommended-speed/)"
-* "[PageSpeed Insights](https://pagespeed.web.dev/)"
+* [PageSpeed Insights](https://pagespeed.web.dev/)
 
 _A11y testing_   
 * [Web accessibility](https://en.wikipedia.org/wiki/Web_accessibility)
