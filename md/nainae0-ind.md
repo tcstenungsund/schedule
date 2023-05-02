@@ -171,6 +171,7 @@ Vi fortsätter med uppgiften: Svenska Cybersäkerhetslagar.
 
 ## Vecka 18
 
+Sista veckan med uppgiften: Svenska Cybersäkerhetslagar.
 
 
 ## Vecka 19
