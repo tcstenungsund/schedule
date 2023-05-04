@@ -24,3 +24,4 @@ Vart de skall lämnas in
 Detta dokument är licenserat under Creative Commons BY-SA. Bilder och fotografier tillhör respektive upphovsman, och befinner sig inte nödvändigtsvis under en Creative Commons-licens.
 
 Dokumentet är skapat och uppdaterat av Kenneth Frantzen (@seetee på GitHub).
+                                                                                                                                                                                                                                                                                                                                                              
