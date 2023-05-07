@@ -137,6 +137,13 @@
 
 ## Vecka 19
 
+- Ni som har försök kvar för certifieringen, pluggar på det.
+
+Tillfällen att göra omprov:
+- Torsdagar på studiepasset, behöver veta i förväg.
+- Tisdagar 8:35, om man inte har något stöd, behöver veta i förväg.
+- Måndagar 8:35, om man inte har någon annan lekion, behöver veta i förväg.
+
 ## Vecka 20
 
 ## Vecka 21
