@@ -506,7 +506,9 @@ Vårprojektet
 
 #### Måndag    
 
-###### FTP   
+###### LAMP och FTP   
+
+Internet är baserad på the [Client and Server Model](https://youtu.be/SwLdKeC8scE) (3 min). Majoriteten av de servrar som driver webben kör LAMP, [What is a LAMP Stack?](https://youtu.be/tzBgFog6NmY) (8 min).   
 
 Läs om [FTP hos Ineternetstiftelsen](https://internetstiftelsen.se/guide/introduktion-till-ip-internet-protocol/ip-baserade-program/#ftp) och på [Wikipedia](https://sv.wikipedia.org/wiki/File_Transfer_Protocol). Läs [FileZillas egna instruktioner](https://wiki.filezilla-project.org/Using), och se klippet "[How to Use FileZilla FTP Client](https://youtu.be/S5lMPFWliv0)" (3 min). Ladda sedan ned och installera [FileZilla](https://ninite.com/filezilla/), samt ladda in konfigurationsfilen för din grupp som ni får i näven av läraren.
 
