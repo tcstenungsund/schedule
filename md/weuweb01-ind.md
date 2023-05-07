@@ -270,15 +270,25 @@ Vi fortsätter med våra vårprojekt.
 
 ## Vecka 19
 
+Vi fortsätter med våra vårprojekt.
+
 ## Vecka 20
+
+Vi fortsätter med våra vårprojekt.
 
 ## Vecka 21
 
+**Studiedag**
+
 ## Vecka 22
+
+Vårprojktet skall vara klart.
 
 ## Vecka 23
 
+**Klämdag**
+
 ## Vecka 24
 
-**SOMMARLOV**
+**Sista lektionen**
 
