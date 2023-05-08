@@ -443,13 +443,29 @@ Repetition av IT Essentials kursen.
 
 #### Måndag
 
+LOV
+
 #### Fredag
+
+Genomgång av IoT Security kapitel 4.2.
 
 ## Vecka 19
 
 #### Måndag
 
+![](https://user-images.githubusercontent.com/101390367/236765478-7a476483-fc3c-484f-9430-60dc35822337.png)
+
+Laboration med Raspberry Pi och Sense Hat.
+
+Vi fortsätter med våra IoT laborationer. Sedan tidigare är alla färdiga med installationen av Pi och Sense Hat. Ni har även lyckats köra python kod.
+
+Innan vi börjar hitta på egna projekt, vill jag att ni testar några av de projekt som ligger här: [https://projects.raspberrypi.org/en/projects?hardware%5B%5D=sense-hat](https://projects.raspberrypi.org/en/projects?hardware%5B%5D=sense-hat)
+
+Det går bra att googla efter fler projekt med Pi och Sense Hat.
+
 #### Fredag
+
+Genomgång av IoT Security kapitel 4.3.
 
 ## Vecka 20
 
