@@ -274,7 +274,7 @@ Vi fortsätter med våra vårprojekt.
 
 ## Vecka 20
 
-Vi fortsätter med våra vårprojekt.
+Vårprojktet skall vara klart.
 
 ## Vecka 21
 
@@ -282,7 +282,7 @@ Vi fortsätter med våra vårprojekt.
 
 ## Vecka 22
 
-Vårprojktet skall vara klart.
+Något roligt
 
 ## Vecka 23
 
