@@ -290,7 +290,7 @@ Peer-review/Kompisbedömning av Stora projekten.
 
 ## Vecka 22
 
-Terapisession   
+Avrundning, en tillbakablick och en blick på framtiden, samtalsterapi       
 
 ## Vecka 23
 
