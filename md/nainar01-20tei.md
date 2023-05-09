@@ -487,8 +487,10 @@ Nationellt prov.
 ## Vecka 19
 
 #### Tisdag
+Repetera material inför slutprovet nästa vecka. Jag har aktiverat övningsslutprovet igen, föreslår att ni gör det en gång till.
 
 #### Onsdag
+Laboration och avlutning av UF företagen. SLutför affärsplan och gör årsredovisning.
 
 #### Torsdag
 
