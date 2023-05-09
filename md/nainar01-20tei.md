@@ -492,6 +492,10 @@ Repetera material inför slutprovet nästa vecka. Jag har aktiverat övningsslut
 #### Onsdag
 Laboration och avlutning av UF företagen. SLutför affärsplan och gör årsredovisning.
 
+För att få hjälp med den ekonomiska redovisningsbiten finns det en digital utbildning “Aveckla smart” under fliken UTBILDNING på UFs hemsida.
+
+Vad gäller affärsplan kan ni välja att göra den digitala direkt i ungföretagsamhet.se eller ladda ner en mall och fylla i. Carolines affärsplan finns som exempel under INNEHÅLL.
+
 #### Torsdag
 
 ## Vecka 20
