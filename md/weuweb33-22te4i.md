@@ -428,14 +428,13 @@ APL
 
 ## Vecka 21
 
-[Projekt: Gränssnitt](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb33-granssnitt)
+[Projekt: Moderna gränssnitt](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb33-moderna_granssnitt)
 
 ## Vecka 22
 
+Presentation av projekt Moderna gränssnitt!
 
 ## Vecka 23
 
-
-## Vecka 24
-
-**SOMMARLOV**
+**SOMMARLOV**    
+(För resten av livet, typ, eh, ja...)    
