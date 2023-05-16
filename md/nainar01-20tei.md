@@ -506,7 +506,11 @@ TEORETISKT SLUTPROV i CCNA2 kursen.
 
 #### Onsdag
 
-PRAKTISKT SLUTPROV i CCNA2 kursen.
+PAKTISKT SLUTPROV i CCNA2 kursen.
+För er som klarat det teoretiska slutprovet finns det möjlighet att göra det praktiska slutprovet.
+
+Förbered er inför det praktiska slutprovet med att göra laborationerna kring VLAN och VLAN routing.
+Ni som inte klarat det teoretiska slutprovet läser på och gör övningsslutprovet.
 
 #### Torsdag
 
@@ -517,22 +521,36 @@ LOV
 #### Tisdag
 
 SM i UF, Stockholm.
+Rektor informerar om studenten.
 
 #### Onsdag
 
 SM i UF, Stockholm.
+Förbered er inför det praktiska slutprovet med att göra laborationerna kring VLAN och VLAN routing.
+Ni som inte klarat det teoretiska slutprovet läser på och gör övningsslutprovet.
 
 #### Torsdag
 
 SM i UF, Stockholm.
+Förbered er inför det praktiska slutprovet med att göra laborationerna kring VLAN och VLAN routing.
+Ni som inte klarat det teoretiska slutprovet läser på och gör övningsslutprovet.
 
 ## Vecka 22
 
 #### Tisdag
+Omprovtillfälle för det teoretiska slutprovet i CCNA 2. 
+Möjlighet att göra det praktiska slutprovet för certifiering.
+Komplettering av modulprov och laborationer.
 
 #### Onsdag
+Omprovtillfälle för det teoretiska slutprovet i CCNA 2. 
+Möjlighet att göra det praktiska slutprovet för certifiering.
+Komplettering av modulprov och laborationer.
 
 #### Torsdag
+Omprovtillfälle för det teoretiska slutprovet i CCNA 2. 
+Möjlighet att göra det praktiska slutprovet för certifiering.
+Komplettering av modulprov och laborationer.
 
 ## Vecka 23
 
