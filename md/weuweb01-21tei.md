@@ -537,15 +537,11 @@ Vårprojektet
 
 Prov: Planeringsverktyg, Vektorgrafik, Logotypedesign, SVG-animation, Design systems och Tester
 
-## Vecka 22
-
-#### Måndag    
-
-Vårprojektet   
-
-#### Tisdag    
+#### Fredag (Ronnies lektion) 
 
 Presentation Vårprojektet    
+
+## Vecka 22
 
 ## Vecka 23 
 
