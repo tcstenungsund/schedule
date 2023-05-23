@@ -541,6 +541,10 @@ Prov: Planeringsverktyg, Vektorgrafik, Logotypedesign, SVG-animation, Design sys
 
 Presentation Vårprojektet    
 
+Berätta om ert projekt. Vad målsättningen var, hur arbetet gick och vad resultatet blev. Visa den färdiga sidan, demonstrera funktionaliteten. Visa koden, och nämn några detaljer om hur den fungerar. Visa dokumentationen, och beskriv utvecklingsprocessen.
+
+Ni väljer själva om ni vill göra en presentation, eller om ni använder dokumentationen som illustrationsmaterial. Se till att alla i gruppen är delaktiga.
+
 ## Vecka 22
 
 ## Vecka 23 
