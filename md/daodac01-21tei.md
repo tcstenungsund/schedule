@@ -148,6 +148,18 @@ Tillfällen att göra omprov:
 
 ## Vecka 21
 
+Att Göra:
+- Vi skall fixa USB-stickor tills på måndag.
+
+Följ sedan tutorial på länken nedan
+OBS!!
+Det är alternativ 2 ni skall följa!!
+- [Ladda ner windows 11](https://www.makeuseof.com/windows-11-download-iso/)
+
+Hittar du inte programmet? Följ denna länken:
+[Rufus](https://rufus.ie/sv/)
+
+
 ## Vecka 22
 
 ## Vecka 23
