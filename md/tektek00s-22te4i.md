@@ -228,39 +228,59 @@ Fredag - Demo av projekt inför Molekylverkstan.
 SPORTLOV
 
 ## Vecka 8
+APL
 
 ## Vecka 9
+APL
 
 ## Vecka 10
+APL
 
 ## Vecka 11
+APL
 
 ## Vecka 12
+APL
 
 ## Vecka 13
+APL
 
 ## Vecka 14
 
 PÅSKLOV
 
 ## Vecka 15
+APL
 
 ## Vecka 16
+APL
 
 ## Vecka 17
+APL
 
 ## Vecka 18
+APL
 
 ## Vecka 19
+APL
 
 ## Vecka 20
+APL
 
 ## Vecka 21
+Redovisning av Examensarbete
+Ni som ännu inte har en anställning söker jobb.
 
 ## Vecka 22
+Redovisning av Examensarbete
+Ni som ännu inte har en anställning söker jobb.
+
+Utvärdering av år4 och gemensam avslutningslunch.
 
 ## Vecka 23
+LOV
 
 ## Vecka 24
+LOV
 
 SOMMARLOV
