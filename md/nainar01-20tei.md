@@ -555,10 +555,15 @@ Komplettering av modulprov och laborationer.
 ## Vecka 23
 
 #### Tisdag
+LOV
 
 #### Onsdag
+Omprovtillfälle för det teoretiska slutprovet i CCNA 2. 
+Möjlighet att göra det praktiska slutprovet för certifiering.
+Komplettering av modulprov och laborationer.
 
 #### Torsdag
+KLASSDAG
 
 ## Vecka 24
 
