@@ -470,27 +470,46 @@ Genomgång av IoT Security kapitel 4.3.
 ## Vecka 20
 
 #### Måndag
+Nationellt prov
 
 #### Fredag
+LOV
 
 ## Vecka 21
 
 #### Måndag
+Studiedag
 
 #### Fredag
+Webredovisningar
 
 ## Vecka 22
 
 #### Måndag
+Prov IoT Security, Praktiska slutprov, Kompletteringar IoT
 
 #### Fredag
+Prov IoT Security, Praktiska slutprov, Kompletteringar IoT
 
 ## Vecka 23
 
 #### Måndag
+LOV
+
 
 #### Fredag
+STUDENT
 
 ## Vecka 24
+
+#### Måndag
+
+Prov IoT Security, Praktiska slutprov, Kompletteringar IoT
+
+Gör kursutvärdering nedan, skriv gärna några rader om vilka moment ni vill ha mer eller mindre av i kursen. Tack på förhand!
+Kursutvärdering:
+https://docs.google.com/forms/d/e/1FAIpQLSeCQr53huledpHuUdRhu9XtOBja6rQwQfuQC8hBdM2igKLBUA/viewform?usp=sharing
+
+#### Fredag
 
 SOMMARLOV
