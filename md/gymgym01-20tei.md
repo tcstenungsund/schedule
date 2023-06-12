@@ -316,12 +316,24 @@ För att få hjälp med den ekonomiska redovisningsbiten finns det en digital ut
 Vad gäller affärsplan kan ni välja att göra den digitala direkt i ungföretagsamhet.se eller ladda ner en mall och fylla i. Carolines affärsplan finns som exempel under INNEHÅLL.
 
 ## Vecka 20
+Avlutning av UF företagen. SLutför affärsplan och gör årsredovisning.
+
+För att få hjälp med den ekonomiska redovisningsbiten finns det en digital utbildning “Aveckla smart” under fliken UTBILDNING på UFs hemsida.
+
+Vad gäller affärsplan kan ni välja att göra den digitala direkt i ungföretagsamhet.se eller ladda ner en mall och fylla i. Carolines affärsplan finns som exempel under INNEHÅLL.
 
 ## Vecka 21
+UF SM i Stockholm
 
 ## Vecka 22
+Avlutning av UF företagen. SLutför affärsplan och gör årsredovisning.
+
+För att få hjälp med den ekonomiska redovisningsbiten finns det en digital utbildning “Aveckla smart” under fliken UTBILDNING på UFs hemsida.
+
+Vad gäller affärsplan kan ni välja att göra den digitala direkt i ungföretagsamhet.se eller ladda ner en mall och fylla i. Carolines affärsplan finns som exempel under INNEHÅLL.
 
 ## Vecka 23
+Brännbollsturnering
 
 ## Vecka 24
 
