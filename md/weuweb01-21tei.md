@@ -545,6 +545,8 @@ Berätta om ert projekt. Vad målsättningen var, hur arbetet gick och vad resul
 
 Ni väljer själva om ni vill göra en presentation, eller om ni använder dokumentationen som illustrationsmaterial. Se till att alla i gruppen är delaktiga.
 
+Peer-review    
+
 ## Vecka 22
 
 ## Vecka 23 
@@ -553,11 +555,15 @@ Ni väljer själva om ni vill göra en presentation, eller om ni använder dokum
 
 #### Måndag    
 
-Fördjupning    
+Feedback och review av Vårprojektet        
 
 #### Tisdag   
 
-Fördjupning    
+Feedbak och review av provet från vecka 21      
+
+Kursutvärdering       
+
+[CSS Battle](https://cssbattle.dev/battle/1)
 
 ## Vecka 25
 
