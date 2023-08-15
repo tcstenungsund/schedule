@@ -2,9 +2,6 @@
 
 ## Vecka 34   
 
-[Uppgift: HTML & CSS Basics](templates/assignment_template.md)
-
-
 ## Vecka 35   
 
 
