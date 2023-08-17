@@ -1,133 +1,109 @@
-# Nätverkssäkerhet - 21IND    
+# Nätverkssäkerhet - 21IND
 
-## Vecka 34   
+## Vecka 34
 
+Testar md
 
-## Vecka 35   
+> mkdir hej
+>
+> cd hej
 
+1. Hej
+2. På
+3. Dig
 
-## Vecka 36   
+🚀️
 
+## Vecka 35
 
-## Vecka 37   
+## Vecka 36
 
+## Vecka 37
 
-## Vecka 38   
+## Vecka 38
 
+## Vecka 39
 
-## Vecka 39   
+## Vecka 40
 
+## Vecka 41
 
-## Vecka 40   
+## Vecka 42
 
+## Vecka 43
 
-## Vecka 41   
+## Vecka 44
 
+**HÖSTLOV**
 
-## Vecka 42   
+## Vecka 45
 
+## Vecka 46
 
-## Vecka 43   
+## Vecka 47
 
+## Vecka 48
 
-## Vecka 44   
+## Vecka 49
 
-**HÖSTLOV**   
+## Vecka 50
 
-## Vecka 45   
+## Vecka 51
 
+## Vecka 52
 
-## Vecka 46   
+**VINTERLOV**
 
+## Vecka 2
 
-## Vecka 47   
+## Vecka 3
 
+## Vecka 4
 
-## Vecka 48   
+## Vecka 5
 
+## Vecka 6
 
-## Vecka 49   
+## Vecka 7
 
+**SPORTLOV**
 
-## Vecka 50   
+## Vecka 8
 
+## Vecka 9
 
-## Vecka 51   
+## Vecka 10
 
+## Vecka 11
 
-## Vecka 52   
+## Vecka 12
 
-**VINTERLOV**   
+## Vecka 13
 
-## Vecka 2   
+## Vecka 14
 
+**PÅSKLOV**
 
-## Vecka 3   
+## Vecka 15
 
+## Vecka 16
 
-## Vecka 4   
+## Vecka 17
 
+## Vecka 18
 
-## Vecka 5   
+## Vecka 19
 
+## Vecka 20
 
-## Vecka 6   
+## Vecka 21
 
+## Vecka 22
 
-## Vecka 7   
+## Vecka 23
 
-**SPORTLOV**   
+## Vecka 24
 
-## Vecka 8   
+## Vecka 25
 
-
-## Vecka 9   
-
-
-## Vecka 10   
-
-
-## Vecka 11   
-
-
-## Vecka 12   
-
-
-## Vecka 13   
-
-
-## Vecka 14   
-
-**PÅSKLOV**   
-## Vecka 15   
-
-
-## Vecka 16   
-
-
-## Vecka 17   
-
-
-## Vecka 18   
-
-
-## Vecka 19   
-
-
-## Vecka 20   
-
-
-## Vecka 21   
-
-
-## Vecka 22   
-
-
-## Vecka 23   
-
-
-## Vecka 24   
-
-
-## Vecka 25   
-**SOMMARLOV**   
+**SOMMARLOV**
