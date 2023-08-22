@@ -2,6 +2,20 @@
 
 ## Vecka 34   
 
+Uppstartsvecka!
+
+Kursplanering, presentation och introduktion till ämnet. Tittar på [Skolverkets riktlinjer](https://www.skolverket.se/undervisning/gymnasieskolan/laroplan-program-och-amnen-i-gymnasieskolan/gymnasieprogrammen/amne?url=1530314731%2Fsyllabuscw%2Fjsp%2Fsubject.htm%3FsubjectCode%3DWEU%26lang%3Dsv%26tos%3Dgy%26p%3Dp). 
+
+###### Upphovsrätt och mjukvarulicenser      
+
+Upphovsrätt och Creative Commons. Tar upp [Statute of Anne](https://en.wikipedia.org/wiki/Statute_of_Anne), [Gutenberg](https://en.wikipedia.org/wiki/Johannes_Gutenberg), [The Mickey Mouse Curve](https://techliberation.com/2009/08/06/copyright-duration-and-the-mickey-mouse-curve/), [The Disney History](https://www.boredpanda.com/funny-disney-history/), [Cory Doctorow](https://craphound.com/) och [Jonathan Coulton](https://www.jonathancoulton.com/). 
+
+Tittar på klippet "[Vad är Creative Commons?](https://youtu.be/Yd9dP3vlOyk)" och ser exempel på sidor där man hittar verk under Creative commons-licenser, som "[Free SVG](https://freesvg.org/)", "[Free Music Archive](https://freemusicarchive.org/)" och "[Pexels](https://www.pexels.com/sv-se/)". Mer information finns på [Creative Commons egna webbplats](http://www.creativecommons.se/). 
+
+Ett verk som är Creative Commons är "[Sintel](https://youtu.be/eRsGyueVLvQ)". 
+
+Sintel är skapad med Free och Open Source Software. Vi ser klippet "[What is Open Source explained in LEGO](https://youtu.be/a8fHgx9mE5U)", och läser dokumentet "[How to become a hacker](https://d.cxcore.net/Eric%20S%20Raymond/How%20To%20Become%20A%20Hacker.pdf)". Det är en ruggigt bra idé att bidra till ett projekt, och här är ett tips "[How to find an Open Source project to contribute to](https://dev.to/this-is-learning/how-to-find-an-open-source-project-to-contribute-to-3093)".
+
 ## Vecka 35   
 
 
