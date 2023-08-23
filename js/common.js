@@ -1,7 +1,9 @@
 // Get current week number from misc.js
 currentWeekNumber = getWeekNumber();
+
 //Get all groups
 groupList = document.querySelectorAll("[class*=group]");
+
 //Get params from url
 const queryString = window.location.search;
 const urlParams = new URLSearchParams(queryString);
@@ -12,6 +14,7 @@ link = urlParams.get("link");
 style = urlParams.get("style");
 fontSize = urlParams.get("fontsize");
 console.log("param" + fontSize);
+
 //weeks in school year common variable
 weeks = [
   34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 1, 2,
@@ -195,7 +198,7 @@ async function getAssignments(html) {
     //Add assignment class to assignments
     assignment.classList += "assignment";
 
-    //If assignment contains words liek test or exam, add test class to assignment
+    //If assignment contains words like test or exam, add test class to assignment
     for (keyword in highlightAssignmentKeyWords) {
       keyword = highlightAssignmentKeyWords[keyword];
       if (
@@ -211,11 +214,29 @@ async function getAssignments(html) {
     //Add arrow icon to assignment
     assignment.innerHTML += '<i class="fa-solid fa-arrow-right"></i>';
 
+    assignment.href = formatLocalAssignmentLink(assignment.href);
+
     //Append customized assignment to assignments list
     assignments[i] = assignment;
   }
 
   return assignments;
+}
+
+function formatLocalAssignmentLink(link) {
+  // If assignment link does not start with http, add urlPrefix
+  if (link.startsWith(window.location.origin)) {
+    link =
+      "https://tcstenungsund.github.io/schedule/assignment.html?link=" +
+      link.slice(window.location.origin.length, link.length);
+
+    // if assignment link ends in .md, remove .md
+    if (link.endsWith(".md")) {
+      link = link.slice(0, -3);
+    }
+
+    return link;
+  }
 }
 
 //Get all groups from html element

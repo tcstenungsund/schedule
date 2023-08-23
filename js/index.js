@@ -78,6 +78,16 @@ async function addAssignmentsToList() {
       assignmentList.appendChild(section.cloneNode(true));
     }
   }
+
+  // Format local assignment links to go to assignment.html
+  const localAssignmentLinks = document.querySelectorAll(
+    `a[href^="assignments"]`
+  );
+
+  for (link of localAssignmentLinks) {
+    console.log(link.toString());
+    link.href = formatLocalAssignmentLink(link.href);
+  }
 }
 
 weekDropdown().then((response) => {

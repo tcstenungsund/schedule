@@ -41,6 +41,16 @@ async function htmlToDom(html) {
   a.innerHTML += '<i class="fa-solid fa-arrow-down"></i>';
   document.getElementById("current-week").appendChild(a);
   //Return empty promise? maybe good for async things?
+
+  // Format local assignment links to go to assignment.html
+  const localAssignmentLinks = document.querySelectorAll(
+    `a[href^="assignments"]`
+  );
+
+  for (link of localAssignmentLinks) {
+    console.log(link.toString());
+    link.href = formatLocalAssignmentLink(link.href);
+  }
   return;
 }
 
