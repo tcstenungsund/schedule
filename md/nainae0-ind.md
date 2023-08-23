@@ -2,14 +2,18 @@
 
 ## Vecka 34
 
+## Vecka 35
+
 Kursintroduktion
+
 Vad är nätverkssäkerhet?
+
 Vad säger Skolverket?
+
 Cisco CyberOps Associate
 
-Teori: Kapitel 1 - The Danger
 
-## Vecka 35
+Teori: Kapitel 1 - The Danger
 
 ## Vecka 36
 
