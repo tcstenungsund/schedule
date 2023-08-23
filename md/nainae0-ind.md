@@ -2,17 +2,12 @@
 
 ## Vecka 34
 
-Testar md
+Kursintroduktion
+Vad är nätverkssäkerhet?
+Vad säger Skolverket?
+Cisco CyberOps Associate
 
-> mkdir hej
->
-> cd hej
-
-1. Hej
-2. På
-3. Dig
-
-🚀️
+Teori: Kapitel 1 - The Danger
 
 ## Vecka 35
 
