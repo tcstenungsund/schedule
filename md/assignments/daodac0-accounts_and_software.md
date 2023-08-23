@@ -10,17 +10,17 @@ Enskild uppgift.
 
 ## Resurser
 
-#### Konton     
+###### Konton     
 * [Proton](https://proton.me/)      
 * [LinkedIn](https://www.linkedin.com/)       
 * [GitHub](https://github.com/)      
 * [CodePen](https://codepen.io/)      
 * [Reddit](https://www.reddit.com/)     
 
-#### Mjukvaror     
+###### Mjukvaror     
 * [Firefox Developer Edition](https://www.mozilla.org/sv-SE/firefox/developer/)     
 
-#### Plugins till webbläsare     
+###### Plugins till webbläsare     
 * [Proton Pass](https://addons.mozilla.org/en-US/firefox/addon/proton-pass/)     
 * [Hide w3schools](https://addons.mozilla.org/en-US/firefox/addon/hide-w3schools/)      
 * [EFF HTTPS Everywhere](https://addons.mozilla.org/sv-SE/firefox/addon/https-everywhere/)      
