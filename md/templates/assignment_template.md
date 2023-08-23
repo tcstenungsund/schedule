@@ -1,38 +1,49 @@
-# Webbutveckling 1: Min Fula Lilla Sida
+# Namn på uppgiften    
 
-Kort beskrivning
----
+_En kort ingress på en mening eller två som beskriver uppgiftens plats i kursupplägget och försöker skapa lite entusiasm och förståelse för vad eleven kommer lära sig!_    
 
-## Förutsättningar
+_Det går självklart att skriva flera stycken, om man har mycket att säga._  
 
-Enskild uppgift.
+![Exempel på tidigare arbete](https://user-images.githubusercontent.com/19572359/164434992-869c0759-2cbf-4fe4-9313-cb35a6ab2bef.png)      
+
+---    
+
+## Förutsättningar    
+
+Enskild uppgift. / Gruppuppgift.
 
 ## Resurser
 
-*   [Valfri webbläsare](https://www.mozilla.org/sv-SE/firefox/new/)
-*   [Notepad++](https://notepad-plus-plus.org/)
-*   [7Zip](https://www.7-zip.org/)
+* [Mjukvara du behöver](https://tcstenungsund.se/)    
+* [Bloginlägg som sätter uppgiften i ett sammanhang](https://tcstenungsund.se/)
+* [Youtubeklipp](https://tcstenungsund.se/)
+* [Steg-för-steg-instruktion](https://tcstenungsund.se/)
 
-> Tips! Om du kör Windows som OS kan mjukvarorna som nämns ovan installeras via den utmärkta tjänsten [Ninite](https://ninite.com/7zip-firefox-notepadplusplus/). Använder du Linux så finns de tillgängliga i din vanliga pakethanterare.
+> Tips! Här kan du ge ett tips som kanske inte passar in i den detaljerade beskrivningen nedan. Till exempel att det är vettigt att titta på Youtubeklippet ovan om man kör fast i uppgiften.    
 
-## Uppgiftsbeskrivning
+## Uppgiftsbeskrivning    
 
-Beskrivning av uppgift
+Vad skall eleven göra i uppgiften? Både övergripande och mer detaljerade instruktioner, beroende på hur uppgiften är upplagd. 
+
+1) Till exempel ...   
+2) ... kan man göra en ...    
+3) ... punktlista.     
+
+Detta är delen av uppgiften som måste uppdateras kontinuerligt allt eftersom bättre sätt att genomföra uppgiften dyker upp.    
 
 ## Förväntat resultat
 
-Beskrivning av vad uppgiften skall resultera i
+Vad är målsättningen med uppgiften? Och vad förväntas eleven ha lärt sig efter genomförd uppgift?    
 
 ### Vilka filer?
 
-Vad som skall lämnas in
+Är det ett 7z-arkiv, en PDF eller ett screenshot?     
 
 ### Var skall de lämnas in?
 
-Vart de skall lämnas in
+I en uppgift i Haldor, bifogat ett mail eller är det kanske ett prov på Cisco.    
 
----
+---     
 
-Detta dokument är licenserat under Creative Commons BY-SA. Bilder och fotografier tillhör respektive upphovsman, och befinner sig inte nödvändigtsvis under en Creative Commons-licens.
-
-Dokumentet är skapat och uppdaterat av Kenneth Frantzen (@seetee på GitHub).
+[![Creative Commons-licens](https://i.creativecommons.org/l/by-sa/4.0/80x15.png)](http://creativecommons.org/licenses/by-sa/4.0/) Detta dokument är licensierat under en [Creative Commons Erkännande-DelaLika 4.0 Internationell Licens](http://creativecommons.org/licenses/by-sa/4.0/).    
+Bilder och fotografier tillhör respektive upphovsman, och befinner sig inte nödvändigtsvis under en Creative Commons-licens.    

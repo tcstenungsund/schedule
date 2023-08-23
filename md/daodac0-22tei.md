@@ -1,10 +1,10 @@
-# Webbutveckling 1 - INDval    
+# Datorteknik - 22TEI    
 
 ## Vecka 34   
 
-Uppstart!
 
 ## Vecka 35   
+Uppstart
 
 
 ## Vecka 36   

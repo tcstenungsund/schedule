@@ -1,10 +1,11 @@
-# Webbutveckling 1 - INDval    
+# Gymnasiearbete - 21TEI    
 
 ## Vecka 34   
+Fredag - Kursuppstart. Genomgång av upplägg. Hur ser året ut. Visa ungföretagsamhet.se.
 
-Uppstart!
 
 ## Vecka 35   
+Onsdag - Nätverkslektionen. Gemensam uppstart. Registrering på ungföretagsamhet.se. Bilda grupper. Fyll i UF idéskiss.
 
 
 ## Vecka 36   
