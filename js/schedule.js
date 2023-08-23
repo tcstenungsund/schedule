@@ -35,7 +35,7 @@ async function htmlToDom(html) {
       )
       .parentElement.scrollIntoView({ block: "center" });
   };
-  a.appendChild(document.createTextNode("Jump to week"));
+  a.appendChild(document.createTextNode("Hoppa till vecka"));
   a.style = "cursor: pointer;";
   a.classList.add("jump-link");
   a.innerHTML += '<i class="fa-solid fa-arrow-down"></i>';
