@@ -35,7 +35,7 @@
   <p align="center">
     An awesome scheduling app  for tc-stenungsund!
     <br />
-    <a href="https://tcstenungsund.github.io/schedule/"><strong>Check out the scheudle! »</strong></a>
+    <a href="https://tcstenungsund.github.io/schedule/"><strong>Check out the schedule! »</strong></a>
     <br />
     <br />
     <a href="https://github.com/klovaaxel/schedule/issues">Report Bug</a>
