@@ -2,16 +2,6 @@
 
 ## Vecka 35   
 
-#### Måndag      
-
-Uppstart! Planering, ordningsregler, kursöversikt, schemagenomgång.       
-
-Skolverkets mål för [Mobila applikationer](https://www.skolverket.se/undervisning/gymnasieskolan/laroplan-program-och-amnen-i-gymnasieskolan/gymnasieprogrammen/amne?url=-996270488%2Fsyllabuscw%2Fjsp%2Fsubject.htm%3FsubjectCode%3DMOI%26courseCode%3DMOIMOB3%26version%3D2%26tos%3Dgy&sv.url=12.5dfee44715d35a5cdfa92a3#anchor_MOIMOB3), [Webbutveckling 3](https://www.skolverket.se/undervisning/gymnasieskolan/laroplan-program-och-amnen-i-gymnasieskolan/gymnasieprogrammen/amne?url=1530314731%2Fsyllabuscw%2Fjsp%2Fsubject.htm%3FsubjectCode%3DWEU%26lang%3Dsv%26tos%3Dgy%26p%3Dp&sv.url=12.5dfee44715d35a5cdfa92a3#anchor_WEUWEB33), och [Tillämpad programmering](https://www.skolverket.se/undervisning/gymnasieskolan/laroplan-program-och-amnen-i-gymnasieskolan/gymnasieprogrammen/amne?url=-996270488%2Fsyllabuscw%2Fjsp%2Fsubject.htm%3FsubjectCode%3DTIA%26courseCode%3DTIATIL00S%26version%3D2%26tos%3Dgy&sv.url=12.5dfee44715d35a5cdfa92a3#anchor_TIATIL00S) (egentligen [Gränssnittsdesign](https://www.skolverket.se/undervisning/gymnasieskolan/laroplan-program-och-amnen-i-gymnasieskolan/gymnasieprogrammen/amne?url=-996270488%2Fsyllabuscw%2Fjsp%2Fsubject.htm%3FsubjectCode%3DGR%25C3%2584%26courseCode%3DGR%25C3%2584GR%25C3%25840%26version%3D3%26tos%3Dgy&sv.url=12.5dfee44715d35a5cdfa92a3#anchor_GR%C3%84GR%C3%840)).       
-
-Vi lyssar till låtarna "[Eternal Flame](https://www.gnu.org/fun/jokes/eternal-flame.html)" och "[Write in Go](https://youtu.be/LJvEIjRBSDA)", för att få chansen att tala lite om olika programmeringsspråk. Vad är skillnaden mellan kompilerade språk och scriptspråk? Vilka språk körs på server och vilka på klient? Vi ser också videon "[Most Popular Programming Languages | 1965-2020](https://youtu.be/sNURYeD4M5Y)".       
-
-Det första projektet är kursen "[HTML5 & CSS Fundamentals](https://www.edx.org/course/html5-and-css-fundamentals)" av W3C på edX.      
-
 #### Tisdag       
 
 #### Torsdag       
