@@ -1,11 +1,12 @@
 # Webbutveckling 1 - INDval    
 
-## Vecka 34   
-
-Uppstart!
-
 ## Vecka 35   
 
+Kursstart!    
+
+Kursplanering, presentation och introduktion till ämnet. Tittar på [Skolverkets riktlinjer](https://www.skolverket.se/undervisning/gymnasieskolan/laroplan-program-och-amnen-i-gymnasieskolan/gymnasieprogrammen/amne?url=1530314731%2Fsyllabuscw%2Fjsp%2Fsubject.htm%3FsubjectCode%3DWEU%26lang%3Dsv%26tos%3Dgy%26p%3Dp).     
+
+Vad är en webbläsare? Vad gör en webbutvecklare? Hur fungerar webben? Vad är en fil? Vad är en katalog? Vad är en URL? The web, past and future. HTML & CSS Basics.    
 
 ## Vecka 36   
 
