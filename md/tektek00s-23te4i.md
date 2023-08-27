@@ -1,4 +1,4 @@
-# Teknik - specialisering - 23TE4I    
+# Teknikspecialisering - 23TE4I    
 
 ## Vecka 34   
 
