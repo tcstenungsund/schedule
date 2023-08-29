@@ -6,6 +6,24 @@
 
 Uppstart!     
 
+
+Går igenom Skolverkets dokument om kursen.
+
+Vi pratar om HTML and CSS Fundamentals och JavaScript på edX samt Javascript Essentials på Skills For All.
+
+Länkar:
+
+edX -  [LÄNK](https://www.edx.org/) 
+
+Skills For All - [LÄNK]([https](https://skillsforall.com/)
+
+MDN - [LÄNK](https://developer.mozilla.org/en-US/)
+
+Eloquent JS - [LÄNK](https://eloquentjavascript.net/)
+
+Ni börjar arbeta med kursen HTML and CSS Fundamentals.
+Nästa vecka startar vi med Javascript
+
 #### Torsdag       
 
 #### Fredag        
