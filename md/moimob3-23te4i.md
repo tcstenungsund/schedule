@@ -15,7 +15,7 @@ Länkar:
 
 edX -  [LÄNK](https://www.edx.org/) 
 
-Skills For All - [LÄNK]([https](https://skillsforall.com/)
+Skills For All - [LÄNK](https://skillsforall.com/)
 
 MDN - [LÄNK](https://developer.mozilla.org/en-US/)
 
