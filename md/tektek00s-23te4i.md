@@ -4,6 +4,17 @@
 
 
 ## Vecka 35   
+Introduktion
+Vi uppdaterar vår LinkedIn profil.
+
+[LinkedIn cheat sheet](https://www.leisurejobs.com/staticpages/18285/the-ultimate-linkedin-cheat-sheet/#Step-by-Step%20LinkedIn%20Guide)
+
+Ett par videos med tips:
+
+[https://youtu.be/X3OzK2w8kUs](https://youtu.be/X3OzK2w8kUs)
+
+[https://youtu.be/ACLeoodZH6s](https://youtu.be/ACLeoodZH6s)
+
 
 
 ## Vecka 36   
@@ -134,4 +145,4 @@
 
 ---     
 [![Creative Commons-licens](https://i.creativecommons.org/l/by-sa/4.0/80x15.png)](http://creativecommons.org/licenses/by-sa/4.0/) Detta dokument är licensierat under en [Creative Commons Erkännande-DelaLika 4.0 Internationell Licens](http://creativecommons.org/licenses/by-sa/4.0/).    
-Bilder och fotografier tillhör respektive upphovsman, och befinner sig inte nödvändigtsvis under en Creative Commons-licens.    
+Bilder och fotografier tillhör respektive upphovsman, och befinner sig inte nödvändigtsvis under en Creative Commons-licens.
