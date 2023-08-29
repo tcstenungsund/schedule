@@ -5,6 +5,8 @@
 
 ## Vecka 35   
 
+Introduktion till kursen. Skapar och lägger till er i kursen CCNA2 på Netacad.
+Vi repeterar en labb labb.
 
 ## Vecka 36   
 
