@@ -5,9 +5,18 @@
 
 ## Vecka 35   
 
-Introduktion till kursen. Skapar och lägger till er i kursen CCNA2 på Netacad.
-Vi repeterar en labb labb.
+Måndag - Introduktion till kursen. Skapar och lägger till er i kursen CCNA2 på Netacad.
+Vi repeterar en labb.
 
+Onsdag - Nätverkslektionen. Gemensam uppstart. Registrering på ungföretagsamhet.se. Bilda grupper. Fyll i UF idéskiss.
+
+Idéskiss
+
+Namn på gruppmedlemmar
+Beskriv er idé
+Vem/vilka är er målgrupp?
+Vilka resurser behöver ni?
+Skicka detta till christoffer.lext@stenungsund.se
 ## Vecka 36   
 
 
