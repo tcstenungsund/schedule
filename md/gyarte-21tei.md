@@ -7,6 +7,15 @@ Fredag - Kursuppstart. Genomgång av upplägg. Hur ser året ut. Visa ungföreta
 ## Vecka 35   
 Onsdag - Nätverkslektionen. Gemensam uppstart. Registrering på ungföretagsamhet.se. Bilda grupper. Fyll i UF idéskiss.
 
+Idéskiss
+
+* Namn på gruppmedlemmar
+* Beskriv er idé
+* Vem/vilka är er målgrupp?
+* Vilka resurser behöver ni?
+
+Skicka detta till christoffer.lext@stenungsund.se
+
 
 ## Vecka 36   
 
