@@ -8,7 +8,9 @@ Uppstart!
 
 Vi pratade om Cisco och deras olika certifikat. Vi kommer att börja med IT Essentials. 
 Alla registrerade sig på [Netacad](https://netacad.com/).
-Vi påbörjade registrering av [Proton](https://proton.me/). Fortsätt med registrering och installation av Proton VPN. Ni behöver en fungerade VPN inför nästa lektion i webbutveckling.
+
+Vi påbörjade registrering av [Proton](https://proton.me/). 
+Fortsätt med registrering och installation av Proton VPN. Ni behöver en fungerade VPN inför nästa lektion i webbutveckling.
 
 
 ## Vecka 36   
