@@ -4,16 +4,13 @@
 
 ## Vecka 35
 
-Kursintroduktion
+Uppstart!
+Gått igenom Skolverkets dokument kring Nätverkssäkerhet.
+Vi har gått igenom strukturen och innehållet på CyberOps Associate och tittat igenom halva modul 1.
 
-Vad är nätverkssäkerhet?
+Vi pratade lite snabbt om olika praktiska moment vi kommer att göra under kursens gång, bl.a. CTF'er (picoctf), virtuella miljöer, labbar från Cisco, testa mjukvaror osv.
 
-Vad säger Skolverket?
-
-Cisco CyberOps Associate
-
-
-Teori: Kapitel 1 - The Danger
+Vi tittade på första avsnittet av serien "[Hackad](https://www.svtplay.se/hackad)".
 
 ## Vecka 36
 
