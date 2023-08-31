@@ -21,6 +21,8 @@ Nästa vecka startar vi med Javascript.
 
 #### Torsdag       
 
+###### Mjukvaruhistorik      
+
 Vi lyssar till låtarna "[Eternal Flame](https://www.gnu.org/fun/jokes/eternal-flame.html)" och "[Write in Go](https://youtu.be/LJvEIjRBSDA)", för att få chansen att tala lite om olika programmeringsspråk. Vad är skillnaden mellan kompilerade språk och scriptspråk? Vilka språk körs på server och vilka på klient? Vi ser också videon "[Most Popular Programming Languages | 1965-2020](https://youtu.be/sNURYeD4M5Y)".       
 
 #### Fredag        
