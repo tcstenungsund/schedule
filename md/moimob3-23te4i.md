@@ -6,27 +6,26 @@
 
 Uppstart!     
 
+Går igenom Skolverkets dokument om kursen.     
 
-Går igenom Skolverkets dokument om kursen.
+Vi pratar om HTML and CSS Fundamentals och JavaScript på edX samt Javascript Essentials på Skills For All.     
 
-Vi pratar om HTML and CSS Fundamentals och JavaScript på edX samt Javascript Essentials på Skills For All.
+Länkar: 
+ * [edX](https://www.edx.org/)       
+ * [Skills For All](https://skillsforall.com/)      
+ * [MDN](https://developer.mozilla.org/en-US/)      
+ * [Eloquent JS](https://eloquentjavascript.net/)      
 
-Länkar:
-
-edX -  [LÄNK](https://www.edx.org/) 
-
-Skills For All - [LÄNK](https://skillsforall.com/)
-
-MDN - [LÄNK](https://developer.mozilla.org/en-US/)
-
-Eloquent JS - [LÄNK](https://eloquentjavascript.net/)
-
-Ni börjar arbeta med kursen HTML and CSS Fundamentals.
-Nästa vecka startar vi med Javascript
+Ni börjar arbeta med kursen HTML and CSS Fundamentals.      
+Nästa vecka startar vi med Javascript.       
 
 #### Torsdag       
 
+Vi lyssar till låtarna "[Eternal Flame](https://www.gnu.org/fun/jokes/eternal-flame.html)" och "[Write in Go](https://youtu.be/LJvEIjRBSDA)", för att få chansen att tala lite om olika programmeringsspråk. Vad är skillnaden mellan kompilerade språk och scriptspråk? Vilka språk körs på server och vilka på klient? Vi ser också videon "[Most Popular Programming Languages | 1965-2020](https://youtu.be/sNURYeD4M5Y)".       
+
 #### Fredag        
+
+*Veckans sociala medier:* 
 
 ## Vecka 36   
 
@@ -38,6 +37,8 @@ Nästa vecka startar vi med Javascript
 
 #### Fredag        
 
+*Veckans sociala medier:* 
+
 ## Vecka 37   
 
 #### Måndag       
@@ -47,6 +48,8 @@ Nästa vecka startar vi med Javascript
 #### Torsdag       
 
 #### Fredag        
+
+*Veckans sociala medier:* 
 
 ## Vecka 38   
 
@@ -58,6 +61,8 @@ Nästa vecka startar vi med Javascript
 
 #### Fredag        
 
+*Veckans sociala medier:* 
+
 ## Vecka 39   
 
 #### Måndag       
@@ -67,6 +72,8 @@ Nästa vecka startar vi med Javascript
 #### Torsdag       
 
 #### Fredag        
+
+*Veckans sociala medier:* 
 
 ## Vecka 40   
 
@@ -78,6 +85,8 @@ Nästa vecka startar vi med Javascript
 
 #### Fredag        
 
+*Veckans sociala medier:* 
+
 ## Vecka 41   
 
 #### Måndag       
@@ -87,6 +96,8 @@ Nästa vecka startar vi med Javascript
 #### Torsdag       
 
 #### Fredag        
+
+*Veckans sociala medier:* 
 
 ## Vecka 42   
 
@@ -98,6 +109,8 @@ Nästa vecka startar vi med Javascript
 
 #### Fredag        
 
+*Veckans sociala medier:* 
+
 ## Vecka 43   
 
 #### Måndag       
@@ -107,6 +120,8 @@ Nästa vecka startar vi med Javascript
 #### Torsdag       
 
 #### Fredag        
+
+*Veckans sociala medier:* 
 
 ## Vecka 44   
 
