@@ -12,6 +12,7 @@ Alla registrerade sig på [Netacad](https://netacad.com/).
 Vi påbörjade registrering av [Proton](https://proton.me/). 
 Fortsätt med registrering och installation av Proton VPN. Ni behöver en fungerade VPN inför nästa lektion i webbutveckling.
 
+[Uppgift: Accounts and Software](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/daodac0-accounts_and_software)      
 
 ## Vecka 36   
 
