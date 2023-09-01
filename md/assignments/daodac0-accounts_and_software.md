@@ -22,8 +22,7 @@ Enskild uppgift.
 
 ###### Plugins till webbläsare     
 * [Proton Pass](https://addons.mozilla.org/en-US/firefox/addon/proton-pass/)     
-* [Hide w3schools](https://addons.mozilla.org/en-US/firefox/addon/hide-w3schools/)      
-* [EFF HTTPS Everywhere](https://addons.mozilla.org/sv-SE/firefox/addon/https-everywhere/)      
+* [Hide w3schools](https://addons.mozilla.org/en-US/firefox/addon/hide-w3schools/)         
 * [EFF Privacy Badger](https://addons.mozilla.org/sv-SE/firefox/addon/privacy-badger17/)      
 
 
