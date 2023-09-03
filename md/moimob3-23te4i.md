@@ -33,6 +33,12 @@ Vi lyssar till låtarna "[Eternal Flame](https://www.gnu.org/fun/jokes/eternal-f
 
 #### Måndag       
 
+Med avstamp i artikeln "[10 Projects everyone should try at least once](https://www.webdesignerdepot.com/2017/11/design-bucket-list-10-projects-everyone-should-try-at-least-once/)" talar vi om mjukvara för UX-design, som [Scribus](https://www.scribus.net/) och [Inkscape](https://inkscape.org/). Vi ser "[What Is Figma?](https://youtu.be/PaPIsyO1t3Q)" och "[Is Figma Dead?](https://youtu.be/pj7D0tSNmEg)". I kursen kommer vi använda [Penpot](https://penpot.app/) för detta ändamål. 
+
+[<img alt="Alternatives to Adobe products" src="https://i.imgur.com/ieDaMzO.png" width="20%">](https://i.imgur.com/ieDaMzO.png)
+
+Inspiration till automatisering med [n8n](https://n8n.io/), följt av enskild erövring av [CSS Diner](https://flukeout.github.io/).         
+
 #### Tisdag       
 
 #### Torsdag       
