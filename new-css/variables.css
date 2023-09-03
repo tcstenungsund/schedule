@@ -1,0 +1,39 @@
+:root {
+  --font-family: "Atkinson Hyperlegible", sans-serif;
+  --font-style: normal;
+  --font-weight: normal;
+  --font-size: 1rem;
+
+  --text-color: #272932;
+  --primary-color: #4789c6;
+  --accent-color: #dead40;
+  --danger-color: #da0646;
+  --background-color: #fdfdff;
+
+  --border-radius: 0.5rem;
+
+  --hover-background-color: #4789c628;
+  --hover-border-radius: var(--border-radius);
+  --hover-transition: ease-in-out 0.2s;
+
+  --page-margin-inline: 2rem;
+  --page-margin-block: 1rem;
+
+  --assignment-text-color: #222222;
+  --assignment-background-color: #4789c657;
+  --assignment-border-radius: 100vw;
+  --assignment-hover-background-color: #4789c6;
+  --assignment-hover-text-color: #fafafa;
+
+  /* 
+  Breakpoints, keep to these values! but do not use in media queires directly.
+  Css limitions on the :root selector prevents the media query form accessing variables. 
+  Read more: https://bholmes.dev/blog/alternative-to-css-variable-media-queries/ 
+  */
+  --screen-xxsmall: 400px;
+  --screen-xsmall: 600px;
+  --screen-small: 1000px;
+  --screen-medium: 1200px;
+  --screen-large: 1400px;
+  --screen-xlarge: 1600px;
+}

@@ -1,0 +1,4 @@
+body {
+  background-color: var(--background-color);
+  margin: var(--page-margin-block) var(--page-margin-inline);
+}
