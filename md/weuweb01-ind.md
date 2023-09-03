@@ -22,6 +22,8 @@ Hur är CSS strukturerat och hur använder man det? Några vanliga värden och e
 
 [<img alt="Selektor, egenskap och värde" src="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics/css-declaration-small.png" width="60%">](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics/css-declaration-small.png)
 
+Registrera ett nytt konto på tjänsten [Codepen](https://codepen.io/). Påbörja sedan uppgiften nedan.        
+
 [Uppgift: HTML & CSS Basics](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb01-html_css_basics)
 
 ## Vecka 37   
