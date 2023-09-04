@@ -1,0 +1,13 @@
+nav {
+  margin-bottom: var(--page-margin-block);
+}
+
+body {
+  margin-bottom: 0;
+}
+
+iframe {
+  width: 100vw;
+  margin-inline: calc(-1 * var(--page-margin-inline));
+  height: calc(100vh - max(3rem, 10vh) - 2 * var(--page-margin-block));
+}

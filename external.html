@@ -1,0 +1,56 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#4789c6" />
+    <title>TC-stenungsund</title>
+
+    <link rel="stylesheet" href="./css/variables.css" />
+    <link rel="stylesheet" href="./css/typography.css" />
+    <link rel="stylesheet" href="./css/styles.css" />
+    <link rel="stylesheet" href="./css/pages/external.css" />
+
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="/resources/favicon/apple-touch-icon.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="/resources/favicon/favicon-32x32.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="/resources/favicon/favicon-16x16.png"
+    />
+    <link rel="manifest" href="./resources/favicon/site.webmanifest" />
+
+    <!-- Custom Lit components -->
+    <script type="module" src="./components/dist/index.js"></script>
+  </head>
+  <body>
+    <header>
+      <navbar-component></navbar-component>
+    </header>
+    <main id="main">
+      <iframe
+        id="iframe-external"
+        class="iframe-external"
+        src=""
+        frameborder="0"
+      >
+      </iframe>
+    </main>
+
+    <script>
+      const urlParams = new URLSearchParams(window.location.search);
+      iframe = document.getElementById("iframe-external");
+      iframe.setAttribute("src", urlParams.get("link") ?? "");
+    </script>
+  </body>
+</html>
