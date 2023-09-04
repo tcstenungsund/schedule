@@ -27,7 +27,26 @@ export class NavbarComponent extends LitElement {
         border-radius: 100vw;
       }
 
-      & a:first-child {
+      & a.back {
+        position: fixed;
+        left: var(--back-arrow-margin-left);
+        bottom: var(--back-arrow-margin-bottom);
+        background-color: var(--back-arrow-background-color);
+        border-radius: 100vw;
+        transition: var(--hover-transition);
+        box-shadow: var(--back-arrow-box-shadow);
+
+        &.back:hover {
+          transition: var(--hover-transition);
+          background-color: var(--primary-color);
+
+          & img {
+            filter: invert(1);
+          }
+        }
+      }
+
+      & a.logo {
         margin-left: 0;
         padding-left: 0;
         margin-right: auto;
@@ -44,8 +63,16 @@ export class NavbarComponent extends LitElement {
   `;
 
   protected render() {
-    return html`<nav>
-      <a href="index.html" title="Översikt">
+    return html` <nav>
+      <a href="#main" class="sr-only">Gå till huvudinnehåll</a>
+
+      ${document.referrer
+        ? html`<a class="back" .href="${document.referrer}" title="Tillbaka">
+            <img src="resources/icons/arrow-left-to-line.svg" alt="Tillbaka" />
+          </a>`
+        : null}
+
+      <a class="logo" href="index.html" title="Översikt">
         <img
           src="resources/images/tc-logo.svg"
           alt="Teknikcollege Stenungsund"
