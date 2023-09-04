@@ -71,10 +71,18 @@ function e(e,t,n,s){var i,r=arguments.length,o=r<3?t:null===s?s=Object.getOwnPro
         }
       }
 
+      & a img[src^="resources/icons"] {
+        filter: var(--icon-filter);
+      }
+
       & a:hover:has(img[src^="resources/icons"]) {
         transition: var(--hover-transition);
         background-color: var(--hover-background-color);
         border-radius: 100vw;
+
+        img {
+          filter: var(--icon-hover-filter);
+        }
       }
 
       & a.back {

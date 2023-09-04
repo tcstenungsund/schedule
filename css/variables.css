@@ -52,3 +52,21 @@
   --screen-large: 1400px;
   --screen-xlarge: 1600px;
 }
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --text-color: #fdfdff;
+    --primary-color: #4789c6;
+    --accent-color: #dead40;
+    --danger-color: #da0646;
+    --background-color: #272932;
+
+    --assignment-text-color: #fdfdff;
+
+    --icon-filter: invert(1);
+
+    --hover-background-color: #4789c693;
+
+    --back-arrow-background-color: #3a6087;
+  }
+}
