@@ -18,6 +18,12 @@ Ett par videos med tips:
 
 
 ## Vecka 36   
+Måndag/Tisdag
+Gör färdigt din Linkedin profil.
+
+CV och personligt brev. Inför APL ansökan behöver vi ha ett uppdaterat CV och personligt brev.
+
+Tips och mallar finner du här - [Arbetsförmedlingen](https://arbetsformedlingen.se/for-arbetssokande/cv-ansokan-och-intervju)
 
 
 ## Vecka 37   
