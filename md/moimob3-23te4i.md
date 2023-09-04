@@ -37,7 +37,7 @@ Med avstamp i artikeln "[10 Projects everyone should try at least once](https://
 
 [<img alt="Alternatives to Adobe products" src="https://i.imgur.com/ieDaMzO.png" width="20%">](https://i.imgur.com/ieDaMzO.png)
 
-Inspiration till automatisering med [n8n](https://n8n.io/), följt av enskild erövring av [CSS Diner](https://flukeout.github.io/).         
+Inspiration till automatisering med [n8n](https://n8n.io/) och [n8n Quickstart (2023)](https://youtu.be/1MwSoB0gnM4) (4 min), följt av enskild erövring av [CSS Diner](https://flukeout.github.io/).         
 
 #### Tisdag       
 
