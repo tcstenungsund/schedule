@@ -1,3 +1,4 @@
+import exp from "constants";
 import { marked } from "marked";
 
 const assignmentKeyWords: string[] = [
@@ -11,7 +12,7 @@ const assignmentKeyWords: string[] = [
   "djupdykning",
 ];
 
-export function mdToGroupedHtml(md: string): Schedule {
+export function mdToGroupedHtmlSchedule(md: string): Schedule {
   const container = document.createElement("div");
   container.innerHTML = marked.parse(formatMarkDown(md));
 
@@ -50,6 +51,8 @@ export function mdToGroupedHtml(md: string): Schedule {
 
   list = markAssignments(list);
 
+  list = convertLocalLinks(list);
+
   return {
     title: title,
     weekList: list,
@@ -80,11 +83,32 @@ function markAssignments(list: HTMLUListElement): HTMLUListElement {
   return mutableList;
 }
 
+function convertLocalLinks(list: HTMLUListElement): HTMLUListElement {
+  const mutableList = list.cloneNode(true) as HTMLUListElement;
+
+  for (const link of mutableList.querySelectorAll("a")) {
+    const href = link.getAttribute("href");
+    if (!href) continue;
+    if (href.startsWith("http")) continue;
+    if (href.startsWith("assignments/"))
+      link.href = "./assignment.html?link=" + href;
+  }
+
+  return mutableList;
+}
+
 function formatMarkDown(md: string): string {
   // Make bullets behave like lists
   md = md.replace(/•/g, "-");
 
   return md;
+}
+
+export function mdToAssignment(md: string): HTMLElement {
+  const container = document.createElement("div");
+  container.innerHTML = marked.parse(formatMarkDown(md));
+
+  return container;
 }
 
 export type Schedule = {

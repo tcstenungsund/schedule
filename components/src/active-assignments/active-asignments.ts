@@ -1,8 +1,11 @@
 import { LitElement, TemplateResult, css, html } from "lit";
 import { customElement, property } from "lit/decorators.js";
 import { getStylesFromDom } from "../common/styles";
-import { fetchSchedules } from "../common/schedule";
-import { Schedule as Schedule, mdToGroupedHtml } from "../common/md-converter";
+import { fetchSchedules } from "../common/schedule-api";
+import {
+  Schedule as Schedule,
+  mdToGroupedHtmlSchedule,
+} from "../common/md-converter";
 
 @customElement("active-assignments-component")
 export class ActiveAssignmentsComponent extends LitElement {
@@ -34,7 +37,7 @@ export class ActiveAssignmentsComponent extends LitElement {
 
     const mdDict = await fetchSchedules(this.courses);
     for (const key of Object.keys(mdDict)) {
-      this.schedules[key] = mdToGroupedHtml(mdDict[key]);
+      this.schedules[key] = mdToGroupedHtmlSchedule(mdDict[key]);
       this.schedules[key].assignemnts = getAssignmentsActiveFromScheduleForWeek(
         this.schedules[key],
         this.week ?? ""
