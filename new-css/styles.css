@@ -2,3 +2,31 @@ body {
   background-color: var(--background-color);
   margin: var(--page-margin-block) var(--page-margin-inline);
 }
+
+pre:has(code) {
+  background-color: var(--code-background-color);
+  color: var(--code-text-color);
+  padding: 1rem;
+  border-radius: var(--code-border-radius);
+  overflow: auto;
+  max-width: 100%;
+  max-height: 100%;
+  line-height: var(--code-line-height);
+}
+
+.sr-only:not(:focus):not(:active) {
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
+}
+
+input {
+  font-size: var(--input-font-size);
+  font-weight: var(--input-font-weight);
+  padding: var(--input-padding);
+  border-radius: var(--input-border-radius);
+}
