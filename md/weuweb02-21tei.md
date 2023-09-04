@@ -30,7 +30,7 @@ Setup av vår workspace.
 
 ## Vecka 39   
 
-Instroduktion till CMS:er.      
+Introduktion till CMS:er.      
 
 ## Vecka 40   
 
