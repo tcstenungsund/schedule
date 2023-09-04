@@ -1,4 +1,4 @@
-import { mdToGroupedHtml } from "./md-converter";
+import { Schedule, mdToGroupedHtmlSchedule } from "./md-converter";
 
 export async function fetchSchedules(
   schedules: string[]
@@ -58,7 +58,7 @@ export async function getWeekPreview(
   const scheduleMd = await fetchSchedule(scheduleName);
   if (!scheduleMd) return null;
 
-  const schedule = mdToGroupedHtml(scheduleMd);
+  const schedule = mdToGroupedHtmlSchedule(scheduleMd);
 
   const weekHtml =
     schedule.weekList.querySelector(`li[data-week='${week}']`)?.innerHTML ?? "";
@@ -72,6 +72,17 @@ export async function getWeekPreview(
   preview.querySelector("[data-week-title]")?.remove();
 
   return preview;
+}
+
+export async function getSchedule(
+  scheduleName: string
+): Promise<Schedule | null> {
+  const scheduleMd = await fetchSchedule(scheduleName);
+  if (!scheduleMd) return null;
+
+  const schedule = mdToGroupedHtmlSchedule(scheduleMd);
+
+  return schedule;
 }
 
 export type CachedSchedule = {
