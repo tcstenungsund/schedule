@@ -1,6 +1,6 @@
 import { LitElement, TemplateResult, css, html } from "lit";
 import { customElement, property } from "lit/decorators.js";
-import { getWeekPreview } from "../common/schedule";
+import { getWeekPreview } from "../common/schedule-api";
 import { getStylesFromDom } from "../common/styles";
 
 @customElement("schedule-preview-component")
