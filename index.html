@@ -6,10 +6,10 @@
     <meta name="theme-color" content="#4789c6" />
     <title>TC-stenungsund</title>
 
-    <link rel="stylesheet" href="./new-css/variables.css" />
-    <link rel="stylesheet" href="./new-css/typography.css" />
-    <link rel="stylesheet" href="./new-css/styles.css" />
-    <link rel="stylesheet" href="./new-css/pages/index.css" />
+    <link rel="stylesheet" href="./css/variables.css" />
+    <link rel="stylesheet" href="./css/typography.css" />
+    <link rel="stylesheet" href="./css/styles.css" />
+    <link rel="stylesheet" href="./css/pages/index.css" />
 
     <link
       rel="apple-touch-icon"
@@ -39,29 +39,33 @@
 
       <h1>Planering</h1>
       <form onsubmit="return false">
-        <label for="group-input">Grupp</label>
-        <input
-          list="group-list"
-          id="group-input"
-          name="group-input"
-          onchange="showOnlySelectedGroups()"
-          placeholder="Alla"
-        />
-        <datalist id="group-list"> </datalist>
+        <div class="form-group">
+          <label for="group-input">Grupp</label>
+          <input
+            list="group-list"
+            id="group-input"
+            name="group-input"
+            onchange="showOnlySelectedGroups()"
+            placeholder="Alla"
+          />
+          <datalist id="group-list"> </datalist>
+        </div>
 
-        <label for="week-input">Vecka</label>
-        <input
-          list="week-list"
-          id="week-input"
-          name="week-input"
-          onchange="updateWeek()"
-          placeholder="Nuvarande"
-        />
-        <datalist id="week-list"> </datalist>
+        <div class="form-group">
+          <label for="week-input">Vecka</label>
+          <input
+            list="week-list"
+            id="week-input"
+            name="week-input"
+            onchange="updateWeek()"
+            placeholder="Nuvarande"
+          />
+          <datalist id="week-list"> </datalist>
+        </div>
       </form>
     </header>
 
-    <main id="groups">
+    <main id="main">
       <!-- Year 4 -->
       <section>
         <h2>23Te4i</h2>
@@ -152,7 +156,7 @@
       optionAllGroups.setAttribute("value", "Alla");
       document.getElementById("group-list").appendChild(optionAllGroups);
       document
-        .getElementById("groups")
+        .getElementById("main")
         .querySelectorAll("section h2:first-child")
         .forEach((h2) => {
           const option = document.createElement("option");
@@ -208,7 +212,6 @@
       function updateWeek() {
         week = document.getElementById("week-input").value;
         if (!week || week.toLowerCase() === "nuvarande") week = getWeekNumber();
-        console.log("updateWeek", week);
 
         document.querySelectorAll("schedule-preview-component").forEach((e) => {
           e.setAttribute("week", week);
@@ -244,7 +247,7 @@
         }
 
         document
-          .getElementById("groups")
+          .getElementById("main")
           .querySelectorAll("section")
           .forEach((section) => {
             if (

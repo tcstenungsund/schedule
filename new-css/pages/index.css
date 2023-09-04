@@ -18,14 +18,28 @@ body {
     grid-area: assignments;
   }
 
+  & header form {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+
+    & .form-group {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+  }
+
   & main {
     grid-area: schedules;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 3rem;
 
     & > section {
       display: flex;
       flex-wrap: wrap;
       gap: min(1rem, 1vw);
-      margin-block: 3rem;
 
       & > h2 {
         flex: 0 0 100%;
@@ -34,10 +48,6 @@ body {
       & > schedule-preview-component {
         flex: 1 0 25rem;
       }
-    }
-
-    & > section:first-child {
-      margin-top: 0;
     }
   }
 }
