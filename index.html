@@ -30,12 +30,6 @@
     />
     <link rel="manifest" href="./resources/favicon/site.webmanifest" />
 
-    <!-- Lit-component-library -->
-    <script
-      type="module"
-      src="https://unpkg.com/lit-component-library/dist/lit-component-library.mjs"
-    ></script>
-
     <!-- Custom Lit components -->
     <script type="module" src="./components/dist/index.js"></script>
   </head>
@@ -45,16 +39,25 @@
 
       <h1>Planering</h1>
       <form onsubmit="return false">
-        <label for="group-combobox-input">Grupp</label>
-        <combobox-component
-          id="group-combobox"
-          placeholder="Grupp"
-        ></combobox-component>
-        <label for="week-combobox-input">Vecka</label>
-        <combobox-component
-          id="week-combobox"
-          placeholder="Vecka"
-        ></combobox-component>
+        <label for="group-input">Grupp</label>
+        <input
+          list="group-list"
+          id="group-input"
+          name="group-input"
+          onchange="showOnlySelectedGroups()"
+          placeholder="Alla"
+        />
+        <datalist id="group-list"> </datalist>
+
+        <label for="week-input">Vecka</label>
+        <input
+          list="week-list"
+          id="week-input"
+          name="week-input"
+          onchange="updateWeek()"
+          placeholder="Nuvarande"
+        />
+        <datalist id="week-list"> </datalist>
       </form>
     </header>
 
@@ -143,31 +146,35 @@
       }
     </script>
 
-    <!-- Set values in lit combobox components -->
+    <!-- Set values in lit datalist inputs-->
     <script>
-      groups = [{ name: "Alla", value: "All" }];
+      const optionAllGroups = document.createElement("option");
+      optionAllGroups.setAttribute("value", "Alla");
+      document.getElementById("group-list").appendChild(optionAllGroups);
       document
         .getElementById("groups")
         .querySelectorAll("section h2:first-child")
         .forEach((h2) => {
-          groups.push({
-            name: h2.innerText,
-            value: h2.innerText.toLowerCase(),
-          });
+          const option = document.createElement("option");
+          option.setAttribute("value", h2.innerText);
+          document.getElementById("group-list").appendChild(option);
         });
 
-      document
-        .getElementById("group-combobox")
-        .setAttribute("options", JSON.stringify(groups));
-
+      //weeks in school year common variable
       weeks = [
-        { name: "Nuvarande", value: "current" },
-        { name: "1", value: "option 1" },
-        { name: "2", value: "option 2" },
+        34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51,
+        1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20,
+        21, 22, 23,
       ];
-      document
-        .getElementById("week-combobox")
-        .setAttribute("options", JSON.stringify(weeks));
+
+      const optionCurrentWeek = document.createElement("option");
+      optionCurrentWeek.setAttribute("value", "Nuvarande");
+      document.getElementById("week-list").appendChild(optionCurrentWeek);
+      weeks.forEach((week) => {
+        const option = document.createElement("option");
+        option.setAttribute("value", week);
+        document.getElementById("week-list").appendChild(option);
+      });
     </script>
 
     <!-- Set courses in active assignment component -->
@@ -193,28 +200,15 @@
     <!-- Set week number in lit components -->
     <script>
       let week = urlParams.get("week");
-
       if (!week) week = getWeekNumber();
-      document.getElementById("week-combobox").setAttribute("value", week);
+      document.getElementById("week-input").value = week;
 
       updateWeek();
 
-      document.addEventListener(
-        "DOMContentLoaded",
-        function () {
-          document
-            .getElementById("week-combobox")
-            ?.shadowRoot?.getElementById("week-combobox-input")
-            ?.addEventListener("change", (e) => {
-              week = e.target.value;
-              updateWeek();
-            });
-        },
-        false
-      );
-
       function updateWeek() {
-        document.getElementById("week-combobox").value = week;
+        week = document.getElementById("week-input").value;
+        if (!week || week.toLowerCase() === "nuvarande") week = getWeekNumber();
+        console.log("updateWeek", week);
 
         document.querySelectorAll("schedule-preview-component").forEach((e) => {
           e.setAttribute("week", week);
@@ -231,36 +225,24 @@
     <!-- Only show selected groups -->
     <script>
       let group = urlParams.get("group");
-
-      if (!group) group = "Alla";
-      document.getElementById("group-combobox").setAttribute("value", group);
+      if (!group) group = "";
+      document.getElementById("group-input").setAttribute("value", group);
 
       showOnlySelectedGroups();
 
-      document.addEventListener(
-        "DOMContentLoaded",
-        function () {
-          document
-            .getElementById("group-combobox")
-            ?.shadowRoot?.getElementById("group-combobox-input")
-            ?.addEventListener("change", (e) => {
-              group = e.target.value;
-              showOnlySelectedGroups();
-            });
-        },
-        false
-      );
-
       function showOnlySelectedGroups() {
         const selectedGroup = document
-          .getElementById("group-combobox")
-          .getAttribute("value");
+          .getElementById("group-input")
+          .value.toLowerCase();
 
-        if (
-          selectedGroup.toLowerCase() === "all" ||
-          selectedGroup.toLowerCase() === "alla"
-        )
+        if (selectedGroup === "alla" || selectedGroup === "") {
+          document.querySelectorAll("[selected]").forEach((section) => {
+            section.style.display = "flex";
+            section.setAttribute("selected", "true");
+          });
           return;
+        }
+
         document
           .getElementById("groups")
           .querySelectorAll("section")
@@ -268,7 +250,7 @@
             if (
               section
                 .querySelector("h2:first-child")
-                .innerText.toLowerCase() === selectedGroup.toLowerCase()
+                .innerText.toLowerCase() === selectedGroup
             ) {
               section.style.display = "flex";
               section.setAttribute("selected", "true");
@@ -277,20 +259,6 @@
               section.setAttribute("selected", "false");
             }
           });
-
-        // Code for if we want to show only active assignments by groups
-        // document
-        //   .getElementById("active-assignments")
-        //   .querySelectorAll("section")
-        //   .forEach((section) => {
-        //     if (
-        //       section
-        //         .querySelector("h2:first-child")
-        //         .innerText.toLowerCase() === selectedGroup.toLowerCase()
-        //     )
-        //       section.style.display = "block";
-        //     else section.style.display = "none";
-        //   });
 
         updateActiveCourses();
       }
