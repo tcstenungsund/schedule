@@ -163,8 +163,8 @@ function e(e,t,n,s){var i,r=arguments.length,o=r<3?t:null===s?s=Object.getOwnPro
         }
       }
     }
-  `,e([ce({type:Number})],tt.prototype,"week",void 0),e([ce({type:String})],tt.prototype,"scheduleName",void 0),e([ce({type:Object})],tt.prototype,"preview",void 0),tt=e([le("schedule-preview-component")],tt);let nt=class extends re{constructor(){super(...arguments),this.courses=[],this.week=null,this.schedules={}}attributeChangedCallback(e,t,n){super.attributeChangedCallback(e,t,n),t!=n&&this.updateSchedulesAndAssignments()}async updateSchedulesAndAssignments(){if(this.schedules={},!this.courses.length)return;const e=await async function(e){const t={};for(const n of e)t[n]=await et(n);return t}(this.courses);for(const t of Object.keys(e))this.schedules[t]=Ge(e[t]),this.schedules[t].assignemnts=st(this.schedules[t],this.week??"");this.requestUpdate()}render(){for(const e of Object.keys(this.schedules)){const t=this.schedules[e];if(t.assignemnts?.length)return M`<div>
-          <h3>${t.title}</h3>
+  `,e([ce({type:Number})],tt.prototype,"week",void 0),e([ce({type:String})],tt.prototype,"scheduleName",void 0),e([ce({type:Object})],tt.prototype,"preview",void 0),tt=e([le("schedule-preview-component")],tt);let nt=class extends re{constructor(){super(...arguments),this.courses=[],this.week=null,this.schedules={},this.hideScheeduleTitle=""}attributeChangedCallback(e,t,n){super.attributeChangedCallback(e,t,n),t!=n&&this.updateSchedulesAndAssignments()}async updateSchedulesAndAssignments(){if(this.schedules={},!this.courses.length)return;const e=await async function(e){const t={};for(const n of e)t[n]=await et(n);return t}(this.courses);for(const t of Object.keys(e))this.schedules[t]=Ge(e[t]),this.schedules[t].assignemnts=st(this.schedules[t],this.week??"");this.requestUpdate()}render(){for(const e of Object.keys(this.schedules)){const t=this.schedules[e];if(t.assignemnts?.length)return M`<div>
+          ${this.hideScheeduleTitle?"":M`<h3>${t.title}</h3>`}
           <ul>
             ${t.assignemnts.map((e=>M`<li>
                   <span
@@ -194,7 +194,7 @@ function e(e,t,n,s){var i,r=arguments.length,o=r<3?t:null===s?s=Object.getOwnPro
         transition: var(--hover-transition);
       }
     }
-  `,e([ce({type:Array})],nt.prototype,"courses",void 0),e([ce({type:String})],nt.prototype,"week",void 0),e([ce({type:Object})],nt.prototype,"schedules",void 0),nt=e([le("active-assignments-component")],nt);let rt=class extends re{constructor(){super(...arguments),this.link="",this.assignment=null}connectedCallback(){super.connectedCallback(),this.updateAssignment()}attributeChangedCallback(e,t,n){super.attributeChangedCallback(e,t,n),console.log("Attribute changed",e,t,n),t!=n&&this.updateAssignment()}async updateAssignment(){if(!this.link)return;const e=await it(this.link);e||(this.assignment=null),this.assignment=function(e){const t=document.createElement("div");return t.innerHTML=Ke.parse(Ye(e)),t}(e),this.requestUpdate()}render(){return M`${this.assignment}`}};rt.styles=l`
+  `,e([ce({type:Array})],nt.prototype,"courses",void 0),e([ce({type:String})],nt.prototype,"week",void 0),e([ce({type:Object})],nt.prototype,"schedules",void 0),e([ce({type:String})],nt.prototype,"hideScheeduleTitle",void 0),nt=e([le("active-assignments-component")],nt);let rt=class extends re{constructor(){super(...arguments),this.link="",this.assignment=null}connectedCallback(){super.connectedCallback(),this.updateAssignment()}attributeChangedCallback(e,t,n){super.attributeChangedCallback(e,t,n),console.log("Attribute changed",e,t,n),t!=n&&this.updateAssignment()}async updateAssignment(){if(!this.link)return;const e=await it(this.link);e||(this.assignment=null),this.assignment=function(e){const t=document.createElement("div");return t.innerHTML=Ke.parse(Ye(e)),t}(e),this.requestUpdate()}render(){return M`${this.assignment}`}};rt.styles=l`
     ${ue()}
 
     img {
@@ -213,5 +213,17 @@ function e(e,t,n,s){var i,r=arguments.length,o=r<3?t:null===s?s=Object.getOwnPro
     .schedule > ul {
       list-style: none;
       padding: 0;
+    }
+
+    .schedule > ul > li {
+      margin-block: 4rem;
+
+      &:first-child {
+        margin-top: 0;
+      }
+
+      &:last-child {
+        margin-bottom: 0;
+      }
     }
   `,e([ce({type:Number})],ot.prototype,"week",void 0),e([ce({type:String})],ot.prototype,"scheduleName",void 0),ot=e([le("schedule-component")],ot);export{nt as ActiveAssignmentsComponent,rt as AssignmentComponent,pe as NavbarComponent,ot as ScheduleComponent,tt as SchedulePreviewComponent};
