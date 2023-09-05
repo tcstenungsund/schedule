@@ -206,24 +206,6 @@ When you are done editing the schedule you can go to the bottom of the page and 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Fill in about project in README.md
-- [ ] Make it more streamlined to change group names for each year
-- [ ] Make cleaning and branching of the repository happen autoatically every summerbreak 
-- [ ] Multi-language Support
-    - [X] Swedish
-    - [ ] English
-- [ ] Settingspage to streamline changing of settings
-
-See the [open issues](https://github.com/klovaaxel/schedule/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
 <!-- CONTRIBUTING -->
 ## Contributing
 
