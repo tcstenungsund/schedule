@@ -1,123 +1,50 @@
-html{
-    font-size: 2.5vmax;
-    font-size: max(2.5vh);
-    font-family: 'Atkinson Hyperlegible', sans-serif;
-    font-style: normal;
-    font-weight: normal;
-    color: #272932;
+@import url("https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&family=Lato:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+html {
+  font-family: var(--font-family);
+  font-style: var(--font-style);
+  font-weight: var(--font-weight);
+  color: var(--text-color);
 }
-body{
-    font-size:0.9em; /* Change this for general text size */
+body {
+  font-size: var(--font-size);
 }
-h1,h2,h3,h4,h5,h6{
-    font-weight: bold;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: bold;
 }
-h1{
-    font-size: 2em;
+h1 {
+  font-size: 2rem;
 }
-h2{
-    font-size: 1.7em;
+h2 {
+  font-size: 1.7rem;
 }
-h3{
-    font-size: 1.5em;
+h3 {
+  font-size: 1.3rem;
 }
-h4{
-    font-size: 1.3em;
-    margin: 0.5em 0;
+h4 {
+  font-size: 1.25rem;
 }
-h5{
-    font-size: 1.2em;
+h5 {
+  font-size: 1.2rem;
 }
-h6{
-    font-size: 1.1em;
-    margin: 0 0.2em;
-    font-style: italic;
-    color: #16161d;
+h6 {
+  font-size: 1.1rem;
+  font-style: italic;
 }
 
-h6 + p{
-    margin-top: 0;
+a {
+  color: var(--primary-color);
+
+  &:hover {
+    color: var(--accent-color);
+  }
 }
 
-strong{
-    background-color: #da0646;
-    color: #FFF;
-    padding: .5ch 1ch;
-    display: inline-block;
-}
-
-a{
-    color: #4789c6;
-    text-decoration: none;
-}
-a:hover a:not(.test){
-    color: #dead40;
-}
-
-i{
-    font-size: 1.5em;
-    margin: 0 .5ch;
-}
-.mermaid{
-    font-family: unset;
-    font-size: unset;
-    margin: unset;
-}
-main i{
-    transform: translateY(10%)
-}
-main > h1{
-    position: relative;
-    display: flex;
-}
-main h1 a{
-    flex: 1 1;
-    display: flex;
-    justify-content: end;
-    align-items: center;
-    text-decoration: none;
-}
-
-main > h1 i{
-    font-size: .6em;
-    display: flex;
-    align-items: center;
-}
-
-.current-week{
-    background-color: #e4f9e4;
-    padding: 0.5em;
-}
-.current-week .jump-link{
-    display: block;
-    text-align: right;
-}
-
-.ce-toolbox {
-    color: black;
-}
-
-@font-face {
-    font-family: 'Atkinson Hyperlegible';
-    font-style: normal;
-    font-weight: normal;
-    src: local('../resources/typography/AtkinsonHyperlegible-Regular.ttf');
-}
-@font-face {
-    font-family: 'Atkinson Hyperlegible';
-    font-style: normal;
-    font-weight: bold;
-    src: local('../resources/typography/AtkinsonHyperlegible-Bold.ttf');
-}
-@font-face {
-    font-family: 'Atkinson Hyperlegible';
-    font-style: italic;
-    font-weight: normal;
-    src: local('../resources/typography/AtkinsonHyperlegible-Italic.ttf');
-}
-@font-face {
-    font-family: 'Atkinson Hyperlegible';
-    font-style: italic;
-    font-weight: bold;
-    src: local('../resources/typography/AtkinsonHyperlegible-BoldItalic.ttf');
+label {
+  font-weight: bold;
 }
