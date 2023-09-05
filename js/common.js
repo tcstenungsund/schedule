@@ -224,19 +224,21 @@ async function getAssignments(html) {
 }
 
 function formatLocalAssignmentLink(link) {
-  // If assignment link does not start with http, add urlPrefix
-  if (!link.startsWith(window.location.origin)) {
-    link =
-      "https://tcstenungsund.github.io/schedule/assignment.html?link=" +
-      link.slice(window.location.origin.length, link.length);
+  if (
+    link.startsWith("https://tcstenungsund.github.io/schedule/assignments/")
+  ) {
+    link = link.replace(
+      "https://tcstenungsund.github.io/schedule/assignments/",
+      "https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/"
+    );
 
     // if assignment link ends in .md, remove .md
     if (link.endsWith(".md")) {
       link = link.slice(0, -3);
     }
-
-    return link;
   }
+
+  return link;
 }
 
 //Get all groups from html element
