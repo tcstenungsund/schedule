@@ -225,7 +225,7 @@ async function getAssignments(html) {
 
 function formatLocalAssignmentLink(link) {
   // If assignment link does not start with http, add urlPrefix
-  if (link.startsWith(window.location.origin)) {
+  if (!link.startsWith(window.location.origin)) {
     link =
       "https://tcstenungsund.github.io/schedule/assignment.html?link=" +
       link.slice(window.location.origin.length, link.length);
