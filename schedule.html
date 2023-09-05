@@ -41,7 +41,10 @@
       <schedule-component></schedule-component>
     </main>
     <aside>
-      <active-assignments-component></active-assignments-component>
+      <h2>Aktuella uppgifter</h2>
+      <active-assignments-component
+        hideScheeduleTitle="true"
+      ></active-assignments-component>
     </aside>
 
     <script>
@@ -49,6 +52,14 @@
       const schedule = document.querySelector("schedule-component");
       schedule.setAttribute("scheduleName", urlParams.get("course") ?? "");
       schedule.setAttribute("week", urlParams.get("week") ?? "");
+
+      const assignments = document.querySelector(
+        "active-assignments-component"
+      );
+      assignments.setAttribute(
+        "courses",
+        `["${urlParams.get("course").toString()}"]` ?? ""
+      );
     </script>
   </body>
 </html>

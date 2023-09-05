@@ -18,6 +18,9 @@ export class ActiveAssignmentsComponent extends LitElement {
   @property({ type: Object })
   schedules: { [name: string]: Schedule } = {};
 
+  @property({ type: String })
+  hideScheeduleTitle = "";
+
   attributeChangedCallback(
     name: string,
     _old: string | null,
@@ -74,7 +77,7 @@ export class ActiveAssignmentsComponent extends LitElement {
       const schedule = this.schedules[key];
       if (schedule.assignemnts?.length) {
         return html`<div>
-          <h3>${schedule.title}</h3>
+          ${!this.hideScheeduleTitle ? html`<h3>${schedule.title}</h3>` : ""}
           <ul>
             ${schedule.assignemnts.map(
               (assignment) =>

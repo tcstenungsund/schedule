@@ -30,3 +30,11 @@ input {
   padding: var(--input-padding);
   border-radius: var(--input-border-radius);
 }
+
+[data-assignment] {
+  background-color: var(--assignment-background-color);
+  padding: 0.25rem 0.5rem;
+  border-radius: var(--assignment-border-radius);
+  color: var(--assignment-text-color);
+  transition: var(--hover-transition);
+}

@@ -58,7 +58,7 @@ body {
       "header    header"
       "schedules assignments"
       "footer    footer";
-    grid-template-columns: auto minmax(15rem, 20vw);
+    grid-template-columns: auto minmax(15rem, 30vw);
     grid-template-rows: min-content auto auto;
   }
 }

@@ -57,6 +57,18 @@ export class ScheduleComponent extends LitElement {
       list-style: none;
       padding: 0;
     }
+
+    .schedule > ul > li {
+      margin-block: 4rem;
+
+      &:first-child {
+        margin-top: 0;
+      }
+
+      &:last-child {
+        margin-bottom: 0;
+      }
+    }
   `;
 
   protected render() {
