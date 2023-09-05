@@ -1,23 +1,29 @@
-# Gymnasiearbete - 21TEI    
+# Teknikspecialisering - 23TE4I    
 
 ## Vecka 34   
-Fredag - Kursuppstart. Genomgång av upplägg. Hur ser året ut. Visa ungföretagsamhet.se.
 
 
 ## Vecka 35   
-Onsdag - Nätverkslektionen. Gemensam uppstart. Registrering på ungföretagsamhet.se. Bilda grupper. Fyll i UF idéskiss.
+Introduktion
+Vi uppdaterar vår LinkedIn profil.
 
-Idéskiss
+[LinkedIn cheat sheet](https://www.leisurejobs.com/staticpages/18285/the-ultimate-linkedin-cheat-sheet/#Step-by-Step%20LinkedIn%20Guide)
 
-* Namn på gruppmedlemmar
-* Beskriv er idé
-* Vem/vilka är er målgrupp?
-* Vilka resurser behöver ni?
+Ett par videos med tips:
 
-Skicka detta till christoffer.lext@stenungsund.se
+[https://youtu.be/X3OzK2w8kUs](https://youtu.be/X3OzK2w8kUs)
+
+[https://youtu.be/ACLeoodZH6s](https://youtu.be/ACLeoodZH6s)
+
 
 
 ## Vecka 36   
+Måndag/Tisdag
+Gör färdigt din Linkedin profil.
+
+CV och personligt brev. Inför APL ansökan behöver vi ha ett uppdaterat CV och personligt brev.
+
+Tips och mallar finner du här - [Arbetsförmedlingen](https://arbetsformedlingen.se/for-arbetssokande/cv-ansokan-och-intervju)
 
 
 ## Vecka 37   
@@ -142,6 +148,7 @@ Skicka detta till christoffer.lext@stenungsund.se
 
 ## Vecka 25   
 **SOMMARLOV**   
+
 ---     
 [![Creative Commons-licens](https://i.creativecommons.org/l/by-sa/4.0/80x15.png)](http://creativecommons.org/licenses/by-sa/4.0/) Detta dokument är licensierat under en [Creative Commons Erkännande-DelaLika 4.0 Internationell Licens](http://creativecommons.org/licenses/by-sa/4.0/).    
 Bilder och fotografier tillhör respektive upphovsman, och befinner sig inte nödvändigtsvis under en Creative Commons-licens.

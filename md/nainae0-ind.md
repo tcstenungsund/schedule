@@ -2,19 +2,15 @@
 
 ## Vecka 34
 
-Testar md
-
-> mkdir hej
->
-> cd hej
-
-1. Hej
-2. På
-3. Dig
-
-🚀️
-
 ## Vecka 35
+
+Uppstart!
+Gått igenom Skolverkets dokument kring Nätverkssäkerhet.
+Vi har gått igenom strukturen och innehållet på CyberOps Associate och tittat igenom halva modul 1.
+
+Vi pratade lite snabbt om olika praktiska moment vi kommer att göra under kursens gång, bl.a. CTF'er (picoctf), virtuella miljöer, labbar från Cisco, testa mjukvaror osv.
+
+Vi tittade på första avsnittet av serien "[Hackad](https://www.svtplay.se/hackad)".
 
 ## Vecka 36
 
