@@ -17,7 +17,15 @@ Beskriv er idé
 Vem/vilka är er målgrupp?
 Vilka resurser behöver ni?
 Skicka detta till christoffer.lext@stenungsund.se
-## Vecka 36   
+## Vecka 36 
+
+Måndag:
+
+Pratar om "basic conf". Labbar "Labb 1".
+
+Onsdag:
+
+
 
 
 ## Vecka 37   
