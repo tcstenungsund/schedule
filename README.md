@@ -95,15 +95,15 @@ When you are done editing the schedule you can go to the bottom of the page and 
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-- [JS]()
-- [HTML]()
-- [CSS]()
-- [Markdown]()
-- [Github Pages]()
-- [Lit]()
-- [Marked]()
-- [Rollup]()
-- [TypeScript]()
+- JS
+- HTML
+- CSS
+- Markdown
+- [TypeScript](https://www.typescriptlang.org/)
+- [Github Pages](https://pages.github.com/)
+- [Lit](https://lit.dev/)
+- [Marked](https://marked.js.org/)
+- [Rollup](https://rollupjs.org/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
