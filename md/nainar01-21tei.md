@@ -25,7 +25,7 @@ Pratar om "basic conf". Labbar "Labb 1".
 
 Onsdag:
 
-
+Pratade om kapitel 1. Ni läste om kapitel 1, gjorde frågor och testade Packet Tracer.
 
 
 ## Vecka 37   
