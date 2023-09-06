@@ -14,6 +14,19 @@ Vi tittade på första avsnittet av serien "[Hackad](https://www.svtplay.se/hack
 
 ## Vecka 36
 
+Vi fortsatte prata om och läsa kapitel 1 och 2 i CyberOps.
+
+Pratade om säkerhetsbrister i samhället och hur attacker påverkar invånare.
+
+Kollade på andra avsnittet av serien "[Hackad](https://www.svtplay.se/hackad)".
+
+Länkar till sidor vi pratade om idag:
+
+Youtube-kanal om säkerhetsincidenter: "[Kevin Fang](https://www.youtube.com/@kevinfaang)"
+
+En sida för övningar och tävlingar inom CTF: "[PicoCTF](https://www.picoctf.org/)"
+
+
 ## Vecka 37
 
 ## Vecka 38
