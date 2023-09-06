@@ -22,9 +22,9 @@ Kollade på andra avsnittet av serien "[Hackad](https://www.svtplay.se/hackad)".
 
 Länkar till sidor vi pratade om idag:
 
-Youtube-kanal om säkerhetsincidenter: "[Kevin Fang](https://www.youtube.com/@kevinfaang)"
+Youtube-kanal om säkerhetsincidenter: [Kevin Fang](https://www.youtube.com/@kevinfaang)
 
-En sida för övningar och tävlingar inom CTF: "[PicoCTF](https://www.picoctf.org/)"
+En sida för övningar och tävlingar inom CTF: [PicoCTF](https://www.picoctf.org/)
 
 
 ## Vecka 37
