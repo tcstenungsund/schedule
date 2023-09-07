@@ -16,6 +16,15 @@ Fortsätt med registrering och installation av Proton VPN. Ni behöver en funger
 
 ## Vecka 36   
 
+Onsdag:
+
+Pratar vidare om kapitel 1 i Cisco IT Essentials-
+
+Torsdag:
+
+Vi ser på videoklipp och diskuterar hur man plockar isär en dator.
+Ni läser sedan 1.4 Summary och gör övningsfrågorna som finns i materialet.
+
 
 ## Vecka 37   
 
