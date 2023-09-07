@@ -43,6 +43,8 @@ Inspiration till automatisering med [n8n](https://n8n.io/) och [n8n Quickstart (
 
 #### Torsdag       
 
+Med avstamp i artikeln "[What is design?](https://draganbabic.com/blog/what-is-design/)" talar vi om alla de yrkesroller som idag har ersatt det som för 30 år sedan kallades för Webdesign. 
+
 #### Fredag        
 
 *Veckans sociala medier:* 
