@@ -6,6 +6,7 @@ export async function fetchAssignment(link: string) {
   if (cachedAssignment) return cachedAssignment;
 
   console.debug("Fetched assignment", link);
+  if (!link.endsWith(".md")) return (link = link + ".md");
   const response = await fetch(`./md/${link}`);
   if (!response.ok) return "";
 
