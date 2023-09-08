@@ -47,7 +47,7 @@ Med avstamp i artikeln "[What is design?](https://draganbabic.com/blog/what-is-d
 
 #### Fredag        
 
-*Veckans sociala medier:* Denna vecka talar vi om Andy Bells princip [Be the browser's mentor, not its mecromanager](https://buildexcellentwebsit.es/), verktyg som [Browsersync](https://browsersync.io/) och [browsers.fyi](https://www.browsers.fyi/), rekommenderade artiklar att läsa om [hur webbläsare fungerar](https://twitter.com/addyosmani/status/1492398000500404227) och [hur datorhallar fungerar](https://twitter.com/jonasbjork/status/1582613685079801859?s=09&t=jvsbFh7XCYENJLlO415T1g), samt en avslutande video med [Top 10 CSS One Liners That Will Blow Your Mind](https://youtu.be/Xc6G3oV24yE) (14min).        
+*Veckans sociala medier:* Denna vecka talar vi om Andy Bells princip [Be the browser's mentor, not its mecromanager](https://buildexcellentwebsit.es/) (vilket ledde till en diskussion om begreppet [Baseline](https://web.dev/baseline/)), verktyg som [Browsersync](https://browsersync.io/) och [browsers.fyi](https://www.browsers.fyi/), rekommenderade artiklar att läsa om [hur webbläsare fungerar](https://twitter.com/addyosmani/status/1492398000500404227) och [hur datorhallar fungerar](https://twitter.com/jonasbjork/status/1582613685079801859?s=09&t=jvsbFh7XCYENJLlO415T1g), samt en avslutande video med [Top 10 CSS One Liners That Will Blow Your Mind](https://youtu.be/Xc6G3oV24yE) (14min).         
 
 ## Vecka 37   
 
