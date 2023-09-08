@@ -4,18 +4,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="theme-color" content="#4789c6" />
-    <meta http-equiv="cache-control" content="no-cache" />
-    <meta http-equiv="expires" content="0" />
-    <meta http-equiv="pragma" content="no-cache" />
-    <title>schedule</title>
+    <title>TC-stenungsund</title>
 
-    <script
-      src="https://kit.fontawesome.com/acd9f5b6d9.js"
-      crossorigin="anonymous"
-    ></script>
-
-    <link rel="stylesheet" href="css/typography.css" />
-    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="./css/variables.css" />
+    <link rel="stylesheet" href="./css/typography.css" />
+    <link rel="stylesheet" href="./css/styles.css" />
+    <link rel="stylesheet" href="./css/pages/schedule.css" />
 
     <link
       rel="apple-touch-icon"
@@ -34,99 +28,38 @@
       sizes="16x16"
       href="/resources/favicon/favicon-16x16.png"
     />
-    <link rel="manifest" href="/resources/favicon/site.webmanifest" />
+    <link rel="manifest" href="./resources/favicon/site.webmanifest" />
+
+    <!-- Custom Lit components -->
+    <script type="module" src="./components/dist/index.js"></script>
   </head>
   <body>
     <header>
-      <section class="branding">
-        <a href="index.html">
-          <img
-            src="resources/images/tc-logo.svg"
-            alt="Teknikcollege Stenungsund"
-          />
-        </a>
-      </section>
-      <nav>
-        <ul>
-          <li>
-            <a
-              href="external.html?link=https://web.skola24.se/timetable/timetable-viewer/stenungsund.skola24.se/N%C3%B6sn%C3%A4sgymnasiet/"
-            >
-              <i class="fa-solid fa-calendar-days"></i>
-            </a>
-          </li>
-          <li>
-            <a
-              href="external.html?link=https://www.skolmaten.se/nosnasgymnasiet/"
-            >
-              <i class="fa-solid fa-utensils"></i>
-            </a>
-          </li>
-          <li>
-            <a href="external.html?link=https://stenungsund.skola24.se/">
-              <i class="fa-solid fa-id-card"></i>
-            </a>
-          </li>
-          <li>
-            <a
-              href="external.html?link=https://tcstenungsund.github.io/digital-signage/"
-            >
-              <i class="fa-solid fa-tv"></i>
-            </a>
-          </li>
-          <li>
-            <a href="https://www.netacad.com/portal/learning">
-              <i class="fa-solid fa-book-open"></i>
-            </a>
-          </li>
-        </ul>
-      </nav>
+      <navbar-component></navbar-component>
     </header>
-
-    <!--Will be filled with schedule.js-->
     <main id="main">
-      <section class="current-week" id="current-week"></section>
-      <section class="schedule" id="schedule"></section>
+      <schedule-component></schedule-component>
     </main>
     <aside>
-      <a href="assignments.html">
-        <h2>
-          Uppgifter:
-          <i
-            class="fa-solid fa-arrow-up-right-from-square"
-            style="font-size: 1em"
-          ></i>
-        </h2>
-      </a>
-      <ul class="assignment-list" id="assignment-list"></ul>
+      <h2>Aktuella uppgifter</h2>
+      <active-assignments-component
+        hideScheeduleTitle="true"
+      ></active-assignments-component>
     </aside>
 
-    <footer>
-      <section class="branding"></section>
-      <section class="social">
-        <ul>
-          <li>
-            <a href="https://www.facebook.com/tcstenungsund">
-              <i class="fa-brands fa-facebook"></i>
-            </a>
-          </li>
-          <li>
-            <a href="https://www.instagram.com/tcstenungsund/">
-              <i class="fa-brands fa-instagram"></i>
-            </a>
-          </li>
-          <li>
-            <a href="https://www.linkedin.com/company/tcstenungsund">
-              <i class="fa-brands fa-linkedin"></i>
-            </a>
-          </li>
-        </ul>
-      </section>
-    </footer>
+    <script>
+      const urlParams = new URLSearchParams(window.location.search);
+      const schedule = document.querySelector("schedule-component");
+      schedule.setAttribute("scheduleName", urlParams.get("course") ?? "");
+      schedule.setAttribute("week", urlParams.get("week") ?? "");
 
-    <script src="https://unpkg.com/showdown/dist/showdown.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
-    <script src="js/common.js"></script>
-    <script src="js/schedule.js"></script>
+      const assignments = document.querySelector(
+        "active-assignments-component"
+      );
+      assignments.setAttribute(
+        "courses",
+        `["${urlParams.get("course").toString()}"]` ?? ""
+      );
+    </script>
   </body>
 </html>

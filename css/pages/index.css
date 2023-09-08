@@ -1,0 +1,64 @@
+body {
+  display: grid;
+  grid-template-areas:
+    "header"
+    "assignments"
+    "schedules"
+    "footer";
+  grid-template-columns: 1fr;
+  grid-template-rows: min-content auto auto auto;
+
+  gap: min(1rem, 1vw);
+
+  & header {
+    grid-area: header;
+  }
+
+  & aside {
+    grid-area: assignments;
+  }
+
+  & header form {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+
+    & .form-group {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+  }
+
+  & main {
+    grid-area: schedules;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 3rem;
+
+    & > section {
+      display: flex;
+      flex-wrap: wrap;
+      gap: min(1rem, 1vw);
+
+      & > h2 {
+        flex: 0 0 100%;
+      }
+
+      & > schedule-preview-component {
+        flex: 1 0 25rem;
+      }
+    }
+  }
+}
+
+@media screen and (min-width: 1000px) {
+  body {
+    grid-template-areas:
+      "header    header"
+      "schedules assignments"
+      "footer    footer";
+    grid-template-columns: auto minmax(15rem, 30vw);
+    grid-template-rows: min-content auto auto;
+  }
+}

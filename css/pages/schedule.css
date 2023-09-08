@@ -1,0 +1,40 @@
+body {
+  display: grid;
+  grid-template-areas:
+    "header"
+    "assignments"
+    "schedules"
+    "footer";
+  grid-template-columns: 1fr;
+  grid-template-rows: min-content auto auto auto;
+  gap: 2rem;
+}
+
+& header {
+  grid-area: header;
+}
+
+& aside {
+  grid-area: assignments;
+}
+
+& main {
+  grid-area: schedules;
+  display: flex;
+  justify-content: center;
+
+  & schedule-component {
+    max-width: 80ch;
+  }
+}
+
+@media screen and (min-width: 1000px) {
+  body {
+    grid-template-areas:
+      "header    header"
+      "schedules assignments"
+      "footer    footer";
+    grid-template-columns: auto minmax(15rem, 35vw);
+    grid-template-rows: min-content auto auto;
+  }
+}

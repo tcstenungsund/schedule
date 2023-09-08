@@ -1,0 +1,72 @@
+:root {
+  --font-family: "Atkinson Hyperlegible", sans-serif;
+  --font-style: normal;
+  --font-weight: normal;
+  --font-size: 1rem;
+
+  --text-color: #272932;
+  --primary-color: #4789c6;
+  --accent-color: #dead40;
+  --danger-color: #da0646;
+  --background-color: #fdfdff;
+
+  --border-radius: 0.5rem;
+
+  --hover-background-color: #4789c628;
+  --hover-border-radius: var(--border-radius);
+  --hover-transition: ease-in-out 0.2s;
+
+  --back-arrow-background-color: #e0eaf6;
+  --back-arrow-margin-left: 0.5rem;
+  --back-arrow-margin-bottom: 1rem;
+  --back-arrow-box-shadow: 0 0 0.5rem #00000040;
+
+  --page-margin-inline: 2rem;
+  --page-margin-block: 1rem;
+
+  --assignment-text-color: #222222;
+  --assignment-background-color: #4789c657;
+  --assignment-border-radius: 100vw;
+  --assignment-hover-background-color: #4789c6;
+  --assignment-hover-text-color: #fafafa;
+
+  --code-background-color: #2c2c2c;
+  --code-text-color: #fafafa;
+  --code-border-radius: var(--border-radius);
+  --code-line-height: 1.5rem;
+
+  --input-font-size: 1.3rem;
+  --input-font-weight: bold;
+  --input-padding: 0.3rem;
+  --input-border-radius: var(--border-radius);
+
+  /* 
+  Breakpoints, keep to these values! but do not use in media queires directly.
+  Css limitions on the :root selector prevents the media query form accessing variables. 
+  Read more: https://bholmes.dev/blog/alternative-to-css-variable-media-queries/ 
+  */
+  --screen-xxsmall: 400px;
+  --screen-xsmall: 600px;
+  --screen-small: 1000px;
+  --screen-medium: 1200px;
+  --screen-large: 1400px;
+  --screen-xlarge: 1600px;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --text-color: #fdfdff;
+    --primary-color: #4789c6;
+    --accent-color: #dead40;
+    --danger-color: #da0646;
+    --background-color: #272932;
+
+    --assignment-text-color: #fdfdff;
+
+    --icon-filter: invert(1);
+
+    --hover-background-color: #4789c693;
+
+    --back-arrow-background-color: #3a6087;
+  }
+}
