@@ -54,6 +54,25 @@ export class NavbarComponent extends LitElement {
         }
       }
 
+      & a.refresh {
+        position: fixed;
+        left: var(--back-arrow-margin-left);
+        bottom: calc(var(--back-arrow-margin-bottom) + 4rem);
+        background-color: var(--back-arrow-background-color);
+        border-radius: 100vw;
+        transition: var(--hover-transition);
+        box-shadow: var(--back-arrow-box-shadow);
+
+        &.refresh:hover {
+          transition: var(--hover-transition);
+          background-color: var(--primary-color);
+
+          & img {
+            filter: invert(1);
+          }
+        }
+      }
+
       & a.logo {
         margin-left: 0;
         padding-left: 0;
@@ -73,6 +92,15 @@ export class NavbarComponent extends LitElement {
   protected render() {
     return html` <nav>
       <a href="#main" class="sr-only">Gå till huvudinnehåll</a>
+
+      <a
+        class="refresh"
+        href=""
+        title="Ladda om"
+        onclick="window.sessionStorage.clear()"
+      >
+        <img src="resources/icons/refresh-cw.svg" alt="Ladda om" />
+      </a>
 
       ${document.referrer
         ? html`<a class="back" .href="${document.referrer}" title="Tillbaka">
