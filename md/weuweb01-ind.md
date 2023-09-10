@@ -12,7 +12,7 @@ Vi ser dokumentären "[The web, past and future](https://youtu.be/cCE2EyV_IiY)" 
 
 Vad är webben? Relationen mellan Internet och the World Wide Web. Vad var syftet med WWW? Vem var Tim Berners-Lee och vad är [W3C](https://en.wikipedia.org/wiki/World_Wide_Web_Consortium). Utifrån det talar vi om [http](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol), [HTML](https://simple.wikipedia.org/wiki/HTML) och [CSS](https://en.wikipedia.org/wiki/CSS).    
 
-###### HTML & CSS      
+###### HTML- & CSS-Struktur      
 
 HTML strukturerar upp information med taggar för att webbläsaren skall förstå.       
 
@@ -36,7 +36,7 @@ Det finns många färger, vilket vi kan se på ett "[Color wheel](https://en.wik
 
 "[MDN Color](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value)" förklarar för oss hur man anger färger i CSS, klippet "[What The Heck Is A Hex Value Anyway?](https://cgi.tutsplus.com/tutorials/what-the-heck-is-a-hex-value-anyway--ae-11932)" (4:15) ger oss bakgrunden till hexvärden, "[HEXplorer](https://codepen.io/robdimarzo/full/xxZgKOR)" illustrerar det och artikeln "[A Guide To Modern CSS Colors With RGB, HSL, HWB, LAB And LCH](https://www.smashingmagazine.com/2021/11/guide-modern-css-colors/)" förklarar alla de övriga.         
 
-Om du inte har någon speciell orsak så rekommenderar artikeln "[Why we moved from RGB and HSL](https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl)" oss att använda använd OKLCH med hjälp av [OKLCH Color Picker & Converter](https://oklch.com)!         
+Om du inte har någon speciell orsak så rekommenderar artikeln "[Why we moved from RGB and HSL](https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl)" oss att använda använda OKLCH med hjälp av [OKLCH Color Picker & Converter](https://oklch.com)!         
 
 Men hur väljer man då? Jo, följ råden i "[How to Choose Colors (Easy 3-Step Process)](https://youtu.be/KMS3VwGh3HY)" och "[The 60:30:10 design rule for web design](https://yuricodesbot.hashnode.dev/the-603010-color-rule-for-web-design)". Hitta nya kombinationer med hjälp av "[ColorKit](https://colorkit.co/)" och "[Color picker](https://htmlcolorcodes.com/color-picker/)".        
 
