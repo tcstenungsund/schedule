@@ -53,6 +53,20 @@ Med avstamp i artikeln "[What is design?](https://draganbabic.com/blog/what-is-d
 
 #### Måndag       
 
+###### En introduktion till JavaScript       
+
+Var kommer JavaScript ifrån? Detta besvarar vi med klippet "[The TRUE History Of The Javascript Programming Language](https://youtu.be/_UjYWgM8guY)" (5min) och artikeln "[The history of JavaScript](https://www.techaheadcorp.com/blog/history-of-javascript/)".      
+
+Vår väg till Javascriptexperter börjar i "[MDN Web docs' Introduction](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction#javascript_and_the_ecmascript_specification)" samt klippet "[Learn JAVASCRIPT in just 5 MINUTES](https://youtu.be/c-I5S_zTwAc)" (5min). Alla lär sig olika, och en resurs att ha som referens är "[Eloquent JavaScript](https://eloquentjavascript.net/)", en fri bok.       
+
+Av Brad Traversy får vi en föreläsning fylld av god praxis, under namnet "[JavaScript Crash Course for Beginners](https://youtu.be/hdI2bqOjy3c)" (1h40min).        
+
+Norrmannen Per Harald Borgen på Scrimba ger oss en interaktiv föreläsning i kursen "[Learn JavaScript for free](https://scrimba.com/learn/learnjavascript)".       
+
+Om du vill gå vidare efter det så rekommenderar jag kursen "[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)" från freeCodeCamp.        
+
+Fortsätt i projektet på edX med kursen "[JavaScript Introduction](https://www.edx.org/course/javascript-introduction)", (och tala med Ronnie om certet).        
+
 #### Tisdag       
 
 #### Torsdag       
