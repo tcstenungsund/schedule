@@ -1,12 +1,13 @@
 export async function fetchAssignment(link: string) {
   if (!link) return "";
+  if (!link.endsWith(".md")) link += ".md";
 
   const cachedAssignment = getCahcedAssignment(link);
-  console.debug("Cached assignment", link);
-  if (cachedAssignment) return cachedAssignment;
+  if (cachedAssignment) {
+    console.debug("Cached assignment", link);
+    return cachedAssignment;
+  }
 
-  console.debug("Fetched assignment", link);
-  if (!link.endsWith(".md")) return (link = link + ".md");
   const response = await fetch(`./md/${link}`);
   if (!response.ok) return "";
 
@@ -17,6 +18,7 @@ export async function fetchAssignment(link: string) {
     JSON.stringify({ assignment, dateTime: new Date() })
   );
 
+  console.debug("Fetched assignment", link);
   return assignment;
 }
 

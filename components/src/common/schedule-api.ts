@@ -16,8 +16,10 @@ export async function fetchSchedule(scheduleName: string): Promise<string> {
   if (!scheduleName) return "";
 
   const cachedSchedule = getCahcedSchedule(scheduleName);
-  console.debug("Cached schedule", scheduleName);
-  if (cachedSchedule) return cachedSchedule;
+  if (cachedSchedule) {
+    console.debug("Cached schedule", scheduleName);
+    return cachedSchedule;
+  }
 
   const response = await fetch(`./md/${scheduleName}.md`);
   if (!response.ok) return "";
