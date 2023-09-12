@@ -5,10 +5,14 @@
 
 ## Vecka 35   
 
-Måndag - Introduktion till kursen. Skapar och lägger till er i kursen CCNA2 på Netacad.
+**Måndag:**
+
+Introduktion till kursen. Skapar och lägger till er i kursen CCNA2 på Netacad.
 Vi repeterar en labb.
 
-Onsdag - Nätverkslektionen. Gemensam uppstart. Registrering på ungföretagsamhet.se. Bilda grupper. Fyll i UF idéskiss.
+**Onsdag:**
+
+Nätverkslektionen. Gemensam uppstart. Registrering på ungföretagsamhet.se. Bilda grupper. Fyll i UF idéskiss.
 
 Idéskiss
 
@@ -19,19 +23,31 @@ Vilka resurser behöver ni?
 Skicka detta till christoffer.lext@stenungsund.se
 ## Vecka 36 
 
-Måndag:
+**Måndag:**
 
 Pratar om "basic conf". Labbar "Labb 1".
 
-Onsdag:
+**Onsdag:**
 
 Pratade om kapitel 1. Ni läste om kapitel 1, gjorde frågor och testade Packet Tracer.
 
 
 ## Vecka 37   
 
+**Måndag:**
+
+Vi går igenom kapitel 2 - Switching concepts.
+Gör de två "Check your understanding"-uppgifterna och öva på basic conf i Packet Tracer.
+
+**Onsdag:**
+
 
 ## Vecka 38   
+
+**Måndag:**
+
+
+**Onsdag:**
 
 
 ## Vecka 39   
