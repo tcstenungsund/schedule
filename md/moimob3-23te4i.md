@@ -67,9 +67,9 @@ Om du vill gå vidare efter det så rekommenderar jag kursen "[JavaScript Algori
 
 Fortsätt i projektet på edX med kursen "[JavaScript Introduction](https://www.edx.org/course/javascript-introduction)", (och tala med Ronnie om certet).        
 
-#### Tisdag       
-
 #### Torsdag       
+
+Gör klart "Learn JavaScript for free" och fortsätt med ert projekt på edX.      
 
 #### Fredag        
 
