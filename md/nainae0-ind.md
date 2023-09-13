@@ -29,6 +29,15 @@ En sida för övningar och tävlingar inom CTF: [PicoCTF](https://www.picoctf.or
 
 ## Vecka 37
 
+Kapitel 3 - Windows Operating System. Mycket av detta kan ni redan, dock finns det vissa delar som kan vara bra att läsa in själv. 
+
+Vi tittade på tredje avsnittet av serien "[Hackad](https://www.svtplay.se/hackad)".
+
+Diskussioner kring avsnittet som handlar om att kapa företag.
+
+Visar "[OverTheWire](https://overthewire.org/wargames/bandit/)".
+
+
 ## Vecka 38
 
 ## Vecka 39
