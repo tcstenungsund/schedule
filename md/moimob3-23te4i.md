@@ -73,7 +73,7 @@ Gör klart "Learn JavaScript for free" och fortsätt med ert projekt på edX.
 
 #### Fredag        
 
-*Veckans sociala medier:* 
+*Veckans sociala medier:* Med utgångspunkt i artikeln "[The large, small, and dynamic viewport units](https://web.dev/viewport-units/)" talar vi om längdmått och landar i att dvh/dvw är vettigt att lära sig. Exemplet "[Minimal Dark Mode](https://meiert.com/en/blog/minimal-dark-mode/)" stämmer till eftertanke. Slutligen visar [FediDB](https://fedidb.org/) aktiviteten på [Fediverse instances](https://instances.social). Skaffar du ett konto, installera [Graze](https://graze.jaredzimmerman.com/). 
 
 ## Vecka 38   
 
