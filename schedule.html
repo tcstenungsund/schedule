@@ -50,8 +50,9 @@
     <script>
       const urlParams = new URLSearchParams(window.location.search);
       const schedule = document.querySelector("schedule-component");
+
       schedule.setAttribute("scheduleName", urlParams.get("course") ?? "");
-      schedule.setAttribute("week", urlParams.get("week") ?? "");
+      schedule.setAttribute("week", window.location.hash.slice(6) ?? "");
 
       const assignments = document.querySelector(
         "active-assignments-component"

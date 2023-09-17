@@ -1,4 +1,3 @@
-import exp from "constants";
 import { marked } from "marked";
 
 const assignmentKeyWords: string[] = [
@@ -34,16 +33,19 @@ export function mdToGroupedHtmlSchedule(md: string): Schedule {
         continue;
       }
 
-      // Add data-week attribute to the listItem
       // and data-week-title attribute to the weekTitle
       const weekTitle = listItem.querySelector("h2");
       weekTitle?.setAttribute("data-week-title", "");
-      listItem?.setAttribute(
-        "data-week",
-        weekTitle?.textContent?.match(/\d+/)?.[0] ?? ""
-      );
+      const weekNumber = weekTitle?.textContent?.match(/\d+/)?.[0] ?? "";
+
+      // Add id with week number to the weekTitle
+      weekTitle?.setAttribute("id", `week-${weekNumber}`);
+
+      // Add data-week attribute to the listItem
+      listItem?.setAttribute("data-week", weekNumber);
 
       list.appendChild(listItem.cloneNode(true));
+
       // Reset the list item
       listItem.innerHTML = "";
     }

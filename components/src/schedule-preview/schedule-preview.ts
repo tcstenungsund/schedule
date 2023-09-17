@@ -81,7 +81,8 @@ export class SchedulePreviewComponent extends LitElement {
   render(): TemplateResult {
     return html`<a
       class="schedule-preview"
-      href="${window.origin}/schedule/schedule.html?course=${this.scheduleName}"
+      href="${window.origin}/schedule/schedule.html?course=${this
+        .scheduleName}#week-${this.week}"
     >
       ${this.preview ?? ""}
     </a>`;
