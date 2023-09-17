@@ -12,7 +12,7 @@ Enskild uppgift. Windows 10/11 Professional eller bättre (vilket självklart in
 
 *   [Lando - Installation - Linux](https://docs.lando.dev/getting-started/installation.html#debian) 
 *   [Lando - Installation - Windows](https://docs.lando.dev/getting-started/installation.html#windows)
-*   [Microsoft - Enable Hyper-V](https://docs.microsoft.com/sv-se/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v)
+*   [Microsoft - Install WSL](https://learn.microsoft.com/en-us/windows/wsl/install)
 *   [Lando - Senaste stabila versionen](https://github.com/lando/lando/releases/latest)
 
 > Tips! Alla kommandon skall köras i ett shell som bash i Linux eller PowerShell i Windows. 
@@ -26,7 +26,7 @@ I Linux räcker det att köra följande två kommandon.
     wget https://files.lando.dev/installer/lando-x64-stable.deb
     sudo dpkg -i lando-x64-stable.deb
 
-Om du använder Windows måste du först aktivera Hyper-V genom att följa Microsofts guide ovan, ladda ned den senaste stabila versionen av mjukvaran Lando och installera den. Lando inkluderar Docker och gör några trevliga inställningar automatiskt åt dig. 
+Om du använder Windows måste du först aktivera WSL och installera en Linux-distribution genom att följa Microsofts guide ovan. Se till att det är version 2 av WSL du kör, och välj senaste LTS-versionen av Ubuntu för Linux. Ladda sedan ned den senaste stabila versionen av mjukvaran Lando och installera den. Lando inkluderar Docker och gör några trevliga inställningar automatiskt åt dig. 
 
 När Docker är installerat så kör du följande kommando, öppnar localhost i din webbläsare och läser igenom getting-started-tutorialen. 
 
