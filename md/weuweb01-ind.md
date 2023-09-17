@@ -48,7 +48,7 @@ Dags att påbörja vår grundkurs i HTML & CSS. Först lägger vi några veckor 
 
 Logga in på Codepen och skapa en pen du döper till "MDN HTML & CSS". Här vill jag att du testkör alla den kod vi lär oss.    
 
-Föreläsning: [MDN | Getting started with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started) (Överkurs: Attributes (allt utom översikten), Entity references)        
+Föreläsning: [MDN | Getting started with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started) (Överkurs: Attributes (allt utom översikten), Entity references) ("Anatomy of an HTML document" spar vi till nästa vecka.)            
 
 Gör övning: [MDN | Active learning: Adding some features to an HTML document](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#active_learning_adding_some_features_to_an_html_document)        
 
