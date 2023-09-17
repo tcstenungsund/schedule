@@ -28,16 +28,17 @@ export class ScheduleComponent extends LitElement {
     this.updateSchedule();
   }
 
-  updated(changedProperties: Map<string, any>) {
+  async updated(changedProperties: Map<string, any>) {
     super.updated(changedProperties);
+
     if (!this.week) return;
-    this.shadowRoot
-      ?.querySelector(`[data-week="${this.week}"]`)
-      ?.scrollIntoView({
+    setTimeout(() => {
+      this.shadowRoot?.getElementById(`week-${this.week}`)?.scrollIntoView({
         behavior: "smooth",
         block: "center",
         inline: "center",
       });
+    }, 500);
   }
 
   async updateSchedule() {
