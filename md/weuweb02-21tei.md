@@ -26,19 +26,20 @@ Prov: Repetition HTML & CSS
 
 ## Vecka 38   
 
+Introduktion till CMS:er.     
+
 Setup av vår workspace.      
 
 ## Vecka 39   
 
-Introduktion till CMS:er.      
-
+Första CMS-övningen.      
+  
 ## Vecka 40   
 
-Första CMS-övningen.      
+Påbörja en Grundkurs i en CMS.    
 
 ## Vecka 41   
 
-Påbörja en Grundkurs i en CMS.    
 
 ## Vecka 42   
 
