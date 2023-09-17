@@ -21,10 +21,14 @@ Enskild uppgift. Windows 10/11 Professional eller bättre (vilket självklart in
 
 Målet är att installera och konfigurera :whale2: Docker. För att göra detta enklare så använder vi mjukvaran Lando som installerar och konfigurerar Docker åt oss. 
 
+#### Linux      
+
 I Linux räcker det att köra följande två kommandon. 
 
     wget https://files.lando.dev/installer/lando-x64-stable.deb
     sudo dpkg -i lando-x64-stable.deb
+
+#### Windows     
 
 Om du använder Windows måste du först aktivera WSL och installera en Linux-distribution genom att följa Microsofts guide ovan. Se till att det är version 2 av WSL du kör, och välj senaste LTS-versionen av Ubuntu för Linux. Ladda sedan ned den senaste stabila versionen av mjukvaran Lando och installera den. Lando inkluderar Docker och gör några trevliga inställningar automatiskt åt dig. 
 
