@@ -26,13 +26,31 @@ Prov: Repetition HTML & CSS
 
 ## Vecka 38   
 
-Introduktion till CMS:er.     
+##### Workspace för en webbutvecklare        
 
-Setup av vår workspace.      
+LAMP + Docker.       
+
+"[Docker Tutorial For Beginners](https://youtu.be/RrTbOvqlEic)", "[Docker for Web Development: A Brief Guide](https://medium.com/@vithusha.ravirajan/docker-for-web-development-a-brief-guide-5c0656319dcd)".       
+
+[<img alt="Docker, docker-compose och Lando" src="https://github.com/tcstenungsund/schedule/assets/5168530/63096533-a01f-49ba-b366-131ba467c8b2" width="42%">](https://github.com/tcstenungsund/schedule/assets/5168530/63096533-a01f-49ba-b366-131ba467c8b2)   
+
+[Uppgift: HTML & CSS Basics](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-workspace_setup)         
+
+När du är klar med ovanstående uppgift, ta reda på vad följande kommandon gör och testa dem i din miljö ("[8 Basic Docker Commands](https://youtu.be/xGn7cFR3ARU)").
+
+    docker ps 
+    docker up 
+    docker down 
+    docker start 
+    docker stop 
+    docker kill 
+    docker exec -it <container-name> bash
+
+Prova att dra igång några containrar. Till exempel [ReactOS](https://github.com/hectorm/docker-qemu-reactos), [Haiku OS](https://github.com/hectorm/docker-qemu-haiku) eller något annat projekt från [Docker Hub](https://hub.docker.com/).         
 
 ## Vecka 39   
 
-Första CMS-övningen.      
+Introduktion till CMS:er.     
   
 ## Vecka 40   
 
