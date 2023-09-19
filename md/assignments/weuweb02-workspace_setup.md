@@ -23,7 +23,7 @@ Målet är att installera och konfigurera :whale2: Docker. För att göra detta 
 
 #### Linux      
 
-I Linux räcker det att köra följande två kommandon. 
+I Linux-distributioner som kör Debians pakethanterare räcker det att köra följande två kommandon. 
 
     wget https://files.lando.dev/installer/lando-x64-stable.deb
     sudo dpkg -i lando-x64-stable.deb
