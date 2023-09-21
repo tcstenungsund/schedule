@@ -82,11 +82,20 @@ Gör klart "Learn JavaScript for free" och fortsätt med ert projekt på edX.
 ##### Ethical Hacking      
 Idag talar vi om ethical hacking, med [Kevin Mitnick](https://en.wikipedia.org/wiki/Kevin_Mitnick) som exempel. Vi ser en [interview with renowned hacker Kevin Mitnick](https://youtu.be/LaypU4qAuYw) (vill ni se mer kan jag rekommendera dokumentären "[A Hacker's Story](https://youtu.be/Qe73tRTksf0)") och påminner oss dokumentet [How To Become A Hacker](http://vadeker.net/articles/hacker-howto.html). Ett sätt att hålla koll på folk är genom deras digitala fingeravtryck, hur ditt ser ut ser du på [Am I Unique](https://www.amiunique.org/). Klassisk comic "[Exploits of a Mom](https://xkcd.com/327/)".       
 
-Dagens tips är [playCSS](https://www.amiunique.org/)s dagliga challange.     
+Dagens tips är [playCSS](https://www.amiunique.org/)s dagliga challange. 
 
-#### Tisdag       
+#### Tisdag 
 
-#### Torsdag       
+UF-workshop i Bohuslän (Hogia plan 1)
+
+#### Torsdag
+
+Vi pratar om tips på hur man på olika sätt kan lära sig programmering. Dokumentation, Youtube-filmer, mobilappar etc.
+Visar och pratar om [Exercism](https://www.exercism.org/). Där finns över 65 olika språk (bland annat JavaScript). Visar hur övningar ser ut och idén bakom hemsidan.
+
+Vi pratar också om hur program kan kommunicera med varandra och kommer in på [Zapier](https://zapier.com/).
+
+Ytterligare ett generelt tips när det kommer till nyheter inom teknik är [Feber](https://feber.se/). 
 
 #### Fredag        
 
