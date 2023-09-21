@@ -31,8 +31,6 @@ Om du börjar med information som du vill förmedla på webben, så använder du
 [<img alt="HTML-struktur" src="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics/grumpy-cat-small.png" width="60%">](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics/grumpy-cat-small.png)
 [<img alt="HTML-struktur" src="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics/grumpy-cat-attribute-small.png" width="60%">](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics/grumpy-cat-attribute-small.png)  
 
-<br><br>      
-
 Hur är CSS strukturerat och hur använder man det? Några vanliga värden och egenskaper. CSS styr utseende, färg och position. Om HTML är till för webbläsaren så är CSS till för människor.      
 
 [<img alt="Selektor, egenskap och värde" src="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics/css-declaration-small.png" width="60%">](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics/css-declaration-small.png)       
@@ -51,19 +49,32 @@ Föreläsning: [MDN | HTML text fundamentals](https://developer.mozilla.org/en-U
 
 Gör övning: [MDN | Test your skills: HTML text basics](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Test_your_skills:_HTML_text_basics)
 
+Överkurs: [MDN | Advanced text formatting](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting)
+
 Föreläsning: [MDN | Creating hyperlinks](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks)     
 
 Gör övning: [MDN | Test your skills: Links](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Test_your_skills:_Links)
 
 ## Vecka 38   
 
+Föreläsning: [MDN | Anatomy of an HTML document](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#anatomy_of_an_html_element) och [MDN | Document and website structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure) (Överkurs: Planning a simple website)          
+
+[<img alt="HTML5 Element Flowchart" src="http://html5doctor.com/downloads/h5d-sectioning-flowchart.png" width="60%">](http://html5doctor.com/downloads/h5d-sectioning-flowchart.png)
+
+Gör utvärdering: [MDN | Structuring a page of content](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Structuring_a_page_of_content)
+
+Föreläsning: [MDN | Images in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML), [MDN | Video and audio content](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content) och [MDN | Debugging HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Debugging_HTML)
+
+Överkurs: [MDN | Responsive images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
+
+Gör utvärdering: [MDN | Mozilla splash page](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Mozilla_splash_page)
 
 ## Vecka 39   
 
+Prov på HTML  
 
 ## Vecka 40   
 
-Prov på HTML       
 
 ## Vecka 41   
 
