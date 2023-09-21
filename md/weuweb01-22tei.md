@@ -43,7 +43,7 @@ Dags att påbörja vår grundkurs i HTML & CSS. Först lägger vi några veckor 
 
 ###### HTML - Del I        
 
-* [MDN | Getting started with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started) (Överkurs: Attributes (allt utom översikten), Entity references)<br>(Anatomy of an HTML document spar vi till nästa vecka.)
+* [MDN | Getting started with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started) (Överkurs: Attributes (allt utom ingressen), Entity references)<br>(Anatomy of an HTML document spar vi till nästa vecka.)
 * [MDN | Active learning: Adding some features to an HTML document](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#active_learning_adding_some_features_to_an_html_document)
 * [MDN | HTML text fundamentals](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals)
 * [MDN | Test your skills: HTML text basics](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Test_your_skills:_HTML_text_basics)
@@ -57,19 +57,15 @@ Dags att påbörja vår grundkurs i HTML & CSS. Först lägger vi några veckor 
 
 * [MDN | Anatomy of an HTML document](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#anatomy_of_an_html_element)
 * [MDN | Document and website structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure) (Överkurs: Planning a simple website)          
-* [MDN | Images in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)      
+* [MDN | Images in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)
+* [MDN | Active learning: embedding an image](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML#active_learning_embedding_an_image)
 * [MDN | Responsive images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images) (Överkurs)      
 * [MDN | Video and audio content](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)      
 * [MDN | Debugging HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Debugging_HTML)      
 
 [<img alt="HTML5 Element Flowchart" src="http://html5doctor.com/downloads/h5d-sectioning-flowchart.png" width="60%">](http://html5doctor.com/downloads/h5d-sectioning-flowchart.png)           
 
-[Uppgift: Marking up a letter](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb01-html_css_basics)     
-
 [Uppgift: Structuring a page of content](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/webweu01_structuring_a_page_of_content)     
-
-
-Gör utvärdering: [MDN | Marking up a letter](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Marking_up_a_letter)      
 
 ## Vecka 39   
 
