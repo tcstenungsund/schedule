@@ -26,7 +26,7 @@ En komplett sida, uppmärkt med semantiska HTML-taggar och med det bifogade CSS-
 
 ### Vilka filer?
 
-Ett 7zip-arkiv innehållande samma filer som du laddade ned från MDN, plus ett screenshot av din fulla sida.    
+En arkivfil innehållande samma filer som du laddade ned från MDN, plus ett screenshot av din fulla sida.    
 
 ### Var skall de lämnas in?
 
