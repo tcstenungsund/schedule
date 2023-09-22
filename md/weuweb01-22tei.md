@@ -69,13 +69,13 @@ Dags att påbörja vår grundkurs i HTML & CSS. Först lägger vi några veckor 
 
 ## Vecka 39   
 
-Filhantering, projektstruktur...       
+Fortsätt med Structuring a page of content...     
 
-Prov på HTML      
+Filhantering, projektstruktur...       
 
 ## Vecka 40   
 
-CSS      
+Prov på HTML      
 
 ## Vecka 41   
 
