@@ -99,7 +99,7 @@ Ytterligare ett generelt tips när det kommer till nyheter inom teknik är [Febe
 
 #### Fredag        
 
-*Veckans sociala medier:* 
+*Veckans sociala medier:* [How (Not) to Build a Button](https://benmyers.dev/blog/clickable-divs/), [A Few Interesting Ways To Use CSS Shadows For More Than Dept](https://www.smashingmagazine.com/2023/08/interesting-ways-use-css-shadows/) och [The Design Squiggle](https://thedesignsquiggle.com/)!          
 
 ## Vecka 39   
 
