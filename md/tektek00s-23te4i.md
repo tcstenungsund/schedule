@@ -27,12 +27,16 @@ Tips och mallar finner du här - [Arbetsförmedlingen](https://arbetsformedlinge
 
 
 ## Vecka 37   
+Uppstart av Clous Security kursen. CCSK. GEnomgång av första modulen.
+Vi gör quizen gemensamt.
 
 
 ## Vecka 38   
+Arbete med CCSK kursen.
 
 
 ## Vecka 39   
+Eftersom det kan vara trafikstörningar efter helgens ras på E6an, så kanske vi inte kan komma i tid  till lektionen. Eller för den delen alls komma in till skolan...hur som helst ska ni fortsätta att arbeta med CCSK kursen. Jag planerar att ha enskilda samtal med er för feedback på jobbansökan.
 
 
 ## Vecka 40   
