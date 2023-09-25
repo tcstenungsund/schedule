@@ -48,7 +48,7 @@ Dags att påbörja vår grundkurs i HTML & CSS. Först lägger vi några veckor 
 
 Logga in på Codepen och skapa en pen du döper till "MDN HTML & CSS". Här vill jag att du testkör alla den kod vi lär oss.    
 
-###### HTML - Del I        
+###### HTML - Att märka upp text             
 
 Först repeterar vi hur en HTML-tagg är uppbygd, sedan djupdyker vi hur man märker upp text på alla möjliga sätt och vis!       
 
@@ -62,13 +62,16 @@ Först repeterar vi hur en HTML-tagg är uppbygd, sedan djupdyker vi hur man mä
 
 ## Vecka 39   
 
-###### HTML - Del II Återkomsten       
+###### HTML - Struktur           
 
 Denna vecka tittar vi på struktur! Först strukturen för ett HTML-dokument, vilka delar finns det och vilka refler finns det för dem. Vad finns i [HEAD](https://htmlhead.dev/) och vad finns i BODY? Sedan ser vi hur man skapar en semantisk struktur med hjälp av taggar som MAIN, ARTICLE, SECTION och så vidare.     
 
 * [MDN | Anatomy of an HTML document](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#anatomy_of_an_html_element)        
 * [MDN | What's in the head? Metadata in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML)          
 * [MDN | Document and website structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure) (Överkurs: Planning a simple website)            
+
+###### HTML - Bilder och media (+ felsökning)           
+
 * [MDN | Images in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)        
 * [MDN | Active learning: embedding an image](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML#active_learning_embedding_an_image)        
 * [MDN | Responsive images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images) (Överkurs)      
