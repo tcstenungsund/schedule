@@ -85,7 +85,11 @@ in the schedule you want to edit click on the blue pen at top of the schedule ri
 
 Once on the editing page you can make your changes, either by editing the schedule in raw markdown or by installing the markdowneditor plugin and editing in formatted text.
 
-When you are done editing the schedule you can go to the bottom of the page and if you want to leave a comment about the edit you made, like _"added assignment for week 45"_ or you can leave it blank, then when you are happy with the changes and the comments you can press the commit button to save your changes and make them public on the schedule.
+When you are done editing the schedule you can go to the bottom of the page and if you want to leave a comment about the edit you made, like _"added assignment for week 45"_ or you can leave it blank, then when you are happy with the changes and the comments you can press the commit button to save your changes and make them public on the schedule.    
+
+To empty local cache, use following in console. 
+
+    window.sessionStorage.clear() 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
