@@ -64,7 +64,7 @@ Först repeterar vi hur en HTML-tagg är uppbygd, sedan djupdyker vi i hur man m
 
 ###### HTML - Struktur           
 
-Nu tittar vi på struktur! Först strukturen för ett HTML-dokument, vilka delar finns det och vilka regler finns det för dem. Vad finns i [HEAD](https://htmlhead.dev/) och vad finns i BODY? Sedan ser vi hur man skapar en semantisk struktur för det som finns i BODY med hjälp av taggar som MAIN, ARTICLE, NAV och så vidare.     
+Nu tittar vi på struktur! Först strukturen för ett HTML-dokument, vilka delar finns det och vilka regler finns det för dem. Vad finns i [HEAD](https://htmlhead.dev/) och vad finns i BODY? Sedan ser vi hur man skapar en semantisk struktur för det som finns i BODY med hjälp av taggar som MAIN, ARTICLE, NAV och så vidare. Fördjupning med hjälp av resurser som "[How to Favicon in 2023](https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs)" går utmärkt.      
 
 * [MDN | Anatomy of an HTML document](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#anatomy_of_an_html_element)        
 * [MDN | What's in the head? Metadata in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML)          
