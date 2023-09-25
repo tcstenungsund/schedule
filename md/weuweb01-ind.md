@@ -64,7 +64,7 @@ Först repeterar vi hur en HTML-tagg är uppbygd, sedan djupdyker vi hur man mä
 
 ###### HTML - Struktur           
 
-Denna vecka tittar vi på struktur! Först strukturen för ett HTML-dokument, vilka delar finns det och vilka regler finns det för dem. Vad finns i [HEAD](https://htmlhead.dev/) och vad finns i BODY? Sedan ser vi hur man skapar en semantisk struktur med hjälp av taggar som MAIN, ARTICLE, SECTION och så vidare.     
+Nu tittar vi på struktur! Först strukturen för ett HTML-dokument, vilka delar finns det och vilka regler finns det för dem. Vad finns i [HEAD](https://htmlhead.dev/) och vad finns i BODY? Sedan ser vi hur man skapar en semantisk struktur med hjälp av taggar som MAIN, ARTICLE, SECTION och så vidare.     
 
 * [MDN | Anatomy of an HTML document](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#anatomy_of_an_html_element)        
 * [MDN | What's in the head? Metadata in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML)          
@@ -73,6 +73,8 @@ Denna vecka tittar vi på struktur! Först strukturen för ett HTML-dokument, vi
 [<img alt="HTML5 Element Flowchart" src="http://html5doctor.com/downloads/h5d-sectioning-flowchart.png" width="60%">](http://html5doctor.com/downloads/h5d-sectioning-flowchart.png)             
 
 ###### HTML - Bilder och media (+ felsökning)           
+
+En webbsida med endast text är effektivt, men ibland behöver man bilder, audio och video för att förmedla sitt budskap. Dessutom behöver vi kunna felsöka vår kod.       
 
 * [MDN | Images in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)        
 * [MDN | Active learning: embedding an image](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML#active_learning_embedding_an_image)        
