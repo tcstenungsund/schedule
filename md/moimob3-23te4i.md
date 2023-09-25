@@ -105,6 +105,23 @@ Ytterligare ett generelt tips när det kommer till nyheter inom teknik är [Febe
 
 #### Måndag       
 
+##### Sass och Task runners         
+
+Av de pre-processingspråk som finns är [Sass](https://sass-lang.com/) det vanligaste just nu. 
+
+[Sass - Tutorial for Beginners in 11 MINUTES!](https://youtu.be/6glgx4EViZQ) (12 min) och [CSS is getting better, but Sass is still relevant](https://youtu.be/GLxZ1gyW-IU) (18 min).         
+
+Med ett avstamp i "[Frontend Developer Roadmap](https://roadmap.sh/frontend)" och "[JavaScript Developer Roadmap](https://roadmap.sh/javascript)" talar vi mer om npm, Gulp/Grunt och npm scripts.         
+
+Saker man kan göra med en taskrunner       
+* Livereload      
+* CSS minification       
+* Autoprefixer        
+* Compile Sass          
+* Lints the compiled css      
+
+"[Introduction to NPM scripts](https://www.geeksforgeeks.org/introduction-to-npm-scripts/)" och "[Using Npm Scripts as a Build Tool ](https://deliciousbrains.com/npm-build-script/)".         
+
 #### Tisdag       
 
 #### Torsdag       
