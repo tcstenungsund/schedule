@@ -58,6 +58,7 @@ Påbörja en Grundkurs i en CMS.
 
 ## Vecka 41   
 
+Genomgång av provet från vecka 35.        
 
 ## Vecka 42   
 
