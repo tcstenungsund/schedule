@@ -52,7 +52,7 @@ Logga in på Codepen och skapa en pen du döper till "MDN HTML & CSS". Här vill
 
 Först repeterar vi hur en HTML-tagg är uppbygd, sedan djupdyker vi i hur man märker upp text på alla möjliga sätt och vis!       
 
-* [MDN | Getting started with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started) (Överkurs: Attributes (allt utom ingressen), Entity references)<br>(Anatomy of an HTML document spar vi till nästa vecka.)       
+* [MDN | Getting started with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started) (Överkurs: Attributes (förutom ingressen), Entity references)<br>(Anatomy of an HTML document spar vi till nästa vecka.)       
 * [MDN | Active learning: Adding some features to an HTML document](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#active_learning_adding_some_features_to_an_html_document)       
 * [MDN | HTML text fundamentals](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals)       
 * [MDN | Test your skills: HTML text basics](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Test_your_skills:_HTML_text_basics)       
