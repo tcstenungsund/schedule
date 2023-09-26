@@ -50,21 +50,31 @@ Prova att dra igång några containrar. Till exempel [ReactOS](https://github.co
 
 ## Vecka 39   
 
-Introduktion till CMS:er.     
-  
+###### Introduktion till CMS:er. 
+
+Det finns [många CMS:er](https://en.wikipedia.org/wiki/List_of_content_management_systems). Vi kommer använda en av de största, Drupal. Drupal är känd för att den har en aktiv utvecklarcommunity, många moduler och är både stabil att bygga komplexa lösningar på, men också enkel att arbeta med. Youtube-kursen vi skall se baseras på version 8, så under kursens gång är det den versionen vi kör. Men när vi sedan arbetar med systemet kommer vi köra version 10.           
+
+[![Drupals versioner](https://blog.twn.ee/sites/default/files/2020-10/Drupal%20Eng.png) ](https://blog.twn.ee/sites/default/files/2020-10/Drupal%20Eng.png)     
+
+[Uppgift: Installera Drupal](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-installera_drupal)     
+
 ## Vecka 40   
 
-Påbörja en Grundkurs i en CMS.    
+Grundkurs i CMS        
 
 ## Vecka 41   
 
 Genomgång av provet från vecka 35.        
 
+Grundkurs i CMS       
+
 ## Vecka 42   
 
+Grundkurs i CMS       
 
 ## Vecka 43   
 
+Grundkurs i CMS       
 
 ## Vecka 44   
 
