@@ -58,6 +58,14 @@ Det finns [många CMS:er](https://en.wikipedia.org/wiki/List_of_content_manageme
 
 [Uppgift: Installera Drupal](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-installera_drupal)     
 
+Nu har du en utvecklingsmiljö med Drupal 8 som du kan stoppa och starta med följande kommandon. 
+
+    lando start     
+
+&nbsp;
+
+    lando stop      
+
 ## Vecka 40   
 
 Grundkurs i CMS        
