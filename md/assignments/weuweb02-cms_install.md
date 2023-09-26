@@ -30,7 +30,7 @@ Först skapar vi en ny projektkatalog och navigerar dit i vårt shell. Där ber 
 
     lando init --source cwd --recipe drupal8 --webroot web --name d8beginner
 
-Nu ber vi Lando tala om för Composer att vi vill initiera en installation av Drupal 9. 
+Nu ber vi Lando tala om för Composer att vi vill initiera en installation av Drupal 8. 
 
     lando composer create-project drupal/recommended-project:8.x tmp
     
