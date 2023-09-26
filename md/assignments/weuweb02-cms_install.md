@@ -18,15 +18,17 @@ Du bör ha installerat Lando i en tidigare uppgift.
 * "[How To Install Composer PHP Package Manager](https://youtu.be/9renbvFpWsI)" (2:59)
 * [Lando - Installera Drupal](https://docs.lando.dev/drupal/getting-started.html#quick-start)
 
-> Tips! Alla kommandon skall köras i ett shell som bash i Linux eller PowerShell i Windows. 
+> Tips! Alla kommandon skall köras i ett shell som bash i Linux eller PowerShell i Windows.       
 
-## Uppgiftsbeskrivning
+## Uppgiftsbeskrivning        
 
-En normal installation av Drupal kräver att man sätter upp en server med PHP, Apache, MariaDB (SQL), samt PHPs pakethanterare Composer. Med hjälp av Composer installerar man sedan Drupal och Drush, för att slutligen göra konfigurationen av Drupal med hjälp av Drush. 
+En normal installation av Drupal kräver att man sätter upp en server med PHP, Apache, MariaDB (SQL), samt PHPs pakethanterare Composer. Med hjälp av Composer installerar man sedan Drupal och Drush, för att slutligen göra konfigurationen av Drupal med hjälp av Drush.          
 
-Vill du göra en installation i en container så krävs att du synkroniserar en Apache/PHP-container med en SQL-container och delar ut en katalog med ditt host-system. Tack och lov gör Lando detta åt oss. I exemplet nedan förutsätts vårt projekt heta "d8beginner", men det bör ju ändras beroende på vad för slags projekt vi gör. 
+Vill du göra en installation i en container så krävs att du synkroniserar en Apache/PHP-container med en SQL-container och delar ut en katalog med ditt host-system. Tack och lov gör Lando detta åt oss. I exemplet nedan förutsätts vårt projekt heta "d8beginner", men det bör ju ändras beroende på vad för slags projekt vi gör.          
 
-Först skapar vi en ny projektkatalog och navigerar dit i vårt shell. Där ber vi Lando att ladda hem och förbereda en container med Drupal i. 
+Skapa först en ny projektkatalog och navigerar dit i ditt shell.       
+
+Väl där ber vi Lando att ladda hem och förbereda en container med Drupal i.        
 
     lando init --source cwd --recipe drupal8 --webroot web --name d8beginner
 
