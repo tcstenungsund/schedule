@@ -34,7 +34,7 @@ LAMP + Docker.
 
 [<img alt="Docker, docker-compose och Lando" src="https://github.com/tcstenungsund/schedule/assets/5168530/63096533-a01f-49ba-b366-131ba467c8b2" width="42%">](https://github.com/tcstenungsund/schedule/assets/5168530/63096533-a01f-49ba-b366-131ba467c8b2)   
 
-[Uppgift: HTML & CSS Basics](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-workspace_setup)         
+[Uppgift: Workspace setup](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-workspace_setup)         
 
 När du är klar med ovanstående uppgift, ta reda på vad följande kommandon gör och testa dem i din miljö ("[8 Basic Docker Commands](https://youtu.be/xGn7cFR3ARU)").
 
@@ -56,7 +56,7 @@ Det finns [många CMS:er](https://en.wikipedia.org/wiki/List_of_content_manageme
 
 [![Drupals versioner](https://blog.twn.ee/sites/default/files/2020-10/Drupal%20Eng.png) ](https://blog.twn.ee/sites/default/files/2020-10/Drupal%20Eng.png)     
 
-[Uppgift: Installera Drupal](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-installera_drupal)     
+[Uppgift: CMS Install](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-cms_install)     
 
 Nu har du en utvecklingsmiljö med Drupal 8 som du kan stoppa och starta med följande kommandon. 
 
