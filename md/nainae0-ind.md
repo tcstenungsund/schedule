@@ -40,7 +40,17 @@ Visar "[OverTheWire](https://overthewire.org/wargames/bandit/)".
 
 ## Vecka 38
 
+Ni läser vidare på kapitel 3. Detta bör nu vara färdiga med.
+
+Ni skapar konto på [PicoCTF](https://picoctf.org/) och testar en övning. Besök [OverTheWire](https://overthewire.org/wargames/bandit/) och testa första övningen. Kolla så att ni kommer åt servern på OverTheWire med SSH. Kom ihåg att använda VPN.
+
+Vi tittar sedan på det fjärde avsnittet av [Hackad](https://www.svtplay.se/hackad). Idag tar de sig an smarta hem och visar på brister i alla våra upopkopplade IoT-enheter vi har i våra hem.
+
 ## Vecka 39
+
+Denna veckan startar vi med kapitel 4 - Linux Overview. Börja med att titta på [Linux in 100 Seconds](https://www.youtube.com/watch?v=rrB13utjYV4). Börja sedan läs på kapitel 4. Ett tips är att testa det som står i materialt rent praktiskt. Det kan ni göra med hjälp av WSL ni installerade på wbbutvecklingen. Öppna Powershell -> skriv ubuntu -> vänta några sekunder och sedan har ni en "terminal". Här kan ni testa olika kommandon.
+
+Efter detta så tittar vi på det femte avsnittet av [Hackad](https://www.svtplay.se/hackad). Efter avsnittet skriver ni ner era tankar och reflektioner av avsnittet. Ni kan exempelvis svara på "Vad lärde ni er  av avsnittet? Vad tar ni med er? Vilka av tipsen tänker ni själva använda er av för att inte bli hackade?" Lämna sedan in detta på Haldor
 
 ## Vecka 40
 
