@@ -49,6 +49,7 @@ Vi tittar sedan på det fjärde avsnittet av [Hackad](https://www.svtplay.se/hac
 ## Vecka 39
 
 Denna veckan startar vi med kapitel 4 - Linux Overview. Börja med att titta på [Linux in 100 Seconds](https://www.youtube.com/watch?v=rrB13utjYV4). Börja sedan läs på kapitel 4. Ett tips är att testa det som står i materialt rent praktiskt. Det kan ni göra med hjälp av WSL ni installerade på wbbutvecklingen. Öppna Powershell -> skriv ubuntu -> vänta några sekunder och sedan har ni en "terminal". Här kan ni testa olika kommandon.
+Exempel - https://imgur.com/a/crzAWC6
 
 Efter detta så tittar vi på det femte avsnittet av [Hackad](https://www.svtplay.se/hackad). Efter avsnittet skriver ni ner era tankar och reflektioner av avsnittet. Ni kan exempelvis svara på "Vad lärde ni er  av avsnittet? Vad tar ni med er? Vilka av tipsen tänker ni själva använda er av för att inte bli hackade?" Lämna sedan in detta på Haldor
 
