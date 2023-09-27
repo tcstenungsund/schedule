@@ -45,12 +45,21 @@ Laboration, plocka isär och skruva ihop en PC.
 ## Vecka 39   
 
 Måndag:
-GEnomgpng av kapitel 3.1
+![CPU.PNG]({{site.baseurl}}/md/CPU.PNG)
+
+GEnomgång av kapitel 3.1
 
 Onsdag:
 GEnomgång av kapitel 3.2 - 3.5.
+
+[How CPUs Use Multiple Cores](https://www.youtube.com/watch?v=mk_2-BBGZtA)
+[What is RAID?](https://www.techtarget.com/searchstorage/definition/RAID)
+
+Övning - vilken processor har din telefon? Hur många kärnor? Vilken arkitektur. 
 Öppnar kapitel 2 provet, gör hemma tills nästa vecka.
 
+Torsdag:
+Kapitel 3 repetition.
 
 ## Vecka 40   
 
