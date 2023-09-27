@@ -50,19 +50,48 @@ Gör de två "Check your understanding"-uppgifterna och öva på basic conf i Pa
 **Onsdag:**
 
 
-## Vecka 39   
+## Vecka 39 
+
+**Måndag:**
+
+
+
+**Onsdag:**
+
+Genomgång av kapitel 4.1 och 4.2.
+Gör Packet Tracer 4.2.7 och lämna in.
 
 
 ## Vecka 40   
 
+**Måndag:**
+
+
+**Onsdag:**
+
 
 ## Vecka 41   
+
+**Måndag:**
+
+
+**Onsdag:**
 
 
 ## Vecka 42   
 
+**Måndag:**
 
-## Vecka 43   
+
+**Onsdag:**
+
+
+## Vecka 43  
+
+**Måndag:**
+
+
+**Onsdag:**
 
 
 ## Vecka 44   
@@ -168,4 +197,4 @@ Gör de två "Check your understanding"-uppgifterna och öva på basic conf i Pa
 **SOMMARLOV**   
 ---     
 [![Creative Commons-licens](https://i.creativecommons.org/l/by-sa/4.0/80x15.png)](http://creativecommons.org/licenses/by-sa/4.0/) Detta dokument är licensierat under en [Creative Commons Erkännande-DelaLika 4.0 Internationell Licens](http://creativecommons.org/licenses/by-sa/4.0/).    
-Bilder och fotografier tillhör respektive upphovsman, och befinner sig inte nödvändigtsvis under en Creative Commons-licens.    
+Bilder och fotografier tillhör respektive upphovsman, och befinner sig inte nödvändigtsvis under en Creative Commons-licens.
