@@ -28,14 +28,37 @@ Ni läser sedan 1.4 Summary och gör övningsfrågorna som finns i materialet.
 
 ## Vecka 37   
 
+Måndag:
+
+Onsdag:
+
 
 ## Vecka 38   
+
+Måndag:
+GEnomgång av kapitel 2 färdig.
+
+Onsdag:
+Laboration, plocka isär och skruva ihop en PC.
 
 
 ## Vecka 39   
 
+Måndag:
+GEnomgpng av kapitel 3.1
+
+Onsdag:
+GEnomgång av kapitel 3.2 - 3.5.
+Öppnar kapitel 2 provet, gör hemma tills nästa vecka.
+
 
 ## Vecka 40   
+
+Måndag:
+Kapitel 2 provet ska vara gjort.
+
+Onsdag:
+PROV på kapitel 3.
 
 
 ## Vecka 41   
