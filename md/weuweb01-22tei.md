@@ -77,9 +77,32 @@ Denna gång tittar vi på struktur! Först strukturen för ett HTML-dokument, vi
 
 ## Vecka 39   
 
-Fortsätt med Structuring a page of content...     
+###### Filhantering   
 
-Filhantering, projektstruktur...       
+* MDN [Dealing with files](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files)         
+
+**Termer ni behöver kunna**       
+
+* [fil](https://sv.wikipedia.org/wiki/Fil_(data))
+* [katalog](https://sv.wikipedia.org/wiki/Katalog_(datorteknik))
+* [filsystemet](https://sv.wikipedia.org/wiki/Filsystem)       
+* [filträd](https://sv.wikipedia.org/wiki/Filtr%C3%A4d)
+* [folder metaphor](https://en.wikipedia.org/wiki/Directory_%28computing%29#Folder_metaphor)
+
+**Saker ni behöver kunna göra**       
+Ni måste veta hur man [skapar en textfil](https://www.wikihow.com/Make-a-New-File-in-Windows) hur man [skapar en katalog](https://www.minitool.com/news/how-do-i-create-a-directory.html#how-to-create-a-directory-in-windows-10-7400) och hur man visar dolda filändelser.      
+    1) Tryck [Windows] + [i]       
+    2) Gå till _Uppdatering och säkerhet_ / _För utvecklare_ / _Utforskaren_       
+    3) Sök upp _Ändra inställningar för att visa dolda filer och systemfiler_ och klicka på _Visa inställningar_      
+    4) Se till att det **inte** sitter en bock intill alternativet _Dölj filnamnstilläg för kända filtyper_       
+
+**Regler för namngivning**      
+
+* Undvik svenska tecken, åäö      
+* Undvik_mellanslag_     
+* Undvik STORA bokstäver       
+
+Fortsätt med Structuring a page of content...       
 
 ## Vecka 40   
 
