@@ -45,13 +45,13 @@ Dags att påbörja vår grundkurs i HTML & CSS. Först lägger vi några veckor 
 
 Först repeterar vi hur en HTML-tagg är uppbygd, sedan djupdyker vi hur man märker upp text på alla möjliga sätt och vis!        
 
-* [MDN | Getting started with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started) (Överkurs: Attributes (allt utom ingressen), Entity references)<br>(Anatomy of an HTML document spar vi till nästa vecka.)
-* [MDN | Active learning: Adding some features to an HTML document](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#active_learning_adding_some_features_to_an_html_document)
-* [MDN | HTML text fundamentals](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals)
-* [MDN | Test your skills: HTML text basics](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Test_your_skills:_HTML_text_basics)
-* [MDN | Advanced text formatting](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting) (Överkurs)
-* [MDN | Creating hyperlinks](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks)
-* [MDN | Test your skills: Links](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Test_your_skills:_Links)
+* MDN [Getting started with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started) (Överkurs: Attributes (allt utom ingressen), Entity references)<br>(Anatomy of an HTML document spar vi till nästa vecka.)
+* MDN Active learning: [Adding some features to an HTML document](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#active_learning_adding_some_features_to_an_html_document)
+* MDN [HTML text fundamentals](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals)
+* MDN Test your skills: [HTML text basics](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Test_your_skills:_HTML_text_basics)
+* MDN [Advanced text formatting](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting) (Överkurs)
+* MDN [Creating hyperlinks](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks)
+* MDN Test your skills: [Links](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Test_your_skills:_Links)
 
 ## Vecka 38   
 
@@ -59,17 +59,17 @@ Först repeterar vi hur en HTML-tagg är uppbygd, sedan djupdyker vi hur man mä
 
 Denna gång tittar vi på struktur! Först strukturen för ett HTML-dokument, vilka delar finns det och vilka refler finns det för dem. Vad finns i [HEAD](https://htmlhead.dev/) och vad finns i BODY? Sedan ser vi hur man skapar en semantisk struktur med hjälp av taggar som MAIN, ARTICLE, SECTION och så vidare.     
 
-* [MDN | Anatomy of an HTML document](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#anatomy_of_an_html_document)
-* [MDN | What's in the head? Metadata in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML)         
-* [MDN | Document and website structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure) (Överkurs: Planning a simple website)          
-* [MDN | Images in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)
+* MDN [Anatomy of an HTML document](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#anatomy_of_an_html_document)
+* MDN [What's in the head? Metadata in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML)         
+* MDN [Document and website structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure) (Överkurs: Planning a simple website)          
+* MDN [Images in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)
 
 ###### HTML - Bilder och media (+ felsökning)           
 
-* [MDN | Active learning: embedding an image](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML#active_learning_embedding_an_image)
-* [MDN | Responsive images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images) (Överkurs)      
-* [MDN | Video and audio content](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)      
-* [MDN | Debugging HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Debugging_HTML)      
+* MDN [Active learning: embedding an image](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML#active_learning_embedding_an_image)
+* MDN [Responsive images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images) (Överkurs)      
+* MDN [Video and audio content](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)      
+* MDN [Debugging HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Debugging_HTML)      
 
 [<img alt="HTML5 Element Flowchart" src="http://html5doctor.com/downloads/h5d-sectioning-flowchart.png" width="60%">](http://html5doctor.com/downloads/h5d-sectioning-flowchart.png)           
 
