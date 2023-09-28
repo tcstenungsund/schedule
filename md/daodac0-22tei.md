@@ -59,7 +59,12 @@ GEnomgång av kapitel 3.2 - 3.5.
 Öppnar kapitel 2 provet, gör hemma tills nästa vecka.
 
 Torsdag:
-Kapitel 3 repetition.
+Kapitel 3 repetition. Gör kapitel 2 provet innan måndag. Lämna in Datorpaketövningen imorgon.
+
+[Slut på författarstrejk i Hollywood – överenskommelse om AI-användning](https://computersweden.idg.se/2.2683/1.780081/overenskommelse-om-ai-far-manusforfattare-att-avsluta-strejk)
+
+[Avtal med AWG angående AI](https://techcrunch.com/2023/09/26/writers-strike-over-ai/?guccounter=1&guce_referrer=aHR0cHM6Ly9jb21wdXRlcnN3ZWRlbi5pZGcuc2UvMi4yNjgzLzEuNzgwMDgxL292ZXJlbnNrb21tZWxzZS1vbS1haS1mYXItbWFudXNmb3JmYXR0YXJlLWF0dC1hdnNsdXRhLXN0cmVqaw&guce_referrer_sig=AQAAAKEGo-dwlmBl3TfH9ZlczXLpWZaRMUUGrcEDYy_KdG9WYTLRCRCFyGNTtLQK8-SEFAn48cGLQFfQTsjNaEvaSAJ80lAYOSNwM30b4_l5sIb_YMHM__GGpkbnNuIAWAdaYkFZKPZcLoUtHoHtkxFdeMbmkN1r6HonZo2tRQ1rvkf_)
+
 
 ## Vecka 40   
 
