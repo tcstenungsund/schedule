@@ -38,3 +38,8 @@ input {
   color: var(--assignment-text-color);
   transition: var(--hover-transition);
 }
+
+img {
+  max-width: 75vw;
+  width: 100%;
+}
