@@ -124,7 +124,18 @@ Saker man kan göra med en taskrunner
 
 #### Tisdag       
 
-#### Torsdag       
+#### Torsdag
+
+Ramverk!
+
+Idag har vi äntligen fått prata om ramverk (och bibliotek) som finns inom JavaScript. Powerpointen innehåll information om vad ramverk är och varför vi vill använda oss av det.
+Vi pratade också om några utvalda ramverk, bland annat [ReactJS](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks
+). Vi såg även på [ett klipp om ReactJS](https://www.youtube.com/watch?v=s2skans2dP4
+) och olika funktioner/tekniker som används.
+
+Det finns många ramverk och för att få en överblick om hur de fungerade och vad för och nackdelarna är såg vi på [en video från Fireship](https://www.youtube.com/watch?v=cuHDQhDhvPE) som gjorde en ToDo-app i de olika ramverken.
+
+Slutligen så startar ni med att läsa om [ReactJS på MDN](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started) och testar att skapa ett projekt med ReactJS. En guide finns på tidigare nämnd länk.
 
 #### Fredag        
 
