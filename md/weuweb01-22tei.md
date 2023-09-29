@@ -35,6 +35,8 @@ Hur är CSS strukturerat och hur använder man det? Några vanliga värden och e
 
 [<img alt="Selektor, egenskap och värde" src="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics/css-declaration-small.png" width="60%">](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics/css-declaration-small.png)       
 
+För att genomföra uppgiften nedan måste du veta hur du [tar ett screenshot](https://support.mozilla.org/en-US/kb/take-screenshots-firefox).      
+
 [Uppgift: HTML & CSS Basics](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb01-html_css_basics)     
 
 ## Vecka 37   
@@ -90,7 +92,7 @@ Denna gång tittar vi på struktur! Först strukturen för ett HTML-dokument, vi
 * [folder metaphor](https://en.wikipedia.org/wiki/Directory_%28computing%29#Folder_metaphor)
 
 **Saker ni behöver kunna göra**       
-Ni måste veta hur man [tar ett screenshot](https://support.mozilla.org/en-US/kb/take-screenshots-firefox), [skapar en textfil](https://www.wikihow.com/Make-a-New-File-in-Windows) hur man [skapar en katalog](https://www.minitool.com/news/how-do-i-create-a-directory.html#how-to-create-a-directory-in-windows-10-7400) och hur man visar dolda filändelser.      
+Ni måste veta hur man [skapar en textfil](https://www.wikihow.com/Make-a-New-File-in-Windows) hur man [skapar en katalog](https://www.minitool.com/news/how-do-i-create-a-directory.html#how-to-create-a-directory-in-windows-10-7400), [Komprimera och packa upp filer](https://support.microsoft.com/sv-se/windows/komprimera-och-packa-upp-filer-f6dde0a7-0fec-8294-e1d3-703ed85e7ebc) och hur man visar dolda filändelser.      
     1) Tryck [Windows] + [i]       
     2) Gå till _Uppdatering och säkerhet_ / _För utvecklare_ / _Utforskaren_       
     3) Sök upp _Ändra inställningar för att visa dolda filer och systemfiler_ och klicka på _Visa inställningar_      
