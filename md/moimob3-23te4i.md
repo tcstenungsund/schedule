@@ -137,9 +137,11 @@ Det finns många ramverk och för att få en överblick om hur de fungerade och 
 
 Slutligen så startar ni med att läsa om [ReactJS på MDN](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started) och testar att skapa ett projekt med ReactJS. En guide finns på tidigare nämnd länk.
 
+Vi avslutar dagen med att planera resten av kursen!
+
 #### Fredag        
 
-*Veckans sociala medier:* 
+*Veckans sociala medier:* Idag tittar vi bland annat på [Scroll animations](https://mastodon.social/@pablolarah/111088218229670426), [CSS Grid Equal Columns](https://codepen.io/wesbos/pen/xxmPXqd) och [A (more) Modern CSS Reset](https://andy-bell.co.uk/a-more-modern-css-reset/).      
 
 ## Vecka 40   
 
