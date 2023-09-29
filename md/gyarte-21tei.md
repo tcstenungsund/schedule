@@ -54,6 +54,30 @@ När ni diskuterat igenom de sju frågorna, har ni troligtvis stött på problem
 
 ## Vecka 39   
 
+Denna vecka ska vi ha bestämt oss för vilken idé ni ska köra på, samt vilken målgrupp som ni har.
+
+Företaget ska registreras på UFs hemsida.
+
+Vi ska även börja fila på vår affärsidé. 
+
+Fundera utifrån de här punkterna när du skriver ner din affärsidé:
+
+Vad ska du sälja?
+Finns det ett behov av dina tjänster och/eller produkter? 
+Till vem ska du sälja?
+Varför ska de köpa av dig?
+Hur ska du nå kunderna?
+Hur ska du tjäna pengar?
+
+[Gå från idé till handling!](https://www.youtube.com/watch?v=yfN68MLviog&feature=youtu.be)
+
+[Har du en affärsidé?](https://www.verksamt.se/fundera/har-du-en-affarside)
+
+
+Ni ska fundera på eran produkt/tjänst styrkor och svagheter, vem är kunden?
+
+Nyckelord för er - lokalt, klimatsmart, unikt.
+
 
 ## Vecka 40   
 
