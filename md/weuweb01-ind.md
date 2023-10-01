@@ -86,6 +86,28 @@ En webbsida med endast text är effektivt, men ibland behöver man bilder, audio
 
 ## Vecka 40   
 
+###### Filhantering   
+
+* MDN [Dealing with files](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files)         
+
+**Termer ni behöver kunna**       
+
+* [fil](https://sv.wikipedia.org/wiki/Fil_(data))
+* [katalog](https://sv.wikipedia.org/wiki/Katalog_(datorteknik))
+* [filsystemet](https://sv.wikipedia.org/wiki/Filsystem)       
+* [filträd](https://sv.wikipedia.org/wiki/Filtr%C3%A4d)
+* [folder metaphor](https://en.wikipedia.org/wiki/Directory_%28computing%29#Folder_metaphor)
+
+**Saker ni behöver kunna göra**       
+Ni måste veta hur man [skapar en textfil](https://www.wikihow.com/Make-a-New-File-in-Windows) hur man [skapar en katalog](https://www.minitool.com/news/how-do-i-create-a-directory.html#how-to-create-a-directory-in-windows-10-7400), [Komprimera och packa upp filer](https://support.microsoft.com/sv-se/windows/komprimera-och-packa-upp-filer-f6dde0a7-0fec-8294-e1d3-703ed85e7ebc), ta ett screenshot av hela sidan ([Firefox](https://support.mozilla.org/en-US/kb/take-screenshots-firefox?redirectslug=firefox-screenshots&redirectlocale=en-US), [Edge](https://www.howtogeek.com/719285/how-to-take-full-page-screenshots-in-microsoft-edge/)) och hur man visar dolda filändelser ([Windows 10](https://windowsreport.com/show-file-extensions-windows-10/), [Windows 11](https://windowsreport.com/show-file-extension-windows-11/)).      
+
+**Regler för namngivning**      
+
+* Undvik svenska tecken, åäö      
+* Undvik_mellanslag_     
+* Undvik STORA bokstäver       
+
+Fortsätt med Structuring a page of content...       
 
 ## Vecka 41   
 
