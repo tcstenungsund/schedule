@@ -147,6 +147,10 @@ Vi avslutar dagen med att planera resten av kursen!
 
 #### Måndag       
 
+Läs en artikel om varför ett företag gick från andra sätt att definiera färger till [OKLCH in CSS](https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl). Använd [OKLCH Color Picker & Converter](https://oklch.com/) och [OddContrast](https://www.oddcontrast.com/).           
+
+Som vi kom överens om är detta sista lektionen vi lägger på JavaScript. Så se till att ni har koll på grunderna!      
+
 #### Tisdag       
 
 #### Torsdag       
