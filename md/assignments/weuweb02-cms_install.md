@@ -56,6 +56,19 @@ Och en sista koll för att se att allting ser bra ut.
 
 Nu kan du besöka din nyinstallerade Drupal CMS i din webbläsare. 
 
+### Felsökning      
+
+Om du kör i Windows finns flera begränsningar som kan ställa till det. Här är några förslag på lösningar.       
+
+* Starta om! When in doubt, reboot!
+* För lite RAM. Se [Troubleshooting Composer](https://www.drupal.org/docs/develop/using-composer/troubleshooting-composer#s-insufficient-memory) på Drupal.org.         
+
+        lando export COMPOSER_MEMORY_LIMIT=-1
+
+* För dålig prestandaz. Se [Why composer install timeouts after 300 seconds?](https://stackoverflow.com/questions/18917768/why-composer-install-timeouts-after-300-seconds) på stackoverflow.        
+
+        lando composer config --global process-timeout 2000
+
 ## Förväntat resultat
 
 En utvecklingsmiljö som kör Drupal 8. 
