@@ -111,6 +111,11 @@ Fortsätt med Structuring a page of content...
 
 ## Vecka 41   
 
+Repetition.      
+
+Fortsätt med Structuring a page of content...       
+
+Prov på HTML.      
 
 ## Vecka 42   
 
