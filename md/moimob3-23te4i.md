@@ -151,7 +151,24 @@ Läs en artikel om varför ett företag gick från andra sätt att definiera fä
 
 Som vi kom överens om är detta sista lektionen vi lägger på JavaScript. Så se till att ni har koll på grunderna!      
 
-#### Tisdag       
+#### Tisdag
+
+Vi introducerar MIT App Inventor!
+
+Idag får ni en genomgång av vad MIT App Inventor är och hur det fungerar. Vi kör en live demo på hur man skapar en app som man sedan kan köra på telefonen.
+
+Det finns många tutorials, allt från att skapa enkla soundboards till att skapa appar som är kopplade till internetjänster så som Firebase eller Google Sheets.
+
+Efter genomgången så får ni själva registrera er på MIT App Inventors hemsida och skapa lite olika appar. Viktigt är att alla utvecklar och testar hela kedjan från idé till en färdig .APK-fil. Ni kommer senare arbeta med ett projekt kopplat till MIT App Inventor och då måste allt vara fungera. Följ [den här guiden](https://appinventor.mit.edu/explore/ai2/setup).
+
+Jag skapar en liten länksamling nedan för alla de olika sakerna jag visade på föreläsningen:
+
+* [MIT App Inventor](https://appinventor.mit.edu/)
+* [Bluestacks](https://www.bluestacks.com/) - Emulerar en android telefon
+* [Nox](https://www.bignox.com/) - Emulerar en android telefon
+* [Google Play Console](https://play.google.com/console/about/) - Länk till utvecklingskonsollen på Google Play (Ni beöhver INTE registrera ett konto här då det kostar 25 dollar)
+* [MIT App Inventor på Youtube](https://www.youtube.com/@MITAppInventor/videos) - Deras Youtube kanal där det finns idéer till projekt och hur andra har använt MIT App Inventor för att lösa riktiga problem.
+
 
 #### Torsdag       
 
