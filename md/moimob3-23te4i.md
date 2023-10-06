@@ -174,7 +174,7 @@ Jag skapar en liten länksamling nedan för alla de olika sakerna jag visade på
 
 #### Fredag        
 
-*Veckans sociala medier:* 
+*Veckans sociala medier:* Denna vecka ser vi mot den ljusnande framtiden med videoklippet om artikeln "[AI is a Loom](https://proxitok.pabloferreiro.es/@placeholder/video/ZGJvtqsfo)", vi skapar en kreativ flexbox-design med [Flexer](https://www.flexer.dev/), får "[Answers to Common Design Questions](https://danmall.com/posts/answers-to-common-design-questions/)", rekommenderas att [Build an API resume](https://proxitok.pabloferreiro.es/%40eric.lake/video/7280655828716326190) och avslutar med citatet "[We are no longer securing computers - We are securing society!](https://twitter.com/SecurityTrybe/status/1708049147780075854?s=09&t=S0LcO1RSGKbIUYhyUSSRuw)". 
 
 ## Vecka 41   
 
