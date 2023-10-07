@@ -104,13 +104,13 @@ Fortsätt med Structuring a page of content...
 
 ## Vecka 40   
 
-Repetitiom av HTML         
+Repetition av HTML         
 
 Prov på HTML       
 
 ## Vecka 41   
 
-CSS      
+CSS!      
 
 ## Vecka 42   
 
