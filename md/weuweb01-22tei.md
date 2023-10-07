@@ -92,11 +92,7 @@ Denna gång tittar vi på struktur! Först strukturen för ett HTML-dokument, vi
 * [folder metaphor](https://en.wikipedia.org/wiki/Directory_%28computing%29#Folder_metaphor)
 
 **Saker ni behöver kunna göra**       
-Ni måste veta hur man [skapar en textfil](https://www.wikihow.com/Make-a-New-File-in-Windows) hur man [skapar en katalog](https://www.minitool.com/news/how-do-i-create-a-directory.html#how-to-create-a-directory-in-windows-10-7400), [Komprimera och packa upp filer](https://support.microsoft.com/sv-se/windows/komprimera-och-packa-upp-filer-f6dde0a7-0fec-8294-e1d3-703ed85e7ebc) och hur man visar dolda filändelser.      
-    1) Tryck [Windows] + [i]       
-    2) Gå till _Uppdatering och säkerhet_ / _För utvecklare_ / _Utforskaren_       
-    3) Sök upp _Ändra inställningar för att visa dolda filer och systemfiler_ och klicka på _Visa inställningar_      
-    4) Se till att det **inte** sitter en bock intill alternativet _Dölj filnamnstilläg för kända filtyper_       
+Ni måste veta hur man [skapar en textfil](https://www.wikihow.com/Make-a-New-File-in-Windows) hur man [skapar en katalog](https://www.minitool.com/news/how-do-i-create-a-directory.html#how-to-create-a-directory-in-windows-10-7400), [Komprimera och packa upp filer](https://support.microsoft.com/sv-se/windows/komprimera-och-packa-upp-filer-f6dde0a7-0fec-8294-e1d3-703ed85e7ebc), ta ett screenshot av hela sidan ([Firefox](https://support.mozilla.org/en-US/kb/take-screenshots-firefox?redirectslug=firefox-screenshots&redirectlocale=en-US), [Edge](https://www.howtogeek.com/719285/how-to-take-full-page-screenshots-in-microsoft-edge/)) och hur man visar dolda filändelser ([Windows 10](https://windowsreport.com/show-file-extensions-windows-10/), [Windows 11](https://windowsreport.com/show-file-extension-windows-11/)).      
 
 **Regler för namngivning**      
 
@@ -108,7 +104,9 @@ Fortsätt med Structuring a page of content...
 
 ## Vecka 40   
 
-Prov på HTML      
+Repetitiom av HTML         
+
+Prov på HTML       
 
 ## Vecka 41   
 
