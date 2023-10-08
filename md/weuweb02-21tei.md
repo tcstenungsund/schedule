@@ -68,11 +68,13 @@ Nu har du en utvecklingsmiljö med Drupal 8 som du kan stoppa och starta med fö
 
 ## Vecka 40   
 
-Grundkurs i CMS        
+Fortsätt med uppgift CMS Install...                
 
 ## Vecka 41   
 
 Genomgång av provet från vecka 35.        
+
+Fortsätt med uppgift CMS Install...        
 
 Grundkurs i CMS       
 
@@ -80,9 +82,13 @@ Grundkurs i CMS
 
 Grundkurs i CMS       
 
+Uppgift...      
+
 ## Vecka 43   
 
 Grundkurs i CMS       
+
+Test på uppgift...      
 
 ## Vecka 44   
 
@@ -90,24 +96,31 @@ Grundkurs i CMS
 
 ## Vecka 45   
 
+Prov på Grundkurs i CMS         
 
 ## Vecka 46   
 
+Teman i en CMS      
 
 ## Vecka 47   
 
+Versionshantering        
 
 ## Vecka 48   
 
+Enskild uppgift...        
 
 ## Vecka 49   
 
+Enskild uppgift...        
 
 ## Vecka 50   
 
+Enskild uppgift...        
 
 ## Vecka 51   
 
+Enskild uppgift...        
 
 ## Vecka 52   
 
@@ -118,15 +131,19 @@ Grundkurs i CMS
 
 ## Vecka 3   
 
+Arbetsflöde...       
 
 ## Vecka 4   
 
+Gruppuppgift...     
 
 ## Vecka 5   
 
+Gruppuppgift...     
 
 ## Vecka 6   
 
+Gruppuppgift...     
 
 ## Vecka 7   
 
@@ -134,42 +151,54 @@ Grundkurs i CMS
 
 ## Vecka 8   
 
+Gruppuppgift...     
 
 ## Vecka 9   
 
+Gruppuppgift...     
 
 ## Vecka 10   
 
+Gruppuppgift...     
 
 ## Vecka 11   
 
+Gruppuppgift...     
 
 ## Vecka 12   
 
+Gruppuppgift...     
 
 ## Vecka 13   
 
+Gruppuppgift...     
 
 ## Vecka 14   
 
 **PÅSKLOV**   
 ## Vecka 15   
 
+Gruppuppgift...     
 
 ## Vecka 16   
 
+Gruppuppgift...     
 
 ## Vecka 17   
 
+Gruppuppgift...     
 
 ## Vecka 18   
 
+Gruppuppgift...     
 
 ## Vecka 19   
 
+Gruppuppgift...     
 
 ## Vecka 20   
 
+Presentation av gruppuppgift...    
 
 ## Vecka 21   
 
