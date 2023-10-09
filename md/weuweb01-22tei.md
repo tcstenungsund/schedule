@@ -110,15 +110,25 @@ Prov på HTML
 
 ## Vecka 41   
 
-CSS!      
+Nu lämnar vi HTML (hur många element kan du? "[HTML Tags Memory Test](https://codepen.io/plfstr/full/zYqQeRw)") och går vidare till stilmallar!     
+
+###### CSS First steps           
+
+Uppgift: Styling a biography page            
+
+###### CSS Selektorer           
 
 ## Vecka 42   
 
-CSS      
+Genomgång av provet från vecka 40             
+
+###### CSS Specificity och Box model              
 
 ## Vecka 43   
 
-Prov på CSS      
+###### CSS Värden och enheter (+ felsökning)                
+
+Uppgift: Fundamental CSS comprehension                
 
 ## Vecka 44   
 
@@ -126,9 +136,11 @@ Prov på CSS
 
 ## Vecka 45   
 
+###### CSS Styling text och Layout modes                 
 
 ## Vecka 46   
 
+Prov på CSS      
 
 ## Vecka 47   
 
