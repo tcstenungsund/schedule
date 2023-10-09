@@ -14,7 +14,7 @@ I grupp om två.
 
 ## Uppgiftsbeskrivning    
 
-Skapa en app och testa den på din egen mobil.       
+Logga in på MIT App Inventor och bekanta er med verktyget. Följ en tutorial eller två. Undersök vilka möjligheter och begränsningar verktyget har. Skapa en app och testa den på din egen mobil.       
 
 ## Förväntat resultat
 
