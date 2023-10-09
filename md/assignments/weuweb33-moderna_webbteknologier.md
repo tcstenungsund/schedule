@@ -10,15 +10,14 @@ Enskilt eller i mindre grupper.
 
 ## Resurser
 
-* [Anticipatory Design](https://www.webdesignerdepot.com/2018/09/streamlining-ux-with-anticipatory-design/)        
-* [Intrinsic Web Design](https://www.webdesignerdepot.com/2018/05/a-simple-introduction-to-intrinsic-web-design/)        
-* [Self-Documenting CSS](https://keithjgrant.com/posts/2017/06/self-documenting-css/)        
-* [Living Style Guide](https://www.webdesignerdepot.com/2018/01/how-to-create-a-living-style-guide/)
+* Anticipatory Design        
+* Intrinsic Web Design        
+* Self-Documenting CSS        
+* Living Style Guide         
 * Hick's law
 * Fitt's law
 * Rule of thirds
 * Visual hierarchy
-* 
 
 ## Uppgiftsbeskrivning    
 
