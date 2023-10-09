@@ -113,12 +113,13 @@ Fortsätt med Structuring a page of content...
 
 Repetition.      
 
-Fortsätt med Structuring a page of content...       
-
-Prov på HTML.      
+Fortsätt med Structuring a page of content. När du är klar, gör överkursuppgifterna ovan och repetera inför provet.       
 
 ## Vecka 42   
 
+CSS       
+
+Prov på HTML.      
 
 ## Vecka 43   
 
