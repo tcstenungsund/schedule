@@ -180,9 +180,15 @@ Jag skapar en liten länksamling nedan för alla de olika sakerna jag visade på
 
 #### Måndag       
 
+[Uppgift: Moderna Webbteknologier](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb33-moderna_webbteknologier)                    
+
 #### Tisdag       
 
+Uppgift: My First App             
+
 #### Torsdag       
+
+Presentation av Moderna Webbteknologier          
 
 #### Fredag        
 
