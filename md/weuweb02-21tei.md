@@ -76,7 +76,7 @@ Genomgång av provet från vecka 35.
 
 Fortsätt med uppgift CMS Install...        
 
-Grundkurs i CMS       
+Vi ser avsnitten 1-3 (Introduktion, 15min) och 8-15 (Systemöverblick, 17min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".        
 
 ## Vecka 42   
 
