@@ -67,7 +67,7 @@ Om du kör i Windows finns flera begränsningar som kan ställa till det. Här �
 
 * För dålig prestandaz. Se [Why composer install timeouts after 300 seconds?](https://stackoverflow.com/questions/18917768/why-composer-install-timeouts-after-300-seconds) på stackoverflow.        
 
-        lando composer config --global process-timeout 2000
+        lando composer config --global process-timeout 16000
 
 ## Förväntat resultat
 
