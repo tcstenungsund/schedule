@@ -85,7 +85,8 @@ Kapitel 4 färdigt.
 Onsdag:
 Prov kapitel 4.
 Uppstart kapitel 5 - Nätverk.
-![nätverk.PNG]({{site.baseurl}}/md/nätverk.PNG)
+
+![]({{site.baseurl}}/md/n%C3%A4tverk.PNG)
 
 Genomgång fram till 5.1.2
 
