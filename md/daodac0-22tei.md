@@ -74,8 +74,21 @@ Kapitel 2 provet ska vara gjort.
 Onsdag:
 PROV på kapitel 3.
 
+Torsdag:
+Genomgång kapitel 4.
+
 
 ## Vecka 41   
+Måndag:
+Kapitel 4 färdigt.
+
+Onsdag:
+Prov kapitel 4.
+Uppstart kapitel 5 - Nätverk.
+![nätverk.PNG]({{site.baseurl}}/md/nätverk.PNG)
+
+Genomgång fram till 5.1.2
+
 
 
 ## Vecka 42   
