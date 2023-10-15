@@ -81,11 +81,43 @@ Nyckelord för er - lokalt, klimatsmart, unikt.
 
 ## Vecka 40   
 
+Uppdatera den digitala informationen om ert företag på UFs hemsida.
+Namn på företaget,vem gör vad, logga, mail, socialamedier...
+
+Formulera en affärsidé. Den ska svara på:
+
+- Vad ni gör.
+- Vem som är målgruppen.
+- Varför ska de välja er?
+
+
+
 
 ## Vecka 41   
+Uppdatera den digitala informationen om ert företag på UFs hemsida.
+Namn på företaget,vem gör vad, logga, mail, socialamedier...
+
+Formulera en affärsidé. Den ska svara på:
+
+- Vad ni gör.
+- Vem som är målgruppen.
+- Varför ska de välja er?
+
+Genomför ett konstituerande styrelsemöte, som alla i företaget ska skriva under.
+
+Sätt mål för ert företag!
+Vad vill ni uppnå? Tävlingar, mässor, försäljning...
+Hur ska ni göra för att ha så kul som möjligt?
 
 
 ## Vecka 42   
+
+Tisdag - Heldag med UF.
+Samtidigt som ni har era utvecklingssamtal så arbetar ni med era UF företag. 
+Nu är det dags för VERKSTAD. Ni behöver arbeta med era produkter och tjänster.
+Tänk på att fördela arbetet mellan er.
+
+Ni får börja kika på hur ni ska pitcha ert företag.
 
 
 ## Vecka 43   
@@ -96,6 +128,8 @@ Nyckelord för er - lokalt, klimatsmart, unikt.
 **HÖSTLOV**   
 
 ## Vecka 45   
+
+Tisdag - PITCH av ert UF företag.
 
 
 ## Vecka 46   
