@@ -40,12 +40,28 @@ Eftersom det kan vara trafikstörningar efter helgens ras på E6an, så kanske v
 
 
 ## Vecka 40   
+Arbete med CCSK kursen.
 
 
 ## Vecka 41   
+Arbete med CCSK kursen.
 
 
 ## Vecka 42   
+Ni som börjar bli färdiga med CCSK kursen kan börja laborera med Proxmox.
+
+
+https://www.proxmox.com/en/
+https://pve.proxmox.com/wiki/Main_Page
+
+https://pve.proxmox.com/wiki/Windows_2022_guest_best_practices
+https://pve.proxmox.com/wiki/Windows_10_guest_best_practices
+
+https://www.youtube.com/watch?v=TvnZTi_gaNc
+https://www.youtube.com/watch?v=k70mWHiL2L8
+
+http://itlararen.se/videos/windows/win126.html
+https://www.youtube.com/watch?v=kOdf4_QPrZw
 
 
 ## Vecka 43   
