@@ -65,22 +65,27 @@ Gör Packet Tracer 4.2.7 och lämna in.
 ## Vecka 40   
 
 **Måndag:**
+Laboration 4.2.8
 
 
 **Onsdag:**
+Laboration 4.2.8
 
 
 ## Vecka 41   
 
 **Måndag:**
+Laboration 4.2.8
 
 
 **Onsdag:**
+Repetition av kapitel 1-4. Se till att er digitala information om UF företaget är uppdaterat.
 
 
 ## Vecka 42   
 
 **Måndag:**
+PROV Kapitel 1-4
 
 
 **Onsdag:**
