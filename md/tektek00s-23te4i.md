@@ -48,17 +48,22 @@ Arbete med CCSK kursen.
 
 
 ## Vecka 42   
+
+
+![Proxmox_logo_standard_hex_400px.png]({{site.baseurl}}/md/Proxmox_logo_standard_hex_400px.png)
+
 Ni som börjar bli färdiga med CCSK kursen kan börja laborera med Proxmox.
+Använd en av våra NUCar och installera på ett Usb-minne.
 
 
 https://www.proxmox.com/en/
 https://pve.proxmox.com/wiki/Main_Page
 
-https://pve.proxmox.com/wiki/Windows_2022_guest_best_practices
-https://pve.proxmox.com/wiki/Windows_10_guest_best_practices
-
 https://www.youtube.com/watch?v=TvnZTi_gaNc
 https://www.youtube.com/watch?v=k70mWHiL2L8
+
+https://pve.proxmox.com/wiki/Windows_2022_guest_best_practices
+https://pve.proxmox.com/wiki/Windows_10_guest_best_practices
 
 http://itlararen.se/videos/windows/win126.html
 https://www.youtube.com/watch?v=kOdf4_QPrZw
