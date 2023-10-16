@@ -93,9 +93,19 @@ Genomgång fram till 5.1.2
 
 
 ## Vecka 42   
+Måndag:
+Genomgång av 5.2 färdig.
+Läs och gör de interaktiva uppgifterna.
+
+Onsdag:
+GEnomgång av 5.3
 
 
 ## Vecka 43   
+
+Prov kapitel 5.
+
+Tillverka nätverkskabel.
 
 
 ## Vecka 44   
@@ -103,6 +113,8 @@ Genomgång fram till 5.1.2
 **HÖSTLOV**   
 
 ## Vecka 45   
+
+Kapitel 6.
 
 
 ## Vecka 46   
