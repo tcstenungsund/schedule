@@ -55,17 +55,30 @@ Arbete med CCSK kursen.
 Ni som börjar bli färdiga med CCSK kursen kan börja laborera med Proxmox.
 Använd en av våra NUCar och installera på ett Usb-minne.
 
+Vi ser gemensamt "What is a hypervisor?", som ligger under kursmaterial/proxmox.
+
+
+[https://www.youtube.com/watch?v=5j0Zb6x_hOk&list=PLT98CRl2KxKHnlbYhtABg6cF50bYa8Ulo&index=1](https://www.youtube.com/watch?v=5j0Zb6x_hOk&list=PLT98CRl2KxKHnlbYhtABg6cF50bYa8Ulo&index=1 "Proxmox: Building Your First Virtualization Server")
+
+[https://www.youtube.com/playlist?list=PLT98CRl2KxKHnlbYhtABg6cF50bYa8Ulo](https://www.youtube.com/playlist?list=PLT98CRl2KxKHnlbYhtABg6cF50bYa8Ulo "Proxmox kurs")
 
 https://www.proxmox.com/en/
+
 https://pve.proxmox.com/wiki/Main_Page
 
+
 https://www.youtube.com/watch?v=TvnZTi_gaNc
+
 https://www.youtube.com/watch?v=k70mWHiL2L8
 
+
 https://pve.proxmox.com/wiki/Windows_2022_guest_best_practices
+
 https://pve.proxmox.com/wiki/Windows_10_guest_best_practices
 
+
 http://itlararen.se/videos/windows/win126.html
+
 https://www.youtube.com/watch?v=kOdf4_QPrZw
 
 
