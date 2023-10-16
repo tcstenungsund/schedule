@@ -110,7 +110,7 @@ Prov på HTML
 
 ## Vecka 41   
 
-Nu lämnar vi HTML (hur många element kan du? "[HTML Tags Memory Test](https://codepen.io/plfstr/full/zYqQeRw)") och går vidare till stilmallar!     
+Dags att runda av HTML! Hur många element kan du? Testa dig själv med "[HTML Tags Memory](https://codepen.io/plfstr/full/zYqQeRw)"). Nu går vidare till stilmallar!     
 
 ###### CSS First steps           
 * [What is CSS?](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)                      
