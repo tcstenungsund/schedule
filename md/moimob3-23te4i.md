@@ -198,6 +198,17 @@ Presentation av Moderna Webbteknologier
 
 #### Måndag       
 
+###### Progressive Web Apps
+
+Dagens föreläsning bygger på "[Vad är PWA eller Progressive Web Apps?](https://whitespace.se/blogg/vad-ar-pwa-eller-progressive-web-apps/)", hur skapar man en "[Progressive Web App](https://web.dev/progressive-web-apps/)", "[Progressive Web Apps (PWA) for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHjqO1pNqScMngrV7oFro-TY)" och "[Web App Manifest Generator](https://app-manifest.firebaseapp.com/)".       
+
+"[Progressive Web Apps: Where Do I Begin?](https://youtu.be/e8R-34uTtU8)" (58 min)      
+
+Projektet vi påbörjar går ut på att vi skall bygga en PWA, med hjälp av de verktyg vi bekantat oss med i denna och föregående kurser. Detta inkluderar Node.js, SASS, Bootstrap och GitHub.      
+
+[Projekt: Progressive Web Apps](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb33-pwa)      
+
+
 #### Tisdag       
 
 #### Torsdag       
