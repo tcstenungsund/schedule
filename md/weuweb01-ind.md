@@ -120,9 +120,10 @@ Fortsätt med Structuring a page of content. När du är klar, gör överkursupp
 Dags att avrunda HTML! Hur många element kan du? Kolla med testet på "[HTML Tags Memory](https://codepen.io/plfstr/full/zYqQeRw)")! Nu går vidare till stilmallar!     
 
 ###### CSS First steps           
-* [What is CSS?](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)                      
-* [Getting started with CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Getting_started)       
-* [How CSS is structured](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_is_structured)       * [How CSS works](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_works)
+* [What is CSS?](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)                       
+* [Getting started with CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Getting_started)        
+* [How CSS is structured](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_is_structured)             
+* [How CSS works](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_works)                
 
 Prov på HTML.      
 
