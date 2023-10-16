@@ -200,7 +200,7 @@ Presentation av Moderna Webbteknologier
 
 ###### Progressive Web Apps
 
-Dagens föreläsning bygger på "[Vad är PWA eller Progressive Web Apps?](https://whitespace.se/blogg/vad-ar-pwa-eller-progressive-web-apps/)", hur skapar man en "[Progressive Web App](https://web.dev/progressive-web-apps/)", "[Progressive Web Apps (PWA) for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHjqO1pNqScMngrV7oFro-TY)" och "[Web App Manifest Generator](https://app-manifest.firebaseapp.com/)".       
+Dagens föreläsning bygger på "[Vad är PWA eller Progressive Web Apps?](https://whitespace.se/blogg/vad-ar-pwa-eller-progressive-web-apps/)", hur skapar man en "[Progressive Web App](https://web.dev/progressive-web-apps/)", "[What PWA Can Do Today](https://whatpwacando.today/)", "[Progressive Web Apps (PWA) for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHjqO1pNqScMngrV7oFro-TY)" och "[Web App Manifest Generator](https://app-manifest.firebaseapp.com/)".       
 
 "[Progressive Web Apps: Where Do I Begin?](https://youtu.be/e8R-34uTtU8)" (58 min)      
 
