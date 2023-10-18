@@ -80,15 +80,11 @@ Vi ser avsnitten 1-3 (Introduktion, 15min) och 8-15 (Systemöverblick, 17min) i 
 
 ## Vecka 42   
 
-Grundkurs i CMS       
-
-Uppgift...      
+**Projektdag: Gymnasiearbete**      
 
 ## Vecka 43   
 
-Grundkurs i CMS       
-
-Test på uppgift...      
+Grundkurs i CMS         
 
 ## Vecka 44   
 
@@ -96,17 +92,25 @@ Test på uppgift...
 
 ## Vecka 45   
 
-Prov på Grundkurs i CMS         
+Grundkurs i CMS       
+
+Läxa          
 
 ## Vecka 46   
 
-Teman i en CMS      
+Grundkurs i CMS   
+
+Läxförhör          
 
 ## Vecka 47   
 
-Versionshantering        
+Teman i en CMS      
+
+Prov på Grundkurs i CMS         
 
 ## Vecka 48   
+
+Versionshantering        
 
 Enskild uppgift...        
 
