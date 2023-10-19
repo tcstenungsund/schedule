@@ -99,13 +99,26 @@ Läs och gör de interaktiva uppgifterna.
 
 Onsdag:
 GEnomgång av 5.3
+[Submarinecablemap](https://www.submarinecablemap.com/)
+
+[Lista över portnummer](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
+
+Torsdag:
+Repetion av 5.3
+
+Genomgång av 5.4
 
 
 ## Vecka 43   
 
-Prov kapitel 5.
+Måndag:
+Repetition av kapitel 5.
 
-Tillverka nätverkskabel.
+Onsdag:
+Laboration - tillverka nätverkskabel.
+
+Torsdag:
+Prov kapitel 5.
 
 
 ## Vecka 44   
