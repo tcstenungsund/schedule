@@ -122,6 +122,39 @@ Ni får börja kika på hur ni ska pitcha ert företag.
 
 ## Vecka 43   
 
+PITCH tisdag vecka 45!
+Ni ska pitcha er affärsidé på tisdag i vecka 45. Det företag som imponerar mest går vidare till Draknästet på Stenungsbaden v47.
+Under fliken FILER/UNDERVISNINGSMATERIAL/PITCH finns mer information och exempel på tidigare pitchar.
+
+Ni behöver:
+
+- powerpoint som förstärker ert budskap
+
+- manus där alla i gruppen är delaktiga i framställningen
+
+- visa upp produkten eller tjänsten och förklara funktionen på ett enkelt sätt
+
+- måla upp en framtids vision där er produkt/tjänst löser problem och gör världen bättre (tänk på ert mantra)
+
+
+Vi följer UFs regler för pitch:
+
+_TÄVLINGSINSTRUKTIONER 
+Den muntliga presentationen sker inför en jurygrupp, men presentationen ska kunna anpassas till en
+stor publik. Presentationen får vara max 4 minuter och ska vara affärsmässig men får gärna innehålla
+underhållande inslag. Eventuellt film- eller musikinslag ska vara inkluderat i de fyra minuterna. Max fem
+personer får göra presentationen och alla måste vara medlemmar i UF-företaget.
+OBS! Poängavdrag sker om presentationen drar över mer än tio sekunder. I samband med
+företagspresentationen finns ingen möjlighet för juryn att ställa frågor så se till att presentationen är
+tydlig._
+
+Länk till pitchar för två av finalisterna i UF SM:
+
+[Sobb UF - UF SM 2023](https://www.youtube.com/watch?v=f9Gc6MB0JMU)
+
+[TuGo UF - UF SM 2023](https://www.youtube.com/watch?v=msc8pYL32Rg)
+
+
 
 ## Vecka 44   
 
@@ -136,6 +169,8 @@ Tisdag - PITCH av ert UF företag.
 
 
 ## Vecka 47   
+
+Draknäste på Stenungsunsbaden.
 
 
 ## Vecka 48   
