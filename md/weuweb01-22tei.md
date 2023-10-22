@@ -131,11 +131,15 @@ Uppgift: [Styling a biography page](https://developer.mozilla.org/en-US/docs/Lea
 
 Genomgång av provet från vecka 40             
 
-###### CSS Specificity och Box model              
+###### CSS Cascade och specificity       
+* [Cascade, specificity, and inheritance](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance)        
+* [Cascade layers](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_layers) (Överkurs)       
+
+Test your skills: [Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Selectors_Tasks)       
 
 ## Vecka 43   
 
-###### CSS Värden och enheter (+ felsökning)                
+###### Box model och enheter (+ felsökning)                
 
 Uppgift: Fundamental CSS comprehension                
 
