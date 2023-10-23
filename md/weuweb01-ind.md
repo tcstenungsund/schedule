@@ -138,20 +138,21 @@ Prov på HTML.
 
 Test your skills: [Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Selectors_Tasks)          
 
-###### CSS Cascade och specificity       
-* [Cascade, specificity, and inheritance](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance)        
-* [Cascade layers](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_layers) (Överkurs)       
 ## Vecka 44   
 
 **HÖSTLOV**   
 
 ## Vecka 45   
 
+###### CSS Cascade och specificity       
+* [Cascade, specificity, and inheritance](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance)        
+* [Cascade layers](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_layers) (Överkurs)       
+
 Genomgång av provet från vecka 42      
 
 ###### Box model och enheter (+ felsökning)            
 
-Uppgift: Fundamental CSS comprehension
+Uppgift: Fundamental CSS comprehension               
 
 ## Vecka 46   
 
