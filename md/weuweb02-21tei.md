@@ -84,7 +84,30 @@ Vi ser avsnitten 1-3 (Introduktion, 15min) och 8-15 (Systemöverblick, 17min) i 
 
 ## Vecka 43   
 
-Grundkurs i CMS         
+###### För de som inte lyckats installera en CMS-container än            
+1) Skapa ny projektkatalog       
+2) Ladda ned filen docker-compose.yml
+3) Navigera till din projektkatalog och kör följande kommando
+
+       docker-compose up -d
+
+5) Öppna http://localhost:8080 i din webbläsare och slutför installationen, alla uppgifter du behöver står i filen du nyss laddade ned, och i övrigt väljer du defaultvärden eller egna kreativa lösningar    
+6) När du är klar, kan du stoppa och starta din utvecklingsmiljö med följande kommandon                  
+
+       docker-compose stop          
+
+       docker-compose start          
+
+Vi ser avsnitten 16-18, 22-26 (Content Type, 26min) samt avsnitten 27-29 (Taxonomy, 10min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".
+
+--  
+
+Vi ser avsnitten 37-40 (Views, 20min), avsnitten 43-47 (Moduler, 23min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".
+
+[Uppgift: Moduler i Drupal](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-moduler_i_drupal)
+
+Läxa till vecka 45: Se avsnitten 30-31 (Content, 10min), 34-36 (Displays, 15min), 32 och 33 (Revisions och Devel, 9min), samt 41-42 (Image Styles och Photo Gallery, 8min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".
+      
 
 ## Vecka 44   
 
@@ -93,14 +116,12 @@ Grundkurs i CMS
 ## Vecka 45   
 
 Grundkurs i CMS       
-
-Läxa          
-
+        
 ## Vecka 46   
 
 Grundkurs i CMS   
 
-Läxförhör          
+Test på uppgift: Moduler i Drupal          
 
 ## Vecka 47   
 
