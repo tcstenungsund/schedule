@@ -226,9 +226,13 @@ Webbutvecklare brukar testa kontrast, a11y, om koden validerar, laddningshastigh
 
 Cain Maddox på [Twitter](https://twitter.com/ctrlshifti/status/1307599545803575296) uppmanar oss att sluta testa vår mjukvara, men Michael Lynch ger oss "[The Painless Way](https://mtlynch.io/painless-web-app-testing/)" att göra End-to-End Testing i mjukvaran [Cypress](https://www.cypress.io/). "[Cypress in 100 Seconds](https://youtu.be/BQqzfHQkREo)". Det är också viktigt att testa a11y, vilket går att automatisera med verktyg som [axe-core](https://www.npmjs.com/package/axe-core).               
 
-#### Tisdag       
+#### Tisdag
 
-#### Torsdag       
+Arbete med MIT-appen. Tipsar om olika sätt att presentera sitt projekt.
+[Prezi](https://prezi.com/) är ett alternativ att använda. 
+#### Torsdag
+
+Presentation av MIT-projektet.
 
 #### Fredag        
 
