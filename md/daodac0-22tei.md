@@ -121,6 +121,10 @@ Läs mer här:
 
 [Kjell o Co - tillverka nätverkskabel](https://www.kjell.com/se/kunskap/hur-funkar-det/internet/kabelinstallation/montering-av-rj45)
 
+Medans ni väntar på att göra labben fyller ni i LUPP enkäten. Tack!
+
+[LUPP](https://esmaker.net/nx2/s.aspx?id=8f910afa00a3&p=477834&restart=true&delay=9999)
+
 Torsdag:
 
 Volleyboll turnering.
