@@ -117,8 +117,13 @@ Repetition av kapitel 5.
 Onsdag:
 Laboration - tillverka nätverkskabel.
 
+Läs mer här:
+
+[Kjell o Co - tillverka nätverkskabel](https://www.kjell.com/se/kunskap/hur-funkar-det/internet/kabelinstallation/montering-av-rj45)
+
 Torsdag:
-Prov kapitel 5.
+
+Volleyboll turnering.
 
 
 ## Vecka 44   
