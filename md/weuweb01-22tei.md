@@ -139,7 +139,28 @@ Test your skills: [Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS
 
 ## Vecka 43   
 
-###### Box model och enheter (+ felsökning)                
+Test your skills: [Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Selectors_Tasks)            
+Test your skills: [The Cascade](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_tasks)                     
+
+Vi börjar med att repetera Cascade och Specificity med hjälp av "[How CSS Specificity Is Calculated](https://youtu.be/ZBphodDntVc)" (4½ min), [Batficity](http://batificity.com/), [The CSS Selector Specificity Calculator](https://polypane.app/css-specificity-calculator/) och [The CSS Cascade](https://2019.wattenberger.com/blog/css-cascade).        
+
+###### CSS Box model       
+* [The box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
+* Mapped logical properties: [margin-block](https://developer.mozilla.org/en-US/docs/Web/CSS/margin-block) and [margin-inline](https://developer.mozilla.org/en-US/docs/Web/CSS/margin-inline)                                   
+* [Backgrounds and borders](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Backgrounds_and_borders)                  
+* [Handling different text directions](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Handling_different_text_directions)                   
+* [Overflowing content](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Overflowing_content) (Överkurs)                      
+
+Test your skills: [Backgrounds and borders](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Test_your_skills_backgrounds_and_borders)                
+###### CSS Värden och enheter + debugging        
+* [CSS values and units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units) (Color sparar vi till nästa lektion)
+* [Sizing items in CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Sizing_items_in_CSS)
+* [Debugging CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Debugging_CSS)                 
+* [Organizing your CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Organizing) (Sparar vi till nästa lektion)               
+* [Advanced styling effects](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Advanced_styling_effects) (Överkurs)          
+
+Test your skills: [Values and units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_tasks)          
+Test your skills: [Sizing](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Sizing_tasks)              
 
 Uppgift: Fundamental CSS comprehension                
 
@@ -149,14 +170,18 @@ Uppgift: Fundamental CSS comprehension
 
 ## Vecka 45   
 
-###### CSS Styling text och Layout modes                 
+* [Organizing your CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Organizing)              
+
+###### Färgteori                      
 
 ## Vecka 46   
 
-Prov på CSS      
+###### CSS Styling text och Layout modes                 
+...                  
 
 ## Vecka 47   
 
+Prov på CSS      
 
 ## Vecka 48   
 
@@ -169,6 +194,7 @@ Prov på CSS
 
 ## Vecka 51   
 
+Praktisk övning         
 
 ## Vecka 52   
 
