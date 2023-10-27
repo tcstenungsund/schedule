@@ -152,17 +152,6 @@ Vi börjar med att repetera Cascade och Specificity med hjälp av "[How CSS Spec
 * [Overflowing content](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Overflowing_content) (Överkurs)                      
 
 Test your skills: [Backgrounds and borders](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Test_your_skills_backgrounds_and_borders)                
-###### CSS Värden och enheter + debugging        
-* [CSS values and units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units) (Color sparar vi till nästa lektion)
-* [Sizing items in CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Sizing_items_in_CSS)
-* [Debugging CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Debugging_CSS)                 
-* [Organizing your CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Organizing) (Sparar vi till nästa lektion)               
-* [Advanced styling effects](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Advanced_styling_effects) (Överkurs)          
-
-Test your skills: [Values and units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_tasks)          
-Test your skills: [Sizing](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Sizing_tasks)              
-
-Uppgift: Fundamental CSS comprehension                
 
 ## Vecka 44   
 
@@ -170,7 +159,17 @@ Uppgift: Fundamental CSS comprehension
 
 ## Vecka 45   
 
-* [Organizing your CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Organizing)              
+###### CSS Värden och enheter + debugging        
+* [CSS values and units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units)
+* [Sizing items in CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Sizing_items_in_CSS)
+* [Debugging CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Debugging_CSS)                 
+* [Organizing your CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Organizing)                
+* [Advanced styling effects](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Advanced_styling_effects) (Överkurs)          
+
+Test your skills: [Values and units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_tasks)          
+Test your skills: [Sizing](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Sizing_tasks)              
+
+Uppgift: Fundamental CSS comprehension                
 
 ###### Färgteori                      
 
