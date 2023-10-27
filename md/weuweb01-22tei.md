@@ -139,10 +139,9 @@ Test your skills: [Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS
 
 ## Vecka 43   
 
-Test your skills: [Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Selectors_Tasks)            
-Test your skills: [The Cascade](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_tasks)                     
-
 Vi börjar med att repetera Cascade och Specificity med hjälp av "[How CSS Specificity Is Calculated](https://youtu.be/ZBphodDntVc)" (4½ min), [Batficity](http://batificity.com/), [The CSS Selector Specificity Calculator](https://polypane.app/css-specificity-calculator/) och [The CSS Cascade](https://2019.wattenberger.com/blog/css-cascade).        
+
+Test your skills: [The Cascade](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_tasks)                     
 
 ###### CSS Box model       
 * [The box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
