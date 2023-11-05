@@ -144,26 +144,36 @@ Test your skills: [Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS
 
 ## Vecka 45   
 
+Genomgång av provet från vecka 42      
+
 ###### CSS Cascade och specificity       
 * [Cascade, specificity, and inheritance](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance)        
 * [Cascade layers](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_layers) (Överkurs)       
 
-Genomgång av provet från vecka 42      
+Detta är skitviktigt! Se till att ni förstår Specificity och har ett hum om the Cascade. Använd resurser som "[How CSS Specificity Is Calculated](https://youtu.be/ZBphodDntVc)" (4½ min), [Batficity](http://batificity.com/), [The CSS Selector Specificity Calculator](https://polypane.app/css-specificity-calculator/) och [The CSS Cascade](https://2019.wattenberger.com/blog/css-cascade).        
 
-###### Box model och enheter (+ felsökning)            
+Test your skills: [The Cascade](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_tasks)                     
 
-Uppgift: Fundamental CSS comprehension               
+###### CSS Box model       
+* [The box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
+* Mapped logical properties: [margin-block](https://developer.mozilla.org/en-US/docs/Web/CSS/margin-block) and [margin-inline](https://developer.mozilla.org/en-US/docs/Web/CSS/margin-inline)                                   
+* [Backgrounds and borders](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Backgrounds_and_borders)                  
+* [Handling different text directions](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Handling_different_text_directions) (Självstudier)                   
+* [Overflowing content](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Overflowing_content) (Överkurs)                      
+
+Test your skills: [Backgrounds and borders](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Test_your_skills_backgrounds_and_borders)        
 
 ## Vecka 46   
 
-###### CSS Styling text och Layout modes            
+###### CSS Värden och enheter + debugging        
 
 ## Vecka 47   
 
-Prov på CSS                
+###### CSS Styling text och Layout modes            
 
 ## Vecka 48   
 
+Prov på CSS                
 
 ## Vecka 49   
 
