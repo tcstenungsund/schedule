@@ -229,38 +229,117 @@ Cain Maddox på [Twitter](https://twitter.com/ctrlshifti/status/1307599545803575
 #### Tisdag
 
 Arbete med MIT-appen. Tipsar om olika sätt att presentera sitt projekt.
-[Prezi](https://prezi.com/) är ett alternativ att använda. 
-#### Torsdag
+[Prezi](https://prezi.com/) är ett alternativ att använda.             
 
-Presentation av MIT-projektet.
+#### Torsdag           
+
+Presentation av MIT-projektet.                
+
+#### Fredag         
+
+*Veckans sociala medier:* 
+
+## Vecka 44       
+
+**HÖSTLOV**    
+
+## Vecka 45    
+
+#### Måndag          
+
+###### API           
+
+Majoriteten av alla [API](https://en.wikipedia.org/wiki/API)er idag är av typen [REST](https://en.wikipedia.org/wiki/Representational_state_transfer). Vi ser "[RESTful APIs in 100 Seconds](https://youtu.be/-MTSQjw5DrM)" (3 min), "[REST API concepts and examples](https://youtu.be/7YcW25PHnAA)" (9 min) och "[GET Data from API & Display in HTML with JavaScript Fetch API](https://youtu.be/zUcc4vW-jsI)" (7 min) för att förstå oss på APIer. Sedan roas vi av "[You Give REST a Bad Name](https://youtu.be/nSKp2StlS6s)" (4 min).              
+
+Vi rekommenderas verktyg som "[Insomnia](https://insomnia.rest/)" - Open Source API Client och att djupdyka i listor som "[Public APIs](https://github.com/public-apis/public-apis)".             
+
+Överkurs när det gäller hantering av JSON får vi i "[Faster apps with JSON.parse](https://youtu.be/ff4fgQxPaO0)" (7 min).              
+
+#### Tisdag       
+
+#### Torsdag       
 
 #### Fredag        
 
 *Veckans sociala medier:* 
 
-## Vecka 44   
-
-**HÖSTLOV**   
-
-## Vecka 45   
-
 
 ## Vecka 46   
+
+#### Måndag         
+
+#### Tisdag       
+
+#### Torsdag       
+
+#### Fredag        
+
+*Veckans sociala medier:*  
 
 
 ## Vecka 47   
 
+#### Måndag         
+
+#### Tisdag       
+
+#### Torsdag       
+
+#### Fredag        
+
+*Veckans sociala medier:*  
+
 
 ## Vecka 48   
+
+#### Måndag         
+
+#### Tisdag       
+
+#### Torsdag       
+
+#### Fredag        
+
+*Veckans sociala medier:*  
 
 
 ## Vecka 49   
 
+#### Måndag         
+
+#### Tisdag       
+
+#### Torsdag       
+
+#### Fredag        
+
+*Veckans sociala medier:*  
+
 
 ## Vecka 50   
 
+#### Måndag         
+
+#### Tisdag       
+
+#### Torsdag       
+
+#### Fredag        
+
+*Veckans sociala medier:*  
+
 
 ## Vecka 51   
+
+#### Måndag         
+
+#### Tisdag       
+
+#### Torsdag       
+
+#### Fredag        
+
+*Veckans sociala medier:*  
 
 
 ## Vecka 52   
