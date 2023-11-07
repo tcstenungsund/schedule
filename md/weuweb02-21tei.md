@@ -108,9 +108,9 @@ Vi ser avsnitten 1-3 (Introduktion, 15min) och 8-15 (Systemöverblick, 17min) i 
 
 Vi ser avsnitten 16-18, 22-26 (Content Type, 26min) samt avsnitten 27-29 (Taxonomy, 10min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".
 
-Vi ser avsnitten 37-40 (Views, 20min), avsnitten 43-47 (Moduler, 23min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".            
+Vi ser avsnitten 37-40 (Views, 20min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".            
 
-Läxa till vecka 46: Se avsnitten 30-31 (Content, 10min), 34-36 (Displays, 15min), 32 och 33 (Revisions och Devel, 9min), samt 41-42 (Image Styles och Photo Gallery, 8min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".
+Läxa till vecka 46: Se avsnitten 30-31 (Content, 10min), 34-36 (Displays, 15min), 32 och 33 (Revisions och Devel, 9min), 41-42 (Image Styles och Photo Gallery, 8min) samt avsnitten 43-47 (Moduler, 23min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".
               
 ## Vecka 46   
 
