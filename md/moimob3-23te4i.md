@@ -259,10 +259,15 @@ Vi rekommenderas verktyg som "[Insomnia](https://insomnia.rest/)" - Open Source 
 
 #### Torsdag       
 
+Tillämpningar av API:er! Hur hämtar man och hanterar data från ett API och vad finns tillgängligt?      
+
+--       
+
+Presentationer av Projekt: Progressive Web Apps             
+
 #### Fredag        
 
 *Veckans sociala medier:* 
-
 
 ## Vecka 46   
 
