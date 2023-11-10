@@ -173,29 +173,36 @@ Det finns många färger, vilket vi kan se på ett "[Color wheel](https://en.wik
 
 Det finns många sätt att ange färger på (se "[MDN Color](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value)"), de två vi fokuserar på är HEX och OKLCH. Klippet "[What The Heck Is A Hex Value Anyway?](https://cgi.tutsplus.com/tutorials/what-the-heck-is-a-hex-value-anyway--ae-11932)" (4:15) ger oss bakgrunden till hexvärden och "[HEXplorer](https://codepen.io/robdimarzo/full/xxZgKOR)" illustrerar dem. Artikeln "[Why we moved from RGB and HSL](https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl)" förklarar varför man bör använda oklch och [OKLCH Color Picker & Converter](https://oklch.com) hjälper oss att göra det.         
 
-Men hur väljer man då? Jo, följ råden i "[How to Choose Colors (Easy 3-Step Process)](https://youtu.be/KMS3VwGh3HY)" och "[The 60:30:10 design rule for web design](https://yuricodesbot.hashnode.dev/the-603010-color-rule-for-web-design)". Verktyg som "[ColorKit](https://colorkit.co/)" kan hjälpa oss hitta nya kombinationer, men vi måste alltid kontrollera kontrasten och sedan konvertera till OKLCH.        
+## Vecka 46   
+
+###### Att välja färg               
+
+Hur väljer man färg? Följ råden i "[How to Choose Colors (Easy 3-Step Process)](https://youtu.be/KMS3VwGh3HY)" och "[The 60:30:10 design rule for web design](https://yuricodesbot.hashnode.dev/the-603010-color-rule-for-web-design)". Verktyg som "[ColorKit](https://colorkit.co/)" kan hjälpa oss hitta nya kombinationer, men vi måste alltid kontrollera kontrasten och sedan konvertera till OKLCH.        
 
 Kontrast är dock oerhört viktigt, vilket "[Contrast Rebellion](https://contrastrebellion.com/)" talar om för oss, och på "[Odd Contrast](https://www.oddcontrast.com/)" kan vi testa våra färger. (Läs mer och gör interaktiva övningar på "[Color & Contrast](https://colorandcontrast.com/)".)        
-
-Uppgift: [Fundamental CSS comprehension](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Fundamental_CSS_comprehension)                
-
-## Vecka 46   
 
 ###### CSS Styling text och Layout modes                 
 ...                  
 
+Uppgift: [Fundamental CSS comprehension](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Fundamental_CSS_comprehension)                
+
 ## Vecka 47   
 
-Prov på CSS      
+Uppgift: 
 
 ## Vecka 48   
 
+Uppgift: 
+
+Prov: CSS      
 
 ## Vecka 49   
 
+Mjukvara och ramverk      
 
 ## Vecka 50   
 
+Planeringsverktyg      
 
 ## Vecka 51   
 
