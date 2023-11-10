@@ -268,7 +268,7 @@ Presentationer av Projekt: Progressive Web Apps
 #### Fredag        
 
 *Veckans sociala medier:* 
-Vi börjar med en uppmaning att läsa på om [Passkeys](https://www.smashingmagazine.com/2023/10/passkeys-explainer-future-password-less-authentication/) och Git, med artiklar som [Confusing git terminology](https://jvns.ca/blog/2023/11/01/confusing-git-terminology/). Sedan tittar vi på förändringar i webb-branschen med hjälp av artiklarna [The Gap](https://dutchcelt.nl/posts/the-gap/) och [It's 2023, here is why your web design sucks](https://heather-buchel.com/blog/2023/10/why-your-web-design-sucks/). Vi avslutar med några [Essential tools for developers](https://www.devtoolbox.co/).                          
+Vi börjar med en uppmaning att läsa på om [Passkeys](https://www.smashingmagazine.com/2023/10/passkeys-explainer-future-password-less-authentication/) och [Confusing git terminology](https://jvns.ca/blog/2023/11/01/confusing-git-terminology/). Sedan tittar vi på förändringar i webb-branschen med hjälp av artiklarna [The Gap](https://dutchcelt.nl/posts/the-gap/) och [It's 2023, here is why your web design sucks](https://heather-buchel.com/blog/2023/10/why-your-web-design-sucks/). Vi avslutar med några [Essential tools for developers](https://www.devtoolbox.co/).                          
 
 ## Vecka 46   
 
