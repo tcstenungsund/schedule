@@ -181,18 +181,30 @@ Hur väljer man färg? Följ råden i "[How to Choose Colors (Easy 3-Step Proces
 
 Kontrast är dock oerhört viktigt, vilket "[Contrast Rebellion](https://contrastrebellion.com/)" talar om för oss, och på "[Odd Contrast](https://www.oddcontrast.com/)" kan vi testa våra färger. (Läs mer och gör interaktiva övningar på "[Color & Contrast](https://colorandcontrast.com/)".)        
 
-###### CSS Styling text och Layout modes                 
-...                  
+###### CSS Styling text      
+* [Fundamental text and font styling](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals)         
+* [Styling lists](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_lists) (Självstudier)       
+* [Styling links](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_links) (Självstudier)          
+* [Web fonts](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts) (Överkurs, utom Using an online font service)                     
 
+###### CSS Layout      
+* [Normal Flow](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Normal_Flow)           
+* [Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)              
+* [Grids](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids)              
+* [Floats](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Floats)              
+* [Positioning](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning)          
+* [Multiple-column layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Multiple-column_Layout)         
+* [Responsive design](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)            
+* [Beginner's guide to media queries](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Media_queries)            
 Uppgift: [Fundamental CSS comprehension](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Fundamental_CSS_comprehension)                
 
 ## Vecka 47   
 
-Uppgift: 
+Uppgift: [Creating fancy letterheaded paper](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Creating_fancy_letterheaded_paper)       
 
 ## Vecka 48   
 
-Uppgift: 
+Uppgift: [A cool looking box](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/A_cool_looking_box) 
 
 Prov: CSS      
 
