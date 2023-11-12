@@ -94,6 +94,47 @@ https://www.youtube.com/watch?v=kOdf4_QPrZw
 
 ## Vecka 46   
 
+POWERSHELL
+
+Dokumentation:
+[https://learn.microsoft.com/en-us/powershell/](https://learn.microsoft.com/en-us/powershell/ "PowerShell Documentation")
+
+[https://learn.microsoft.com/en-us/powershell/scripting/learn/ps101/01-getting-started?view=powershell-7.3](https://learn.microsoft.com/en-us/powershell/scripting/learn/ps101/01-getting-started?view=powershell-7.3 "Getting Started with PowerShell")
+
+ITläraren har en videoserie om Powershell, se den:
+
+[https://itlararen.se/videos/windows/win84.html](https://itlararen.se/videos/windows/win84.html "ITläraren - Powershell - Introduktion")
+
+[https://itlararen.se/videos/windows/win85.html](https://itlararen.se/videos/windows/win85.html "ITläraren - Powershell - Filhantering")
+
+[https://itlararen.se/videos/windows/win86.html](https://itlararen.se/videos/windows/win86.html "ITläraren - Powershell - Pipeline del 1")
+
+[https://itlararen.se/videos/windows/win87.html](https://itlararen.se/videos/windows/win87.html "ITläraren - Powershell - Pipeline del 2")
+
+[https://itlararen.se/videos/windows/win88.html](https://itlararen.se/videos/windows/win88.html "ITläraren - Powershell - Pipeline del 3")
+
+[https://itlararen.se/videos/windows/win89.html](https://itlararen.se/videos/windows/win89.html "ITläraren - Powershell - Pipeline del 4")
+
+[https://itlararen.se/videos/windows/win90.html](https://itlararen.se/videos/windows/win90.html "ITläraren - Powershell - ISE")
+
+[https://itlararen.se/videos/windows/win96.html](https://itlararen.se/videos/windows/win96.html "ITläraren - Powershell 08 Mer Pipeline Del 1")
+
+[https://itlararen.se/videos/windows/win97.html](https://itlararen.se/videos/windows/win97.html "ITläraren - Powershell 09 Mer Pipeline Del 2")
+
+[https://itlararen.se/videos/windows/win98.html](https://itlararen.se/videos/windows/win98.html "ITläraren - Powershell 10 PSProviders")
+
+[https://itlararen.se/videos/windows/win134.html](https://itlararen.se/videos/windows/win134.html "ITläraren - Powershell - Jämförelse")
+
+
+
+[https://www.youtube.com/playlist?list=PLAVSKeDM4AqN8zINh1niRxoZKqpd9FgtE](https://www.youtube.com/playlist?list=PLAVSKeDM4AqN8zINh1niRxoZKqpd9FgtE "Learn PowerShell Spellista")
+
+
+
+
+
+
+
 
 ## Vecka 47   
 
