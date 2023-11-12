@@ -125,7 +125,7 @@ ITläraren har en videoserie om Powershell, se den:
 
 [https://itlararen.se/videos/windows/win134.html](https://itlararen.se/videos/windows/win134.html "ITläraren - Powershell - Jämförelse")
 
-
+Learn PowerShell, 11 avsnitt:
 
 [https://www.youtube.com/playlist?list=PLAVSKeDM4AqN8zINh1niRxoZKqpd9FgtE](https://www.youtube.com/playlist?list=PLAVSKeDM4AqN8zINh1niRxoZKqpd9FgtE "Learn PowerShell Spellista")
 
