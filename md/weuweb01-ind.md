@@ -166,6 +166,15 @@ Test your skills: [Backgrounds and borders](https://developer.mozilla.org/en-US/
 ## Vecka 46   
 
 ###### CSS Värden och enheter + debugging        
+###### CSS Värden och enheter + debugging        
+* [CSS values and units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units)
+* [Sizing items in CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Sizing_items_in_CSS)
+* [Debugging CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Debugging_CSS)                 
+* [Organizing your CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Organizing) (Överkurs: Other tools that can help)                
+* [Advanced styling effects](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Advanced_styling_effects) (Överkurs)          
+
+Test your skills: [Values and units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_tasks)           
+Test your skills: [Sizing](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Sizing_tasks)              
 
 ## Vecka 47   
 
