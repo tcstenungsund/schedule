@@ -290,6 +290,25 @@ Ni får två förslag på projekt vi har plockat fram: TC Stenungsund-app och In
 
 Fundera och prata ihop er. Sök sedan in till ett av projekten. Ni kommer att få grupplistor på torsdag.
 
+##### Projektets gång
+
+Under projektets gång arbetar ni enligt SCRUM med ett Kanban-bräde på Github
+Projects. Kanban-brädet ska hållas uppdaterad då uppföljning av projektet sker
+löpande.
+
+I slutet av projektet skall ni:
+* Lämna in kod (Länk till ert Github repository)
+* Lämna in dokumentation (Länk till ert Github repository)
+* Hålla en kort presentation av ert projekt
+
+##### Krav
+
+* Github Project som Kanban-bräde
+* Arbeta efter SCRUM
+* Node.js
+* Någon form av API
+* Dokumentation av projekt
+
 #### Torsdag       
 
 ##### Grupper
