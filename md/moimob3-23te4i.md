@@ -282,9 +282,37 @@ Vi börjar med att se "[SCRUM: Twice the Work, Half the Time](https://youtu.be/R
 
 För att förstå hur vi skall tillämpa Scrum i praktiken ser vi "[How to Use GitHub for Automated Kanban Project Management](https://youtu.be/YVFa5VljCDY)" (12 min) och tittar på "[git-standup](https://github.com/kamranahmedse/git-standup)".         
 
-#### Tisdag       
+#### Tisdag 
+
+##### Start av Projekt
+
+Ni får två förslag på projekt vi har plockat fram: TC Stenungsund-app och Infobord.
+
+Fundera och prata ihop er. Sök sedan in till ett av projekten. Ni kommer att få grupplistor på torsdag.
 
 #### Torsdag       
+
+##### Grupper
+
+##### TC Stenungsund
+
+* Olof
+* Alexander
+* Isaac
+* Emil
+* Leo
+* Alfred
+* Ropen
+* Isac
+
+##### Infobord
+
+* Johannes
+* Edvin A
+* Nicky
+* Edvin F
+* Albin
+* Thor
 
 #### Fredag        
 
