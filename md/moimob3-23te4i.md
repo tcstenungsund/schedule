@@ -309,6 +309,10 @@ I slutet av projektet skall ni:
 * Någon form av API
 * Dokumentation av projekt
 
+##### Deadline: vecka 6
+
+
+
 #### Torsdag       
 
 ##### Grupper
