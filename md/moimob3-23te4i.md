@@ -339,7 +339,7 @@ I slutet av projektet skall ni:
 
 #### Fredag        
 
-*Veckans sociala medier:*  [Använd en lösenordshanterare](https://wandering.shop/@Tattooed_mummy/111424353591753829), testa webbläsaren [Thorium](https://thorium.rocks/), Byt Unity mot [Godot](https://linuxrocks.online/@Linux/111411009593104267), oroas över[ propreitär mjukvara i din kropp](https://www.fsf.org/blogs/community/software-that-supports-your-body-should-always-respect-your-freedom) och att det inte går att köpa [mjukvara utan prenumeration](https://www.computerworld.com/article/3710389/the-end-of-the-standalone-application.html) längre. 
+*Veckans sociala medier:*  [Använd en lösenordshanterare](https://wandering.shop/@Tattooed_mummy/111424353591753829), testa webbläsaren [Thorium](https://thorium.rocks/), [prokrastinera bättre](https://proxitok.pabloferreiro.es/@placeholder/video/ZGe1yHAvT), byt Unity mot [Godot](https://linuxrocks.online/@Linux/111411009593104267), oroas över[ propreitär mjukvara i din kropp](https://www.fsf.org/blogs/community/software-that-supports-your-body-should-always-respect-your-freedom) och att det inte går att köpa [mjukvara utan prenumeration](https://www.computerworld.com/article/3710389/the-end-of-the-standalone-application.html) längre. Titta också på hur [josemonkey](https://josemonkey.com/) använder API:er. 
 
 
 ## Vecka 47   
