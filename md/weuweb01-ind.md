@@ -193,7 +193,7 @@ Test your skills: [Sizing](https://developer.mozilla.org/en-US/docs/Learn/CSS/Bu
 * [Responsive design](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)            
 * [Beginner's guide to media queries](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Media_queries)         
 
-Uppgift: [Fundamental CSS comprehension](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Fundamental_CSS_comprehension)                
+Uppgift: [Fundamental CSS comprehension](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/webweu01-fundamental_css_comprehension)                
 
 ## Vecka 48   
 
