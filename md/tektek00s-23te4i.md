@@ -137,6 +137,8 @@ Anmäl er till anställningsintervju på Hogia. Obligatoriskt för alla!
 
 [https://hogia.varbi.com/what:spontaneous/jobID:2132/](https://hogia.varbi.com/what:spontaneous/jobID:2132/ "https://hogia.varbi.com/what:spontaneous/jobID:2132/")
 
+Meddela din lärare om du vill åka med till DreamHack fredagen den 24/11. Buss avgår från rondellen vid Nösnäs 08.30. Räkna med att vi är hemma igen vid 19.
+
 ## Vecka 48   
 
 
