@@ -137,15 +137,26 @@ Volleyboll turnering.
 ## Vecka 45   
 
 Kapitel 6.
+Laboration - tillverka egen Nätverkskabel.
 
 
 ## Vecka 46   
 
+Kapitel 6.
+
+[https://en.wikipedia.org/wiki/Reserved_IP_addresses](https://en.wikipedia.org/wiki/Reserved_IP_addresses "https://en.wikipedia.org/wiki/Reserved_IP_addresses")
+
+[https://lite.ip2location.com/ip-address-ranges-by-country](https://lite.ip2location.com/ip-address-ranges-by-country "https://lite.ip2location.com/ip-address-ranges-by-country")
+
 
 ## Vecka 47   
+Repetition av kapitel 6.
+Laboration - Setup av hemmarouter.
 
 
 ## Vecka 48   
+
+PROV kapitel 5 och 6.
 
 
 ## Vecka 49   
