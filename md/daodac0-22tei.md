@@ -152,6 +152,8 @@ Kapitel 6.
 ## Vecka 47   
 Repetition av kapitel 6.
 Laboration - Setup av hemmarouter.
+Läs 6.1.3.
+Logga in på din router och gör övningarna i kapitel 6.1.3.4 och 6.1.3.5
 
 
 ## Vecka 48   
