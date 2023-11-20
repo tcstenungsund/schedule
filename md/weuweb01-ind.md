@@ -177,13 +177,35 @@ Test your skills: [Sizing](https://developer.mozilla.org/en-US/docs/Learn/CSS/Bu
 
 ## Vecka 47   
 
-###### CSS Styling text och Layout modes            
+###### CSS Styling text      
+* [Fundamental text and font styling](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals)
+* [Styling lists](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_lists) (Självstudier)
+* [Styling links](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_links) (Självstudier)
+* [Web fonts](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts) (Överkurs, utom Using an online font service)                     
+
+###### CSS Layout modes      
+* [Normal Flow](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Normal_Flow)           
+* [Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)              
+* [Grids](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids)              
+* [Floats](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Floats)              
+* [Positioning](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning)          
+* [Multiple-column layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Multiple-column_Layout)         
+* [Responsive design](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)            
+* [Beginner's guide to media queries](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Media_queries)         
+
+Uppgift: [Fundamental CSS comprehension](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Fundamental_CSS_comprehension)                
 
 ## Vecka 48   
 
+Fortsätt med Fundamental CSS comprehension!      
 
 ## Vecka 49   
 
+Ta gärna varandra till hjälp med dagens uppgifter!     
+
+Uppgift: [A cool looking box](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/A_cool_looking_box)    
+
+Uppgift: [Creating fancy letterheaded paper](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Creating_fancy_letterheaded_paper)       
 
 ## Vecka 50   
 
