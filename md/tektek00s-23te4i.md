@@ -129,15 +129,13 @@ Learn PowerShell, 11 avsnitt:
 
 [https://www.youtube.com/playlist?list=PLAVSKeDM4AqN8zINh1niRxoZKqpd9FgtE](https://www.youtube.com/playlist?list=PLAVSKeDM4AqN8zINh1niRxoZKqpd9FgtE "Learn PowerShell Spellista")
 
+## Vecka 47  
 
+Anmäl er till anställningsintervju på Hogia. Obligatoriskt för alla!
 
+[https://www.hogia.se/karriar](https://www.hogia.se/karriar "https://www.hogia.se/karriar")
 
-
-
-
-
-## Vecka 47   
-
+[https://hogia.varbi.com/what:spontaneous/jobID:2132/](https://hogia.varbi.com/what:spontaneous/jobID:2132/ "https://hogia.varbi.com/what:spontaneous/jobID:2132/")
 
 ## Vecka 48   
 
