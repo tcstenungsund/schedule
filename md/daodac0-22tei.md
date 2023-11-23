@@ -149,16 +149,31 @@ Kapitel 6.
 [https://lite.ip2location.com/ip-address-ranges-by-country](https://lite.ip2location.com/ip-address-ranges-by-country "https://lite.ip2location.com/ip-address-ranges-by-country")
 
 
-## Vecka 47   
+## Vecka 47 
+Måndag:
 Repetition av kapitel 6.
+
+Onsdag:
 Laboration - Setup av hemmarouter.
 Läs 6.1.3.
 Logga in på din router och gör övningarna i kapitel 6.1.3.4 och 6.1.3.5
 
+Torsdag:
+Repetition av kapitel 6.
+PAcket Tracer - Hemma router.
 
 ## Vecka 48   
 
+Måndag: 
 PROV kapitel 5 och 6.
+
+Onsdag:
+Laboration - Setup av hemmarouter.
+Läs 6.1.3.
+Logga in på din router och gör övningarna i kapitel 6.1.3.4 och 6.1.3.5
+
+Torsdag:
+Kapitel 9?
 
 
 ## Vecka 49   
