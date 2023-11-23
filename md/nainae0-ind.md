@@ -55,6 +55,8 @@ Efter detta så tittar vi på det femte avsnittet av [Hackad](https://www.svtpla
 
 ## Vecka 40
 
+
+
 ## Vecka 41
 
 ## Vecka 42
@@ -63,21 +65,47 @@ Efter detta så tittar vi på det femte avsnittet av [Hackad](https://www.svtpla
 
 ## Vecka 44
 
+Kapitel 5 - Network Protocols
+
 **HÖSTLOV**
 
 ## Vecka 45
 
+Kapitel 6 - Ethernet and Internet Protocol
+
 ## Vecka 46
+
+Kapitel 7 - Connectivity Verification
+
+Kapitel 8 - Address Resolution Protocol
 
 ## Vecka 47
 
+Kapitel 9 - The Transport Layer
+
+Kapitel 10 - Network Services
+
+Modulprov 1-2, modulprov 3-4 och modulprov 5-10 är nu öppnat fram till 13 december. **Gör dessa modulprov senast 13 december!**
+
 ## Vecka 48
 
+Kapitel 11 - Network Communication Devices
+
+Kapitel 12 - Network Security Infrastructure
+
 ## Vecka 49
+
+Kapitel 13 - Attackers and Their Tools
+
+Kapitel 14 - Common Threats and Attacks
+
+Introduktion av uppgift - **Uppgift: Attacker och attackverktyg**
 
 ## Vecka 50
 
 ## Vecka 51
+
+TC Stenungsund Christmas Challenge
 
 ## Vecka 52
 
@@ -85,7 +113,15 @@ Efter detta så tittar vi på det femte avsnittet av [Hackad](https://www.svtpla
 
 ## Vecka 2
 
+Kapitel 15 - Network Monitoring and Tools
+
+Kapitel 16 - Attacking the Foundation
+
+Kapitel 17 - Attacking What We Do
+
 ## Vecka 3
+
+Modulprov 13 - 17
 
 ## Vecka 4
 
