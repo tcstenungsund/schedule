@@ -167,6 +167,8 @@ Test your skills: [Backgrounds and borders](https://developer.mozilla.org/en-US/
 * MDN [Organizing your CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Organizing) (Överkurs: Other tools that can help)                
 * MDN [Advanced styling effects](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Advanced_styling_effects) (Överkurs)          
 
+Det är lurigt att välja rätt enhet, då det finns så många. Webbutvecklaren Kevin Powell hjälper oss besvara frågan "[What length CSS unit should you use?](https://whatunit.com/)", och mitt råd är att du kör _em_ om du inte definitivt vet att du behöver en annan enhet.     
+
 Test your skills: [Sizing](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Sizing_tasks)              
 
 ###### Färgteori                      
@@ -197,6 +199,9 @@ Uppgift: [Fundamental CSS comprehension](https://tcstenungsund.github.io/schedul
 Uppgift: [Creating fancy letterheaded paper](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Creating_fancy_letterheaded_paper)       
 
 ###### CSS Layout      
+
+[Layout modes](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_mode) är ett stort område i CSS. Se [exempel på layout modes](https://codepen.io/collection/PYJyGp) på Codepen. Se klippen "[Flexbox vs. CSS Grid — Which is Better?](https://youtu.be/hs3piaN4b5I)" (4:18) och "[The Lowdown on CSS Positioning](https://youtu.be/6o-J6We3hkQ)" (9:28). Pilla även på "[An Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)". Referera till de kompletta guiderna på CSS-Tricks till [Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) och [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/).      
+
 * MDN [Normal Flow](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Normal_Flow)           
 * MDN [Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)              
 * MDN [Grids](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids)              
@@ -205,6 +210,8 @@ Uppgift: [Creating fancy letterheaded paper](https://developer.mozilla.org/en-US
 * MDN [Multiple-column layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Multiple-column_Layout)         
 * MDN [Responsive design](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)            
 * MDN [Beginner's guide to media queries](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Media_queries)            
+
+Får ni tid över, gör [Grid Garden](https://cssgridgarden.com/) och [Flexbox Froggy](https://flexboxfroggy.com/#sv).       
 
 Uppgift: [A cool looking box](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/A_cool_looking_box)    
 
