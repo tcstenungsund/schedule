@@ -323,7 +323,6 @@ I slutet av projektet skall ni:
 * Alexander
 * Isaac
 * Emil
-* Leo
 * Alfred
 * Ropen
 * Isac
@@ -336,6 +335,7 @@ I slutet av projektet skall ni:
 * Edvin F
 * Albin
 * Thor
+* Leo
 
 #### Fredag        
 
@@ -348,7 +348,9 @@ I slutet av projektet skall ni:
 
 #### Tisdag       
 
-#### Torsdag       
+#### Torsdag 
+
+Standup och fortsatt projektarbete.
 
 #### Fredag        
 
