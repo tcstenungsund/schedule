@@ -215,17 +215,21 @@ Uppgift: [A cool looking box](https://developer.mozilla.org/en-US/docs/Learn/CSS
 
 ## Vecka 48   
 
-Gör klart uppgifterna. När du är klar, gör [Grid Garden](https://cssgridgarden.com/) och [Flexbox Froggy](https://flexboxfroggy.com/#sv).       
+Planeringsverktyg      
 
 Repetition inför prov     
 
 ## Vecka 49   
 
-Planeringsverktyg      
+Gör klart uppgifterna. När du är klar, gör [Grid Garden](https://cssgridgarden.com/) och [Flexbox Froggy](https://flexboxfroggy.com/#sv).       
 
 Prov: CSS      
 
+Läxa till vecka 50...       
+
 ## Vecka 50   
+
+Genomgång av provet      
 
 Praktisk övning         
 
