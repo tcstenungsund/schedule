@@ -211,29 +211,25 @@ Uppgift: [Creating fancy letterheaded paper](https://developer.mozilla.org/en-US
 * MDN [Responsive design](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)            
 * MDN [Beginner's guide to media queries](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Media_queries)            
 
-Får ni tid över, gör [Grid Garden](https://cssgridgarden.com/) och [Flexbox Froggy](https://flexboxfroggy.com/#sv).       
-
 Uppgift: [A cool looking box](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/A_cool_looking_box)    
 
 ## Vecka 48   
 
-Repetition inför prov     
+Gör klart uppgifterna. När du är klar, gör [Grid Garden](https://cssgridgarden.com/) och [Flexbox Froggy](https://flexboxfroggy.com/#sv).       
 
-Prov: CSS      
+Repetition inför prov     
 
 ## Vecka 49   
 
-Mjukvara och ramverk      
+Planeringsverktyg      
+
+Prov: CSS      
 
 ## Vecka 50   
 
-Planeringsverktyg      
-
-## Vecka 51   
-
 Praktisk övning         
 
-## Vecka 52   
+## Vecka 51   
 
 **VINTERLOV**   
 
