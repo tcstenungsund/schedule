@@ -124,19 +124,26 @@ Läxa till vecka 47: Vi ser avsnitten 56-57 (Rättigheter, 8min), 58-60 (Rapport
 
 ## Vecka 47   
 
-Teman i en CMS      
+_"Forskaren som vill rädda världen med hjälp av AI"_, en föreläsning av Sasha Luccioni, live från [Internetdagarna 2023](https://internetdagarna.se/)! "Sasha Luccioni är forskare i etisk och hållbar AI på företaget Hugging Face som verkar för en större transparens inom AI-utvecklingen. Sasha Luccioni sitter också i styrelsen för Women in Machine Learning och är en av grundarna av den ideella organisationen Climate Change AI – ett initiativ för att lyfta fram forskning i skärningspunkten mellan miljö och maskininlärning. Som AI- och hållbarhetsexpert har Sasha Luccioni även arbetat med organisationer som FN och OECD. Bland annat för att ta fram normer och principer för ett mer hållbart arbete med AI. Hennes arbete har lyfts av tidningar som Wired, Washington Post och Business Insider." 
+
+Repetition inför provet     
 
 ## Vecka 48   
 
+###### Teman och subteman i en CMS      
+* "[How to Create a Sub Theme in Drupal 8 or 9](https://youtu.be/hPXUn_D2-lE)" (4 min)    
+* "[How to Convert an HTML Template to a Drupal 8 Theme](https://youtu.be/xdifbN3y5hU)" (15 min)    
+* "[Theming Drupal](https://www.drupal.org/docs/theming-drupal)"    
+
+###### Konfigurationsfiler   
+[YAML](https://en.wikipedia.org/wiki/YAML), "[The YAML file explained](https://youtu.be/fwLBfZFrLgI)" (2 min), "[YAML Basics Every DevOps Engineer Must Know](https://linuxhandbook.com/yaml-basics/)".     
+[TWIG](https://en.wikipedia.org/wiki/Twig_(template_engine)), "[Introduction to Twig and its syntax](https://youtu.be/50RBUmPOYig)" (3 min), [Twig Tweak](https://www.drupal.org/project/twig_tweak), "[Twig Tweak Cheat sheet](https://git.drupalcode.org/project/twig_tweak/-/blob/3.x/docs/cheat-sheet.md)".     
+
 Prov på Grundkurs i CMS         
-
-Versionshantering        
-
-Enskild uppgift...        
 
 ## Vecka 49   
 
-Enskild uppgift...        
+**År 9-dagar**         
 
 ## Vecka 50   
 
@@ -159,7 +166,7 @@ Arbetsflöde...
 
 ## Vecka 4   
 
-Gruppuppgift...     
+Versionshantering        
 
 ## Vecka 5   
 
