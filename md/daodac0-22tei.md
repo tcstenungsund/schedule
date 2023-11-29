@@ -176,7 +176,14 @@ Torsdag:
 Kapitel 9?
 
 
-## Vecka 49   
+## Vecka 49  
+
+**Uppgifter**
+
+* Bind en MAC-adress till en IP-adress
+* Blockera/filtrera hemsidor
+* Aktivera QoS (Quality of Service)
+* Mät hastigheten med hjälp av [Bredbandskollen](https://www.bredbandskollen.se/). Vad är det för skillnad i hastighet mellan WiFi (Trådlöst) och med en nätverkskabel?
 
 
 ## Vecka 50   
