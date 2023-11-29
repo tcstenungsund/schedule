@@ -183,12 +183,12 @@ UF När det kommer till UF arbetar ni vidare med era produkter eller tjänster.
 
 En lista på saker som skall vara inlämnat senast fredag.
 
-Högupplöst logga
-Affärsidén I PDF-format
-Showroom
-Galleri - https://ungforetagsamhet.se/en/gallerian
-Rådgivare
-Skapa sociala medier och fyll på med lite material
+- Högupplöst logga
+- Affärsidén I PDF-format
+- Showroom
+- Galleri - https://ungforetagsamhet.se/en/gallerian
+- Rådgivare
+- Skapa sociala medier och fyll på med lite material
 
 
 ## Vecka 49   
