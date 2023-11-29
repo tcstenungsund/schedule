@@ -95,7 +95,7 @@ Kapitel 12 - Network Security Infrastructure
 
 Vi tittar på två klipp som handlar om cybersoldatsbefattningen inom försvarsmakten.
 
-* [Befattning: Cybersoldat](https://www .youtube.com/watch?v=h2rDjGXVLug)
+* [Befattning: Cybersoldat](https://www.youtube.com/watch?v=h2rDjGXVLug)
 * [Hur blir man en cybersoldat?](https://www.youtube.com/watch?v=X2OZv2suXT4)
 
 Registrera ett gratis konto på [HackTheBox](https://hackthebox.com/).
