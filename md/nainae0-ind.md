@@ -98,6 +98,8 @@ Vi tittar på två klipp som handlar om cybersoldatsbefattningen inom försvarsm
 * [Befattning: Cybersoldat](https://www.youtube.com/watch?v=h2rDjGXVLug)
 * [Hur blir man en cybersoldat?](https://www.youtube.com/watch?v=X2OZv2suXT4)
 
+Ni kan läsa mer om cybersoldater här: [Försvarsmakten: Cybersoldat](https://jobb.forsvarsmakten.se/sv/utbildning/befattningsguiden/gu-befattningar/cybersoldat/)
+
 Registrera ett gratis konto på [HackTheBox](https://hackthebox.com/).
 
 Hack The Box är en plattform som används mycket inom säkerhetsutbildningar på företag och universitet. Här finns guider, teori, videor och förberedda miljöer där ni själva får testa på att utföra attacker och försvara er från diverse attacker. Det finns en gratis-version och en betal-version. Ni väljer bara helt enkelt att skapa ett gratis konto.
