@@ -114,6 +114,22 @@ PROV Kapitel 1-4
 
 ## Vecka 48   
 
+Idag kör vi en uppsamling på labbar, arbete med UF samt förbereder inför Nösnäsdagarna som hålls nästa vecka.
+
+Labbar och labbnummer finns i Haldor. Kolla så att du lämnat in de labbar och Packet Tracers vi har gjort fram tills nu.
+
+**UF**
+När det kommer till UF arbetar ni vidare med era produkter eller tjänster.
+
+En lista på saker som skall vara inlämnat senast fredag.
+
+* Högupplöst logga
+* Affärsidén I PDF-format
+* Showroom
+* Galleri - https://ungforetagsamhet.se/en/gallerian
+* Rådgivare
+* Skapa sociala medier och fyll på med lite material
+
 
 ## Vecka 49   
 
