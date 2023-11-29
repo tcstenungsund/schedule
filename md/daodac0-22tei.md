@@ -172,12 +172,6 @@ Laboration - Setup av hemmarouter.
 Läs 6.1.3.
 Logga in på din router och gör övningarna i kapitel 6.1.3.4 och 6.1.3.5
 
-Torsdag:
-Kapitel 9?
-
-
-## Vecka 49  
-
 **Uppgifter**
 
 * Bind en MAC-adress till en IP-adress
@@ -187,6 +181,13 @@ Kapitel 9?
 * Byt DNS-adress till Google's server (8.8.8.8, 8.8.4.4)
 * Skapa ett gästnätverk. Testa gästnäverket. Kan en dator som är uppkopplad till gästnätverket pinga en dator eller telefon som är ansluten till det "vanliga" nätverket?
 * Begränsa hastigheten (Download speed/Upload speed) på en enhet. Testa att hastigheten är begränsad genom att använda [Bredbandskollen](https://www.bredbandskollen.se/).
+
+Torsdag:
+Kapitel 9?
+
+
+## Vecka 49  
+
 
 
 ## Vecka 50   
