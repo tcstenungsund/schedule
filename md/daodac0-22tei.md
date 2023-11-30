@@ -183,10 +183,20 @@ Logga in på din router och gör övningarna i kapitel 6.1.3.4 och 6.1.3.5
 * Begränsa hastigheten (Download speed/Upload speed) på en enhet. Testa att hastigheten är begränsad genom att använda [Bredbandskollen](https://www.bredbandskollen.se/).
 
 Torsdag:
-Kapitel 9?
+Kapitel 9
+GEnomgång av kapitel 9.1, vi ser gemensamt video - "What is a hypervisor".
+Läs igenom 9.1 och gör de interaktiva övningarna.
+
+Vi kommer att installera VirualBox nästa vecka.
+[VirtualBox](https://www.virtualbox.org/wiki/WikiStart "VirtualBox")
 
 
 ## Vecka 49  
+Måndag:
+Genomgång kapitel 9.
+
+Onsdag:
+Laboration: installation av VM på VirtualBox.
 
 
 
