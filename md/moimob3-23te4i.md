@@ -357,8 +357,7 @@ Fokus på en av de absolut vanligaste utvecklingsteorierna. Ett bra sätt att de
 
 #### Fredag        
 
-*Veckans sociala medier:*  
-
+*Veckans sociala medier:* [Animotion](https://cssanimotion.pages.dev/), [WebGPU — All of the cores, none of the canvas](https://surma.dev/things/webgpu/), [Best Practices for Storing Access Tokens in the Browser](https://thenewstack.io/best-practices-for-storing-access-tokens-in-the-browser/) och [ZeroTier](https://www.zerotier.com/).   
 
 ## Vecka 48   
 
