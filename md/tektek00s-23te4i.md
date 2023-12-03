@@ -144,6 +144,20 @@ Meddela din lärare om du vill åka med till DreamHack fredagen den 24/11. Buss 
 
 ## Vecka 49   
 
+Måndag:
+Besök av samverkansföretaget SmoothComp på morgonen, med information kring APL.
+
+Anställningsintervjuer på Hogia denna vecka, vi bestämmer schema.
+
+Måndag den 4/12.
+13.30 - Alexander Salomonsson
+14.30 - Olof Olsson
+
+Vi går igenom lite tips inför anatällningsintervjun:
+[Tips inför jobbintervjun](https://arbetsformedlingen.se/for-arbetssokande/cv-ansokan-och-intervju/jobbintervjun "Tips inför jobbintervjun")
+
+
+
 
 ## Vecka 50   
 
