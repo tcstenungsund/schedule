@@ -150,7 +150,7 @@ Test your skills: [The Cascade](https://developer.mozilla.org/en-US/docs/Learn/C
 * MDN [Handling different text directions](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Handling_different_text_directions) (Självstudier)                   
 * MDN [Overflowing content](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Overflowing_content) (Överkurs)                      
 
-"[The box model for beginners](https://youtu.be/MrAnu4zdjjY)" (1:54)                     
+"[The box model for beginners](https://youtu.be/MrAnu4zdjjY)" (1:54), "[Everything You Need To Know About CSS Margins](https://www.smashingmagazine.com/2019/07/margins-in-css/)"                    
 
 Test your skills: [Backgrounds and borders](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Test_your_skills_backgrounds_and_borders)                
 
