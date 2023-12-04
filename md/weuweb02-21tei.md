@@ -145,15 +145,15 @@ Prov på Grundkurs i CMS
 
 ## Vecka 49   
 
-**År 9-dagar**         
+Uppgift: Drupal sub-theme  
 
 ## Vecka 50   
 
-Uppgift: Drupal sub-theme  
+Fortsätt med Drupal sub-theme    
 
 ## Vecka 51   
 
-Fortsätt med Drupal sub-theme     
+Fortsätt med Drupal sub-theme    
 
 ## Vecka 52   
 
