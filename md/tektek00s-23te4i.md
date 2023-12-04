@@ -156,6 +156,45 @@ Måndag den 4/12.
 Vi går igenom lite tips inför anatällningsintervjun:
 [Tips inför jobbintervjun](https://arbetsformedlingen.se/for-arbetssokande/cv-ansokan-och-intervju/jobbintervjun "Tips inför jobbintervjun")
 
+Tider för anställningsintervju, Ni ska träffa Nadine Tehyrell:
+Måndag 4/12
+
+13:30 Alexander S
+
+14:30 Olof O
+ 
+Tisdag 5/12:
+
+11:00 Thor
+
+14:00 Edvin F
+
+15:00 Alfred
+
+16:00 Ropen
+
+Torsdag 7/12:
+
+13:15 Albin Å
+
+14:15 Johannes
+
+15:15 Edvin M A
+
+Måndag 11/12
+
+13:30 Nicky
+
+14:30 Emil
+
+15:30 Leo
+
+Tisdag 12/12
+
+10:00 Isaac F
+
+11:00 Isac P
+
 
 
 
