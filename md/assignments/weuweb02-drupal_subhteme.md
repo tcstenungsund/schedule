@@ -1,4 +1,4 @@
-# Webbutveckling 2: Drupal Subtheme
+# Drupal Subtheme
 
 _Nu skall du skapa ditt första subtheme till Drupal. Det skall versionshanteras och du skall bygga en liten enkel sida för att visa upp det._
 
@@ -36,7 +36,6 @@ Installera temat [Barrio](https://www.drupal.org/project/bootstrap_barrio) samt 
 Logga in på GitHub.com och skapa ett nytt publikt repository med exakt ditt subtheme namn som repository-namn. Lägg till en README.md-fil och beskriv ditt projekt. 
 
 Installera GitHub Desktop. Klona ned ditt nyskapade repocitory till din utvecklingsmiljös theme-katalog.   
-
 I slutet av varje lektion, eller efter att du arbetat klart för stunden, gör en add, commit och push.   
 
 ##### Skapa ditt sub-theme
@@ -71,60 +70,7 @@ Ett screenshot av din sida och en länk till ditt repocitory på GitHub.
 
 ### Var skall de lämnas in?
 
-På vår lärplattform [It's Learning](https://stenungsund.itslearning.com/) finns ett kursrum vid namn _"Webbutveckling 2"_, under _Innehåll_ / _Inlämningar_ hittar du en inlämningskatalog med samma namn som den här uppgiften.  
-
----
-
-Detta dokument är licenserat under Creative Commons BY-SA. Bilder och fotografier tillhör respektive upphovsman, och befinner sig inte nödvändigtsvis under en Creative Commons-licens.
-
-Dokumentet är skapat och uppdaterat av Kenneth Frantzen (@seetee på GitHub).
-
-
-
-# Namn på uppgiften    
-
-_En kort ingress på en mening eller två som beskriver uppgiftens plats i kursupplägget och försöker skapa lite entusiasm och förståelse för vad eleven kommer lära sig!_    
-
-_Det går självklart att skriva flera stycken, om man har mycket att säga._  
-
-![Exempel på tidigare arbete](https://user-images.githubusercontent.com/19572359/164434992-869c0759-2cbf-4fe4-9313-cb35a6ab2bef.png)      
-
----    
-
-## Förutsättningar    
-
-Enskild uppgift. / Gruppuppgift.
-
-## Resurser
-
-* [Mjukvara du behöver](https://tcstenungsund.se/)    
-* [Bloginlägg som sätter uppgiften i ett sammanhang](https://tcstenungsund.se/)
-* [Youtubeklipp](https://tcstenungsund.se/)
-* [Steg-för-steg-instruktion](https://tcstenungsund.se/)
-
-> Tips! Här kan du ge ett tips som kanske inte passar in i den detaljerade beskrivningen nedan. Till exempel att det är vettigt att titta på Youtubeklippet ovan om man kör fast i uppgiften.    
-
-## Uppgiftsbeskrivning    
-
-Vad skall eleven göra i uppgiften? Både övergripande och mer detaljerade instruktioner, beroende på hur uppgiften är upplagd. 
-
-1) Till exempel ...   
-2) ... kan man göra en ...    
-3) ... punktlista.     
-
-Detta är delen av uppgiften som måste uppdateras kontinuerligt allt eftersom bättre sätt att genomföra uppgiften dyker upp.    
-
-## Förväntat resultat
-
-Vad är målsättningen med uppgiften? Och vad förväntas eleven ha lärt sig efter genomförd uppgift?    
-
-### Vilka filer?
-
-Är det ett 7z-arkiv, en PDF eller ett screenshot?     
-
-### Var skall de lämnas in?
-
-I en uppgift i Haldor, bifogat ett mail eller är det kanske ett prov på Cisco.    
+I en uppgift i Haldor.    
 
 ---     
 
