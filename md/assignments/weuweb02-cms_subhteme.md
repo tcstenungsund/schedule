@@ -29,7 +29,7 @@ Hitta på ett kreativt namn på ditt subtheme, ett namn som harmonierar med den 
 
 ##### Infrastruktur
 
-Installera Docker och Drupal. Följ instruktionerna i [Workspace setup](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-workspace_setup) och [Installera Drupal](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-installera_drupal).  
+Installera Docker och Drupal. Följ instruktionerna i [Workspace setup](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-workspace_setup) och [CMS Install](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-cms_install).  
 
 Installera temat [Barrio](https://www.drupal.org/project/bootstrap_barrio) samt modulen [Devel](https://www.drupal.org/project/devel), [Twig Tweak](https://www.drupal.org/project/twig_tweak) och [Mix](https://www.drupal.org/project/mix). Hitta även minst 1 modul till som du kan använda för att visa upp någonting coolt på förstasidan av din webbplats. Generera exempeldata med Devel (eller använd copy från till exempel Wikipedia).   
  
@@ -46,7 +46,7 @@ Skapa nu en ny projektkatalog. Starta en ny Drupal-instans där.
 
 ![Projektfilstruktur](https://i.imgur.com/9Ullbgu.png) 
 
-> Tips! Om du försöker använda samma docker-compose.yml-fil som i ett tidigare projekt så måste du byta namn på de virtuella maskinerna som skapas! Det är enkelt, ändra bara i din nya docker-compose.yml-fil
+> Tips! Om du försöker använda en docker-compose.yml-fil som är samma som i ett tidigare projekt så måste du byta namn på de virtuella maskinerna som skapas! Det är enkelt, ändra bara i din nya docker-compose.yml-fil
 
 Logga nu in på din Drupal-installation och sätt ditt subtheme som standardtheme. Fyll sedan din sida med exempeldata och bygg upp en enkel liten sida med block, pages och menyalternativ.
 
