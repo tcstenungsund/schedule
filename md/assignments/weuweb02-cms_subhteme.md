@@ -1,4 +1,4 @@
-# Drupal Subtheme
+# CMS Subtheme
 
 _Nu skall du skapa ditt första subtheme till Drupal. Det skall versionshanteras och du skall bygga en liten enkel sida för att visa upp det._
 
