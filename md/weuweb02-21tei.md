@@ -86,7 +86,7 @@ Vi ser avsnitten 1-3 (Introduktion, 15min) och 8-15 (Systemöverblick, 17min) i 
 
 ###### För de som inte lyckats installera en CMS-container än            
 1) Skapa ny projektkatalog       
-2) Ladda ned filen [docker-compose.yml](https://github.com/seetee/docker/blob/master/drupal/docker-compose.yml)
+2) Ladda ned filen [docker-compose.yml](https://github.com/seetee/docker/blob/master/drupal/docker-compose.ym)
 3) Navigera till din projektkatalog och kör följande kommando
 
        docker-compose up -d
@@ -146,6 +146,8 @@ Prov på Grundkurs i CMS
 ## Vecka 49   
 
 [Uppgift: CMS subtheme](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-cms_subhteme)  
+
+Om du fortfarande vill köra docker-compose istället för Lando, använd den här filen: [docker-compose.yml](https://raw.githubusercontent.com/seetee/docker/version2.0/drupal/docker-compose.yml)   
 
 ## Vecka 50   
 
