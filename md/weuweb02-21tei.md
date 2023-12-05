@@ -145,15 +145,15 @@ Prov på Grundkurs i CMS
 
 ## Vecka 49   
 
-Uppgift: Drupal sub-theme  
+[Uppgift: CMS subtheme](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-cms_subhteme)  
 
 ## Vecka 50   
 
-Fortsätt med Drupal sub-theme    
+Fortsätt med Drupal subtheme    
 
 ## Vecka 51   
 
-Fortsätt med Drupal sub-theme    
+Fortsätt med Drupal subtheme    
 
 ## Vecka 52   
 
