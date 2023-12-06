@@ -113,6 +113,9 @@ Kapitel 14 - Common Threats and Attacks
 
 Introduktion av uppgift - **Uppgift: Attacker och attackverktyg**
 
+[Uppgift: Attacker och attackverktyg](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/nainae0-verktyg.md)     
+
+
 ## Vecka 50
 
 ## Vecka 51
