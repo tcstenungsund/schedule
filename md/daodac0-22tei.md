@@ -198,6 +198,8 @@ Genomgång kapitel 9.
 Onsdag:
 Laboration: installation av VM på VirtualBox.
 
+[Snabbguide för att komma igång](https://www.youtube.com/watch?v=nvdnQX9UkMY)
+
 
 
 ## Vecka 50   
