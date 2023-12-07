@@ -378,7 +378,12 @@ Fokus på en av de absolut vanligaste utvecklingsteorierna. Ett bra sätt att de
 
 #### Tisdag       
 
-#### Torsdag       
+#### Torsdag
+
+Vi pratar arbetsintervjuer, pedagogik och HarmonyOS.
+
+På tal om HarmonyOS och Huawei så får ni information om en kommande uppgift, nämligen en uppgift att testa och presentera olika typer av operativsystem på mobila enheter samt kringutrustning så som klockor, TV osv.
+Klassen röstar för att inte starta uppgiften nu innan jul och arbeta med den på jullovet. Istället drar vi igång med uppgiften vecka 2 och arbetar med den fram tills vecka 5.
 
 #### Fredag        
 
