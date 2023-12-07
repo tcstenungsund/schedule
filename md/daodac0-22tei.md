@@ -200,6 +200,8 @@ Laboration: installation av VM på VirtualBox.
 
 [Snabbguide för att komma igång](https://www.youtube.com/watch?v=nvdnQX9UkMY)
 
+[Hannah Montana linux](https://sourceforge.net/projects/archiveos/files/h/hannah/hannah_montana_linux_x86_basic_edition.iso/download)
+
 
 
 ## Vecka 50   
