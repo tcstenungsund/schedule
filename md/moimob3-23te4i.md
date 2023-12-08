@@ -391,8 +391,7 @@ Lektionen avslutas med [Sprint Demo](https://manifesto.co.uk/scrum-practice-spri
 
 #### Fredag        
 
-*Veckans sociala medier:*  
-
+*Veckans sociala medier:* Idag talade vi om [BEM](https://getbem.com/), [What is a Headless CMS](https://www.builder.io/m/knowledge-center/headless-cms-visual-guide?ref=dailydev&_host=www.builder.io) och gjorde en [Hexcodle](https://hexcodle.com/)!     
 
 ## Vecka 50   
 
