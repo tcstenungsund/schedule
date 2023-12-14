@@ -397,9 +397,16 @@ Lektionen avslutas med [Sprint Demo](https://manifesto.co.uk/scrum-practice-spri
 
 #### Måndag         
 
-#### Tisdag       
+#### Tisdag  
+GetIT på besök!
 
-#### Torsdag       
+[GetIT](https://getitnordic.se/)
+
+#### Torsdag  
+
+Pratar om GetITs besök. Tar upp vikten om att ha många kontakter och att de allra flesta jobb och praktikplatser skapas genom just personliga kontakter.
+
+Vi spinner vidare och pratar om vad som är viktigt inför ett jobb och vad som är viktigt för att utvecklas.
 
 #### Fredag        
 
