@@ -416,8 +416,7 @@ Gå kursen på [Elements of AI](https://www.elementsofai.se/) och få ett intyg.
 
 #### Fredag        
 
-*Veckans sociala medier:*  
-
+*Veckans sociala medier:* [Privacy Not Included](https://foundation.mozilla.org/en/privacynotincluded/), [More Surprising Powers of CSS](https://blog.codepen.io/2023/12/11/chris-corner-more-surprising-powers-of-css/), [Pipe Dreams](https://retool.com/pipes).     
 
 ## Vecka 51   
 
