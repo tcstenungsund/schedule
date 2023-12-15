@@ -245,7 +245,7 @@ Genomgång av provet
 
 --   
 
-Praktisk övning - Planeringsverktyg           
+[Uppgift: Planeringsverktyg Moodboard](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb01-planeringsverktyg_moodboard)          
 
 ## Vecka 51   
 
