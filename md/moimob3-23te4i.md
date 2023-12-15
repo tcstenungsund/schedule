@@ -406,7 +406,13 @@ GetIT på besök!
 
 Pratar om GetITs besök. Tar upp vikten om att ha många kontakter och att de allra flesta jobb och praktikplatser skapas genom just personliga kontakter.
 
-Vi spinner vidare och pratar om vad som är viktigt inför ett jobb och vad som är viktigt för att utvecklas.
+Vi spinner vidare och pratar om vad som är viktigt inför ett jobb och vad som är viktigt för att utvecklas.   
+
+--   
+
+Högskolekurs i AI!  
+
+Gå kursen på [Elements of AI](https://www.elementsofai.se/) och få ett intyg. Registrera dig sedan på följande två högskolekurser: [del 1](https://liu.se/utbildning/kurs/ete318) och [del 2](https://liu.se/utbildning/kurs/ete337). Där får du göra ett prov på Elements of AI, sedan får du totalt 4 högskolepoäng.  
 
 #### Fredag        
 
