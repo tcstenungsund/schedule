@@ -422,6 +422,10 @@ Gå kursen på [Elements of AI](https://www.elementsofai.se/) och få ett intyg.
 
 #### Måndag         
 
+##### Om webbläsare   
+
+Lär dig hur en webbläsare fungerar med artikelserien "Inside look at modern web browser" ([Del 1](https://developer.chrome.com/blog/inside-browser-part1), [del 2](https://developer.chrome.com/blog/inside-browser-part2), [del 3](https://developer.chrome.com/blog/inside-browser-part3) och [del 4](https://developer.chrome.com/blog/inside-browser-part4)). Testa i olika webbläsare med verktyget [Browsersync](https://browsersync.io/)!   
+
 #### Tisdag       
 
 #### Torsdag       
