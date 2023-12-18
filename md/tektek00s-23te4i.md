@@ -205,7 +205,11 @@ Tisdag 12/12
 
 AI kurs med chans på högskolepoäng.
 
+Idag så anmäler vi oss till kursen Elements of AI.
+
 [Elements of AI](https://course.elementsofai.com/se "Elements of AI")
+
+När ni är klara med onlinekursen så anmäler ni er till två kurser på Linköpingsuniversitet.
 
 [Grunderna i AI 2 hp](https://liu.se/utbildning/kurs/ete318 "Grunderna i AI 2 hp")
 
