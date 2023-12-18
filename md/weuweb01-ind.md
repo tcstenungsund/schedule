@@ -209,10 +209,11 @@ Uppgift: [Creating fancy letterheaded paper](https://developer.mozilla.org/en-US
 
 ## Vecka 50   
 
-Prov på CSS                
+Fortsätt med uppgifterna  
 
 ## Vecka 51   
 
+Prov på CSS                
 
 ## Vecka 52   
 
@@ -220,6 +221,7 @@ Prov på CSS
 
 ## Vecka 2   
 
+Tävling!  
 
 ## Vecka 3   
 
