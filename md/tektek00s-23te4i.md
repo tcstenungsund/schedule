@@ -203,6 +203,14 @@ Tisdag 12/12
 
 ## Vecka 51   
 
+AI kurs med chans på högskolepoäng.
+
+[Elements of AI](https://course.elementsofai.com/se "Elements of AI")
+
+[Grunderna i AI 2 hp](https://liu.se/utbildning/kurs/ete318 "Grunderna i AI 2 hp")
+
+[Grunderna i AI, del 2: att utveckla AI 2 hp](https://liu.se/utbildning/kurs/ete337 "Grunderna i AI, del 2: att utveckla AI 2 hp")
+
 
 ## Vecka 52   
 
