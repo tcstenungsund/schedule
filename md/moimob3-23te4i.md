@@ -428,12 +428,6 @@ Lär dig hur en webbläsare fungerar med artikelserien "Inside look at modern we
 
 #### Tisdag       
 
-#### Torsdag       
-
-#### Fredag        
-
-*Veckans sociala medier:*  
-
 
 ## Vecka 52   
 
