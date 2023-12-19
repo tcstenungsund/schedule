@@ -105,12 +105,19 @@ PROV Kapitel 1-4
 
 ## Vecka 45   
 
+**LOV**
 
 ## Vecka 46   
 
+**Måndag**
+
+**Onsdag**
 
 ## Vecka 47   
 
+**Måndag**
+
+**Onsdag**
 
 ## Vecka 48   
 
@@ -133,12 +140,36 @@ En lista på saker som skall vara inlämnat senast fredag.
 
 ## Vecka 49   
 
+**Måndag**
+
+Kapitel 7 DHCPv4
+Halva gruppen labbar. Labb 7.2.10
+
+**Onsdag**
+
+Kapitel 7 DHCPv4
+Halva gruppen labbar. Labb 7.2.10
 
 ## Vecka 50   
 
+**Måndag**
 
+Kapitel 8 DHCPv6
+Halva gruppen labbar
+
+**Onsdag**
+
+Kapitel 8 DHCPv6
+Halva gruppen labbar
 ## Vecka 51   
 
+**Måndag**
+
+Genomgång av kapitel 9 - FHRP. Gör Packet Tracer 9.3.3
+
+**Onsdag**
+
+TC Christmas Challange
 
 ## Vecka 52   
 
