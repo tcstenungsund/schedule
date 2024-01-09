@@ -440,13 +440,13 @@ Idag drar vi igång uppgiften "Operativsystem"!
 [Uppgift: Mobila operativsystem](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/moimob-operativsystem)  
 
 Möjliga operativsystem att välja på:
-* HarmonyOS
-* KaiOS
-* Tizen
-* Sailfish OS
-* Ubuntu Touch
-* LineageOS
-* PostmarketOS
+* HarmonyOS - Thor, Edvin A
+* KaiOS - Isac P
+* Tizen - Isaac F, Emil
+* Sailfish OS - Johannes, Alfred
+* Ubuntu Touch - Leo, Albin
+* LineageOS - Edvin F
+* PostmarketOS - Olof
 * (Plasma Mobile)
 
 Vi pratar lite om hur man får in dessa operativsystem på sin telefon. Vad är rooting och jailbreaking? Är det lagligt? (Ja)
