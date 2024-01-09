@@ -17,7 +17,7 @@ Ni sammanställer all information och skapar en inlämning samt en presentation.
 
 ## Förväntat resultat
 
-En 5-10 minuters presentation med valfritt presentationsverktyg. 
+En 5-10 minuters presentation med valfritt presentationsverktyg. Visa gärna demo, filmer, bilder. Förklara unika features etc.
 
 Ett dokument innehållande information om operativsystemet.
 
