@@ -435,6 +435,23 @@ Lär dig hur en webbläsare fungerar med artikelserien "Inside look at modern we
 
 ## Vecka 2   
 
+Idag drar vi igång uppgiften "Operativsystem"!
+
+[Uppgift: Mobila operativsystem](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/moimob-operativsystem)  
+
+Möjliga operativsystem att välja på:
+* HarmonyOS
+* KaiOS
+* Tizen
+* Sailfish OS
+* Ubuntu Touch
+* LineageOS
+* PostmarketOS
+* (Plasma Mobile)
+
+Vi pratar lite om hur man får in dessa operativsystem på sin telefon. Vad är rooting och jailbreaking? Är det lagligt? (Ja)
+
+[What does it mean to jailbreak your phone—and is it legal?](https://www.microsoft.com/en-us/microsoft-365-life-hacks/privacy-and-safety/what-is-jailbreaking-a-phone)
 
 ## Vecka 3   
 
