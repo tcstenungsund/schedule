@@ -163,16 +163,19 @@ Fortsätt med Drupal subtheme
 
 ## Vecka 2   
 
+[Tävling: CSS Zen Garden](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb_css-zen-garden)    
 
 ## Vecka 3   
 
-Arbetsflöde...       
+**Inriktningsinformation till år 1**   
 
 ## Vecka 4   
 
 Versionshantering        
 
 ## Vecka 5   
+
+Arbetsflöde...   
 
 Gruppuppgift...     
 
