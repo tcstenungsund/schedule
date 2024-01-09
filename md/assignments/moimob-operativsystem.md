@@ -1,4 +1,4 @@
-# Operativsystem
+# Mobila operativsystem
 
 _Datorer, telefoner, TV, spelkonsoller m.m. Alla dessa olika enheter har operativsystem som är anpassad efter hårdvaran_
 
