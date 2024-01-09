@@ -1,6 +1,6 @@
 # Mobila operativsystem
 
-_Datorer, telefoner, TV, spelkonsoller m.m. Alla dessa olika enheter har operativsystem som är anpassad efter hårdvaran_
+_Datorer, telefoner, TV, spelkonsoller m.m. Alla dessa olika enheter har operativsystem som är anpassad efter hårdvaran. Nu ska vi dyka djupare i operativsystem som är skapade och anpassade för mobilmarknaden_
 
 ---
 
