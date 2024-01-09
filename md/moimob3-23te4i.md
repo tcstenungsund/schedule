@@ -453,6 +453,8 @@ Vi pratar lite om hur man får in dessa operativsystem på sin telefon. Vad är 
 
 [What does it mean to jailbreak your phone—and is it legal?](https://www.microsoft.com/en-us/microsoft-365-life-hacks/privacy-and-safety/what-is-jailbreaking-a-phone)
 
+[Root Android: Everything you need to know!](https://www.androidauthority.com/root-android-277350/)
+
 ## Vecka 3   
 
 
