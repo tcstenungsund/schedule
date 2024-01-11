@@ -463,6 +463,10 @@ Christoffer är sjuk och ni fortsätter att arbeta med uppfiten ni startade på 
 
 Har ni tid får ni gärna kika in [Prezi](https://prezi.com/) och [Canva](https://www.canva.com/sv_se/) som exempel på digitala presentationer.
 
+-- 
+
+[Tävling: CSS Zen Garden](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb_css-zen-garden)    
+
 ## Vecka 3   
 
 
