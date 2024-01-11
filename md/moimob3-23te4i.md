@@ -433,7 +433,9 @@ Lär dig hur en webbläsare fungerar med artikelserien "Inside look at modern we
 
 **VINTERLOV**   
 
-## Vecka 2   
+## Vecka 2 
+
+#### Tisdag
 
 Idag drar vi igång uppgiften "Operativsystem"!
 
@@ -454,6 +456,12 @@ Vi pratar lite om hur man får in dessa operativsystem på sin telefon. Vad är 
 [What does it mean to jailbreak your phone—and is it legal?](https://www.microsoft.com/en-us/microsoft-365-life-hacks/privacy-and-safety/what-is-jailbreaking-a-phone)
 
 [Root Android: Everything you need to know!](https://www.androidauthority.com/root-android-277350/)
+
+#### Torsdag
+
+Christoffer är sjuk och ni fortsätter att arbeta med uppfiten ni startade på i tisdag. 
+
+Har ni tid får ni gärna kika in [Prezi](https://prezi.com/) och [Canva](https://www.canva.com/sv_se/) som exempel på digitala presentationer.
 
 ## Vecka 3   
 
