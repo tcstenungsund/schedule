@@ -221,7 +221,7 @@ Prov på CSS
 
 ## Vecka 2   
 
-Tävling!  
+[Tävling: CSS Zen Garden](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb_css-zen-garden)    
 
 ## Vecka 3   
 
