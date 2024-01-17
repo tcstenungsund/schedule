@@ -219,6 +219,21 @@ Laboration: installation av VM på VirtualBox.
 
 ## Vecka 3   
 
+Onsdag:
+
+Dagens lektion hålls inte på plats då vi har problem med både bussar och värme på skolan. Istället läser ni vidare på kapitel 10 som handlar om Windows och svarar på frågorna. Tanken är att vi ska labba nästa lektion vi ses och till det behöver ni en ISO-fil (Windows.iso). Dagens uppgift är att installera ett program från Microsoft och ladda ner ISO-filen.
+
+Ni går in på följande länk och laddar ner programmet. [Ladda ner Windows 10 här.](https://www.microsoft.com/en-us/software-download/windows10%20)
+
+* Installera programmet. 
+* Välj att skapa en installation via USB.
+* Välj sedan språk och version, dubbelkolla så att det står Windows 10 och 64-bitar.
+* Välj att alternativet ISO
+* Välj ett ställe du vill spara din fil på. Ett bra alternativ är att lägga den i er nedladdnings mapp (Hämtade filer).
+* Vänta sedan på att nedladdningen slutförs och stäng därefter ner programmet.
+
+Här finns lite screenshots på hur installationen kan se ut: [Bilder på installation](https://imgur.com/a/Pc8WNOu)
+
 
 ## Vecka 4   
 
