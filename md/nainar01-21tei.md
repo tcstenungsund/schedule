@@ -179,7 +179,11 @@ TC Christmas Challange
 
 
 ## Vecka 3   
+Vi har inriktningsinformation för våra ettor på morgonen under nätverkslektionen.
+Därför kommer ni att få möjlighet att läsa kapitel 11 och göra övningarna på valfri plats. 
 
+Ni ska dessutom lämna in packet tracer 11.1.10 på Haldor.
+ 
 
 ## Vecka 4   
 
