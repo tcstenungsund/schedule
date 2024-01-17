@@ -137,7 +137,13 @@ Kapitel 17 - Attacking What We Do
 [Phising Game](https://phishingquiz.withgoogle.com/)
 ## Vecka 3
 
-Modulprov 13 - 17
+~~Modulprov 13 - 17~~
+
+Pga bussproblem och värmeproblem blir dagens lektion inte på plats. Vi kan därmed inte göra modulprovet idag vilket betyder att ni får mer tid på er att läsa på inför modulprovet.
+
+Ni ska också göra packet tracer 15.2.7. Där får ni testa på att logga trafik och läsa loggar som enheter har skapat. Den uppgiften lämnar ni in enskilt på Haldor.
+
+
 
 ## Vecka 4
 
