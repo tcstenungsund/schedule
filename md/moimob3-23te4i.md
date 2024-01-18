@@ -467,6 +467,8 @@ Har ni tid får ni gärna kika in [Prezi](https://prezi.com/) och [Canva](https:
 
 [Tävling: CSS Zen Garden](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb_css-zen-garden)    
 
+*Veckans sociala medier:*  "[The Website vs. Web App Dichotomy Doesn't Exist](https://jakelazaroff.com/words/the-website-vs-web-app-dichotomy-doesnt-exist/)", "[6 CSS snippets every front-end developer should know in 2023](https://web.dev/articles/6-css-snippets-every-front-end-developer-should-know-in-2023)", "[Visual design rules you can safely follow every time](https://anthonyhobday.com/sideprojects/saferules/)" och "[Responsive SVGs](https://12daysofweb.dev/2023/responsive-svgs/)".   
+
 ## Vecka 3   
 
 
