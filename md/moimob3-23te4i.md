@@ -471,7 +471,7 @@ Har ni tid får ni gärna kika in [Prezi](https://prezi.com/) och [Canva](https:
 
 ## Vecka 3   
 
-*Veckans sociala medier:*  "[Making a Discord bot with PHP](https://www.kryogenix.org/days/2024/01/14/making-a-discord-bot-with-php/)", den interaktiva guiden "[Designing better target sizes](https://ishadeed.com/article/target-size)" och en före detta reklamarbetare [varnar oss](https://kind.social/@lactol/111260501634275996)!   
+*Veckans sociala medier:*  Vi börjar med DNS som [Quad9 9.9.9.9](https://www.quad9.net/) och [Cloudflare 1.1.1.1](https://1.1.1.1/), "[Making a Discord bot with PHP](https://www.kryogenix.org/days/2024/01/14/making-a-discord-bot-with-php/)", den interaktiva guiden "[Designing better target sizes](https://ishadeed.com/article/target-size)" och en före detta reklamarbetare [varnar oss](https://kind.social/@lactol/111260501634275996)!   
 
 ## Vecka 4   
 
@@ -517,7 +517,7 @@ Har ni tid får ni gärna kika in [Prezi](https://prezi.com/) och [Canva](https:
 
 
 ## Vecka 18   
-
+https://kind.social/@lactol/111260501634275996
 
 ## Vecka 19   
 
