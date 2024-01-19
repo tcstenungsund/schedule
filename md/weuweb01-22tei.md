@@ -257,6 +257,17 @@ Genomgång av provet
 
 ## Vecka 3   
 
+###### Mjukvara och versionshantering   
+
+Inför våren kommer vi introducera några nya mjukvaror. Vi kommer tala mer om dem längre fram, men innan vi installerar dem tittar vi lite snabbt på vad de är och gör.   
+
+Vad är en [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)? Vi talar om den nya generationens lightweight-IDEer som Brackets, Atom, [neovim](https://neovim.io/) och Visual Studio Code, men nämner även traditionella IDEer som Dreamweaver, Eclipse och PHPStorm. "[5 reasons you should switch from VS Code to VSCodium](https://thedeveloperspace.com/5-reasons-you-should-switch-from-vs-code-to-vscodium/)". Slutsats: vi installerar och använder [VScodium](https://vscodium.com/). "[Visual Studio Code Web Dev Setup In 6 Minutes](https://youtu.be/4NfFFsQC77M)" (4 min).    
+
+Vad är versionshantering, och vad använder vi det till? "[What is Git](https://youtu.be/sHoZuyl5hws)" (4 min)   
+
+Hur lär man sig nya saker? Genom att följa the [Tech Support Cheat Sheet](https://xkcd.com/627/)!   
+
+Ladda ned och installera VSCodium, GitHub Desktop och Inkscape.   
 
 ## Vecka 4   
 
