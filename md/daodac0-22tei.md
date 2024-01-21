@@ -236,6 +236,17 @@ Här finns lite screenshots på hur installationen kan se ut: [Bilder på instal
 
 
 ## Vecka 4   
+Måndag:
+Undervisning bedrivs på distans eftersom skolan är stängd idag. 
+Jag kommer att gå igenom valda delar av kapitel 11 - Windows Configuration, via TEAMs.
+Arbeta färdigt med kapitel 11, gör interaktiva övningar.
+
+Onsdag:
+Vi installerar Windows i Virtual Box.
+
+Torsdag:
+Kapitel 12.
+
 
 
 ## Vecka 5   
