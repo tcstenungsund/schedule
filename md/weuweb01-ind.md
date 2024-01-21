@@ -225,6 +225,9 @@ Prov på CSS
 
 ## Vecka 3   
 
+Idag är skolan stängd, så dagens uppgift blir att se en föreläsning vid namn "Modern CSS Layout is Awesome!" Nästa lektion kommer vi diskutera den.   
+
+**Läxa:** [Michelle Barker - Modern CSS Layout is Awesome!](https://youtu.be/6O0KBNslevQ) (44 min)    
 
 ## Vecka 4   
 
