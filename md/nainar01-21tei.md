@@ -186,6 +186,12 @@ Ni ska dessutom lämna in packet tracer 11.1.10 på Haldor.
  
 
 ## Vecka 4   
+Måndag:
+Skolan stängd idag på grund av problem med värme.
+
+Läs på kapitel 11. 
+Gör Packet Tracer 11.6.1 och lämna in.
+Vi finns tillgängliga via TEAMs om det är några problem.
 
 
 ## Vecka 5   
