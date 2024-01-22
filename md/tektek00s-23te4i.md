@@ -227,6 +227,9 @@ När ni är klara med onlinekursen så anmäler ni er till två kurser på Link�
 
 
 ## Vecka 4   
+Måndag:
+Skolan är stängd idag, kom INTE in till Nösnäs eller Hogia.
+Fortsätt att arbeta med det som ni har för händerna. Är ni osäkra rekommenderar jag att ni arbetar med AI kursen som vi startade v51. Fyll i loggboken! Jag kommer att ta kontakt med några av er via TEAMs ang APL, så svara gärna. Jag behöver en mailadress från er för att registrera Servicekunskapsmaterialet. Vi startar det momentet senare i veckan. Hör av er via TEAMs om ni behöver hjälp med något.
 
 
 ## Vecka 5   
