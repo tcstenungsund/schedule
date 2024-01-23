@@ -475,6 +475,18 @@ Har ni tid får ni gärna kika in [Prezi](https://prezi.com/) och [Canva](https:
 
 ## Vecka 4   
 
+#### Tisdag
+
+**Dagens lektion på distans**
+
+Idag har vi ett pass vid 12:10. Jag tänker att precis som vi pratat om tidigare så får ni tid på er att testa operativsystemet ni ska presentera, göra flimer/animeringar, göra färdigt presentationen och slutligen fortsätta skriva på dokumentet som hör till den här uppgiften.
+Jag kommer att finnas tillgänglig på teams från 12:10 om det är någon som vill bolla tankar eller idéer via chatt eller samtal.
+ 
+Målsättningen är att vi är tillbaka på Hogia till torsdag och att vi håller i presentationen på plats som planerat. Dock kan planerna ändra sig så var förberedda på att hålla presentationen via Teams ifall vi inte kan träffas.
+ 
+Inlämningsmapp till dokumentet samt presentationen finns på Haldor i vårt kursrum.
+ 
+
 
 ## Vecka 5   
 
