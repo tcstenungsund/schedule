@@ -171,17 +171,35 @@ Fortsätt med Drupal subtheme
 
 ## Vecka 4   
 
-Versionshantering        
+Dagens uppgift består i att se två videoklipp samt besvara några frågor (totalt ~400 ord). 
+
+"[Jeffrey Zeldman 20 years of Web Design and Community](https://vimeo.com/219302853)" (40 min)   
+
+Jeffrey Zeldman är en legend i webbutvecklingsbranschen av samma dignitet som Tim Berners-Lee. I dokumentären ovan får lära oss mer om hans bakgrund, varför han började med webbutveckling och vad han bidragit med. Se gärna vidare på webtidningen [A List Apart](https://alistapart.com/) som han grundade. 
+
+**Frågor att besvara**   
+1) Hur såg den tidiga webben ut, och hur reagerade Zeldman när han lärde känna den?
+2) Vilka erfarenheter och intressen tog Zeldman med sig till webbutveckling?
+3) Vad får du för intryck av "the standards movement"? Hur uppstod den och hur gick det?
+4) Många uttalar sig om sin relation till Zeldman och hur han påverkat dem. Vilket citat tar du med dig från dokumentären?    
+
+"[Michelle Barker – Modern CSS Layout is Awesome!](https://youtu.be/6O0KBNslevQ)" (44 min)   
+
+Michelle Barker är en kreativ och designmedveten entusiast för CSS som gärna sprider nya och spännande sätt att bygga webbplatser på! Denna föreläsning gavs 2023 på konferensen "[beyond tellerrand](https://beyondtellerrand.com/)" Düsseldorf. 
+
+**Frågor att besvara**
+1) Layout i CSS var en gång svårt, men är nu lättare. Vilka tekniker har vi lämnat, och vilka har vi fått?   
+2) Vad är skillnaden mellan vh och dvh? Varför behöver vi dvh?   
+3) Barker nämner "subgrid", vilket nu ett år efter hennes presentation finns i alla webbläsare. När använder man subgrid, och hur fungerar det?   
+4) En av de största nyheterna i CSS är "container queries", beskriv översiktligt hur det fungerar och ge två specifika exempel när du har användning av det.   
 
 ## Vecka 5   
 
-Arbetsflöde...   
-
-Gruppuppgift...     
+Versionshantering         
 
 ## Vecka 6   
 
-Gruppuppgift...     
+Arbetsflöde...       
 
 ## Vecka 7   
 
