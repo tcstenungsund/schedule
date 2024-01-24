@@ -244,6 +244,14 @@ Arbeta färdigt med kapitel 11, gör interaktiva övningar.
 Onsdag:
 Vi installerar Windows i Virtual Box.
 
+Installation av Windows 10 i Virtualbox.
+
+Tänk på att 
+* Bocka i kryssrutan med "Skip unattended install". Vi hill inte att den automatiskt installerar Windows eftersom vi vill göra andra inställningar.
+* Bocka ur nätverkskabeln. Settings > Network > Advanced > "Cable connected"
+
+När installationen är färdigt läser ni vidare i materialet och kan testa olika funktioner i er nya virtualla maskin.
+
 Torsdag:
 Kapitel 12.
 
