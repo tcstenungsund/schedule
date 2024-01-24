@@ -144,8 +144,19 @@ Pga bussproblem och värmeproblem blir dagens lektion inte på plats. Vi kan dä
 Ni ska också göra packet tracer 15.2.7. Där får ni testa på att logga trafik och läsa loggar som enheter har skapat. Den uppgiften lämnar ni in enskilt på Haldor.
 
 
-
 ## Vecka 4
+
+Prov på kapitel 13-17!
+
+Vi pratade även om data brokers, kryptovirus, ransomware och cloudföretag.
+
+Några av nyheterna vi pratade om: 
+
+[Facebook data mining](https://www.theverge.com/2024/1/17/24041897/facebook-meta-targeted-advertising-data-mining-study-privacy)
+
+[Attack mot Tieotevry](https://computersweden.idg.se/2.2683/1.780804/attacken-mot-tietoevry-kan-ta-veckor-att-atgarda)
+
+[Google spårar inkognito](https://computersweden.idg.se/2.2683/1.721518/chrome-inkognito)
 
 ## Vecka 5
 
