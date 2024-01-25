@@ -231,6 +231,11 @@ Måndag:
 Skolan är stängd idag, kom INTE in till Nösnäs eller Hogia.
 Fortsätt att arbeta med det som ni har för händerna. Är ni osäkra rekommenderar jag att ni arbetar med AI kursen som vi startade v51. Fyll i loggboken! Jag kommer att ta kontakt med några av er via TEAMs ang APL, så svara gärna. Jag behöver en mailadress från er för att registrera Servicekunskapsmaterialet. Vi startar det momentet senare i veckan. Hör av er via TEAMs om ni behöver hjälp med något.
 
+Fredag:
+Jag är på möte fram till 09.00 - Arbeta med det ni har för handen.
+Vi registrerar oss på Servicekunskapskursen.
+Genomgång av begreppet Service - Vad innebär god service?
+
 
 ## Vecka 5   
 
