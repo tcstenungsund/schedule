@@ -23,7 +23,9 @@ Gå till uppgiften på Codepen. Där är Bootstrap redan inlänkat. Det finns li
 
 > Tips! Innan du börjar arbeta med en pen så vill du logga in på ditt konto och göra en fork av den   
 
-Använd nu Bootstrap för att bygga en sida. Sidan får innehålla hur många Bootstrap-komponenter som helst, men allra minst följande:  
+Innan du börjar bygga sidan, gå till Bootstrap Build och generera ett tema. Lura sedan ut hur du vill lägga till den koden till din pen på bästa sätt, och tänk på att temat måste appliceras på sidan före din egen CSS-kod.  
+
+Använd nu de olika funktionerna i Bootstrap för att bygga en sida. Sidan får innehålla hur många Bootstrap-komponenter som helst, men allra minst följande:  
 
 * Bootstraps grid för all layout 
 * 3 Cards 
