@@ -485,6 +485,10 @@ Jag kommer att finnas tillgänglig på teams från 12:10 om det är någon som v
 Målsättningen är att vi är tillbaka på Hogia till torsdag och att vi håller i presentationen på plats som planerat. Dock kan planerna ändra sig så var förberedda på att hålla presentationen via Teams ifall vi inte kan träffas.
  
 Inlämningsmapp till dokumentet samt presentationen finns på Haldor i vårt kursrum.
+
+#### Torsdag
+
+Idag redovisar ni uppgiften "Mobila operativsystem". Inlämningsmappen där ni lämnar in filerna till uppgiften är öppen fram tills på söndag.
  
 
 
