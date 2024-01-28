@@ -195,7 +195,7 @@ Michelle Barker är en kreativ och designmedveten entusiast för CSS som gärna 
 
 ## Vecka 5   
 
-Versionshantering         
+Versionshantering...         
 
 ## Vecka 6   
 
@@ -207,7 +207,7 @@ Arbetsflöde...
 
 ## Vecka 8   
 
-Gruppuppgift...     
+Gästföreläsare om Git och arbetsflöde     
 
 ## Vecka 9   
 
