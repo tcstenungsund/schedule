@@ -488,15 +488,23 @@ Inlämningsmapp till dokumentet samt presentationen finns på Haldor i vårt kur
 
 #### Torsdag
 
-Idag redovisar ni uppgiften "Mobila operativsystem". Inlämningsmappen där ni lämnar in filerna till uppgiften är öppen fram tills på söndag.
- 
-
+Idag redovisar ni uppgiften "Mobila operativsystem". Inlämningsmappen där ni lämnar in filerna till uppgiften är öppen fram tills på söndag.   
 
 ## Vecka 5   
 
+#### Måndag       
+
+#### Tisdag       
+
+#### Torsdag       
 
 ## Vecka 6   
 
+#### Måndag       
+
+#### Tisdag       
+
+#### Torsdag       
 
 ## Vecka 7   
 
@@ -504,54 +512,87 @@ Idag redovisar ni uppgiften "Mobila operativsystem". Inlämningsmappen där ni l
 
 ## Vecka 8   
 
+**APL**   
 
 ## Vecka 9   
 
+**APL**   
 
 ## Vecka 10   
 
+**APL**   
 
 ## Vecka 11   
 
+**APL**   
 
 ## Vecka 12   
 
+**APL**   
 
 ## Vecka 13   
 
+**APL**   
 
 ## Vecka 14   
 
 **PÅSKLOV**   
+
 ## Vecka 15   
 
+**APL**   
 
 ## Vecka 16   
 
+**APL**   
 
 ## Vecka 17   
 
+**APL**   
 
 ## Vecka 18   
-https://kind.social/@lactol/111260501634275996
+
+**APL**   
 
 ## Vecka 19   
 
+**APL**   
 
 ## Vecka 20   
 
+**APL**   
 
 ## Vecka 21   
 
+#### Måndag       
+
+#### Tisdag       
+
+#### Torsdag       
 
 ## Vecka 22   
 
+#### Måndag       
+
+#### Tisdag       
+
+#### Torsdag       
 
 ## Vecka 23   
 
+#### Måndag       
+
+#### Tisdag       
+
+#### Torsdag       
 
 ## Vecka 24   
 
+#### Måndag       
+
+#### Tisdag       
+
+#### Torsdag       
 
 ## Vecka 25   
 **SOMMARLOV**   
