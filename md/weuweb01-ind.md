@@ -231,6 +231,9 @@ Idag är skolan stängd, så dagens uppgift blir att se en föreläsning vid nam
 
 ## Vecka 4   
 
+Omröstning i tävlingen från vecka 2.   
+
+Genomgång av läxan från vecka 3.   
 
 ## Vecka 5   
 
