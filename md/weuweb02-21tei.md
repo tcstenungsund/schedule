@@ -195,11 +195,24 @@ Michelle Barker är en kreativ och designmedveten entusiast för CSS som gärna 
 
 ## Vecka 5   
 
-Versionshantering...         
+Omröstning av tävlingen från vecka 2.   
+
+###### Versionshantering  
+
+Vad är [Git](https://en.wikipedia.org/wiki/Git) och "[What is GitHub?](https://youtu.be/pBy1zgt0XPc)" (3 min)   
+"[A Web Developers Workflow for GitHub](https://dev.to/rembertdesigns/a-web-developers-workflow-for-github-1b72)" och "[Git & GitHub](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF)" (16 min)   
+
+![Git Structure](https://krishnaiitd.github.io/gitcommands/images/GitWorkflow-3.png)    
+
+"[Git cheatsheet](https://ndpsoftware.com/git-cheatsheet.html)", "[git - the simple guide](https://rogerdudler.github.io/git-guide/)", "[Write Git Commit Messages That Your Colleagues Will Love](https://prplcode.hashnode.dev/write-git-commit-messages-that-your-colleagues-will-love)" och "[Inviting collaborators to a personal repository](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository)".   
+         
+Gör övningarna på "[Learn Git Branching](https://learngitbranching.js.org/)"   
 
 ## Vecka 6   
 
 Arbetsflöde...       
+
+Start av gruppuppgift...   
 
 ## Vecka 7   
 
