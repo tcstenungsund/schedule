@@ -199,7 +199,7 @@ Omröstning av tävlingen från vecka 2.
 
 ###### Versionshantering  
 
-Vad är [Git](https://en.wikipedia.org/wiki/Git) och "[What is GitHub?](https://youtu.be/pBy1zgt0XPc)" (3 min)   
+Vad är [Git](https://en.wikipedia.org/wiki/Git) och "[What is GitHub?](https://youtu.be/pBy1zgt0XPc)" (3 min). Se till att du har koll! "[Learn Git and GitHub in a more fun way](https://blog.pradumnasaraf.dev/learn-git-and-github-in-a-more-fun-way)"   
 "[A Web Developers Workflow for GitHub](https://dev.to/rembertdesigns/a-web-developers-workflow-for-github-1b72)" och "[Git & GitHub](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF)" (16 min)   
 
 ![Git Structure](https://krishnaiitd.github.io/gitcommands/images/GitWorkflow-3.png)    
