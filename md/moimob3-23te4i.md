@@ -498,6 +498,8 @@ Idag redovisar ni uppgiften "Mobila operativsystem". Inlämningsmappen där ni l
 
 #### Torsdag       
 
+*Veckans sociala medier:* "[Can I :has stuff?](https://www.sarahgebauer.com/post/day-19-can-i-has-stuff/)", "[PocketBase](https://pocketbase.io/)" och "[Don't upload your PWA to the app stores](https://scribe.rip/@kevinbasset/dont-upload-your-pwa-to-the-app-stores-a4279a7d6eff)". Sedan avslutar vi med två CLI-projekt, nämligen "[Neon Modem Overdrive](https://neonmodem.com/)" och "[console.delight](https://frontendmasters.com/blog/console-delight/)".     
+
 ## Vecka 6   
 
 #### Måndag       
