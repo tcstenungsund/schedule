@@ -12,14 +12,14 @@ Enskild uppgift.
 
 * [Bootstrap](https://getbootstrap.com/)   
 * [Bootstrap Build](https://bootstrap.build/)   
-* [Cat Ipsum](https://fungenerators.com/lorem-ipsum/cat/)   
+* [placekitten](https://placekitten.com/)   
 * [Uppgiften på Codepen](https://codepen.io/seetee/pen/LYazJGv?editors=1100)   
 
 ## Uppgiftsbeskrivning   
 
 Bestäm dig först för ett färgschema. Välj ut en primärfärg och en sekundärfärg som går bra ihop. Bestäm också en nyans av vitt och en nyans av svart. Dessa fyra färger kommer vara de du använder till din sida.   
 
-Gå till uppgiften på Codepen. Där är Bootstrap redan inlänkat. Det finns lite exempeltext inlagd. Du får lov att ändra vad du vill. Använd Cat Ipsum för att lägga till exempelbilder!  
+Gå till uppgiften på Codepen. Där är Bootstrap redan inlänkat. Det finns lite exempeltext inlagd. Du får lov att ändra vad du vill. Använd placekitten för att lägga till exempelbilder!  
 
 > Tips! Innan du börjar arbeta med en pen så vill du logga in på ditt konto och göra en fork av den   
 
