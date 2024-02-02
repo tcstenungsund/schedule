@@ -295,17 +295,11 @@ För att få en ännu bättre överblick av funktionerna i programmet så ser vi
 
 Exempel på vad som går att skapa är "[7 Mind-Blowing Designs Made with Inkscape](https://logosbynick.com/professional-designs-made-with-inkscape/)", "[Wine glass vector illustration using Inkscape](https://piped.video/7DTjbKHX1J0)" (6 min) och "[Autumn landscape. Made in Inkscape](https://piped.video/nl-qkWAUD5U)" (24 min).    
 
-###### Logotypedesign  
-
-[Logotype vs. logomark vs. logo: What is the difference? ](https://99designs.com/blog/logo-branding/logotype-vs-logomark-vs-logo/), [How to Design a Logo](https://www.wikihow.com/Design-a-Logo), "[How to design a logo](https://piped.video/watch?v=Vmilq3KDJio)" (4 min), [How to design a logo: 15 pro tips](https://www.creativebloq.com/graphic-design/pro-guide-logo-design-21221), [Logggos - Explore well-designed logos](https://www.logggos.club/), "[Inkscape For Beginners: Skyline Logo Tutorial](https://piped.video/vRJiA0e6Clk)" (12 min), "[Inkscape Logo Design Tutorial 2022](https://piped.video/VaJWiVZdqSo)" (16 min).   
-
-När ni arbetar med era personliga varumärken, låt er inspireras av "[20 Inkscape Tutorials for Creating Awesome Graphics](https://webdesigndev.com/inkscape-tutorials/)". Men tänk också på att optimera SVG-filen när ni är klara, där verktyg som [SVGOMG](https://jakearchibald.github.io/svgomg/) kan hjälpa till.   
-
-[Uppgift: Personligt varumärke](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb01-personligt_varumarke)      
+**Läxa till vecka 6**: "[How to design a logo](https://piped.video/watch?v=Vmilq3KDJio)" (4 min), "[Inkscape For Beginners: Skyline Logo Tutorial](https://piped.video/vRJiA0e6Clk)" (12 min), "[Inkscape Logo Design Tutorial 2022](https://piped.video/VaJWiVZdqSo)" (16 min).   
 
 ## Vecka 6   
 
-Vektorgrafik...   
+Logotypedesign...   
 
 ## Vecka 7   
 
