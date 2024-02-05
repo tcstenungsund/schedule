@@ -287,7 +287,7 @@ Vi ser "[Intro & Setup](https://youtu.be/O_9u1P5YjVc)" (7 min), "[Colours & Typo
 
 ###### Vektorgrafik   
 
-Vad är [rastergrafik](https://sv.wikipedia.org/wiki/Rastergrafik) och vad är [vektorgrafik](https://sv.wikipedia.org/wiki/Vektorgrafik)? När använder man det ena och det andra? Se de viktigaste delarna av SVG på den interaktiva referensen "[SSSV](https://fffuel.co/sssvg/)".      
+Vad är [rastergrafik](https://sv.wikipedia.org/wiki/Rastergrafik) och vad är [vektorgrafik](https://sv.wikipedia.org/wiki/Vektorgrafik)? När använder man det ena och det andra? Se de viktigaste delarna av SVG på den interaktiva referensen "[SSSV](https://fffuel.co/sssvg/)". "[Please size your inline SVGs](https://www.aaron-gustafson.com/notebook/please-size-your-inline-svgs/)"        
 
 Verktyget för vektorgrafik som vi kommer använda är det bästa på marknaden, Inkscape. Vad är Inkscape? "[Inkscape explained in 5 minutes](https://piped.video/pa6a7oz7vEE)" (5 min).    
 
