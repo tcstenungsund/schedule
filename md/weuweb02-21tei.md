@@ -210,9 +210,17 @@ Gör övningarna på "[Learn Git Branching](https://learngitbranching.js.org/)"
 
 ## Vecka 6   
 
-Arbetsflöde...       
+###### Arbetsflöde 
 
-Start av gruppuppgift...   
+Sedan tidigare förstår ni git, commit och branches. Nu är det dags att lära sig två nya saker, GitHub Issues och GitHub Projects.   
+
+GitHub Issues är ett sätt att hålla koll på vad som behöver göras i projektet. "[What is GitHub Issues?](https://piped.video/6HWw7rhwvtY)" (1 min) GitHub Projects är ett sätt att sortera GitHub Issues som kallas för "[Kanban](https://en.wikipedia.org/wiki/Kanban_board)" (tänk postit-lappar på en whiteboard). Det vanligaste är att man har tre listor som heter "Att göra", "Görs" och "Gjort".    
+
+* "[Quickstart for GitHub Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/quickstart)"
+* "[Writing a proper GitHub Issue](https://medium.com/nyc-planning-digital/writing-a-proper-github-issue-97427d62a20f)".
+* "[Linking a pull request to an issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue)"    
+
+Vi ser presentationen "[Arbetsgång 3.0](https://docs.google.com/presentation/d/e/2PACX-1vTcTrnVHJBhflvxOQ4Kwdt_jXRGu9K5NWCjr1SA3zdMSN8QXgSvsqG6f4p9GJlZbaejzIeSaN4q4iE6/pub?start=false&loop=false&delayms=3000)" och presenterar gruppindelning samt vad projekten skall gå ut på.    
 
 ## Vecka 7   
 
