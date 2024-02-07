@@ -162,6 +162,18 @@ Några av nyheterna vi pratade om:
 
 ## Vecka 6
 
+
+Gott kämpat idag på Hallernaskolan! Jag fick höra många positiva kommentarer och det verkade som att de tyckte övningarna var roliga.
+
+Idag på säkerheten skall ni titta på två klipp som handlar om framtiden inom IT-säkerhet och vad det finns för olika vägar att ta inom IT-säkerhet. De pratar lite certifikat, hemsidor man kan öva på och så vidare.
+
+https://www.youtube.com/watch?v=shgKU-zjOmw - Vad det finns för jobb inom IT-säkerhet
+https://www.youtube.com/watch?v=uAHFNuDlcRw - Framtiden inom IT-säkerhet
+
+Efter att ni tittat på klippen så vill jag att ni skriver en reflektion kring klippen. Berätta också vad du tror att framtiden kommer att se ut, kommer det bli mer eller mindre fokus på säkerhet? Kommer säkerheten att påverka oss? Finns det jobb inom området etc etc.
+Inlämningsmapp finns på Haldor. Inlämning = närvaro. Jag kommer att gå igenom era reflektioner ikväll.
+
+
 ## Vecka 7
 
 **SPORTLOV**
