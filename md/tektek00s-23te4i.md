@@ -240,7 +240,19 @@ Genomgång av begreppet Service - Vad innebär god service?
 ## Vecka 5   
 
 
-## Vecka 6   
+## Vecka 6  
+
+Måndag:
+Bio på Fregatten.
+
+Tisdag:
+Servicekunskap kapitel 9 - Hållbar arbetsmiljö.
+
+Fredag:
+VIKTIGT att alla som ska göra APL är på plats, ni ska få information och blanketter.
+TEAMsmöte med Hogia angående STARskolan.
+
+Prov i Servicekunskap.
 
 
 ## Vecka 7   
