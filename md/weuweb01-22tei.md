@@ -299,7 +299,11 @@ Exempel på vad som går att skapa är "[7 Mind-Blowing Designs Made with Inksca
 
 ## Vecka 6   
 
-Logotypedesign...   
+###### Logotypedesign  
+
+[Logotype vs. logomark vs. logo: What is the difference? ](https://99designs.com/blog/logo-branding/logotype-vs-logomark-vs-logo/), "[The Changing Face of Brands: Evolution of Logos Explained](https://www.designyourway.net/blog/evolution-of-logos/)", [How to Design a Logo](https://www.wikihow.com/Design-a-Logo), "[25+ Key Logo Design Trends of 2024](https://designshack.net/articles/inspiration/logo-design-trends/)", "[What A Personal Brand Is (And Why You Need One)](https://www.forbes.com/sites/forbescoachescouncil/2021/02/12/what-a-personal-brand-is-and-why-you-need-one/)".   
+
+[Uppgift: Personligt varumärke](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb01-personligt_varumarke)      
 
 ## Vecka 7   
 
