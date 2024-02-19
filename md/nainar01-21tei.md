@@ -206,6 +206,16 @@ Vi finns tillgängliga via TEAMs om det är några problem.
 
 ## Vecka 8   
 
+Idag arbetar vi med UF under första delen av lektionen och gör en nätverkslabb på den sista delen.
+Ni jobbar med hemmaroutrar i grupp och ska testa olika funktioner på dessa. Ni ska på egen hand ta reda på hur man åtgärdar följande punkter:
+
+* Bind en MAC-adress till en IP-adress
+* Blockera/filtrera hemsidor
+* Aktivera QoS (Quality of Service)
+* Mät hastigheten med hjälp av Bredbandskollen. Vad är det för skillnad i hastighet mellan WiFi (Trådlöst) och med en nätverkskabel?
+* Byt DNS-adress till Google's server (8.8.8.8, 8.8.4.4)
+* Skapa ett gästnätverk. Testa gästnäverket. Kan en dator som är uppkopplad till gästnätverket pinga en dator eller telefon som är ansluten till det "vanliga" nätverket?
+* Begränsa hastigheten (Download speed/Upload speed) på en enhet. Testa att hastigheten är begränsad genom att använda Bredbandskollen.
 
 ## Vecka 9   
 
