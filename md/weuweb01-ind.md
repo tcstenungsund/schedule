@@ -259,6 +259,11 @@ Alla dessa verktyg är bäst att göra fysiskt, men går även att göra digital
 
 ## Vecka 8   
 
+En översikt av Skolverkets riktlinjer för kursen. De stora moment vi har kvar är hur man publicerar en webbsida till nätet och hur man driver projekt.   
+
+###### Publicering av webbplats   
+
+Vi talar om protokoll som [FTP](https://en.wikipedia.org/wiki/File_Transfer_Protocol) och [DNS](https://sv.wikipedia.org/wiki/Dom%C3%A4nnamnssystemet), men också verktyg som [Git](https://sv.wikipedia.org/wiki/Git_(datorprogram)) och [CMS](https://en.wikipedia.org/wiki/List_of_content_management_systems):er som [Drupal](https://www.drupal.org/), [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki) och [Wordpress](https://wordpress.org/). Hur man registrerar en [domänadress](https://www.loopia.se/domannamn/) och var man lägger sina filer på nätet ([GitHub](https://github.com/) eller [webbhotell](https://www.loopia.se/webbhotell/)). Vi talar även om dynamiska DNS-tjänster som [DuckDNS](https://www.duckdns.org/), lösenordshanterare som [Bitwarden](https://bitwarden.com/) och hur man skapar [ett säkert lösenord](https://xkcd.com/936/).   
 
 ## Vecka 9   
 
