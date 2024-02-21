@@ -262,6 +262,8 @@ Kapitel 12.
 
 ## Vecka 6   
 
+Kapitel 13 - Säkerhet
+
 
 ## Vecka 7   
 
@@ -269,6 +271,11 @@ Kapitel 12.
 
 ## Vecka 8   
 
+Vi fortsätter att prata om säkerhet i kapitel 13.
+
+[Have I been pwned?](https://haveibeenpwned.com/)
+
+[Phisingquiz - Google](https://phishingquiz.withgoogle.com/?hl=sv)
 
 ## Vecka 9   
 
