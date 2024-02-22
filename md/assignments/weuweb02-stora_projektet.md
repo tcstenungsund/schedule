@@ -9,10 +9,11 @@ Gruppuppgift.
 ### Resurser   
 
 * [Drupal 10](https://www.drupal.org/) och [Bootstrap 5 Barrio](https://www.drupal.org/project/bootstrap_barrio) med [Bootstrap Build](https://bootstrap.build/)       
-* [Docker](https://www.docker.com/) tillsammans med filen [docker-compose.yml v.2.0](https://github.com/seetee/docker/tree/version2.0/drupal)   
+* [Docker](https://www.docker.com/) tillsammans med filen [docker-compose.yml v.2.0](https://github.com/seetee/docker/tree/version2.0/drupal) eller Lando   
 * [GitHub](https://github.com/)   
 * [HTTrack](https://www.httrack.com/)   
-* [VSCodium](https://vscodium.com/)    
+* [VSCodium](https://vscodium.com/)
+* [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)     
 
 ## Uppgiftsbeskrivning   
 
@@ -38,7 +39,7 @@ Det förekommer inte direkt något backend-jobb i detta projekt, men det finns e
 
 Börja varje lektion med en 5-10 minuter lång snabbgenomgång av hur arbetsläget ser ut. Låt var och en i gruppen svara kort (c:a 1 mening) på frågorna "Vad gjorde jag förra gången?", "Vad skall jag göra idag?" och "Vad hindrar mig?".   
 
-Varannan vecka skickar Dokumentationsansvariga in en rapport på It's där de kort redogör för vilka uppgifter som slutförts under de senaste fjorton dagarna, samt om det finns några problem som hindrar att gruppens arbete går vidare. Rapporten skall innehålla en översikt över de commits som gjorts på GitHub, och fokusera på vad gruppen som helhet åstakommit i projektet, inte individuella insatser.      
+Varannan vecka skickar Dokumentationsansvariga in en rapport på Haldor där de kort redogör för vilka uppgifter som slutförts under de senaste fjorton dagarna, samt om det finns några problem som hindrar att gruppens arbete går vidare. Rapporten skall innehålla en översikt över de commits som gjorts på GitHub, och fokusera på vad gruppen som helhet åstakommit i projektet, inte individuella insatser.      
 
 ##### Större moment   
 
@@ -76,7 +77,7 @@ En layoutmässigt och grafiskt tilltalande dokumentation som beskriver färger, 
 
 Ett installeringsbart subtheme.   
 
-Alla skall ha bidragit till ert repocitory med vettiga commits, samt hanterat minst ett innehållsrikt kort på Trello i veckan.   
+Alla skall ha bidragit till ert repocitory med vettiga commits, samt hanterat minst en innehållsrik issue på GitHub Projects i veckan.   
 
 ### Vilka filer?   
 
