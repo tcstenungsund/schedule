@@ -328,19 +328,6 @@ Pattern library
 
 "[5 Best Design Systems and How to Learn (and Steal) From Them](https://youtu.be//BISC15OPeGA)" (12 min)       
 
-###### Vårprojektet   
-
-Teman   
-* Programmeringsutbildning    
-* 3D-printade prylar    
-* Inscanning av byggnader med 360-kamera    
-* IT-support med äldre som målgrupp    
-* Wifi-hjälp    
-* Digital signage     
-* Bygg webshop åt Ekonomi     
-
-[Uppgift: Vårprojektet](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb01-varprojektet)     
-
 **Veckans läxa:** Lyssna på avsnittet ”[001 The Box-model](https://thecsspodcast.libsyn.com/-the-css-podcast-box-model-episode-1)” (12 min) av podcasten “The CSS Podcast”. (Finns också på [Spotify](https://open.spotify.com/episode/1j2EhMoMkbiuC9LkrLG1gX).)    
 
 ## Vecka 9   
