@@ -311,62 +311,100 @@ Exempel på vad som går att skapa är "[7 Mind-Blowing Designs Made with Inksca
 
 ## Vecka 8   
 
-Projekt...   
+###### Design systems   
+
+Ett designsystem är en uppsättning återanvändbara komponenter samt regler för hur de skall användas. "[What is a Design System? A simple guide to get started](https://uxdesign.cc/what-is-a-design-system-a-simple-guide-to-get-started-529fb4b38f9b)" I ett designsystem hittar du bland annat: Style guide, Component library, Colour paletts, Typography, Tone of copy, Call To Actions, Sitemap, Iconography, Grid, Templates, A11y. Se exempel på [Adele](https://adele.uxpin.com/)!    
+
+"[Design Systems, Pattern Libraries & Style Guides... Oh My!](https://youtu.be/rO5dBA-avfw)" (10 min)    
+
+Style guide  
+* "[How To Create Brand Style Guides Like A Pro](https://youtu.be/AjgQBC_XyS4)" (5 min)     
+* "[How to Create a Website Style Guide](https://whitepeak.io/blog/website-style-guide-template/)"
+* "[Building Your Color Palette](https://www.refactoringui.com/previews/building-your-color-palette)"   
+
+Pattern library  
+* "[How to Create a Pattern Library and Why You Should Bother](https://boagworld.com/design/pattern-library/)"     
+* "[Bootstrap Pattern Library](https://getbootstrap.com/docs/5.3/components/accordion/)"     
+
+"[5 Best Design Systems and How to Learn (and Steal) From Them](https://youtu.be//BISC15OPeGA)" (12 min)       
+
+###### Vårprojektet   
+
+Teman   
+* Programmeringsutbildning    
+* 3D-printade prylar    
+* Inscanning av byggnader med 360-kamera    
+* IT-support med äldre som målgrupp    
+* Wifi-hjälp    
+* Digital signage     
+* Bygg webshop åt Ekonomi     
+
+[Uppgift: Vårprojektet](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb01-varprojektet)     
+
+**Veckans läxa:** Lyssna på avsnittet ”[001 The Box-model](https://thecsspodcast.libsyn.com/-the-css-podcast-box-model-episode-1)” (12 min) av podcasten “The CSS Podcast”. (Finns också på [Spotify](https://open.spotify.com/episode/1j2EhMoMkbiuC9LkrLG1gX).)    
 
 ## Vecka 9   
 
-Projekt...   
+Vårprojektet   
+
+**Veckans läxa:** Lyssna på avsnittet ”[002 Selectors](http://thecsspodcast.googledevelopers.libsynpro.com/002-selectors)” (15 min) av podcasten “The CSS Podcast”. (Finns också på [Spotify](https://open.spotify.com/episode/4hv6ogNtJZtvxKcQ67Ctpn).)    
 
 ## Vecka 10   
 
-Projekt...   
+Vårprojektet   
+
+**Veckans läxa:** Lyssna på avsnittet ”[003 Specificity](http://thecsspodcast.googledevelopers.libsynpro.com/003-specificity)” (13 min) av podcasten “The CSS Podcast”. (Finns också på [Spotify](https://open.spotify.com/episode/2I3gJ9AFUi08Sm9CV7wydO).)     
 
 ## Vecka 11   
 
-Projekt...   
+Vårprojektet   
+
+
+**Veckans läxa:** Lyssna på avsnittet ”[004 The Cascade](http://thecsspodcast.googledevelopers.libsynpro.com/004-the-cascade)” (12 min) av podcasten “The CSS Podcast”. (Finns också på [Spotify](https://open.spotify.com/episode/698XEvD2VUmg4iVZEZqL7I).)    
 
 ## Vecka 12   
 
-Projekt...   
+Vårprojektet   
+
+**Veckans läxa:** Lyssna på avsnittet ”[005 Inheritance](http://thecsspodcast.googledevelopers.libsynpro.com/005-inheritance)” (8 min) av podcasten “The CSS Podcast”. (Finns också på [Spotify](https://open.spotify.com/episode/7q4lpdJOIYaUTNMwjUvRxP).)    
 
 ## Vecka 13   
 
-Projekt...   
+Vårprojektet   
+
+**Test:** The CSS Podcast avsnitt 1 – 5.
 
 ## Vecka 14   
 **PÅSKLOV**   
 
 ## Vecka 15   
 
-Projekt...   
+Vårprojektet   
 
 ## Vecka 16   
 
-Projekt...   
+Vårprojektet   
 
 ## Vecka 17   
 
-Projekt...   
+Vårprojektet   
 
 ## Vecka 18   
 
-Projekt...   
+Vårprojektet   
 
 ## Vecka 19   
 
-Projekt...   
+Vårprojektet   
 
 ## Vecka 20   
 
-Projekt...   
 
 ## Vecka 21   
 
-Projekt...   
 
 ## Vecka 22   
 
-Projekt...   
 
 ## Vecka 23   
 
