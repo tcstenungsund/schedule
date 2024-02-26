@@ -279,6 +279,12 @@ Vi fortsätter att prata om säkerhet i kapitel 13.
 
 ## Vecka 9   
 
+Ni läser färdigt kapitel 13 och ställer frågor om säkerhet.
+
+Kapitelprovet för 13 gör ni hemma. Provet ska vara gjort senast måndag förmiddag (4 mars).
+
+Onsdag och torsdag går bort då vi IT-lärare är på Svenska Mässan i samband med UF-mässan som hålls.
+
 
 ## Vecka 10   
 
