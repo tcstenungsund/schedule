@@ -39,7 +39,7 @@ Det förekommer inte direkt något backend-jobb i detta projekt, men det finns e
 
 Börja varje lektion med en 5-10 minuter lång snabbgenomgång av hur arbetsläget ser ut. Låt var och en i gruppen svara kort (c:a 1 mening) på frågorna "Vad gjorde jag förra gången?", "Vad skall jag göra idag?" och "Vad hindrar mig?".   
 
-Varannan vecka skickar Dokumentationsansvariga in en rapport på Haldor där de kort redogör för vilka uppgifter som slutförts under de senaste fjorton dagarna, samt om det finns några problem som hindrar att gruppens arbete går vidare. Rapporten skall innehålla en översikt över de commits som gjorts på GitHub, och fokusera på vad gruppen som helhet åstakommit i projektet, inte individuella insatser.      
+Varannan vecka skickar Dokumentationsansvariga in en rapport i markdown-format i docs-katalogen i ert repocitory där de kort redogör för vilka uppgifter som slutförts under de senaste fjorton dagarna, samt om det finns några problem som hindrar att gruppens arbete går vidare. Rapporten skall innehålla en översikt över de commits som gjorts på GitHub, och fokusera på vad gruppen som helhet åstakommit i projektet, inte individuella insatser.      
 
 ##### Större moment   
 
