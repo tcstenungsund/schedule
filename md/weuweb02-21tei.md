@@ -214,7 +214,7 @@ Gör övningarna på "[Learn Git Branching](https://learngitbranching.js.org/)"
 
 Sedan tidigare förstår ni git, commit och branches. Nu är det dags att lära sig två nya saker, GitHub Issues och GitHub Projects.   
 
-GitHub Issues är ett sätt att hålla koll på vad som behöver göras i projektet. "[What is GitHub Issues?](https://piped.video/6HWw7rhwvtY)" (1 min) GitHub Projects är ett sätt att sortera GitHub Issues som kallas för "[Kanban](https://en.wikipedia.org/wiki/Kanban_board)" (tänk postit-lappar på en whiteboard). Det vanligaste är att man har tre listor som heter "Att göra", "Görs" och "Gjort".    
+GitHub Issues är ett sätt att hålla koll på vad som behöver göras i projektet. "[What is GitHub Issues?](https://youtube.com/6HWw7rhwvtY)" (1 min) GitHub Projects är ett sätt att sortera GitHub Issues som kallas för "[Kanban](https://en.wikipedia.org/wiki/Kanban_board)" (tänk postit-lappar på en whiteboard). Det vanligaste är att man har tre listor som heter "Att göra", "Görs" och "Gjort".    
 
 * "[Quickstart for GitHub Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/quickstart)"
 * "[Writing a proper GitHub Issue](https://medium.com/nyc-planning-digital/writing-a-proper-github-issue-97427d62a20f)".
@@ -232,50 +232,74 @@ Gästföreläsare om Git och arbetsflöde
 
 ## Vecka 9   
 
-Gruppuppgift...     
+Vi avslöjar vinnaren i CSS Zen Garden 2024!    
+
+###### Projektplanering   
+
+Hur planerar man ett projekt? Hur skall ni planera ert? Två väldigt vanliga metoder att skissa upp ett arbetsflöde är Gantt chart och Responsibility Assignment Matrix (eller RACI chart).    
+
+"[Project Management Tutorial - Undrstanding Gantt charts](https://youtube.com/OI93w4xtgM8)" (2 min)   
+"[What is A RACI Chart](https://youtube.com/oirrcObNpL0)" (1 min)   
+
+[Uppgift: Stora Projektet](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-stora_projektet)   
+
+**Läxa**: Se videon [Resilient CSS 1: “Introduction to Resilient CSS”](https://youtube.com/u00FY9vADfQ) (9:08 min) av Jen Simmons.    
 
 ## Vecka 10   
 
-Gruppuppgift...     
+Test på Git  
+
+Stora projektet     
+
+**Läxa**: Se videon [Resilient CSS 2: “The Secrets of 'Can I Use'”](https://youtube.com/WM_cKHH7bZ0) (10 min) av Jen Simmons.      
 
 ## Vecka 11   
 
-Gruppuppgift...     
+Stora projektet     
+
+**Läxa**: Se videon [Resilient CSS 3: “How Browsers Handle Errors in CSS”](https://youtube.com/NJjlzxud4_M) (7:30 min) av Jen Simmons.     
 
 ## Vecka 12   
 
-Gruppuppgift...     
+Stora projektet     
+
+**Läxa**: Se videon [Resilient CSS 4: “Unlocking the Power of CSS Overrides”](https://youtube.com/0X6zrW2QW8Q) (8:42 min) av Jen Simmons.    
 
 ## Vecka 13   
 
-Gruppuppgift...     
+Stora projektet     
+
+**Läxa**: Se videon [Resilient CSS 5 & 6: ”The Magic of Feature Queries”, Part 1 och 2](https://youtube.com/T8uxmUQZsck) (15 min) av Jen Simmons.    
 
 ## Vecka 14   
 
 **PÅSKLOV**   
+
 ## Vecka 15   
 
-Gruppuppgift...     
+Stora projektet     
+
+**Test** på videoserien [“Resilient CSS”](https://youtube.com/playlist?list=PLbSquHt1VCf1kpv9WRGMCA9_Nn4vCLZ9Y).    
 
 ## Vecka 16   
 
-Gruppuppgift...     
+Stora projektet     
 
 ## Vecka 17   
 
-Gruppuppgift...     
+Stora projektet     
 
 ## Vecka 18   
 
-Gruppuppgift...     
+Stora projektet     
 
 ## Vecka 19   
 
-Gruppuppgift...     
+Stora projektet     
 
 ## Vecka 20   
 
-Presentation av gruppuppgift...    
+Presentation av Stora projektet    
 
 ## Vecka 21   
 
