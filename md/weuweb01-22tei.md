@@ -334,6 +334,8 @@ Pattern library
 
 Vårprojektet   
 
+Uppgift: [Vårprojektet](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb01-varprojektet)    
+
 **Veckans läxa:** Lyssna på avsnittet ”[002 Selectors](http://thecsspodcast.googledevelopers.libsynpro.com/002-selectors)” (15 min) av podcasten “The CSS Podcast”. (Finns också på [Spotify](https://open.spotify.com/episode/4hv6ogNtJZtvxKcQ67Ctpn).)    
 
 ## Vecka 10   
