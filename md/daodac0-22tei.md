@@ -288,6 +288,8 @@ Onsdag och torsdag går bort då vi IT-lärare är på Svenska Mässan i samband
 
 ## Vecka 10   
 
+Genomgång av kapitel 14, sista kapitlet i IT Essentials kursen.
+
 
 ## Vecka 11   
 
