@@ -219,6 +219,8 @@ Ni jobbar med hemmaroutrar i grupp och ska testa olika funktioner på dessa. Ni 
 
 ## Vecka 9   
 
+UF vecka.
+
 
 ## Vecka 10   
 
