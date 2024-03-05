@@ -238,7 +238,7 @@ Vi avslöjar vinnaren i CSS Zen Garden 2024!
 
 Hur planerar man ett projekt? Hur skall ni planera ert? Två väldigt vanliga metoder att skissa upp ett arbetsflöde är Gantt chart och Responsibility Assignment Matrix (eller RACI chart).    
 
-"[Project Management Tutorial - Undrstanding Gantt charts](https://youtube.com/OI93w4xtgM8)" (2 min)   
+"[Project Management Tutorial - Understanding Gantt charts](https://youtube.com/OI93w4xtgM8)" (2 min)   
 "[What is A RACI Chart](https://youtube.com/oirrcObNpL0)" (1 min)   
 
 [Uppgift: Stora Projektet](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-stora_projektet)   
