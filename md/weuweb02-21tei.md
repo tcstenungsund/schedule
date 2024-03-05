@@ -247,8 +247,6 @@ Hur planerar man ett projekt? Hur skall ni planera ert? Två väldigt vanliga me
 
 ## Vecka 10   
 
-Test på Git  
-
 Stora projektet     
 
 **Läxa**: Se videon [Resilient CSS 2: “The Secrets of 'Can I Use'”](https://youtube.com/WM_cKHH7bZ0) (10 min) av Jen Simmons.      
@@ -256,6 +254,8 @@ Stora projektet
 ## Vecka 11   
 
 Stora projektet     
+
+**Test** på Git  
 
 **Läxa**: Se videon [Resilient CSS 3: “How Browsers Handle Errors in CSS”](https://youtube.com/NJjlzxud4_M) (7:30 min) av Jen Simmons.     
 
