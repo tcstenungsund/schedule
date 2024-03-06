@@ -313,7 +313,7 @@ Exempel på vad som går att skapa är "[7 Mind-Blowing Designs Made with Inksca
 
 ###### Design systems   
 
-Ett designsystem är en uppsättning återanvändbara komponenter samt regler för hur de skall användas. "[What is a Design System? A simple guide to get started](https://uxdesign.cc/what-is-a-design-system-a-simple-guide-to-get-started-529fb4b38f9b)" I ett designsystem hittar du bland annat: Style guide, Component library, Colour paletts, Typography, Tone of copy, Call To Actions, Sitemap, Iconography, Grid, Templates, A11y. Se exempel på [Adele](https://adele.uxpin.com/)!    
+Ett designsystem är en uppsättning återanvändbara komponenter samt regler för hur de skall användas. "[What is a Design System? A simple guide to get started](https://uxdesign.cc/what-is-a-design-system-a-simple-guide-to-get-started-529fb4b38f9b)" I ett designsystem hittar du bland annat: Style guide, Component library, Colour paletts, Typography, Tone of copy, Call To Actions, Sitemap, Iconography, Grid, Templates, A11y. Se exempel på "[Design Systems Database](https://designsystems.surf/)".    
 
 "[Design Systems, Pattern Libraries & Style Guides... Oh My!](https://youtu.be/rO5dBA-avfw)" (10 min)    
 
