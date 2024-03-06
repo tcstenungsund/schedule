@@ -180,9 +180,19 @@ Inlämningsmapp finns på Haldor. Inlämning = närvaro. Jag kommer att gå igen
 
 ## Vecka 8
 
+Börjar på kapitel 21 - Kryptografi.
+
+Vi ser på The Imitation Game.
+
 ## Vecka 9
 
+UF-Mässa
+
 ## Vecka 10
+
+Vi fortsätter på kapitel 21 och pratar om krypto. Visar lite demo på hashar och pratar om nycklar.
+
+Gör övningen som ligger i PDF-format här på Teams. Dokumentet heter "Krypto.pdf".
 
 ## Vecka 11
 
