@@ -340,6 +340,8 @@ Uppgift: [Vårprojektet](https://tcstenungsund.github.io/schedule/assignment.htm
 
 ## Vecka 10   
 
+[Betygskriterier](https://www.skolverket.se/undervisning/gymnasieskolan/laroplan-program-och-amnen-i-gymnasieskolan/gymnasieprogrammen/amne?url=-996270488%2Fsyllabuscw%2Fjsp%2Fsubject.htm%3FsubjectCode%3DWEU%26version%3D2%26tos%3Dgy&sv.url=12.5dfee44715d35a5cdfa92a3) och betygssättning! "[Hur sätter lärare betyg?](https://youtu.be/Zef4M5J94Wk)" (6 min)   
+
 Vårprojektet   
 
 **Veckans läxa:** Lyssna på avsnittet ”[003 Specificity](http://thecsspodcast.googledevelopers.libsynpro.com/003-specificity)” (13 min) av podcasten “The CSS Podcast”. (Finns också på [Spotify](https://open.spotify.com/episode/2I3gJ9AFUi08Sm9CV7wydO).)     
