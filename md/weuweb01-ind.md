@@ -280,10 +280,26 @@ Fortsätt med Webflow...
 
 ## Vecka 11   
 
-Fortsätt med Webflow...    
+###### Design systems   
+
+Ett designsystem är en uppsättning återanvändbara komponenter samt regler för hur de skall användas. "[What is a Design System? A simple guide to get started](https://uxdesign.cc/what-is-a-design-system-a-simple-guide-to-get-started-529fb4b38f9b)" I ett designsystem hittar du bland annat: Style guide, Component library, Colour paletts, Typography, Tone of copy, Call To Actions, Sitemap, Iconography, Grid, Templates, A11y. Se exempel på "[Design Systems Database](https://designsystems.surf/)".    
+
+"[Design Systems, Pattern Libraries & Style Guides... Oh My!](https://youtu.be/rO5dBA-avfw)" (10 min)    
+
+Style guide  
+* "[How To Create Brand Style Guides Like A Pro](https://youtu.be/AjgQBC_XyS4)" (5 min)     
+* "[How to Create a Website Style Guide](https://whitepeak.io/blog/website-style-guide-template/)"
+* "[Building Your Color Palette](https://www.refactoringui.com/previews/building-your-color-palette)"   
+
+Pattern library  
+* "[How to Create a Pattern Library and Why You Should Bother](https://boagworld.com/design/pattern-library/)"     
+* "[Bootstrap Pattern Library](https://getbootstrap.com/docs/5.3/components/accordion/)"     
+
+"[5 Best Design Systems and How to Learn (and Steal) From Them](https://youtu.be//BISC15OPeGA)" (12 min)       
 
 ## Vecka 12   
 
+Projekt!   
 
 ## Vecka 13   
 
