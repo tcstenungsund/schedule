@@ -292,12 +292,18 @@ Genomgång av kapitel 14, sista kapitlet i IT Essentials kursen.
 
 
 ## Vecka 11   
+Genomgång av kapitel 14.4 färdigt. Arbeta med interaktiva övningar.
+Slutprov för kapitel 10-14 antingen sent vecka 13 eller tidigr vecka 15. Före eller efter påsklov alltså. Fundera på vilket dattum du föredrar.
 
 
-## Vecka 12   
+## Vecka 12  
+
+Repetition av kapitel 10-14. Arbeta med interaktiva övningar och quizar.
 
 
-## Vecka 13   
+## Vecka 13  
+
+Repetition av kapitel 10-14. Arbeta med interaktiva övningar och quizar.
 
 
 ## Vecka 14   
