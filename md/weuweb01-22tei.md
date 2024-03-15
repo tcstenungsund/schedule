@@ -348,6 +348,14 @@ Vårprojektet
 
 ## Vecka 11   
 
+###### Markdown    
+
+Vad är [Markdown](https://en.wikipedia.org/wiki/Markdown)? Vi lär oss med "[Markdown Guide](https://www.markdownguide.org/getting-started/)" och genom att göra övningen på "[Markdown Tutorial](https://www.markdowntutorial.com/)".   
+
+Vad kan man använda markdown till? "[How to set up a GitHub Profile README](https://youtube.com/-otyb0ngsa4)" (2 min)    
+
+Skapa en profil med hjälp av [ProfileMe.dev](https://www.profileme.dev/). Logga in på GitHub och lägg till din profil.    
+
 Vårprojektet   
 
 
