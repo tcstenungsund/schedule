@@ -323,7 +323,8 @@ Style guide
 * "[Building Your Color Palette](https://www.refactoringui.com/previews/building-your-color-palette)"   
 
 Pattern library  
-* "[How to Create a Pattern Library and Why You Should Bother](https://boagworld.com/design/pattern-library/)"     
+* "[How to Create a Pattern Library and Why You Should Bother](https://boagworld.com/design/pattern-library/)"
+* "[Component Name Matrix](https://open-ui.org/research/component-matrix/)"    
 * "[Bootstrap Pattern Library](https://getbootstrap.com/docs/5.3/components/accordion/)"     
 
 "[5 Best Design Systems and How to Learn (and Steal) From Them](https://youtu.be//BISC15OPeGA)" (12 min)       
