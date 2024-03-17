@@ -238,6 +238,7 @@ UF vecka.
 
 **PÅSKLOV**   
 ## Vecka 15   
+Information om Gymnasieingenjören, 14.00 - 15.30 på Hogia.
 
 
 ## Vecka 16   
