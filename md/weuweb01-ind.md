@@ -303,6 +303,14 @@ Vi påbörjar vårens projekt!
 
 Det är en enskild uppgift. Första delen fram till lovet är att skapa ett designsystem för er APL-plats.   
 
+**Designsystem**  
+* Värdeord  
+* Wireframe  
+* Moodboard  
+* Färgschema  
+* Typografi  
+* Style guide   
+
 ## Vecka 13   
 
 Vi fortsätter med projektet!    
