@@ -299,14 +299,18 @@ Pattern library
 
 ## Vecka 12   
 
-Projekt!   
+Vi påbörjar vårens projekt!    
+
+Det är en enskild uppgift. Första delen fram till lovet är att skapa ett designsystem för er APL-plats.   
 
 ## Vecka 13   
 
+Vi fortsätter med projektet!    
 
 ## Vecka 14   
 
 **PÅSKLOV**   
+
 ## Vecka 15   
 
 
