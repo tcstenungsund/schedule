@@ -367,19 +367,14 @@ Vårprojektet
 Vårprojektet   
 
 **Veckans läxa:** Lyssna på avsnittet ”[005 Inheritance](http://thecsspodcast.googledevelopers.libsynpro.com/005-inheritance)” (8 min) av podcasten “The CSS Podcast”. (Finns också på [Spotify](https://open.spotify.com/episode/7q4lpdJOIYaUTNMwjUvRxP).)    
-
-## Vecka 13   
-
-Vårprojektet   
-
-**Test:** The CSS Podcast avsnitt 1 – 5.
-
-## Vecka 14   
+## Vecka 13 - 14   
 **PÅSKLOV**   
 
 ## Vecka 15   
 
 Vårprojektet   
+
+**Test:** The CSS Podcast avsnitt 1 – 5.
 
 ## Vecka 16   
 
