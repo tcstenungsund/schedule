@@ -233,6 +233,7 @@ UF vecka.
 
 ## Vecka 13   
 
+Gör övningsslutprov, gör modulprov, gör labbar och lämna in gymnasiearbetsrapporten. Deadline på rapporten är ikväll 23:59.
 
 ## Vecka 14   
 
