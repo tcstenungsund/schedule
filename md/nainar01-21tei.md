@@ -235,6 +235,16 @@ UF vecka.
 
 Gör övningsslutprov, gör modulprov, gör labbar och lämna in gymnasiearbetsrapporten. Deadline på rapporten är ikväll 23:59.
 
+Arbetsflöde för gymnasiearbete:
+
+1. Inlämning 1
+2. Feedback på inlämning 1
+3. Inlämning 2
+4. Gymnasiearbetsredovisning
+5. Byt gymnasiearbete
+6. Opponering
+7. Inlämning 3 !!FINAL VERSION!!
+
 ## Vecka 14   
 
 **PÅSKLOV**   
