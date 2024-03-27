@@ -196,9 +196,33 @@ Gör övningen som ligger i PDF-format här på Teams. Dokumentet heter "Krypto.
 
 ## Vecka 11
 
+Besök på Högskolan Väst
+
 ## Vecka 12
 
+Utvecklingssamtal. Ni arbetar med gymnasiearbetet hela dagen.
+
 ## Vecka 13
+
+Vi börjar med Uppgift: Guider.
+
+Ni väljer ett verktyg som ni ska läsa in er på och skapa en guide till verktyget som era klasskamrater ska få testa.
+Guiderna ska vara färdiga efter lektionen vecka 15.
+Efter vecka 15 kommer ni att få testa på att använda varandras guider och testa på verktygen.
+
+Guiden skall innehålla gruppmedlemmar, rubrik, inledning och en eller flera uppgifter som användaren ska genomföra. Guiden lämnas in i PDF-format på Haldor i mappen Uppgift: Guider.
+
+Grupper:
+
+* NMAP – Sasmuel, Arvid, Viktor Täng
+* Wireshark – Victor P, Hugo
+* Hashcat / John the ripper – Alvin, Caesar, August
+* Metasploit / Metasploitable 2 – Lukas A, Casper, Nils
+* Shodan - 
+* Skriva ett program som krypterar och de-krypterar – Otto, Ebbe, Sander
+* Yersinia – Alex, Joel
+
+Är ni inte med i en grupp kontaktar ni Christoffer och meddelar vilket verktyg ni vill skapa en guide för.
 
 ## Vecka 14
 
