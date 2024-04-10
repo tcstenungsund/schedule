@@ -221,6 +221,7 @@ Grupper:
 * Shodan - 
 * Skriva ett program som krypterar och de-krypterar – Otto, Ebbe, Sander
 * Yersinia – Alex, Joel
+* Aircrack
 
 Är ni inte med i en grupp kontaktar ni Christoffer och meddelar vilket verktyg ni vill skapa en guide för.
 
@@ -230,27 +231,56 @@ Grupper:
 
 ## Vecka 15
 
+Lämna in guiderna i Haldor. Inlämningsmappen heter Labbguider. Labbguiderna skall vara i PDF-format.
+
+Vi har slutprov nästa vecka. Jag har öppnat kapitelprov, övningsslutprov och course feedback.
+
+Kapitelprov och övningsslutprov öppet i två omgångar:
+* 10 April till 12 April
+* 12 April till 17 April
+
 ## Vecka 16
+
+Slutprov.
+
+Praktiskt slutprov för de som klarar slutprovet.
 
 ## Vecka 17
 
+**Gymnasiearbetsredovisning hela dagen.**
+
 ## Vecka 18
+
+**Ledigt - 1 Maj**
 
 ## Vecka 19
 
+Omprov.
+
+Praktiskt slutprov.
+
+Jobba med labbguiderna.
+
 ## Vecka 20
+
+Omprov.
+
+Praktiskt slutprov.
+
+Jobba med labbguiderna.
 
 ## Vecka 21
 
 ## Vecka 22
 
+Hemuppgift.
+
+Christoffer och Ronnie är på UF-mässa i Stockholm
+
 ## Vecka 23
 
-## Vecka 24
+**STUDENT**
 
-## Vecka 25
-
-**SOMMARLOV**
 ---     
 [![Creative Commons-licens](https://i.creativecommons.org/l/by-sa/4.0/80x15.png)](http://creativecommons.org/licenses/by-sa/4.0/) Detta dokument är licensierat under en [Creative Commons Erkännande-DelaLika 4.0 Internationell Licens](http://creativecommons.org/licenses/by-sa/4.0/).    
 Bilder och fotografier tillhör respektive upphovsman, och befinner sig inte nödvändigtsvis under en Creative Commons-licens.    
