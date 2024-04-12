@@ -329,6 +329,9 @@ Arbeta med Packet Tracer lab 6.4.3.5
 
 ## Vecka 17   
 
+Onsdag:
+Redovisning av gymnasiearbeten - Hogia
+
 
 ## Vecka 18   
 
