@@ -310,10 +310,22 @@ Repetition av kapitel 10-14. Arbeta med interaktiva övningar och quizar.
 
 **PÅSKLOV**   
 ## Vecka 15   
+Måndag:
+Repition, gör övningsslutprov.
 
+Onsdag:
+Slutprov kapitel 10-14
+Packet Tracer 6.4.3.5.
+
+Torsdag:
+Packet Tracer 6.4.3.5
 
 ## Vecka 16   
+Måndag:
 
+Onsdag:
+Första omprov tillfälle.
+Arbeta med Packet Tracer lab 6.4.3.5
 
 ## Vecka 17   
 
