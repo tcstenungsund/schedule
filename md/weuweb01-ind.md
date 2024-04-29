@@ -337,6 +337,10 @@ Vi fortsätter med projektet!
 
 Vi fortsätter med projektet! Idag siktar på vi på att bli klara med våra webbsidor!   
 
+Lämna in länken till din publicerade webbplats på Webflow i inlämningen på Haldor.    
+
+Inlämning: [Vårprojekt Webbplats i Webflow](https://app.haldor.se/assignment/213318)    
+
 ## Vecka 19   
 
 ###### Att testa en webbplats    
