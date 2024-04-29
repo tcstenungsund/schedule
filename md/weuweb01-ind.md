@@ -276,7 +276,7 @@ Nu tar vi oss an [Webflow](https://webflow.com/)! Skapa ett konto, logga in och 
 
 ## Vecka 10   
 
-Fortsätt med Webflow...    
+Fortsätt att lära dig Webflow...    
 
 ## Vecka 11   
 
@@ -313,7 +313,7 @@ Det är en enskild uppgift. Första delen fram till lovet är att skapa ett desi
 
 ## Vecka 13   
 
-Vi fortsätter med projektet!    
+Vi fortsätter med projektet! Gör klart ditt designsystem!       
 
 ## Vecka 14   
 
@@ -321,27 +321,38 @@ Vi fortsätter med projektet!
 
 ## Vecka 15   
 
+Vi fortsätter med projektet! Nu börjar du bygga din sida i Webflow! Följ ditt designsystem!   
 
 ## Vecka 16   
 
+Vi fortsätter med projektet!   
 
 ## Vecka 17   
 
+Vi fortsätter med projektet!   
 
 ## Vecka 18   
 
+Vi fortsätter med projektet! Idag siktar på vi på att bli klara med våra webbsidor!   
 
 ## Vecka 19   
 
+###### Att testa en webbplats    
+
+
+Idag avslutar vi projektet med att testa och dokumentera!   
 
 ## Vecka 20   
 
+Prov på Planeringsverktyg, Publicering, Designsystem och Testning.   
 
 ## Vecka 21   
 
+###### Vektorgrafik   
 
 ## Vecka 22   
 
+Inlämning i vektorgrafik    
 
 ## Vecka 23   
 
