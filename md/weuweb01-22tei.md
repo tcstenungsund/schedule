@@ -386,28 +386,40 @@ Vårprojektet
 
 ## Vecka 18   
 
+###### Publicering av webbplats   
+
+Protokollet [FTP](https://en.wikipedia.org/wiki/File_Transfer_Protocol) har nästan helt ersatts av verktyget [Git](https://sv.wikipedia.org/wiki/Git_(datorprogram)) för publicering av filer på webben. Du laddar upp dina filer till platser som ([GitHub](https://github.com/) eller [webbhotell](https://www.loopia.se/webbhotell/)). För att hitta dem registrerar du en [domänadress](https://www.loopia.se/domannamn/) och konfigurerar [DNS](https://sv.wikipedia.org/wiki/Dom%C3%A4nnamnssystemet). Vi talar även om dynamiska DNS-tjänster som [DuckDNS](https://www.duckdns.org/).   
+
+* [How do you upload your files to a web server?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Tools_and_setup/Upload_files_to_a_web_server)
+* [How do I use GitHub Pages?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Tools_and_setup/Using_GitHub_pages)
+* [GitHub Pages - Websites for you and your projects.](https://pages.github.com/)
+* [Host Website on Github for Free| Github Pages Tutorial 2024 (Simple Guide)](https://youtu.be/DUwbWiy7-3c)    
+
 Vårprojektet   
 
 ## Vecka 19   
 
-Vårprojektet   
+**Ledigt**   
 
 ## Vecka 20   
 
+###### Testning   
+
+Vårprojektet   
 
 ## Vecka 21   
 
+Presentation av Vårprojektet
 
 ## Vecka 22   
 
+Prov?   
 
 ## Vecka 23   
 
+Sista lektionen...    
 
 ## Vecka 24   
-
-
-## Vecka 25   
 **SOMMARLOV**   
 
 ---     
