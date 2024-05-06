@@ -367,25 +367,34 @@ _A11y testing_
 * [W3C - Evaluating Web Accessibility](https://www.w3.org/WAI/test-evaluate/)   
 * [The a11y project](https://www.a11yproject.com/)   
 
-Idag avslutar vi projektet med att testa och dokumentera!   
+I projektet skall ni lämna in en PDF med underrburikerna Användbarhetstest, Hastighetstest och Tillgänglighetstest. Under varje underrubrik fyller ni i resultatet och en reflektion över minst ett sådant test.    
+
+Vi fortsätter med projektet!   
 
 ## Vecka 20   
+
+Vi fortsätter med projektet!
 
 Prov på Planeringsverktyg, Publicering, Designsystem och Testning.   
 
 ## Vecka 21   
 
-###### Vektorgrafik   
+Vi avslutar projektet!
 
 ## Vecka 22   
 
-Inlämning i vektorgrafik    
+###### Vektorgrafik   
+...
 
 ## Vecka 23   
 
+Inlämning i vektorgrafik    
 
 ## Vecka 24   
 
+Kursutvärdering   
+
+Avrundning, en tillbakablick och en blick på framtiden, samtalsterapi
 
 ## Vecka 25   
 **SOMMARLOV**   
