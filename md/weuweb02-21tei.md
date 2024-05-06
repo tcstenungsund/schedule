@@ -299,22 +299,28 @@ Stora projektet
 
 ## Vecka 20   
 
-Presentation av Stora projektet    
+Svenskaprov för somliga...   
+
+Stora projektet     
 
 ## Vecka 21   
 
+Presentation av Stora projektet    
 
 ## Vecka 22   
 
+Kursutvärdering    
+
+Avrundning, en tillbakablick och en blick på framtiden, samtalsterapi!    
 
 ## Vecka 23   
 
+Resurslektion   
 
 ## Vecka 24   
 
-
-## Vecka 25   
 **SOMMARLOV**   
+
 ---     
 [![Creative Commons-licens](https://i.creativecommons.org/l/by-sa/4.0/80x15.png)](http://creativecommons.org/licenses/by-sa/4.0/) Detta dokument är licensierat under en [Creative Commons Erkännande-DelaLika 4.0 Internationell Licens](http://creativecommons.org/licenses/by-sa/4.0/).    
 Bilder och fotografier tillhör respektive upphovsman, och befinner sig inte nödvändigtsvis under en Creative Commons-licens.    
