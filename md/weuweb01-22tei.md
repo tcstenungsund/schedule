@@ -335,7 +335,7 @@ Pattern library
 
 Vårprojektet   
 
-Uppgift: [Vårprojektet](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb01-varprojektet)    
+[Uppgift: Vårprojektet](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb01-varprojektet)    
 
 **Veckans läxa:** Lyssna på avsnittet ”[002 Selectors](http://thecsspodcast.googledevelopers.libsynpro.com/002-selectors)” (15 min) av podcasten “The CSS Podcast”. (Finns också på [Spotify](https://open.spotify.com/episode/4hv6ogNtJZtvxKcQ67Ctpn).)    
 
@@ -403,7 +403,6 @@ Vårprojektet
 
 ## Vecka 20   
 
-
 ###### Tester     
 
 Det första du skall testa är såklart om din webbplats följer W3Cs riktlinjer och validerar. Det finns många verktyg som gör detta, både webbtjänster och mjukvaror i webbläsare och IDE.   
@@ -432,11 +431,20 @@ Vårprojektet
 
 ## Vecka 21   
 
-Presentation av Vårprojektet
+Vårprojektet   
 
 ## Vecka 22   
 
-Prov?   
+Presentation av Vårprojektet   
+
+--
+
+Prov på:  
+* Planeringsverktyg 
+* Vektorgrafik & Logotypdesign 
+* Designsytem 
+* Publicering av webbplats 
+* Tester 
 
 ## Vecka 23   
 
