@@ -566,15 +566,13 @@ Idag redovisar ni uppgiften "Mobila operativsystem". Inlämningsmappen där ni l
 
 ## Vecka 21   
 
-#### Måndag       
-
-#### Tisdag       
-
-#### Torsdag       
+**APL**   
 
 ## Vecka 22   
 
 #### Måndag       
+
+[Uppgift: Moderna Gränssnitt](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb33-moderna_granssnitt)     
 
 #### Tisdag       
 
