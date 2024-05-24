@@ -26,7 +26,7 @@ Detta projekt kommer att löpa under hela våren, men är uppdelad i tre större
 
 Loggbok     
 
-Logga in på GitHub, skapa ett nytt publikt "repocitory" med namnet "varprojektet", kryssa i "Create README.md". Fyll dokumentet med en huvudrubrik med temat "Vårprojektet", och sedan en underrubrik med namnen "Vecka XX" och under den en beskrivning av vad du ägnat lektionen åt.    
+Logga in på GitHub, skapa ett nytt publikt "repocitory" med namnet "varprojektet", kryssa i "Create README.md". Fyll dokumentet med en huvudrubrik med temat "Vårprojektet", och sedan en underrubrik med namnen "Vecka XX" och under den en beskrivning av vad du ägnat lektionen åt. Notera också vilka du samarbetar med i projektet.     
 
 ### Planering    
 
@@ -80,7 +80,7 @@ Genomför alla tester nedan, fundera över varför resultaten ser ut som de gör
 
 ## Förväntat resultat     
 
-En färdig sida som passerar W3C's validering. Genomtänkt namngivna dokument, kataloger och en bra struktur. Allt innehåll skall vara på plats. Designen skall fungera i alla webbläsare samt mobila enheter.     
+En färdig sida byggd med Bootstrap och andra resurser som passerar W3C's validering. Genomtänkt namngivna dokument, kataloger och en bra struktur. Allt innehåll skall vara på plats. Designen skall fungera i alla webbläsare samt mobila enheter.     
 
 Ni kommer även få presentera sidan för era klassamrater, samt skriva en personlig utvärdering av hur projektet gått.    
 
