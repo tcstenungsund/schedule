@@ -80,7 +80,7 @@ Genomför alla tester nedan, fundera över varför resultaten ser ut som de gör
 
 ## Förväntat resultat     
 
-En färdig sida som passerar W3C's Unicorn-validering. Genomtänkt namngivna dokument, kataloger och en bra struktur. Allt innehåll skall vara på plats. Designen skall fungera i alla webbläsare samt mobila enheter.     
+En färdig sida som passerar W3C's validering. Genomtänkt namngivna dokument, kataloger och en bra struktur. Allt innehåll skall vara på plats. Designen skall fungera i alla webbläsare samt mobila enheter.     
 
 Ni kommer även få presentera sidan för era klassamrater, samt skriva en personlig utvärdering av hur projektet gått.    
 
@@ -94,7 +94,8 @@ Första inlämningen skall bestå av följande:
 Andra inlämningen skall bestå av följande:      
 * Ett 7Zip-arkiv av er kompletta sidas fulla katalogstruktur.     
 * En komplett dokumentation i PDF-format, inklusive designsystem och resultat av tester.    
-* En logotype i SVG-format.   
+* En logotype i SVG-format.
+* En länk till er publicerade webbplats på GitHub Pages    
 
 ### Var skall de lämnas in?    
 
