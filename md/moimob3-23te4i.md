@@ -572,30 +572,38 @@ Idag redovisar ni uppgiften "Mobila operativsystem". Inlämningsmappen där ni l
 
 #### Måndag       
 
+Djupdykning i typografi!    
+
+[Fonts - the secret code you can't unsee](https://youtu.be/WVfRxFwVHQ) (30 min), [8 Easy Ways to Improve Your Website Typography in Under 30 minutes](https://www.webdesignerdepot.com/2021/01/8-easy-ways-to-improve-your-website-typography-in-under-30-minutes/).   
+
 [Uppgift: Moderna Gränssnitt](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb33-moderna_granssnitt)     
 
 #### Tisdag       
 
+
+
 #### Torsdag       
+
+*Veckans sociala medier:* [Alternative to](https://alternativeto.net/), [jobba på CERT-SE!](https://mastodon.radio/@SM0RVV/112200527350008577), [Six levels of dark mode](https://cssence.com/2024/six-levels-of-dark-mode/),[You own your data, in spite of the cloud](https://www.inkandswitch.com/local-first/) och [Local-first Software](https://localfirstweb.dev/)!       
 
 ## Vecka 23   
 
 #### Måndag       
 
-#### Tisdag       
+Presentation av projekt Moderna Gränssnitt!    
 
-#### Torsdag       
+
+
+#### Fredag       
+
+11:00 i Bohuslän på bottenplan   
+
+Festlig avslutning!    
 
 ## Vecka 24   
 
-#### Måndag       
-
-#### Tisdag       
-
-#### Torsdag       
-
-## Vecka 25   
 **SOMMARLOV**   
+(För resten av livet, typ, eh, ja...)    
 ---     
 [![Creative Commons-licens](https://i.creativecommons.org/l/by-sa/4.0/80x15.png)](http://creativecommons.org/licenses/by-sa/4.0/) Detta dokument är licensierat under en [Creative Commons Erkännande-DelaLika 4.0 Internationell Licens](http://creativecommons.org/licenses/by-sa/4.0/).    
 Bilder och fotografier tillhör respektive upphovsman, och befinner sig inte nödvändigtsvis under en Creative Commons-licens.    
