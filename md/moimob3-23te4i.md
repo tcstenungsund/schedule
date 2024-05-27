@@ -592,7 +592,9 @@ Djupdykning i typografi!
 
 Presentation av projekt Moderna Gränssnitt!    
 
+En avslutande föreläsning om saker att ta med sig ut i livet!   
 
+[What You Need to Know about Modern CSS (Spring 2024 Edition)](https://frontendmasters.com/blog/what-you-need-to-know-about-modern-css-spring-2024-edition/), [vetenskapen backar arch- och gentoo-användare!](https://mastodon.social/@nixCraft/112335725228246302), [How to Write A 4000 Stars GitHub README for Your Project](https://www.daytona.io/dotfiles/how-to-write-4000-stars-github-readme-for-your-project), [40 APIs Every Developer Should Use](https://youtu.be/YHxj3LvZoLQ) (12 min).      
 
 #### Fredag       
 
