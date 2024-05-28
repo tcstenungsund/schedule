@@ -307,13 +307,15 @@ Deadline för dokumentationen
 
 ## Vecka 21   
 
+Stora projektet     
+
+## Vecka 22   
+
 Presentation av Stora projektet    
 
 Om ni skall få ihop en bra presentation behöver hela gruppen hjälpa till. Tänk positivt. Gör en presentation av allt bra ni gjort, fokusera inte på vad ni inte hann med. Var ärlig och analytisk när det gäller problem, men poängtera hur ni skulle gjort annorlunda för att ha fått ett ännu bättre resultat. Visa upp dokumentation, visa upp kod, visa upp utkast och idéer (även sådant ni förkastat). Berätta om saker ni försökt er på men sedan övergivit för bättre lösningar. Förbered er på frågor.   
 
 Peer-review/Kompisbedömning av Stora projekten.   
-
-## Vecka 22   
 
 Kursutvärdering    
 
