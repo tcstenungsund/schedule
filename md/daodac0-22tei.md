@@ -334,22 +334,33 @@ Redovisning av gymnasiearbeten - Hogia
 
 
 ## Vecka 18   
+Registrerar oss på kursen Networking Basics på skillsforall.com.
 
 
 ## Vecka 19   
-
+Genomgång av Networking Basics, communication, components.
 
 ## Vecka 20   
+Genomgång av Networking Basics, media, OSI, TCP/IP.
 
+## Vecka 21 
+Genomgång av Networking Basics, ipadresser, subnetting, ipv6.
 
-## Vecka 21   
 
 
 ## Vecka 22   
 
+Måndag:
+Lektion på Nösnäs. Genomgång av Network Basics, dhcp, arp ocg routing.
+
+C och R i Stockholm för UF SM tisdag-torsdag.
+
 
 ## Vecka 23   
+Måndag:
+Genomgång av Networking Basics, 
 
+Onsdag och torsdag är student och nationaldag.
 
 ## Vecka 24   
 
