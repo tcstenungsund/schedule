@@ -454,6 +454,8 @@ Kursutvärdering
 
 Genomgång av provet från förra veckan  
 
+En review av var vi är och vart vi är på väg!   
+
 CSS-tävling!  
 
 ## Vecka 24   
