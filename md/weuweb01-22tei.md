@@ -454,9 +454,9 @@ Kursutvärdering
 
 Genomgång av provet från förra veckan  
 
-En review av var vi är och vart vi är på väg!   
+[En review av var vi är och vart vi är på väg](https://roadmap.sh/frontend)!   
 
-CSS-tävling!  
+[CSSBattle](https://cssbattle.dev/)!  
 
 ## Vecka 24   
 **SOMMARLOV**   
