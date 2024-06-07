@@ -448,7 +448,13 @@ Prov på:
 
 ## Vecka 23   
 
-Sista lektionen...    
+Projektutvärdering och kompisbedömning!  
+
+Kursutvärdering  
+
+Genomgång av provet från förra veckan  
+
+CSS-tävling!  
 
 ## Vecka 24   
 **SOMMARLOV**   
