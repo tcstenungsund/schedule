@@ -363,6 +363,11 @@ Genomgång av Networking Basics,
 Onsdag och torsdag är student och nationaldag.
 
 ## Vecka 24   
+Måndag:
+Slutprov - Networking Basics.
+
+Onsdag:
+Utvärdering.
 
 
 ## Vecka 25   
