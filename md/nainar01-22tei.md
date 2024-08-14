@@ -1,4 +1,4 @@
-# Fotografisk bild 1 - INDval    
+# KURSNAMN - ELEVGRUPP    
 
 ## Vecka 34   
 
@@ -131,6 +131,7 @@
 
 ## Vecka 25   
 **SOMMARLOV**   
+
 ---     
 [![Creative Commons-licens](https://i.creativecommons.org/l/by-sa/4.0/80x15.png)](http://creativecommons.org/licenses/by-sa/4.0/) Detta dokument är licensierat under en [Creative Commons Erkännande-DelaLika 4.0 Internationell Licens](http://creativecommons.org/licenses/by-sa/4.0/).    
 Bilder och fotografier tillhör respektive upphovsman, och befinner sig inte nödvändigtsvis under en Creative Commons-licens.    
