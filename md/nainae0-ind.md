@@ -1,4 +1,4 @@
-# KURSNAMN - ELEVGRUPP    
+# Nätverkssäkerhet - INDval    
 
 ## Vecka 34   
 
