@@ -1,4 +1,4 @@
-# KURSNAMN - ELEVGRUPP    
+# Artificiell Intelligens - INDval   
 
 ## Vecka 34   
 
