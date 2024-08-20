@@ -1,4 +1,4 @@
-# KURSNAMN - ELEVGRUPP    
+# Mobila applikationer, Webbutveckling 3 och Gränssnittsdesign   
 
 ## Vecka 34   
 
