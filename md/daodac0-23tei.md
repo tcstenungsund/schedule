@@ -1,4 +1,4 @@
-# KURSNAMN - ELEVGRUPP    
+# Datorkunskap 1 - 23TEI    
 
 ## Vecka 34   
 
