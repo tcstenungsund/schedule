@@ -14,7 +14,9 @@ Sintel är skapad med Free och Open Source Software. Detta koncept skapades på 
 
 ## Vecka 36   
 
+Alla IT-lärare på utbildning   
 
+**LÄXA till vecka 37**: Se dokumentären "[The web, past and future](https://youtu.be/cCE2EyV_IiY)" (35 min). Ta anteckningar, då vi kommer diskutera den vidare.     
 ## Vecka 37   
 
 
