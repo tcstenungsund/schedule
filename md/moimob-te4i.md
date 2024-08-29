@@ -5,6 +5,26 @@
 
 ## Vecka 35   
 
+### Måndag: 
+Kurstart för alla TE4-inriktningar.
+
+
+### Tisdag: 
+Hämtar ut datorer.
+Kurstart med kursinformation om Mobila Applikationer, Gränssnittsdesign och Webbutveckling 3.
+
+*Uppgift*: 
+* HTML
+* CSS
+
+Instruktioner finns i vårat Teams-rum.
+
+### Torsdag: 
+Introduktion i JavaScript. Ser på två klipp från Fireship. [The Weird History of JavaScript](https://www.youtube.com/watch?v=Sh6lK57Cuk4&t=463s) [JavaScript for the haters](https://www.youtube.com/watch?v=aXOChLn5ZdQ).
+
+Introduktion till JavaScript Essentials 1 på Netacad.
+
+*Uppgift*: Gör modul 1 och modul 2 quizarna denna veckan.
 
 ## Vecka 36   
 
