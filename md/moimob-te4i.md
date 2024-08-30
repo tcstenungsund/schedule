@@ -1,17 +1,21 @@
 # Mobila applikationer, Webbutveckling 3 och Gränssnittsdesign   
 
-## Vecka 34   
-
-
 ## Vecka 35   
 
-### Måndag: 
-Kurstart för alla TE4-inriktningar.
+### Måndag   
+Kurstart för alla TE4-inriktningar.   
 
 
-### Tisdag: 
-Hämtar ut datorer.
-Kurstart med kursinformation om Mobila Applikationer, Gränssnittsdesign och Webbutveckling 3.
+### Tisdag   
+
+###### Mjukvaruhistorik      
+
+Vi lyssnar till låtarna "[Eternal Flame](https://www.gnu.org/fun/jokes/eternal-flame.html)" och "[Write in Go](https://youtu.be/LJvEIjRBSDA)", för att få chansen att tala lite om olika programmeringsspråk. Vad är skillnaden mellan kompilerade språk och scriptspråk? Vilka språk körs på server och vilka på klient? Vi ser också videon "[Most Popular Programming Languages | 1965-2020](https://youtu.be/sNURYeD4M5Y)".   
+
+----   
+
+Hämtar ut datorer.   
+Kurstart med kursinformation om Mobila Applikationer, Gränssnittsdesign och Webbutveckling 3.   
 
 *Uppgift*: 
 * HTML
@@ -19,12 +23,16 @@ Kurstart med kursinformation om Mobila Applikationer, Gränssnittsdesign och Web
 
 Instruktioner finns i vårat Teams-rum.
 
-### Torsdag: 
+### Torsdag  
 Introduktion i JavaScript. Ser på två klipp från Fireship. [The Weird History of JavaScript](https://www.youtube.com/watch?v=Sh6lK57Cuk4&t=463s) [JavaScript for the haters](https://www.youtube.com/watch?v=aXOChLn5ZdQ).
 
 Introduktion till JavaScript Essentials 1 på Netacad.
 
 *Uppgift*: Gör modul 1 och modul 2 quizarna denna veckan.
+
+### Fredag   
+
+*Sociala medier-genomgång*: På Reddit [skolas vi i SEO](https://old.reddit.com/r/webdev/comments/1enbwra/what_do_seo_plugins_and_companies_actually_do/lh5fd15/), Laura Kalbag lär oss [Penpot Prototyping](https://www.youtube.com/live/Dz1RL3tPAyI) och Jason Santa Maria bjuder på sin bok "[On Web Typography](https://jasonsantamaria.com/#on-web-typography)".    
 
 ## Vecka 36   
 
