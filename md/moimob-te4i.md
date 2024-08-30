@@ -24,7 +24,10 @@ Kurstart med kursinformation om Mobila Applikationer, Gränssnittsdesign och Web
 Instruktioner finns i vårt Teams-rum.
 
 ### Torsdag  
-Introduktion i JavaScript. Ser på två klipp från Fireship. [The Weird History of JavaScript](https://www.youtube.com/watch?v=Sh6lK57Cuk4&t=463s) [JavaScript for the haters](https://www.youtube.com/watch?v=aXOChLn5ZdQ).
+
+Introduktion i JavaScript. Ser på två klipp från Fireship.    
+* [The Weird History of JavaScript](https://www.youtube.com/watch?v=Sh6lK57Cuk4&t=463s)     
+* [JavaScript for the haters](https://www.youtube.com/watch?v=aXOChLn5ZdQ).    
 
 Introduktion till JavaScript Essentials 1 på Netacad.
 
