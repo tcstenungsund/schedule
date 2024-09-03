@@ -45,6 +45,9 @@ Vi börjar med att besvara frågan "[What is design?](https://draganbabic.com/bl
 
 ### Tisdag   
 
+###### Historik i JavaScript     
+Var kommer JavaScript ifrån? Detta besvarar vi med klippet "[The TRUE History Of The Javascript Programming Language](https://youtu.be/_UjYWgM8guY)" (5min) och artikeln "[The history of JavaScript](https://www.techaheadcorp.com/blog/history-of-javascript/)".      
+
 ### Torsdag
 
 ### Fredag   
