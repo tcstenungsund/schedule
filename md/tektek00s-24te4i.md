@@ -9,12 +9,15 @@ Introduktion.
  
 Vi uppdaterar våra LinkedIn konton.
  
+The Ultimate LinkedIn Cheat Sheet 
 https://www.leisurejobs.com/staticpages/18285/the-ultimate-linkedin-cheat-sheet/
+
+Tips:
 https://www.youtube.com/watch?v=zwsOzdqmvqo
  
  
 The Ultimate LinkedIn Cheat Sheet
-Did you know that a person with a fully optimised Linkedin profile is 40 times more likely to receive job opportunities via Linkedin?! It's probably a good idea to get a sneaky head start over the ...
+
  
 
 
