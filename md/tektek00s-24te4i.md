@@ -3,10 +3,27 @@
 ## Vecka 34   
 
 
-## Vecka 35   
+## Vecka 35  
+Kursstart!
+Introduktion.
+ 
+Vi uppdaterar våra LinkedIn konton.
+ 
+https://www.leisurejobs.com/staticpages/18285/the-ultimate-linkedin-cheat-sheet/
+https://www.youtube.com/watch?v=zwsOzdqmvqo
+ 
+ 
+The Ultimate LinkedIn Cheat Sheet
+Did you know that a person with a fully optimised Linkedin profile is 40 times more likely to receive job opportunities via Linkedin?! It's probably a good idea to get a sneaky head start over the ...
+ 
 
 
 ## Vecka 36   
+Gör färdigt din Linkedin profil.
+
+CV och personligt brev. Inför APL ansökan behöver vi ha ett uppdaterat CV och personligt brev.
+
+Tips och mallar finner du här - [Arbetsförmedlingen](https://arbetsformedlingen.se/for-arbetssokande/cv-ansokan-och-intervju)
 
 
 ## Vecka 37   
@@ -134,4 +151,4 @@
 
 ---     
 [![Creative Commons-licens](https://i.creativecommons.org/l/by-sa/4.0/80x15.png)](http://creativecommons.org/licenses/by-sa/4.0/) Detta dokument är licensierat under en [Creative Commons Erkännande-DelaLika 4.0 Internationell Licens](http://creativecommons.org/licenses/by-sa/4.0/).    
-Bilder och fotografier tillhör respektive upphovsman, och befinner sig inte nödvändigtsvis under en Creative Commons-licens.    
+Bilder och fotografier tillhör respektive upphovsman, och befinner sig inte nödvändigtsvis under en Creative Commons-licens.
