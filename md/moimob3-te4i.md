@@ -52,6 +52,14 @@ Var kommer JavaScript ifrån? Detta besvarar vi med klippet "[The TRUE History O
 
 ### Fredag   
 
+###### Mer JavaScript   
+
+Hur applicerar och använder man JavaScript? Vi tittar i "[MDN Web docs' Introduction](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction#javascript_and_the_ecmascript_specification)" och ser klippet "[Learn JAVASCRIPT in just 5 MINUTES](https://youtu.be/c-I5S_zTwAc)" (5min). Alla lär sig olika, och en resurs att ha som referens är "[Eloquent JavaScript](https://eloquentjavascript.net/)", en fri bok. Norrmannen Per Harald Borgen på Scrimba ger oss en interaktiv föreläsning i kursen "[Learn JavaScript for free](https://scrimba.com/learn/learnjavascript)".     
+
+Av Brad Traversy får vi en föreläsning fylld av god praxis, under namnet "[JavaScript Crash Course for Beginners](https://youtu.be/hdI2bqOjy3c)" (1h40min).        
+
+Gör undersökningen: "[State of CSS 2024](https://survey.devographics.com/en-US/survey/state-of-css/2024)"
+
 ## Vecka 37   
 
 ### Måndag   
