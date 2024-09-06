@@ -58,7 +58,9 @@ Hur applicerar och använder man JavaScript? Vi tittar i "[MDN Web docs' Introdu
 
 Av Brad Traversy får vi en föreläsning fylld av god praxis, under namnet "[JavaScript Crash Course for Beginners](https://youtu.be/hdI2bqOjy3c)" (1h40min).        
 
-Gör undersökningen: "[State of CSS 2024](https://survey.devographics.com/en-US/survey/state-of-css/2024)"
+Gör undersökningen: "[State of CSS 2024](https://survey.devographics.com/en-US/survey/state-of-css/2024)"   
+
+*Sociala medier-genomgång*: Vi testar vårt färgseende med "[Is my blue your blue?](https://ismy.blue/)", tar en tripp längs memory lane med "[Web Design Museum](https://www.webdesignmuseum.org/)" och lär oss "[CSS One-Liners to Improve (Almost) Every Project](https://alvaromontoro.com/blog/68055/ten-css-one-liners-for-almost-every-project)".   
 
 ## Vecka 37   
 
