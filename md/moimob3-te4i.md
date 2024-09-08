@@ -54,7 +54,7 @@ Var kommer JavaScript ifrån? Detta besvarar vi med klippet "[The TRUE History O
 
 ###### Mer JavaScript   
 
-Hur applicerar och använder man JavaScript? Vi tittar i "[MDN Web docs' Introduction](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction#javascript_and_the_ecmascript_specification)" och ser klippet "[Learn JAVASCRIPT in just 5 MINUTES](https://youtu.be/c-I5S_zTwAc)" (5min). Alla lär sig olika, och en resurs att ha som referens är "[Eloquent JavaScript](https://eloquentjavascript.net/)", en fri bok. Norrmannen Per Harald Borgen på Scrimba ger oss en interaktiv föreläsning i kursen "[Learn JavaScript for free](https://scrimba.com/learn/learnjavascript)".     
+Hur applicerar och använder man JavaScript? Vi tittar i "[MDN Web docs' Introduction](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction#javascript_and_the_ecmascript_specification)" och ser klippet "[Learn JAVASCRIPT in just 5 MINUTES](https://youtu.be/c-I5S_zTwAc)" (5min). Alla lär sig olika, och en resurs att ha som referens är "[Eloquent JavaScript](https://eloquentjavascript.net/)", en fri bok. Norrmannen Per Harald Borgen på Scrimba ger oss en interaktiv föreläsning i kursen "[Learn JavaScript for free](https://scrimba.com/learn/learnjavascript)" och på Exercism hittar vi en [interaktiv kurs i JavaScript](https://exercism.org/tracks/javascript), likväl som många andra språk.     
 
 Av Brad Traversy får vi en föreläsning fylld av god praxis, under namnet "[JavaScript Crash Course for Beginners](https://youtu.be/hdI2bqOjy3c)" (1h40min).        
 
