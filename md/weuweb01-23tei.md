@@ -19,6 +19,13 @@ Alla IT-lärare på utbildning
 **LÄXA till vecka 37**: Se dokumentären "[The web, past and future](https://youtu.be/cCE2EyV_IiY)" (35 min). Ta anteckningar, då vi kommer diskutera den vidare.     
 ## Vecka 37   
 
+Både Hacker-mentaliteten och rörelsen för fri mjukvara är det som skapat webben så som vi känner den idag. Det ligger i grunden för alla tekniker vi tar för givet.    
+
+Vikten av Fri mjukvara blir tydligt i exemplet med Karen Sandler som vi hör i talet hon höll på "[OSCON 2011: Karen Sandler](https://youtu.be/nFZGpES-St8)" (15 min) eller kan läsa om i artikeln "[Why cyborgs need free software](https://superuser.openstack.org/articles/medical-devices-free-software/)".      
+
+Men vad är webben egentligen? Vi diskuterar dokumentären "The web, past and future". Relationen mellan Internet och the World Wide Web. Vad var syftet med WWW och hur hänger det syftet ihop med idealen som Free och Open Source Software och Hacker-kulturen har? Vem var Tim Berners-Lee och vad är [W3C](https://en.wikipedia.org/wiki/World_Wide_Web_Consortium). Utifrån det talar vi om [http](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol), [HTML](https://simple.wikipedia.org/wiki/HTML) och [CSS](https://en.wikipedia.org/wiki/CSS).        
+
+<!-- Kör vi mer? -->
 
 ## Vecka 38   
 
