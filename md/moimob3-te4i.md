@@ -66,7 +66,7 @@ Gör undersökningen: "[State of CSS 2024](https://survey.devographics.com/en-US
 
 ### Måndag   
 
-##### Ethical Hacking      
+###### Ethical Hacking      
 Idag talar vi om ethical hacking, med [Kevin Mitnick](https://en.wikipedia.org/wiki/Kevin_Mitnick) som exempel. Vi ser en [interview with renowned hacker Kevin Mitnick](https://youtu.be/LaypU4qAuYw) (9 min) (vill ni se mer kan jag rekommendera dokumentären "[A Hacker's Story](https://youtu.be/Qe73tRTksf0)" (27 min)) och påminner oss dokumentet [How To Become A Hacker](http://vadeker.net/articles/hacker-howto.html). Ett sätt att hålla koll på folk är genom deras digitala fingeravtryck, hur ditt ser ut ser du på [Am I Unique](https://www.amiunique.org/). Klassisk comic "[Exploits of a Mom](https://xkcd.com/327/)".       
 
 Önskar du gå vidare är ett bra första steg Ciscos kurs [Ethical Hacker](https://www.netacad.com/courses/ethical-hacker), följt av enorma mängder resurser på nätet.   
