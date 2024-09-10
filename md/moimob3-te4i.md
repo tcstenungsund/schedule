@@ -75,6 +75,9 @@ Idag talar vi om ethical hacking, med [Kevin Mitnick](https://en.wikipedia.org/w
 
 ### Torsdag
 
+* [“Hello World” In 30 Different Languages](https://www.geeksforgeeks.org/hello-world-in-30-different-languages/)
+* [Hello World in 50 Programming Languages (in 1 min)](https://youtu.be/dFvgUjXKsLU) (1 min)   
+
 ### Fredag   
 
 ## Vecka 38   
