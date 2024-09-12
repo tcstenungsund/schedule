@@ -24,21 +24,21 @@ Prov: Repetition HTML & CSS
 
 ###### Installera Linux!   
 
-1) När du får USB-minnet med filen [kubuntu-2024.05.01-x85_64.iso](https://kubuntu.org/getkubuntu/) på, kopiera över den till din dator och lämna USB-minnet vidare så snabbt som möjligt.   
+1) Skaffa filen [kubuntu-2024.05.01-x85_64.iso](https://kubuntu.org/getkubuntu/)   
 
 2) Se till att du har backup i OneDrive på all viktig data.   
 
-3) Öppna "Disk Management" i Windows och krymp din primära diskpartition till hälften.   
+3) Krymp din primära diskpartition till hälften, antingen genom "[Disk Management](https://youtu.be/qq-7X8zLP7g?t=262)" i Windows eller [gParted](https://gparted.org/livecd.php).   
  
-4) Ta en ny USB-sticka. Använd Rufus för att göra den bootbar till innehållet på ISO-filen i steg 1.   
+4) Skapa nu en bootbar USB-sticka med Kubuntu på. Använd till exempel [Rufus](https://rufus.ie/en/).
 
 5) Starta om datorn och öppna BIOS [F10].    
 [Deaktivera BitLocker](https://www.howtogeek.com/805225/disable-bitlocker/).   
-Stäng af Secure Boot (och FastBoot). Starta om med din bootbara USB-sticka i och tryck [F9] för att välja att boota från USB-stickan.  
+Stäng av Secure Boot (och FastBoot). Starta om med din bootbara USB-sticka i och tryck [F9] för att välja att boota från den.  
 
 6) Installera Kubuntu. Välj engelska som språk, men sverige som plats och svenskt tangentbord.  
 
-7) Starta om datorn och välj Kubuntu i GRUB. Njut av ditt nya OS!  
+7) Starta om datorn och välj Kubuntu i GRUB. Njut av ditt nya OS!  n
 
 ## Vecka 38   
 
