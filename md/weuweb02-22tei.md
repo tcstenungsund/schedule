@@ -22,6 +22,21 @@ Prov: Repetition HTML & CSS
 
 ## Vecka 37   
 
+###### Installera Linux!   
+
+1) När du får USB-minnet med filen kubuntu-2024.05.01-x85_64.iso på, kopiera över den till din dator och lämna USB-minnet vidare så snabbt som möjligt.  
+
+2) Se till att du har backup i OneDrive på all viktig data.   
+
+3) Öppna "Disk Management" i Windows och krymp din primära diskpartition till hälften.  
+
+4) Ta en ny USB-sticka. Använd Rufus för att göra den bootbar till innehållet på ISO-filen i steg 1.  
+
+5) Starta om datorn och öppna BIOS. Ofta [DEL], [F2] eller någon liknande knapp. Stäng af SafeBoot, FastBoot. Ange att du vill boota från USB. Starta om med din bootbara USB-sticka i.  
+
+6) Installera Kubuntu. Välj engelska som språk, men sverige som plats och svenskt tangentbord.  
+
+7) Starta om datorn och välj Kubuntu i GRUB. Njut av ditt nya OS!  
 
 ## Vecka 38   
 
