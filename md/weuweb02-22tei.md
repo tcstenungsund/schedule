@@ -24,7 +24,7 @@ Prov: Repetition HTML & CSS
 
 ###### Installera Linux!   
 
-1) När du får USB-minnet med filen kubuntu-2024.05.01-x85_64.iso på, kopiera över den till din dator och lämna USB-minnet vidare så snabbt som möjligt.   
+1) När du får USB-minnet med filen [kubuntu-2024.05.01-x85_64.iso](https://kubuntu.org/getkubuntu/) på, kopiera över den till din dator och lämna USB-minnet vidare så snabbt som möjligt.   
 
 2) Se till att du har backup i OneDrive på all viktig data.   
 
@@ -33,7 +33,7 @@ Prov: Repetition HTML & CSS
 4) Ta en ny USB-sticka. Använd Rufus för att göra den bootbar till innehållet på ISO-filen i steg 1.   
 
 5) Starta om datorn och öppna BIOS [F10].    
-Deaktivera BitLocker.   
+[Deaktivera BitLocker](https://www.howtogeek.com/805225/disable-bitlocker/).   
 Stäng af Secure Boot (och FastBoot). Starta om med din bootbara USB-sticka i och tryck [F9] för att välja att boota från USB-stickan.  
 
 6) Installera Kubuntu. Välj engelska som språk, men sverige som plats och svenskt tangentbord.  
