@@ -80,6 +80,8 @@ Idag talar vi om ethical hacking, med [Kevin Mitnick](https://en.wikipedia.org/w
 
 ### Fredag   
 
+*Sociala medier-genomgång*: Om du vill fördjupa förståelsen för hur vektorgrafik fungerar, vänd dig till [svg.wtf](https://svg.wtf/)! Chris Ferdinandi påminner oss om att "[The goal isn't to write less code](https://gomakethings.com/the-goal-isnt-to-write-less-code/)". Avslutningsvis talar vi om [hur en URL fungerar](https://howurls.work/).   
+
 ## Vecka 38   
 
 ### Måndag   
