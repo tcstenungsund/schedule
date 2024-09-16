@@ -42,8 +42,29 @@ För att genomföra uppgiften nedan måste du veta hur du [tar ett screenshot](h
 
 ## Vecka 38   
 
+Dags att påbörja vår grundkurs i HTML & CSS. Först lägger vi några veckor på HTML, för att se hur man märker upp innehåll så en webbläsare förstår det. För att kunna genomföra kursen förväntas du: 
+
+* **Läsa kursmaterialet** och göra interaktiva övningar med målsättningen att kunna omsätta det i praktiken 
+* Lyssna på **föreläsningar** och eventuellt ta anteckningar
+* Göra **praktiska övningar** varje vecka och lämna in några av dem
+* Varje vecka gör du ett **test** på föregående veckas material
+* I slutet av varje större moment gör du ett **prov** på det
+
+###### HTML - Att märka upp text        
+
+Först repeterar vi hur en HTML-tagg är uppbygd, sedan djupdyker vi hur man märker upp text på alla möjliga sätt och vis!        
+
+* MDN [Getting started with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started) (Överkurs: Attributes (allt utom ingressen), Entity references)<br>(Anatomy of an HTML document spar vi till nästa vecka.)
+* MDN Active learning: [Adding some features to an HTML document](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#active_learning_adding_some_features_to_an_html_document)
+* MDN [HTML text fundamentals](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals)
+* MDN Test your skills: [HTML text basics](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Test_your_skills:_HTML_text_basics)
+* MDN [Advanced text formatting](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting) (Överkurs)
+* MDN [Creating hyperlinks](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks)
+* MDN Test your skills: [Links](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Test_your_skills:_Links)
 
 ## Vecka 39   
+
+Test: HTML - Att märka upp text   
 
 
 ## Vecka 40   
