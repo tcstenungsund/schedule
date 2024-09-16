@@ -86,7 +86,14 @@ Idag talar vi om ethical hacking, med [Kevin Mitnick](https://en.wikipedia.org/w
 
 ### Måndag   
 
+###### The Fediverse      
+Som en backlash mot den misslyckade centraliseringen hos olika sociala medier skapades the Fediverse. Ett socialt media som bygger på samma principer som internet självt, att det är bra att sprida ut de viktiga resurserna och koppla ihop dem på distans. Det går att använda AI för att försöka göra Twitter/X drägligt med [MindFirewall](https://www.mindfw.com/), men i många lägen är det vettigare att bara flytta över till the Fediverse. För att hålla lite koll på vad som händer på the Fediverse kan du vända dig till [FediDB](https://fedidb.org/) och [Mastodon Instances](https://instances.social/) kan hjälpa dig att hitta en Mastodonserver att skapa ett konto på. Om du skaffar ett konto där vill du utan tvekan installera en pluggin för din webbläsare vid namn [Graze for Mastodon](https://graze.jaredzimmerman.com/). Webbklienten ni sett mig använda heter [Panphy](https://phanpy.social/#/).  
+
+Slutprov på [JavaScript Essentials 1](https://www.netacad.com/courses/javascript-essentials-1)   
+
 ### Tisdag   
+
+Nytt projekt - steg 1!
 
 ### Torsdag
 
