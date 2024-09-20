@@ -116,6 +116,14 @@ Saker man kan göra med en taskrunner
 
 ### Fredag   
 
+Gör undersökningen: "[State of CSS 2024](https://survey.devographics.com/en-US/survey/state-of-css/2024)"   
+
+Fortsätt arbeta med Moderna Webbteknologier!  
+
+Presentation av Moderna Webbteknologier! (10:00)  
+
+*Sociala medier-genomgång*:  
+
 ## Vecka 39   
 
 ### Måndag   
