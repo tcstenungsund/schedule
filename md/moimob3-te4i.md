@@ -116,7 +116,7 @@ Saker man kan göra med en taskrunner
 
 ### Fredag   
 
-Gör undersökningen: "[State of CSS 2024](https://survey.devographics.com/en-US/survey/state-of-css/2024)"   
+Gör undersökningen: "[State of HTML 2024](https://stateofhtml.com/)"   
 
 Fortsätt arbeta med Moderna Webbteknologier!  
 
