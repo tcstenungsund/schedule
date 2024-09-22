@@ -63,6 +63,29 @@ Först repeterar vi hur en HTML-tagg är uppbygd, sedan djupdyker vi hur man mä
 
 ## Vecka 39   
 
+###### Att hitta sin fil     
+* MDN [Dealing with files](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files)         
+* MDN [What is a URL?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_URL)
+
+**Termer ni behöver kunna**       
+* [fil](https://sv.wikipedia.org/wiki/Fil_(data))
+* [katalog](https://sv.wikipedia.org/wiki/Katalog_(datorteknik))
+* [filsystemet](https://sv.wikipedia.org/wiki/Filsystem)       
+* [filträd](https://sv.wikipedia.org/wiki/Filtr%C3%A4d)
+* [folder metaphor](https://en.wikipedia.org/wiki/Directory_%28computing%29#Folder_metaphor)  
+
+Dessa saker som finns i din dator finns också på servrar och återspeglas i länkar på webben! Vi måste ha lite koll på "[how URLs work](https://gdevops.frama.io/web/tuto-http/_images/how_urls_work.jpeg)" och [howurls.work](https://howurls.work/)!  
+
+**Saker ni behöver kunna göra**       
+Ni måste veta hur man [skapar en textfil](https://www.wikihow.com/Make-a-New-File-in-Windows) hur man [skapar en katalog](https://www.minitool.com/news/how-do-i-create-a-directory.html#how-to-create-a-directory-in-windows-10-7400), [Komprimera och packa upp filer](https://support.microsoft.com/sv-se/windows/komprimera-och-packa-upp-filer-f6dde0a7-0fec-8294-e1d3-703ed85e7ebc), ta ett screenshot av hela sidan ([Firefox](https://support.mozilla.org/en-US/kb/take-screenshots-firefox?redirectslug=firefox-screenshots&redirectlocale=en-US), [Edge](https://www.howtogeek.com/719285/how-to-take-full-page-screenshots-in-microsoft-edge/)) och hur man visar dolda filändelser ([Windows 10](https://windowsreport.com/show-file-extensions-windows-10/), [Windows 11](https://windowsreport.com/show-file-extension-windows-11/)).      
+
+**Regler för namngivning**      
+* Undvik svenska tecken, åäö      
+* Undvik_mellanslag_     
+* Undvik STORA bokstäver       
+
+Vid all namngivning (filer, kataloger, etc) så gäller ovanstående grundregler. En av anledningarna till dessa är "[character encoding](https://developer.mozilla.org/en-US/docs/Glossary/character_encoding)". Idag förlitar vi oss på "[Unicode](https://youtu.be/2r6OZD5n-wc)" (3:01).  
+
 ###### HTML - Struktur        
 
 Denna gång tittar vi på struktur! Först strukturen för ett HTML-dokument, vilka delar finns det och vilka refler finns det för dem. Vad finns i [HEAD](https://htmlhead.dev/) och vad finns i BODY? Sedan ser vi hur man skapar en semantisk struktur med hjälp av taggar som MAIN, ARTICLE, SECTION och så vidare.     
@@ -73,6 +96,17 @@ Vi kommer nu att lära oss ett helt gäng HTML-taggar och attribut för att kunn
 * MDN [What's in the head? Metadata in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML)         
 * MDN [Document and website structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure) (Överkurs: Planning a simple website)          
 
+[<img alt="HTML5 Element Flowchart" src="http://html5doctor.com/downloads/h5d-sectioning-flowchart.png" width="60%">](http://html5doctor.com/downloads/h5d-sectioning-flowchart.png)           
+
+
+
+[Uppgift: Structuring a page of content](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/webweu01_structuring_a_page_of_content)     
+
+Quiz: HTML - Att märka upp text   
+
+## Vecka 40   
+
+<!--   
 ###### HTML - Bilder och media (+ felsökning)           
 
 När du skall lägga till en bild måste du avgöra om den är en del av innehållet eller utseendet, för att kunna bestämma om den skall ligga som en IMG-tag i HTML eller som en background-image i CSS. Nu tittar vi på hur man lägger till bilder som innehåll, men det är mycket att tänka på, både funktionsvariationer, bandbredd, format och [CLS](https://web.dev/articles/cls).    
@@ -82,26 +116,10 @@ När du skall lägga till en bild måste du avgöra om den är en del av innehå
 * MDN [Responsive images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images) (Överkurs)        
 * MDN [Video and audio content](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)      
 * MDN [Debugging HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Debugging_HTML)      
-
-[<img alt="HTML5 Element Flowchart" src="http://html5doctor.com/downloads/h5d-sectioning-flowchart.png" width="60%">](http://html5doctor.com/downloads/h5d-sectioning-flowchart.png)           
-
-[Uppgift: Structuring a page of content](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/webweu01_structuring_a_page_of_content)     
-
-Quiz: HTML - Att märka upp text   
-
-## Vecka 40   
-
-
-
+-->  
 
 ## Vecka 41   
 
-<!--  
-
-
-Vid all namngivning (filer, kataloger, etc) så gäller ovanstående grundregler. En av anledningarna till dessa är "[character encoding](https://developer.mozilla.org/en-US/docs/Glossary/character_encoding)". Idag förlitar vi oss på "[Unicode](https://youtu.be/2r6OZD5n-wc)" (3:01).
-
--->   
 
 ## Vecka 42   
 
