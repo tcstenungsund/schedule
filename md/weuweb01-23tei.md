@@ -63,14 +63,45 @@ Först repeterar vi hur en HTML-tagg är uppbygd, sedan djupdyker vi hur man mä
 
 ## Vecka 39   
 
-Test: HTML - Att märka upp text   
+###### HTML - Struktur        
 
+Denna gång tittar vi på struktur! Först strukturen för ett HTML-dokument, vilka delar finns det och vilka refler finns det för dem. Vad finns i [HEAD](https://htmlhead.dev/) och vad finns i BODY? Sedan ser vi hur man skapar en semantisk struktur med hjälp av taggar som MAIN, ARTICLE, SECTION och så vidare.     
+
+Vi kommer nu att lära oss ett helt gäng HTML-taggar och attribut för att kunna definiera upp innehåll på ett sätt som datorer kan förstå. Ta en titt på alla som finns i MDNs [HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) och [HTML attribute reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes).   
+
+* MDN [Anatomy of an HTML document](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#anatomy_of_an_html_document)
+* MDN [What's in the head? Metadata in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML)         
+* MDN [Document and website structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure) (Överkurs: Planning a simple website)          
+
+###### HTML - Bilder och media (+ felsökning)           
+
+När du skall lägga till en bild måste du avgöra om den är en del av innehållet eller utseendet, för att kunna bestämma om den skall ligga som en IMG-tag i HTML eller som en background-image i CSS. Nu tittar vi på hur man lägger till bilder som innehåll, men det är mycket att tänka på, både funktionsvariationer, bandbredd, format och [CLS](https://web.dev/articles/cls).    
+
+* MDN [Images in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)       
+* MDN [Active learning: embedding an image](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML#active_learning_embedding_an_image)        
+* MDN [Responsive images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images) (Överkurs)        
+* MDN [Video and audio content](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)      
+* MDN [Debugging HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Debugging_HTML)      
+
+[<img alt="HTML5 Element Flowchart" src="http://html5doctor.com/downloads/h5d-sectioning-flowchart.png" width="60%">](http://html5doctor.com/downloads/h5d-sectioning-flowchart.png)           
+
+[Uppgift: Structuring a page of content](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/webweu01_structuring_a_page_of_content)     
+
+Quiz: HTML - Att märka upp text   
 
 ## Vecka 40   
 
 
+
+
 ## Vecka 41   
 
+<!--  
+
+
+Vid all namngivning (filer, kataloger, etc) så gäller ovanstående grundregler. En av anledningarna till dessa är "[character encoding](https://developer.mozilla.org/en-US/docs/Glossary/character_encoding)". Idag förlitar vi oss på "[Unicode](https://youtu.be/2r6OZD5n-wc)" (3:01).
+
+-->   
 
 ## Vecka 42   
 
