@@ -30,7 +30,7 @@ En arkivfil innehållande samma filer som du laddade ned från MDN, plus ett scr
 
 ### Var skall de lämnas in?
 
-I en uppgift i Haldor.    
+I en uppgift i Teams.    
 
 ---     
 
