@@ -36,6 +36,17 @@ SLUTPROV - Digital Awareness kursen.
 
 
 ## Vecka 39   
+Måndag:
+SLUTPROV i Digital Awareness.
+Vi anmäler oss till nästa kurs IT Essentials.
+Överblick av det nya materialet, genomgång av kapitel 1 fram till CPU - 1.2.3. Arbeta med quiz och interaktiva uppgifter.
+Samtidigt som vi arbetar med materialet är det bra om ni också har koll på datorkomponenter från någon datoråterförsäljare.
+Finns några att välja på:
+inet.se
+webhallen.com
+dustin.se
+osv.
+
 
 
 
