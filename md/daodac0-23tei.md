@@ -47,6 +47,13 @@ webhallen.com
 dustin.se
 osv.
 
+Onsdag:
+Vi går igenom resten av 1.2 och pratar om grundläggande komponenter. 
+
+Ni introduceras till labbuppgiften "Tre datorpaket". Efter en genomgång och exempel på hur en inlämning kan se ut så börjar ni arbeta med uppgiften.
+Labbmanualen finns att ladda ner i inlämningsmappen i vårat Teams-rum. Ni fortsätter med uppgiften under ett par tillfällen. 
+Åter igen, glöm inte att skriva bra motiveringar till era val.
+
 
 
 
