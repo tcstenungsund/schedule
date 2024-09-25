@@ -42,8 +42,14 @@ Stäng av Secure Boot (och FastBoot). Starta om med din bootbara USB-sticka i oc
 
 ## Vecka 38   
 
+**Alla lärare på Enhet 4 är på konferens.**  
+
+Gör klart installationen av Linux på era datorer och bekanta er med operativsystemet.  
 
 ## Vecka 39   
+
+###### Workspace för en webbutvecklare   
+
 
 
 ## Vecka 40   
