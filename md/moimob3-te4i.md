@@ -139,6 +139,10 @@ Då är er utvecklingsmiljö helt färdig och i fullgång, samt ni har kunskaper
 
 ### Torsdag
 
+Vi startar det första projektet och går igenom vad som skall göras.
+
+[Uppgift: Moderna Webbteknologier](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb33-moderna_webbteknologier) 
+
 ### Fredag   
 
 ## Vecka 40   
