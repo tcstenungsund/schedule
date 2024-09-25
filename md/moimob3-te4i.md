@@ -132,6 +132,11 @@ Sätt upp en utvecklingsmiljö!
 
 ### Tisdag   
 
+Ni arbetar vidare med er utvecklingsmiljö. Ni som har fått ordning på utvecklingsmiljön arbetar vidare med MIT App Inventor.
+
+På torsdag introduceras ni till ert första projekt där ni bland annat använder MIT App Inventor.
+Då är er utvecklingsmiljö helt färdig och i fullgång, samt ni har kunskaper om att snabbt kunna påbörja MIT App Inventor-projektet.
+
 ### Torsdag
 
 ### Fredag   
