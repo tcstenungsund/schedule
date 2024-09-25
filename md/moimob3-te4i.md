@@ -141,7 +141,7 @@ Då är er utvecklingsmiljö helt färdig och i fullgång, samt ni har kunskaper
 
 Vi startar det första projektet och går igenom vad som skall göras.
 
-[Uppgift: Moderna Webbteknologier](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb33-moderna_webbteknologier) 
+[Uppgift: MIT App Inventor](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb33-mitappinventor) 
 
 ### Fredag   
 
