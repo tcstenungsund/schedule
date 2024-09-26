@@ -38,7 +38,7 @@ Stäng av Secure Boot (och FastBoot). Starta om med din bootbara USB-sticka i oc
 
 6) Installera Kubuntu. Välj engelska som språk, men sverige som plats och svenskt tangentbord.  
 
-7) Starta om datorn och välj Kubuntu i GRUB. Njut av ditt nya OS!  n
+7) Starta om datorn och välj Kubuntu i bootmenyn GRUB. Njut av ditt nya OS!  
 
 ## Vecka 38   
 
@@ -48,9 +48,28 @@ Gör klart installationen av Linux på era datorer och bekanta er med operativsy
 
 ## Vecka 39   
 
+Mjukvaruutvecklare föredrar att arbeta i Unix-liknande operativsystem. De kräver inte den nivå av förståelse av kommandoraden som [xkcd: tar](https://xkcd.com/1168/) ger sken av, men du bör i alla fall förstå vad en pakethanterare är och en överblick av din arbetsmiljö som [KDE Plasma in 180 Seconds](https://youtu.be/dZ6bojRSIw0) är inte dum. Vill du anpassa utseendet ännumer finns videos som How to [Customize KDE Plasma 6 | Guide for beginners](https://youtu.be/4OuaCXWSXFE) till din hjälp.    
+
 ###### Workspace för en webbutvecklare   
 
+Webbutvecklare behöver tillgång till LAMP-stacken och för det använder vi Docker. Din uppgift nu är att lära dig att använda Docker.  
 
+"[Docker Tutorial For Beginners](https://youtu.be/RrTbOvqlEic)", "[Docker for Web Development: A Brief Guide](https://medium.com/@vithusha.ravirajan/docker-for-web-development-a-brief-guide-5c0656319dcd)".  
+[<img alt="Docker, docker-compose och Lando" src="https://github.com/tcstenungsund/schedule/assets/5168530/63096533-a01f-49ba-b366-131ba467c8b2" width="42" style="width:42%">](https://github.com/tcstenungsund/schedule/assets/5168530/63096533-a01f-49ba-b366-131ba467c8b2)   
+
+[Uppgift: Workspace setup](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-workspace_setup)       
+
+När du är klar med ovanstående uppgift, ta reda på vad följande kommandon gör och testa dem i din miljö ("[8 Basic Docker Commands](https://youtu.be/xGn7cFR3ARU)").  
+
+    docker ps 
+    docker up 
+    docker down 
+    docker start 
+    docker stop 
+    docker kill 
+    docker exec -it <container-name> bash
+
+Prova att dra igång några containrar. Till exempel [ReactOS](https://github.com/hectorm/docker-qemu-reactos), [Haiku OS](https://github.com/hectorm/docker-qemu-haiku) eller något annat projekt från [Docker Hub](https://hub.docker.com/).  
 
 ## Vecka 40   
 
