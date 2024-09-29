@@ -118,8 +118,11 @@ När du skall lägga till en bild måste du avgöra om den är en del av innehå
 * MDN [Debugging HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Debugging_HTML)      
 -->  
 
+Quiz: Att hitta sin fil + HTML - Struktur   
+
 ## Vecka 41   
 
+Prov på HTML?   
 
 ## Vecka 42   
 
