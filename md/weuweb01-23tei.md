@@ -106,19 +106,16 @@ Quiz: HTML - Att märka upp text
 
 ## Vecka 40   
 
-<!--   
+Quiz: Att hitta sin fil + HTML - Struktur   
+
 ###### HTML - Bilder och media (+ felsökning)           
 
 När du skall lägga till en bild måste du avgöra om den är en del av innehållet eller utseendet, för att kunna bestämma om den skall ligga som en IMG-tag i HTML eller som en background-image i CSS. Nu tittar vi på hur man lägger till bilder som innehåll, men det är mycket att tänka på, både funktionsvariationer, bandbredd, format och [CLS](https://web.dev/articles/cls).    
 
-* MDN [Images in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)       
-* MDN [Active learning: embedding an image](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML#active_learning_embedding_an_image)        
-* MDN [Responsive images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images) (Överkurs)        
+* MDN [Images in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)     
+* MDN [Responsive images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)         
 * MDN [Video and audio content](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)      
 * MDN [Debugging HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Debugging_HTML)      
--->  
-
-Quiz: Att hitta sin fil + HTML - Struktur   
 
 ## Vecka 41   
 
