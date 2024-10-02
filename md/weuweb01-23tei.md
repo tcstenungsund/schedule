@@ -98,8 +98,6 @@ Vi kommer nu att lära oss ett helt gäng HTML-taggar och attribut för att kunn
 
 [<img alt="HTML5 Element Flowchart" src="http://html5doctor.com/downloads/h5d-sectioning-flowchart.png" width="60%">](http://html5doctor.com/downloads/h5d-sectioning-flowchart.png)           
 
-
-
 [Uppgift: Structuring a page of content](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/webweu01_structuring_a_page_of_content)     
 
 Quiz: HTML - Att märka upp text   
@@ -117,9 +115,11 @@ När du skall lägga till en bild måste du avgöra om den är en del av innehå
 * MDN [Video and audio content](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)      
 * MDN [Debugging HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Debugging_HTML)      
 
+Quiz: Att hitta sin fil + HTML - Struktur (mellan torsdag v40 och lektionen på måndag v41)
+
 ## Vecka 41   
 
-Prov på HTML?   
+Prov på HTML!   
 
 ## Vecka 42   
 
@@ -151,6 +151,9 @@ Prov på HTML?
 
 ## Vecka 51   
 
+<!-- 
+whocanuse.com 
+-->
 
 ## Vecka 52   
 
