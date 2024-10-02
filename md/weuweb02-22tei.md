@@ -73,6 +73,21 @@ Prova att dra igång några containrar. Till exempel [ReactOS](https://github.co
 
 ## Vecka 40   
 
+###### Introduktion till CMS:er  
+
+Det finns [många CMS:er](https://en.wikipedia.org/wiki/List_of_content_management_systems). Vi kommer använda en av de största, Drupal. Drupal är känd för att den har en aktiv utvecklarcommunity, många moduler och är både stabil att bygga komplexa lösningar på, men också enkel att arbeta med. Youtube-kursen vi skall se baseras på version 8, så under kursens gång är det den versionen vi kör. Men när vi sedan arbetar med systemet kommer vi köra version 10.           
+
+[![Drupals versioner](https://blog.twn.ee/sites/default/files/2020-10/Drupal%20Eng.png) ](https://blog.twn.ee/sites/default/files/2020-10/Drupal%20Eng.png)     
+
+[Uppgift: CMS Install](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-cms_install)     
+
+Nu har du en utvecklingsmiljö med Drupal 8 som du kan stoppa och starta med följande kommandon. 
+
+    lando start     
+
+&nbsp;
+
+    lando stop      
 
 ## Vecka 41   
 
@@ -86,7 +101,7 @@ Prova att dra igång några containrar. Till exempel [ReactOS](https://github.co
 ## Vecka 44   
 
 **HÖSTLOV**   
-https://sv.wikipedia.org/wiki/Pakethanterare
+
 ## Vecka 45   
 
 
