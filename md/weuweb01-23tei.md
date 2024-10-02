@@ -115,7 +115,7 @@ När du skall lägga till en bild måste du avgöra om den är en del av innehå
 * MDN [Video and audio content](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)      
 * MDN [Debugging HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Debugging_HTML)      
 
-Quiz: HTML - Bilder och media (+ felsökning) (mellan torsdag v40 och lektionen på måndag v41)
+Quiz: HTML - Bilder och media (+ felsökning) (görs på egen tid mellan torsdag v40 och lektionen på måndag v41)
 
 ## Vecka 41   
 
