@@ -59,8 +59,32 @@ Labbmanualen finns att ladda ner i inlämningsmappen i vårat Teams-rum. Ni fort
 
 ## Vecka 40   
 
+Vi går gemensamt igenom hela kapitel 1.
+Arbeta med labbuppgiften "Tre datorpaket".
 
-## Vecka 41   
+
+## Vecka 41 
+
+Vi pratar om planering för kursen och materialet IT Essentials 8.
+Christoffer och Ronnie kommer inte att gå igenom alla kapitel (moduler) i IT Essentials 8 materialet.
+Siktar du på att ta IT Essentials certifikatet måste du läsa in övriga kapitel själv.
+Vi rekommenderar starkt att du anstränger dig och tar certifikatet.
+Vår plan är att läsa kapitel 1 och genom labbuppgift "Tre datorpaket" beröra kapitel 2 och 3.
+Härnäst kommer vi att gå igenom kapitel 10 och 11 - Operativsystem.
+Därefter kapitel 5 och 6 - Nätverk.
+Kapitel 14 - The IT proffessional ska vi hinna med gemensamt också.
+Övriga kapitel läser ni in själva.
+
+Måndag:
+Vi gör 1.5 Module Exam - efteråt begrundar vi resultatet, ni får feedback över vad ni måste komplettera samt rätt svar med förklaring - läs igenom!
+
+Genomgång av kapitel 10 - Windows installation, fram till och med 10.2.1.3.
+Gör övning 10.2.1.4.
+
+Resten av lektionen arbetar vi färdigt med labbuppgift "Tre datorpaket", den ska vara färdig nu.
+Ni som är färdiga arbetar med kapitel 2,3 och 4. 
+
+Onsdag:
 
 
 ## Vecka 42   
