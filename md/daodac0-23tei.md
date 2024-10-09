@@ -86,9 +86,13 @@ Ni som är färdiga arbetar med kapitel 2,3 och 4.
 
 Onsdag:
 
+Vi pratar färdigt kapitel 10 (Windows Installation) samt gör övningar till kapitlet. 
+
+Vi börjar också gå igenom kapitel 11 (Windows Konfiguration) och går igenom allt till och med 11.1.3. Tittar på youtube-klipp och visar information om Windows historia och vad för versioner som har släppts genom åren.
 
 ## Vecka 42   
 
+Här fortsätter vi gå igenom kapitel 11 med start från 11.1.4 (File Explorer)
 
 ## Vecka 43   
 
