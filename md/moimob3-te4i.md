@@ -186,6 +186,14 @@ Dagens uppgift är att skapa er första PWA. Den behöver inte ha något innehå
 
 ### Torsdag
 
+Vi ser på klipp om populära mobiltelefoner sedan 1996 och pratar även om hur telefoner är uppbygda.
+
+Grupper finns på Teams.
+
+En ny uppgift om mobila operativsystem presenteras. Länk till uppgiften finns nedan. **DEADLINE**: **Presentation 22 oktober** och **inlämning 25 oktober**.
+
+[Uppgift: Mobila operativsystem](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/moimob-operativsystem)                   
+
 ### Fredag   
 
 ## Vecka 42   
