@@ -196,6 +196,10 @@ En ny uppgift om mobila operativsystem presenteras. Länk till uppgiften finns n
 
 ### Fredag   
 
+Arbeta vidare med uppgiften   
+
+*Sociala medier-genomgång*: Vi talar om nya arbetstillfällen tack vare the [European Accessibility Act](https://en.wikipedia.org/wiki/European_Accessibility_Act) som träder i kraft 2025, det halvårsgamla memet "[Keep a Little Dirt Under My Pillow for The Dirt Man](https://youtu.be/Su4Kb-roLZE?)", ett [fantastiskt skämt om git](https://infosec.exchange/@SecureOwl/113232620588922374), [ProjectServiceWorker](https://mastodon.world/@dannymoerkerke/113206016741637252) och avslutar med det lastgamla memet om "[Modermodemet, själva hjärtat i hårddisken](https://www.youtube.com/shorts/WjSUsQUOy_U)".
+
 ## Vecka 42   
 
 ### Måndag   
