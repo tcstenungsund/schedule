@@ -50,6 +50,8 @@ Dags att påbörja vår grundkurs i HTML & CSS. Först lägger vi några veckor 
 * Varje vecka gör du ett **test** på föregående veckas material
 * I slutet av varje större moment gör du ett **prov** på det
 
+Vi kommer att använda många verktyg under kursens gång, men de som är aktuella under höstterminen är [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/) och [Anteckningar](https://en.wikipedia.org/wiki/Windows_Notepad).   
+
 ###### HTML - Att märka upp text        
 
 Först repeterar vi hur en HTML-tagg är uppbygd, sedan djupdyker vi hur man märker upp text på alla möjliga sätt och vis!        
