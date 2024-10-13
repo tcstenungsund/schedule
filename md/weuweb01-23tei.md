@@ -119,13 +119,30 @@ Quiz: HTML - Bilder och media (+ felsökning) (görs på egen tid mellan torsdag
 
 ## Vecka 41   
 
-Prov på HTML!   
+Repetition på HTML. Hur många element kan du? Testa dig själv med "[HTML Tags Memory](https://codepen.io/plfstr/full/zYqQeRw)").   
+
+Prov: HTML   
 
 ## Vecka 42   
 
+###### CSS First steps           
+* MDN [What is CSS?](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)                      
+* MDN [Getting started with CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Getting_started)              
+* MDN [How CSS is structured](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_is_structured)             
+* MDN [How CSS works](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_works)       
+
+Uppgift: [Styling a biography page](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Styling_a_biography_page)            
+
+###### CSS Selektorer           
+* MDN [CSS selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors) (Överkurs: Type of selectors)             
+* MDN [Type, class, and ID selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Type_Class_and_ID_Selectors)             
+* MDN [Attribute selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Attribute_selectors) (Överkurs)            
+* MDN [Pseudo-classes and pseudo-elements](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Pseudo-classes_and_pseudo-elements)            
+* MDN [Combinators](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Combinators) (Överkurs: Creating complex selectors with nesting)       
 
 ## Vecka 43   
 
+###### CSS Cascade och Specificity           
 
 ## Vecka 44   
 
@@ -133,25 +150,34 @@ Prov på HTML!
 
 ## Vecka 45   
 
+###### CSS Box Model  
 
 ## Vecka 46   
 
+###### Värden och enheter + felsökning  
 
 ## Vecka 47   
 
+###### Färgteori   
 
 ## Vecka 48   
 
+###### Styling text och Layout   
 
 ## Vecka 49   
 
+###### Planeringsverktyg   
 
 ## Vecka 50   
 
+Prov: CSS  
 
 ## Vecka 51   
 
+Fortsättning planeringsverktyg...
+
 <!-- 
+caniuse.com 
 whocanuse.com 
 -->
 
