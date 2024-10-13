@@ -138,7 +138,7 @@ Välj era resurser. Kom ihåg [W3Fools](https://www.w3fools.com/) och även om s
 * MDN [How CSS is structured](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_is_structured)             
 * MDN [How CSS works](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_works)       
 
-Uppgift: [Styling a biography page](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/webweu01-styling_a_biography_page)             
+[Uppgift: Styling a biography page](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/webweu01-styling_a_biography_page)             
 
 ###### CSS Selektorer           
 * MDN [CSS selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors) (Överkurs: Type of selectors)             
