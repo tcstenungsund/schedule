@@ -61,6 +61,8 @@ Först repeterar vi hur en HTML-tagg är uppbygd, sedan djupdyker vi hur man mä
 * MDN [Creating hyperlinks](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks)
 * MDN Test your skills: [Links](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Test_your_skills:_Links)
 
+Läs på om [The anchor element](https://heydonworks.com/article/the-anchor-element/), det är viktigt!  
+
 ## Vecka 39   
 
 ###### Att hitta sin fil     
@@ -125,6 +127,9 @@ Prov: HTML
 
 ## Vecka 42   
 
+Välj era resurser. Kom ihåg [W3Fools](https://www.w3fools.com/) och även om saker ändrats, är frågan [Do we still hate w3schools or...](https://masto.ai/@teacherbuknoy/112890440326314007) berättigad.   
+
+
 ###### CSS First steps           
 * MDN [What is CSS?](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)                      
 * MDN [Getting started with CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Getting_started)              
@@ -160,9 +165,17 @@ Uppgift: [Styling a biography page](https://developer.mozilla.org/en-US/docs/Lea
 
 ###### Färgteori   
 
+<!-- 
+[Tänk på läsbarheten på era hemsidor](https://www.gp.se/fria-ord/ska-fettforaktet-tryckas-ner-i-halsen-pa-vara-barn-sa-fort-de-lar-sig-lasa.757e2417-7ee9-4165-9e99-da23b8202d3c)
+--> 
+
 ## Vecka 48   
 
 ###### Styling text och Layout   
+
+<!-- 
+https://jasonsantamaria.com/ "On Web Typography"
+-->
 
 ## Vecka 49   
 
