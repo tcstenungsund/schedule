@@ -204,6 +204,10 @@ Arbeta vidare med uppgiften
 
 ### Måndag   
 
+Dags för steg 2 i det längre app-projektet! Nu skall ni bygga en PWA!  
+
+[Uppgift: PWA](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb33-pwa)                    
+
 ### Tisdag   
 
 ### Torsdag
