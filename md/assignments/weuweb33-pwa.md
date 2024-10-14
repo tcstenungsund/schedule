@@ -26,7 +26,7 @@ Ni skall även änvända lämpliga verktyg för att optimera bilder, javascript 
 
 ## Förväntat resultat
 
-En 5-10 minuters presentation med valfritt presentationsverktyg. 
+En ~10 minuters presentation med valfritt presentationsverktyg. 
 
 Ett repository med koden för en PWA. 
 
