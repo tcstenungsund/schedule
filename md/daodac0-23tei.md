@@ -91,8 +91,20 @@ Vi pratar färdigt kapitel 10 (Windows Installation) samt gör övningar till ka
 Vi börjar också gå igenom kapitel 11 (Windows Konfiguration) och går igenom allt till och med 11.1.3. Tittar på youtube-klipp och visar information om Windows historia och vad för versioner som har släppts genom åren.
 
 ## Vecka 42   
+![image](https://github.com/user-attachments/assets/91d02e2d-0bd9-49ff-bbf4-277a93472f3f)
 
-Här fortsätter vi gå igenom kapitel 11 med start från 11.1.4 (File Explorer)
+
+
+Måndag:
+Genomgång av kapitel 11.1 färdigt.
+Gör första delen av övningen för filhanteraren 11.1.4.11
+Vi går gemensamt igenom 11.2 och berör delar av 11.3 - med fokus på kontrollpanelen och Administrationsverktyg.
+Till onsdag ska ni ha gjort 11.1.4.12 och 11.2.10 - Check your understanding.
+
+Länk till filändelser - https://en.wikipedia.org/wiki/List_of_file_formats
+
+Onsdag:
+
 
 ## Vecka 43   
 
