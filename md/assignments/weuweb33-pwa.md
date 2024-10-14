@@ -22,7 +22,7 @@ Följande resurser skall ni använda i projektet.
 * [CSS Lint](http://csslint.net/) (CSS linter)
 * [Squoosh](https://squoosh.app/) (Bildkomprimerare)
 
-Ni skall även änvända lämpliga verktyg för att optimera bilder, javascript och CSS. Eventuellt kan ni behöva [npm precommit-scripts](https://elijahmanor.com/blog/npm-precommit-scripts). All kod skall ligga på GitHub.
+Ni skall även änvända lämpliga verktyg för att optimera bilder, javascript och CSS. Eventuellt kan ni behöva [npm precommit-scripts](https://elijahmanor.com/blog/npm-precommit-scripts). All kod skall ligga på GitHub. Använd också GitHub Projects för att planera ert arbete.  
 
 ## Förväntat resultat
 
