@@ -214,6 +214,12 @@ Dags för steg 2 i det längre app-projektet! Nu skall ni bygga en PWA!
 
 ### Fredag   
 
+Kevin Powell berättar om vad som hände när "[I gave three AI models a CSS quiz](https://youtu.be/1q6qLcH8ADY)" (50 min), och vi följer med honom på resan.   
+
+Arbeta vidare med projektet.  
+
+*Sociala medier-genomgång*:  
+
 ## Vecka 43   
 
 ### Måndag   
