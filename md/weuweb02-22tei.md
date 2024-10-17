@@ -95,7 +95,11 @@ Slutför de två tidigare uppgifterna och djupdyk i handhavandet av Docker, Land
 
 ## Vecka 42   
 
+1) Slutför de två tidigare uppgifterna och djupdyk i handhavandet av Docker, Lando och Drupal.
 
+2) Utför uppgiften "Aktivera Developer mode" som finns på Teams.
+
+3) Vi ser avsnitten 1-3 (Introduktion, 15min) och 8-15 (Systemöverblick, 17min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".  
 
 ## Vecka 43   
 
