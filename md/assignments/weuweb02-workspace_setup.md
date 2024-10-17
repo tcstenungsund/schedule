@@ -32,6 +32,8 @@ Om du använder Windows måste du först aktivera WSL och installera en Linux-di
 
 Kom ihåg att Windows måste startas om efter varje förändring, inklusive installationen av Lando.     
 
+### Efter installationen   
+
 När Docker är installerat så kör du följande kommando, öppnar localhost i din webbläsare och läser igenom getting-started-tutorialen. 
 
     docker run -d -p 80:80 docker/getting-started
