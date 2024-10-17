@@ -10,6 +10,7 @@ Enskild uppgift. Windows 10/11 Professional eller bättre (vilket självklart in
 
 ## Resurser
 
+*   [Install Docker in Linux](https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository)
 *   [Lando - Installation - Linux](https://docs.lando.dev/getting-started/installation.html#debian) 
 *   [Lando - Installation - Windows](https://docs.lando.dev/getting-started/installation.html#windows)
 *   [Microsoft - Install WSL](https://learn.microsoft.com/en-us/windows/wsl/install)
@@ -19,16 +20,11 @@ Enskild uppgift. Windows 10/11 Professional eller bättre (vilket självklart in
 
 ## Uppgiftsbeskrivning
 
-Målet är att installera och konfigurera :whale2: Docker. För att göra detta enklare så använder vi mjukvaran Lando som installerar och konfigurerar Docker åt oss. 
+Målet är att installera och konfigurera :whale2: Docker.  
 
 #### Linux      
 
-I Linux-distributioner som kör Debians pakethanterare räcker det att köra följande två kommandon. 
-
-    wget https://files.lando.dev/installer/lando-x64-stable.deb
-    sudo dpkg -i lando-x64-stable.deb
-
-Men följ gärna instruktionen som länkas under resurser ovan.     
+Börja med att installera Docker enligt länkad instruktion ovan. Efter det installerar du Lando.   
 
 #### Windows     
 
