@@ -1,6 +1,6 @@
 # Aktivera Utvecklarläge      
 
-_Nu är du redo att börja utveckla! Nästan. De flesta CMS:er har olika cache-funktioner som gör sidorna snabbare för besökarna, dessa är det dock bra att deaktivera under utveckling. Så det gör vi! _    
+_Nu är du redo att börja utveckla! Nästan. De flesta CMS:er har olika cache-funktioner som gör sidorna snabbare för besökarna, dessa är det dock bra att deaktivera under utveckling. Så det gör vi!_    
 
 ---    
 
