@@ -40,10 +40,6 @@ Dags att snurra igång vår container!
 
     lando start
 
-Nästa steg är att be Lando att installera Drush via Composer. 
-
-    lando composer require drush/drush
-
 Nu använder vi Drush till att konfigurera vår Drupal-installation. 
 
     lando drush site:install --db-url=mysql://drupal8:drupal8@database/drupal8 --site-name="Min coola sida!" --account-name=bengt --account-pass=cisco -y
@@ -56,6 +52,8 @@ Nu kan du besöka din nyinstallerade Drupal CMS i din webbläsare.
 
 ### Felsökning      
 
+Många problem beror på att du befinner dig i fel katalog när du kör dina kommandon. Andra problem kan lösas om du kör "lando rebuild".  
+
 Om du kör i Windows finns flera begränsningar som kan ställa till det. Här är några förslag på lösningar.       
 
 * Starta om! When in doubt, reboot!
@@ -63,7 +61,7 @@ Om du kör i Windows finns flera begränsningar som kan ställa till det. Här �
 
         lando export COMPOSER_MEMORY_LIMIT=-1
 
-* För dålig prestandaz. Se [Why composer install timeouts after 300 seconds?](https://stackoverflow.com/questions/18917768/why-composer-install-timeouts-after-300-seconds) på stackoverflow.        
+* För dålig prestanda. Se [Why composer install timeouts after 300 seconds?](https://stackoverflow.com/questions/18917768/why-composer-install-timeouts-after-300-seconds) på stackoverflow.        
 
         lando composer config --global process-timeout 16000
 
