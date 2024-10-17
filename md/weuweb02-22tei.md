@@ -91,8 +91,10 @@ Nu har du en utvecklingsmiljö med Drupal 8 som du kan stoppa och starta med fö
 
 ## Vecka 41   
 
+Slutför de två tidigare uppgifterna och djupdyk i handhavandet av Docker, Lando och Drupal.  
 
 ## Vecka 42   
+
 
 
 ## Vecka 43   
