@@ -218,7 +218,7 @@ Kevin Powell berättar om vad som hände när "[I gave three AI models a CSS qui
 
 Arbeta vidare med projektet.  
 
-*Sociala medier-genomgång*:  
+*Sociala medier-genomgång*: Heydon Pickering skriver många utmärkta artiklar, och Axel tipsade om den starkt ironiska "[CSS: A New Kind Of JavaScript](https://heydonworks.com/article/css:-a-new-kind-of-javascript/)", kanhända har du nytta av [bildeditorn Sly](https://github.com/kra-mo/sly) och avslutningsvis tittar vi på "[8 Easy Ways to Improve Your Website Typography in Under 30 minutes](https://www.webdesignerdepot.com/2021/01/8-easy-ways-to-improve-your-website-typography-in-under-30-minutes/)".   
 
 ## Vecka 43   
 
