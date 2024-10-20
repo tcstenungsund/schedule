@@ -159,13 +159,14 @@ Test your skills: [Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS
 
 ###### CSS Box model    
 * MDN [The box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)  
-* Mapped logical properties: [margin-block](https://developer.mozilla.org/en-US/docs/Web/CSS/margin-block) and [margin-inline](https://developer.mozilla.org/en-US/docs/Web/CSS/margin-inline)      
 * MDN [Backgrounds and borders](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Backgrounds_and_borders)     
-* MDN [Handling different text directions](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Handling_different_text_directions) (Självstudier)    
+* MDN [Handling different text directions](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Handling_different_text_directions) (Överkurs, förutom Logical properties and values)  
+* Mapped logical properties: [margin-block](https://developer.mozilla.org/en-US/docs/Web/CSS/margin-block) and [margin-inline](https://developer.mozilla.org/en-US/docs/Web/CSS/margin-inline)  
 * MDN [Overflowing content](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Overflowing_content) (Överkurs)      
 
 "[The box model for beginners](https://youtu.be/MrAnu4zdjjY)" (1:54), "[Everything You Need To Know About CSS Margins](https://www.smashingmagazine.com/2019/07/margins-in-css/)"    
 
+Test your skills: [The box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Box_Model_Tasks)  
 Test your skills: [Backgrounds and borders](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Test_your_skills_backgrounds_and_borders)    
 
 ## Vecka 44   
