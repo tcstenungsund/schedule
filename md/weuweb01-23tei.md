@@ -150,7 +150,7 @@ Välj era resurser. Kom ihåg [W3Fools](https://www.w3fools.com/) och även om s
 ## Vecka 43   
 
 ###### CSS Cascade och Specificity           
-* MDN [Cascade, specificity, and inheritance](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance) (Överkurs: )        
+* MDN [Cascade, specificity, and inheritance](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance) (Överkurs: Controlling inheritance, Resetting all property values, Order of cascade layers, Scoping proximity)        
 * MDN [Cascade layers](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_layers) (Överkurs)     
 
 "[How CSS Specificity Is Calculated](https://youtu.be/ZBphodDntVc)" (4½ min), [Batficity](http://batificity.com/), [The CSS Selector Specificity Calculator](https://polypane.app/css-specificity-calculator/) och [The CSS Cascade](https://2019.wattenberger.com/blog/css-cascade).   
