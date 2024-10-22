@@ -107,6 +107,16 @@ Onsdag:
 
 
 ## Vecka 43   
+![image](https://github.com/user-attachments/assets/587f3d80-3e8a-47ba-b50d-664aac86412e)
+
+Måndag:
+Genomgång av kapitel 11.3 - System Administration färdigt.
+Vi går gemensamt igenom 11.4 - Command-Line Tools.
+Arbeta med interaktiva övningar och gör delkapitel quiz.
+Testa kommandon som står i laboration 11.4.1.5 på din egna dator.
+
+Onsdag:
+
 
 
 ## Vecka 44   
