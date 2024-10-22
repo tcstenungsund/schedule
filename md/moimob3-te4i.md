@@ -224,7 +224,13 @@ Arbeta vidare med projektet.
 
 ### Måndag   
 
+Arbeta vidare med projektet.  
+
 ### Tisdag   
+
+Vi kör några omgångar [Hexcodle](https://hexcodle.com/) och talar om varför [OKLCH](https://oklch.com/) är så lättanvänt, samt att det är fortsatt viktigt med kontrast som kan kollas med [OddContrast](https://www.oddcontrast.com/)!  
+
+Arbeta vidare med projektet, denna veckan bör förarbetet, planeringen och designsystemet vara klart. Dessutom en fungerande PWA (som inte behöver ha något innehåll än).  
 
 ### Torsdag
 
