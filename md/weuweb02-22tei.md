@@ -22,23 +22,7 @@ Prov: Repetition HTML & CSS
 
 ## Vecka 37   
 
-###### Installera Linux!   
-
-1) Skaffa filen [kubuntu-2024.05.01-x85_64.iso](https://kubuntu.org/getkubuntu/)   
-
-2) Se till att du har backup i OneDrive på all viktig data.   
-
-3) Krymp din primära diskpartition till hälften, antingen genom "[Disk Management](https://youtu.be/qq-7X8zLP7g?t=262)" i Windows eller [gParted](https://gparted.org/livecd.php).   
- 
-4) Skapa nu en bootbar USB-sticka med Kubuntu på. Använd till exempel [Rufus](https://rufus.ie/en/).
-
-5) Starta om datorn och öppna BIOS [F10].    
-[Deaktivera BitLocker](https://www.howtogeek.com/805225/disable-bitlocker/).   
-Stäng av Secure Boot (och FastBoot). Starta om med din bootbara USB-sticka i och tryck [F9] för att välja att boota från den.  
-
-6) Installera Kubuntu. Välj engelska som språk, men sverige som plats och svenskt tangentbord.  
-
-7) Starta om datorn och välj Kubuntu i bootmenyn GRUB. Njut av ditt nya OS!  
+[Uppgift: Installera Linux](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-installera_linux)     
 
 ## Vecka 38   
 
@@ -103,6 +87,17 @@ Vi ser avsnitten 1-3 (Introduktion, 15min) och 8-15 (Systemöverblick, 17min) i 
 
 ## Vecka 43   
 
+Repetition av förra veckan.   
+
+Övning i halvklass.   
+
+Vi ser avsnitten 16-18, 22-26 (Content Type, 26min) samt avsnitten 27-29 (Taxonomy, 10min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".   
+
+Bensträckare...   
+
+Vi ser avsnitten 30-31 (Content, 10min) och 34-36 (Displays, 15min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".    
+
+**Läxa till vecka 45**: Se avsnitten 32 och 33 (Revisions och Devel, 9min) och 41-42 (Image Styles och Photo Gallery, 8min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)". Om du inte lyckas installera moduler, lura ut hur!       
 
 ## Vecka 44   
 
@@ -110,12 +105,32 @@ Vi ser avsnitten 1-3 (Introduktion, 15min) och 8-15 (Systemöverblick, 17min) i 
 
 ## Vecka 45   
 
+<!-- 
+
+[My solar-powered and self-hosted website](https://dri.es/my-solar-powered-and-self-hosted-website)   
+
+[OSTips - Drupal](https://youtube.com/playlist?list=PLtaXuX0nEZk_R36-089QmM-OMTZ3APvuc&si=0pxyc81CkDZfHqZX)   
+
+[AI in Drupal: It's Coming, and it's Awesome](https://youtu.be/4S-HBFVE2lU) (6 min)  
+
+[How To Use AI in Drupal to Set the Tone of Your Content](https://youtu.be/Vz7oTYYBeK0) (8 min)   
+
+
+
+Vi ser avsnitten 37-40 (Views, 20min) och 43-47 (Moduler, 23min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".  
+
+Vi ser avsnitten 48-51 (Block och Menyer, 13min) och 52-55 (Teman, 15min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".     
+
+Vi ser avsnitten 56-57 (Rättigheter, 8min), 58-60 (Rapporter och Uppdatering, 10min) och 61-62 (Drupals Community, 6min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".  
+
+-->   
 
 ## Vecka 46   
 
 
 ## Vecka 47   
 
+Prov på Grundkurs i CMS     
 
 ## Vecka 48   
 
