@@ -86,7 +86,7 @@ Vi ser avsnitten 1-3 (Introduktion, 15min) och 8-15 (Systemöverblick, 17min) i 
 
 ###### För de som inte lyckats installera en CMS-container än            
 1) Skapa ny projektkatalog       
-2) Ladda ned filen [docker-compose.yml](https://github.com/seetee/docker/blob/master/drupal/docker-compose.ym)
+2) Ladda ned filen [docker-compose.yml](https://github.com/seetee/docker/blob/master/drupal/docker-compose.yml)
 3) Navigera till din projektkatalog och kör följande kommando
 
        docker-compose up -d
