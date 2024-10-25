@@ -1,34 +1,65 @@
 # Nätverkssäkerhet - INDval    
 
 ## Vecka 34   
-
+Upprop och uppstart. Går igenom Skolverkets dokument och pratar om vägar inom cybersäkerhet.
 
 ## Vecka 35   
 
+Cisco öppnar sin nya lärplattform!
+
+Vi registrerar oss och startar kursen CCNA CyberOps.
+Går igenom modul 1.
 
 ## Vecka 36   
-
+Fortsätter gå igenom modul 1 och påbörjar modul 2.
 
 ## Vecka 37   
+Vi skummar igenom modul 3 som handlar om Windows. Mycket av detta har vi redan gått igenom i IT Essentials, men det är vissa nya delar som vi pratar om.
 
+Vi börjar också titta på filmen The Great Hack. 
 
 ## Vecka 38   
 
+Vi tittar färdigt på The Great Hack och reflekterar över de saker filmen tog upp angående datainsamling och hur man kan påverka människor genom data.
 
 ## Vecka 39   
 
+Jag är sjuk och ni har i uppgift att läsa igenom modul 4 som handlar om Linux.
 
 ## Vecka 40   
 
+Vi lägger upp arbetet kring nätverksmodulerna (modul 5-10) och börjar prata lite kring den första modulen.
+
+Ni får även ett gäng länkar med praktiska uppgifter
+
+[CTF Time](https://ctftime.org/) - Samlingssida för CTF-tävlingar
+ 
+[Pico CTF](https://play.picoctf.org/) - En sida med CTF-övningar
+ 
+[Over The Wire: Bandit](https://overthewire.org/wargames/bandit/bandit0.html) - "Spel" för att öva kommandon i Linux
 
 ## Vecka 41   
+Chat Control har klubbats igenom och vi pratar om vad det innebär. Vi tittar på två klipp angående Chat Control.
 
+[Into Europe: Chat Control](https://www.youtube.com/watch?v=V9UNdPO_kkc)
+
+[Svenska Nyheter pratar om Chat Control](https://www.youtube.com/watch?v=tkq-b71Zzvs)
+
+Vi disukuterar i grupper och återger för varandra vad vi kommit fram till.
+
+Vi fortsätter resterande del av lektionen med materialet från Cisco och gör praktiska övningar.
 
 ## Vecka 42   
 
+Vi startar European Cyber Race från Cisco!
+
+Kursen som vi använder oss av är Introduction to Cybersecurity.
+
+Mer information kring European Cyber Race finns [här](https://www.netacadlearnathon.com/projects/eurocyberrace-2024/)
 
 ## Vecka 43   
 
+Vi fortsätter med European Cyber Race och pluggar inför checkpoint exam på modulerna 5-10.
 
 ## Vecka 44   
 
