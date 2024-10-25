@@ -61,11 +61,15 @@ Mer information kring European Cyber Race finns [här](https://www.netacadlearna
 
 Vi fortsätter med European Cyber Race och pluggar inför checkpoint exam på modulerna 5-10.
 
+Ni gör Checkpoint Exam för modul 5-10 hemma. **Deadline är fredag 8 november (vecka 45)**
+
 ## Vecka 44   
 
 **HÖSTLOV**   
 
 ## Vecka 45   
+
+Modul 11 och 12.
 
 
 ## Vecka 46   
