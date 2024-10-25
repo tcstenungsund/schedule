@@ -236,6 +236,12 @@ Arbeta vidare med projektet, denna veckan bör förarbetet, planeringen och desi
 
 ### Fredag   
 
+Vi funderar kring frågan "[Will PHP make YOU Rich in 2025?](https://youtu.be/AJiv09SWUNc)" (17 min) och hur olika karriärer leder oss längs spännande vägar! Uncle Stef delar med sig av sin livsvisdom.   
+
+Arbeta vidare med projektet.  
+
+*Sociala medier-genomgång*: [Loro är en CRDT](https://social.coop/@scottjenson/113358584617366527), för att hålla sig uppdaterad är [Daily Tech News Show](https://dailytechnewsshow.com/) ett utmärkt alternativ, The Verge lär oss om [hur världen såg ut för tjugo år sedan](https://www.theverge.com/c/24247055/2004-tech-internet-gadgets-phones-pop-culture) och [studier visar att katter är vätskor](https://www.sciencealert.com/cats-basically-are-a-liquid-after-all-study-confirms)!     
+
 ## Vecka 44   
 
 **HÖSTLOV**   
