@@ -250,6 +250,28 @@ Arbeta vidare med projektet.
 
 ### Måndag   
 
+###### Testning  
+Sedan tidigare är ni bekanta med hur man testar [kontrast](https://www.oddcontrast.com/), a11y, om koden [validerar](https://www.w3.org/developers/tools/), [laddningshastighet](https://pagespeed.web.dev/), [LCP](https://web.dev/lcp/), och så vidare... Nu när ni kan använda taskrunners så går det mycket lättare att automatisera sådant som a11y-tester med verktyg som [axe-core](https://www.npmjs.com/package/axe-core). Men det finns många fler sorters tester, som vi kommer titta närmare på nu!  
+
+[web.dev Learn Testing](https://web.dev/learn/testing) "What testing is" och "Types of automated testing"   
+
+* "[What Are the Types of Automated Testing](https://youtu.be/CQpY3W60PlY)" (1 min)  
+* "[What is Unit Testing and Why You Must Learn It](https://youtu.be/W2KOSaetWBk)" (2 min)
+* "[End to End Testing in 60 Seconds](https://youtu.be/OtJkafQtLGs)" (1 min)
+
+Notera att det finns olika standarder för vad man kallar tester på olika nivåer, men det handlar oftast om hur stor del av webbplatsen som testas.  
+
+* Accessibility testing, UI testing  
+* **Unit** testing, Component testing   
+* **Integration** testing, API testing   
+* System testing, End-to-end (**E2E**) testing  
+
+[MDN Introduction to automated testing](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Automated_testing)   
+
+[Cain Maddox]([https://twitter.com/ctrlshifti/status/1307599545803575296](https://x.com/ctrlshifti/status/1307599545803575296)) på X uppmanar oss att sluta testa vår mjukvara, men Michael Lynch ger oss "[The Painless Way](https://mtlynch.io/painless-web-app-testing/)" att göra End-to-End Testing i mjukvaran [Cypress](https://www.cypress.io/). "[Cypress in 100 Seconds](https://youtu.be/BQqzfHQkREo)". (3 min)  
+
+Lägg till testning i er personliga PWA som ni skapade för några veckor sedan. Konfigurera både axe-core och Cypress enligt ovan.  
+
 ### Tisdag   
 
 ### Torsdag
