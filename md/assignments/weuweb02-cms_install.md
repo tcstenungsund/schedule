@@ -22,34 +22,39 @@ Du bör ha installerat Lando i en tidigare uppgift.
 
 En normal installation av Drupal kräver att man sätter upp en server med PHP, Apache, MariaDB (SQL), samt PHPs pakethanterare Composer. Med hjälp av Composer installerar man sedan Drupal och Drush, för att slutligen göra konfigurationen av Drupal med hjälp av Drush.          
 
-Vill du göra en installation i en container så krävs att du synkroniserar en Apache/PHP-container med en SQL-container och delar ut en katalog med ditt host-system. Tack och lov gör Lando detta åt oss. I exemplet nedan förutsätts vårt projekt heta "d8beginner", men det bör ju ändras beroende på vad för slags projekt vi gör.          
+Vill du göra en installation i en container så krävs att du synkroniserar en Apache/PHP-container med en SQL-container och delar ut en katalog med ditt host-system. Tack och lov gör Lando detta åt oss. I exemplet nedan förutsätts vårt projekt heta "d8beginner", men det bör ju ändras beroende på vad för slags projekt vi gör.  
 
-1) Skapa först en ny projektkatalog och navigerar dit i ditt shell.       
+1) Skapa först en ny projektkatalog och navigerar dit i ditt shell.  
 
-2) Väl där ber vi Lando att ladda hem och förbereda en container med Drupal i.        
+2) Väl där ber vi Lando att ladda hem och förbereda en container med Drupal i.   
 
         lando init --source cwd --recipe drupal8 --webroot web --name d8beginner
 
-3) Nu ber vi Lando tala om för Composer att vi vill initiera en installation av Drupal 8. 
+3) Nu ber vi Lando tala om för Composer att vi vill initiera en installation av Drupal 8 i den nya katalogen tmp.  
 
         lando composer create-project drupal/recommended-project:8.x tmp
     
-4) Flytta nu alla filer och kataloger från tmp till din projektkatalog. Det vill säga flytta projekt/tmp/* --> projekt/ Ta sedan bort tmp.
+4) Flytta nu alla filer och kataloger från tmp till din projektkatalog. Det vill säga flytta projekt/tmp/* --> projekt/ Ta sedan bort tmp.  
 
-5) Dags att snurra igång vår container!
+5) Dags att snurra igång vår container!  
 
         lando start
 
 > Får du 404-felmeddelanden här så kan det bero på att du installerat en Drupal-version via Snap, eller att du inte flyttat filerna så som det beskrivs i punkt 4  
-6) Nu använder vi Drush till att konfigurera vår Drupal-installation. 
+
+6) Nästa steg är att be Lando att installera Drush via Composer.  
+
+        lando composer require drush/drush
+
+7) Nu använder vi Drush till att konfigurera vår Drupal-installation.  
 
         lando drush site:install --db-url=mysql://drupal8:drupal8@database/drupal8 --site-name="Min coola sida!" --account-name=bengt --account-pass=cisco -y
 
-7) Och en sista koll för att se att allting ser bra ut. 
+8) Och en sista koll för att se att allting ser bra ut.  
 
         lando info
 
-Nu kan du besöka din nyinstallerade Drupal CMS i din webbläsare. 
+Nu kan du besöka din nyinstallerade Drupal CMS i din webbläsare på URL:en som gavs efter "lando start" under punkt 5.  
 
 ### Felsökning      
 
