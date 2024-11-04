@@ -124,7 +124,11 @@ Onsdag:
 **HÖSTLOV**   
 
 ## Vecka 45   
+Måndag:
+Repetition av kapitel 10 och 11.
 
+Onsdag:
+Checkpoint Exam - kapitel 10 och 11.
 
 ## Vecka 46   
 
