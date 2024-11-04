@@ -270,7 +270,7 @@ Notera att det finns olika standarder för vad man kallar tester på olika nivå
 
 [Cain Maddox]([https://twitter.com/ctrlshifti/status/1307599545803575296](https://x.com/ctrlshifti/status/1307599545803575296)) på X uppmanar oss att sluta testa vår mjukvara, men Michael Lynch ger oss "[The Painless Way](https://mtlynch.io/painless-web-app-testing/)" att göra End-to-End Testing i mjukvaran [Cypress](https://www.cypress.io/). "[Cypress in 100 Seconds](https://youtu.be/BQqzfHQkREo)". (3 min)  
 
-Lägg till testning i er personliga PWA som ni skapade för några veckor sedan. Konfigurera både axe-core och Cypress enligt ovan.  
+Lägg till testning i er personliga PWA som ni skapade vecka 41. Konfigurera både axe-core och Cypress enligt ovan.  
 
 ### Tisdag   
 
