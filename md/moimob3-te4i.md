@@ -278,6 +278,11 @@ Gör klart implementeringen av tester i er personliga PWA och lämna in på Team
 
 Arbeta vidare med projektet  
 
+Majoriteten av alla [API](https://en.wikipedia.org/wiki/API)er idag är av typen [REST](https://en.wikipedia.org/wiki/Representational_state_transfer). Vi ser "[RESTful APIs in 100 Seconds](https://youtu.be/-MTSQjw5DrM)" (3 min). Sedan 
+Vi tittar också på olika demos med hjälp av öppna API'er.
+
+Ni testar själv att exprimentera med öppna API'er från [Publika API'er från Github](https://github.com/public-apis/public-apis?tab=readme-ov-file)
+
 ### Torsdag
 
 ### Fredag   
