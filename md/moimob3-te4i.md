@@ -274,6 +274,10 @@ Lägg till testning i er personliga PWA som ni skapade vecka 41. Konfigurera bå
 
 ### Tisdag   
 
+Gör klart implementeringen av tester i er personliga PWA och lämna in på Teams.  
+
+Arbeta vidare med projektet  
+
 ### Torsdag
 
 ### Fredag   
