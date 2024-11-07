@@ -60,6 +60,8 @@ Nu kan du besöka din nyinstallerade Drupal CMS i din webbläsare på URL:en som
 
 Många problem beror på att du befinner dig i fel katalog när du kör dina kommandon. Andra problem kan lösas om du kör "lando rebuild".  
 
+Någon enstaka elev har fått felet att certifikaten för projektet blivit kataloger istället för filer, detta löses genom att ta bort katalogerna och skapa filer med samma namn. Certifikaten finns i ~/.lando/certs/  
+
 Om du kör i Windows finns flera begränsningar som kan ställa till det. Här är några förslag på lösningar.       
 
 * Starta om! When in doubt, reboot!
