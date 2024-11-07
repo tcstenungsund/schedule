@@ -40,7 +40,7 @@ Vill du göra en installation i en container så krävs att du synkroniserar en 
 
         lando start
 
-> Får du 404-felmeddelanden här så kan det bero på att du installerat en Drupal-version via Snap, eller att du inte flyttat filerna så som det beskrivs i punkt 4  
+> Får du 404-felmeddelanden här så kan det bero på att du installerat en Docker-version via Snap, att du inte flyttat filerna så som det beskrivs i punkt 4 eller att du inte har kört lando init i din projektkatalog som det beskrivs i punkt 1 och 2  
 
 6) Nästa steg är att be Lando att installera Drush via Composer.  
 
