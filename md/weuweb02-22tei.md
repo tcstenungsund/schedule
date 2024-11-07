@@ -109,7 +109,7 @@ Vi ser avsnitten 27-29 (Taxonomy, 10min), 30-31 (Content, 10min) och 34-36 (Disp
 
 Vi ser avsnitten 37-40 (Views, 20min) och 43-47 (Moduler, 23min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".  
 
-[Uppgift: Moduler i Drupal](../assignments/weuweb02-moduler_i_drupal.md)  
+[Uppgift: Moduler i Drupal](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-moduler_i_drupal)  
 
 ## Vecka 46  
 
