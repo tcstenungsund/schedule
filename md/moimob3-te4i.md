@@ -87,7 +87,7 @@ Idag talar vi om ethical hacking, med [Kevin Mitnick](https://en.wikipedia.org/w
 ### Måndag   
 
 ###### The Fediverse      
-Som en backlash mot den misslyckade centraliseringen hos olika sociala medier skapades the Fediverse. Ett socialt media som bygger på samma principer som internet självt, att det är bra att sprida ut de viktiga resurserna och koppla ihop dem på distans. Det går att använda AI för att försöka göra Twitter/X drägligt med [MindFirewall](https://www.mindfw.com/), men i många lägen är det vettigare att bara flytta över till the Fediverse. För att hålla lite koll på vad som händer på the Fediverse kan du vända dig till [FediDB](https://fedidb.org/) och [Mastodon Instances](https://instances.social/) kan hjälpa dig att hitta en Mastodonserver att skapa ett konto på. Om du skaffar ett konto där vill du utan tvekan installera en pluggin för din webbläsare vid namn [Graze for Mastodon](https://graze.jaredzimmerman.com/). Webbklienten ni sett mig använda heter [Panphy](https://phanpy.social/#/).  
+Som en backlash mot den misslyckade centraliseringen hos olika sociala medier skapades the Fediverse. Ett socialt media som bygger på samma principer som internet självt, att det är bra att sprida ut de viktiga resurserna och koppla ihop dem på distans. Det går att använda AI för att försöka göra Twitter/𝕏 drägligt med [MindFirewall](https://www.mindfw.com/), men i många lägen är det vettigare att bara flytta över till the Fediverse. För att hålla lite koll på vad som händer på the Fediverse kan du vända dig till [FediDB](https://fedidb.org/) och [Mastodon Instances](https://instances.social/) kan hjälpa dig att hitta en Mastodonserver att skapa ett konto på. Om du skaffar ett konto där vill du utan tvekan installera en pluggin för din webbläsare vid namn [Graze for Mastodon](https://graze.jaredzimmerman.com/). Webbklienten ni sett mig använda heter [Panphy](https://phanpy.social/#/).  
 
 Slutprov på [JavaScript Essentials 1](https://www.netacad.com/courses/javascript-essentials-1)   
 
@@ -268,7 +268,7 @@ Notera att det finns olika standarder för vad man kallar tester på olika nivå
 
 [MDN Introduction to automated testing](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Automated_testing)   
 
-[Cain Maddox]([https://twitter.com/ctrlshifti/status/1307599545803575296](https://x.com/ctrlshifti/status/1307599545803575296)) på X uppmanar oss att sluta testa vår mjukvara, men Michael Lynch ger oss "[The Painless Way](https://mtlynch.io/painless-web-app-testing/)" att göra End-to-End Testing i mjukvaran [Cypress](https://www.cypress.io/). "[Cypress in 100 Seconds](https://youtu.be/BQqzfHQkREo)". (3 min)  
+[Cain Maddox]([https://twitter.com/ctrlshifti/status/1307599545803575296](https://x.com/ctrlshifti/status/1307599545803575296)) på 𝕏 uppmanar oss att sluta testa vår mjukvara, men Michael Lynch ger oss "[The Painless Way](https://mtlynch.io/painless-web-app-testing/)" att göra End-to-End Testing i mjukvaran [Cypress](https://www.cypress.io/). "[Cypress in 100 Seconds](https://youtu.be/BQqzfHQkREo)". (3 min)  
 
 Lägg till testning i er personliga PWA som ni skapade vecka 41. Konfigurera både axe-core och Cypress enligt ovan.  
 
