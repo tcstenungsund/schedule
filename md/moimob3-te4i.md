@@ -285,17 +285,33 @@ Ni testar själv att exprimentera med öppna API'er från [Publika API'er från 
 
 ### Torsdag
 
+Arbeta vidare med projektet  
+
 ### Fredag   
+
+Arbeta vidare med projektet  
+
+*Sociala medier-genomgång*: Många coola rekommendationer denna veckan! För lågupplösta 3D-modeller finns [Blockbench](https://www.blockbench.net/), behöver du redigera en PDF så finns [Stirling PDF](https://stirlingpdf.io/), vill du ha ett gratis alternativ till Copilot så finns [Codeium](https://codeium.com/), ett DRM-fritt alternativ till Audible är [Libro.fm](https://libro.fm) och det är värt att återigen se över ditt CSS-resetdokument, eftersom [Your CSS reset should be layered](https://mayank.co/blog/css-reset-layer/)!  
 
 ## Vecka 46   
 
 ### Måndag   
 
+Arbeta vidare med projektet  
+
 ### Tisdag   
+
+Arbeta vidare med projektet  
 
 ### Torsdag
 
+Arbeta vidare med projektet  
+
 ### Fredag   
+
+Arbeta vidare med projektet  
+
+*Sociala medier-genomgång*:  
 
 ## Vecka 47   
 
