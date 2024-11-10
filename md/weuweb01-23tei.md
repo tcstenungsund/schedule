@@ -177,13 +177,18 @@ Test your skills: [Backgrounds and borders](https://developer.mozilla.org/en-US/
 
 ## Vecka 45   
 
-###### CSS Box Model  
+**Ingen lektion**   
 
 ## Vecka 46   
 
-###### Värden och enheter + felsökning  
+Idag får vi en väldigt kort lektion, som ägnas åt att se två videoklipp på valfri plats!  
+
+* "[Block, Inline, and Inline-Block explained](https://youtu.be/x_i2gga-sYg)"  
+* "[Write less CSS by taking advantage of inheritence](https://youtu.be/OEUGRIjS08w)"  
 
 ## Vecka 47   
+
+###### Värden och enheter + felsökning  
 
 ###### Färgteori   
 
