@@ -131,6 +131,18 @@ Onsdag:
 Checkpoint Exam - kapitel 10 och 11.
 
 ## Vecka 46   
+Måndag:
+Lektionen bedrivs från valfri plats, ni får närvaro på lektionen när ni visar upp att ni gjort 12.6 - Module Exam.
+
+Läs igenom och gör de interaktiva övningarna i Module 12 - Mobile, Linux, and macOS Operating Systems.
+Gör även 12.6 - Module Exam.
+
+
+Onsdag:
+Praktisk laboration:
+
+
+
 
 
 ## Vecka 47   
