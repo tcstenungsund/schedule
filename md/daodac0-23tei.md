@@ -140,7 +140,8 @@ Gör även 12.6 - Module Exam.
 
 Onsdag:
 Praktisk laboration:
-
+Vi samlas vi nere på Hogia, INTE sal B14 alltså. Vi ska gå igenom och installera Windows på de bärbara datorer som vi fått av IT avdelningen.
+Eftersom kommunstyrelsen är på besök på Hogia mellan klockan 09-10 startar vi lektionen lite senare - 10.30.
 
 
 
