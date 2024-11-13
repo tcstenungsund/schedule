@@ -202,6 +202,8 @@ Idag får vi en väldigt kort lektion, som ägnas åt att se två videoklipp på
 
 <!-- 
 https://jasonsantamaria.com/ "On Web Typography"
+https://open-foundry.com/
+https://fontesk.com/license/ofl-gpl/
 -->
 
 ## Vecka 49   
