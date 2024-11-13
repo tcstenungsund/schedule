@@ -109,6 +109,10 @@ Vi ser avsnitten 27-29 (Taxonomy, 10min), 30-31 (Content, 10min) och 34-36 (Disp
 
 ## Vecka 46  
 
+Lektionen utgår  
+
+## Vecka 47   
+
 <!-- 
 
 𝕏
@@ -129,15 +133,12 @@ Vi ser avsnitten 56-57 (Rättigheter, 8min), 58-60 (Rapporter och Uppdatering, 1
 
 -->   
 
-## Vecka 47   
-
-
 ## Vecka 48   
 
-Prov på Grundkurs i CMS   
 
 ## Vecka 49   
 
+Prov på Grundkurs i CMS   
 
 ## Vecka 50   
 
