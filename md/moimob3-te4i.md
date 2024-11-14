@@ -303,6 +303,8 @@ Arbeta vidare med projektet
 
 Arbeta vidare med projektet  
 
+*Sociala medier-genomgång*: En utmärkt resurs för moodboards är [same.energy](https://same.energy/search?q=warm+sunset%2C+beach%2C+cliffs), två fantastiska fonter för wireframes är [BLOKK](https://github.com/los-gordos/BLOKK) och [Redacted Script](https://fonts.google.com/specimen/Redacted+Script), två djupdykningar som är värda att göra är "[Exploring the browser rendering process](https://abhisaha.com/blog/exploring-browser-rendering-process)" och "[Fluid Everything Else](https://css-tricks.com/fluid-everything-else/)" och slutligen har vi en bra resurs att skicka till släktingar med foliehatt, "[Is my phone listening to me?](https://www.digitalrightsbytes.org/topics/is-my-phone-listening-to-me)"   
+
 ### Torsdag
 
 Arbeta vidare med projektet  
@@ -310,8 +312,6 @@ Arbeta vidare med projektet
 ### Fredag   
 
 Arbeta vidare med projektet  
-
-*Sociala medier-genomgång*:  
 
 ## Vecka 47   
 
