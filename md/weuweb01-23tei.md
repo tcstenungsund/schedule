@@ -149,7 +149,7 @@ Välj era resurser. Kom ihåg [W3Fools](https://www.w3fools.com/) och även om s
 
 ## Vecka 43   
 
-Quiz: CSS Seletorer  
+Quiz: CSS Selektorer  
 
 Test your skills: [Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Selectors_Tasks)     
 
@@ -187,6 +187,8 @@ Idag får vi en väldigt kort lektion, som ägnas åt att se två videoklipp på
 * "[Write less CSS by taking advantage of inheritence](https://youtu.be/OEUGRIjS08w)"  
 
 ## Vecka 47   
+
+Quiz: CSS Box model, Cascade och Specificity   
 
 ###### Värden och enheter + felsökning        
 * MDN [CSS values and units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units)
