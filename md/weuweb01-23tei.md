@@ -188,9 +188,29 @@ Idag får vi en väldigt kort lektion, som ägnas åt att se två videoklipp på
 
 ## Vecka 47   
 
-###### Värden och enheter + felsökning  
+###### Värden och enheter + felsökning        
+* MDN [CSS values and units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units)
+* MDN [Sizing items in CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Sizing_items_in_CSS)
+* MDN [Debugging CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Debugging_CSS)                 
+* MDN [Organizing your CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Organizing) (Överkurs: Other tools that can help)                
+* MDN [Advanced styling effects](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Advanced_styling_effects) (Överkurs)          
 
-###### Färgteori   
+Det är lurigt att välja rätt enhet, då det finns så många. Webbutvecklaren Kevin Powell hjälper oss besvara frågan "[What length CSS unit should you use?](https://whatunit.com/)", och mitt råd är att du kör _em_ om du inte definitivt vet att du behöver en annan enhet.     
+
+Test your skills: [Sizing](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Sizing_tasks)              
+
+###### Färgteori                      
+Det finns många färger, vilket vi kan se på ett "[Color wheel](https://en.wikipedia.org/wiki/Color_wheel)". Färger har också olika betydelser på olika platser, enligt "[Colours In Culture](https://informationisbeautiful.net/visualizations/colours-in-cultures/)".      
+
+Det finns många sätt att ange färger på (se "[MDN Color](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value)"), de två vi fokuserar på är HEX och OKLCH. Klippet "[What The Heck Is A Hex Value Anyway?](https://cgi.tutsplus.com/tutorials/what-the-heck-is-a-hex-value-anyway--ae-11932)" (4:15) ger oss bakgrunden till hexvärden och "[HEXplorer](https://codepen.io/robdimarzo/full/xxZgKOR)" illustrerar dem. Artikeln "[Why we moved from RGB and HSL](https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl)" förklarar varför man bör använda oklch och [OKLCH Color Picker & Converter](https://oklch.com) hjälper oss att göra det.         
+
+Test your skills: [Values and units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_tasks)           
+
+Hur väljer man färg? Följ råden i "[How to Choose Colors (Easy 3-Step Process)](https://youtu.be/KMS3VwGh3HY)" och "[The 60:30:10 design rule for web design](https://yuricodesbot.hashnode.dev/the-603010-color-rule-for-web-design)". Verktyg som "[ColorKit](https://colorkit.co/)" kan hjälpa oss hitta nya kombinationer, men vi måste alltid kontrollera kontrasten och sedan konvertera till OKLCH.        
+
+Kontrast är oerhört viktigt, vilket "[Contrast Rebellion](https://contrastrebellion.com/)" talar om för oss, och på "[Odd Contrast](https://www.oddcontrast.com/)" kan vi testa våra färger. (Läs mer och gör interaktiva övningar på "[Color & Contrast](https://colorandcontrast.com/)".)        
+
+Uppgift: [Fundamental CSS comprehension](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/webweu01-fundamental_css_comprehension)                
 
 <!-- 
 [Tänk på läsbarheten på era hemsidor](https://www.gp.se/fria-ord/ska-fettforaktet-tryckas-ner-i-halsen-pa-vara-barn-sa-fort-de-lar-sig-lasa.757e2417-7ee9-4165-9e99-da23b8202d3c)
