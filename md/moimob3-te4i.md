@@ -317,6 +317,14 @@ Arbeta vidare med projektet
 
 ### Måndag   
 
+###### Agil utveckling med Scrum/Kanban  
+
+Det finns många sätt att organisera mjukvaruutveckling i grupp. "[Waterfall](https://en.wikipedia.org/wiki/Waterfall_model)" har hängt med sedan 50-talet. Ett av de stora alternativen är "[Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development))". Scrum går hand-i-hand med "[CDIO](https://en.wikipedia.org/wiki/CDIO_Initiative)" vilket är en allt mer vanlig modell.  
+
+Vi börjar med att se "[SCRUM: Twice the Work, Half the Time](https://youtu.be/RaaBrPCo_Mw)" (11 min) och "[Introduction to Scrum](https://youtu.be/9TycLR0TqFA)" (7 min), sedan talar vi om "[5 Scrum Meeting Best Practices: Master the Daily Stand-Up](https://sprint.ly/blog/scrum-meeting-best-practices/)" och avslutar med att se "[Daily Scrum in a Nutshell](https://youtu.be/MARBZbCw9tA)" (3 min). Nu har vi teorin.      
+
+För att förstå hur vi skall tillämpa Scrum i praktiken ser vi "[How to Use GitHub for Automated Kanban Project Management](https://youtu.be/YVFa5VljCDY)" (12 min) och tittar på "[git-standup](https://github.com/kamranahmedse/git-standup)".    
+
 ### Tisdag   
 
 ### Torsdag
