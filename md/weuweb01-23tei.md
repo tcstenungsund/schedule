@@ -206,9 +206,11 @@ Det finns många färger, vilket vi kan se på ett "[Color wheel](https://en.wik
 
 Det finns många sätt att ange färger på (se "[MDN Color](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value)"), de två vi fokuserar på är HEX och OKLCH. Klippet "[What The Heck Is A Hex Value Anyway?](https://cgi.tutsplus.com/tutorials/what-the-heck-is-a-hex-value-anyway--ae-11932)" (4 min) ger oss bakgrunden till hexvärden och "[HEXplorer](https://codepen.io/robdimarzo/full/xxZgKOR)" illustrerar dem. [OKLCH Color Picker & Converter](https://oklch.com) hjälper oss förstå OKLCH.  
 
+Min rekommendation är att du håller dig till hex eller OKLCH, och skriver på det här formatet: oklch(0% 0 0 / 42%)
+
 Test your skills: [Values and units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_tasks)    
 
-Hur väljer man färg? Följ råden i "[How to Choose Colors (Easy 3-Step Process)](https://youtu.be/KMS3VwGh3HY)" (7 min) och "[The 60–30–10 Rule](https://uxplanet.org/the-60-30-10-rule-a-simple-way-to-creating-catchy-user-interfaces-e9e2cf957213)". Använd verktyg som [The Good Colors](https://thegoodcolors.com/) och "[ColorKit](https://colorkit.co/)" för att hjälpa dig hitta nya kombinationer, men då behöver vi konvertera till OKLCH efteråt.  
+Hur väljer man färg? Följ råden i "[How to Choose Colors (Easy 3-Step Process)](https://youtu.be/KMS3VwGh3HY)" (7 min) och "[The 60–30–10 Rule](https://uxplanet.org/the-60-30-10-rule-a-simple-way-to-creating-catchy-user-interfaces-e9e2cf957213)". Använd verktyg som [The Good Colors](https://thegoodcolors.com/) och "[RandomA11y](https://randoma11y.com/)" för att hjälpa dig hitta nya kombinationer.  
 
 Kontrast är oerhört viktigt, vilket "[Contrast Rebellion](https://contrastrebellion.com/)" talar om för oss, och på "[Odd Contrast](https://www.oddcontrast.com/)" kan vi testa våra färger. (Läs mer och gör interaktiva övningar på "[Color & Contrast](https://colorandcontrast.com/)".)   
 
