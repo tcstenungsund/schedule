@@ -206,7 +206,7 @@ Det finns många färger, vilket vi kan se på ett "[Color wheel](https://en.wik
 
 Det finns många sätt att ange färger på (se "[MDN Color](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value)"), de två vi fokuserar på är HEX och OKLCH. Klippet "[What The Heck Is A Hex Value Anyway?](https://cgi.tutsplus.com/tutorials/what-the-heck-is-a-hex-value-anyway--ae-11932)" (4 min) ger oss bakgrunden till hexvärden och "[HEXplorer](https://codepen.io/robdimarzo/full/xxZgKOR)" illustrerar dem. [OKLCH Color Picker & Converter](https://oklch.com) hjälper oss förstå OKLCH.  
 
-Min rekommendation är att du håller dig till hex eller OKLCH, och skriver på det här formatet: oklch(0% 0 0 / 42%)
+Min rekommendation är att du håller dig till hex eller OKLCH, och skriver på det här formatet: _oklch(0% 0 0 / 42%)_  
 
 Test your skills: [Values and units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_tasks)    
 
