@@ -327,9 +327,24 @@ Vi börjar med att se "[SCRUM: Twice the Work, Half the Time](https://youtu.be/R
 För att förstå hur vi skall tillämpa Scrum i praktiken ser vi "[How to Use GitHub for Automated Kanban Project Management](https://youtu.be/YVFa5VljCDY)" (12 min) och tittar på "[git-standup](https://github.com/kamranahmedse/git-standup)".    
 --> 
 
-### Tisdag   
+### Tisdag  
+
+Pratar om [Millenium](https://sv.wikipedia.org/wiki/Millennium_(journalsystem)) och hur IT-system / Webbtjänster kan fungera och vad konsekvenser blir om systemen inte fungerar eller har dåliga gränssnitt.
 
 ### Torsdag
+
+Vi pratar WCAG (Web Content Accessibility Guidelines)! 
+Internet är för alla och i många fall finns viktig information som alla ska kunna ta del av, därför har EU nu lagsitftat om WCAG som träder i kraft 2025. Vi tittar närmare på olika punkter som finns i riktlinjerna.
+Tittar även på olika sidor och går igenom exempel på vad som är okej och inte okej.
+
+[Lista på bra exempel där hemsidor följer bl.a. WCAG](https://www.audioeye.com/post/accessible-website-design-examples/)
+
+[Nyhet från DIGG om WCAG](https://www.digg.se/om-oss/nyheter/digital-tillganglighet/nyheter/2023-10-12-wcag-har-uppdaterats---vad-innebar-det-for-dig-som-offentlig-aktor)
+
+[W3: Web Content Accessibility Guidelines (WCAG) 2.1
+](https://www.w3.org/TR/2023/REC-WCAG21-20230921/)
+
+[Ett verktyg för att undersöka om en hemsida följer riktlinjerna](https://www.accessibilitychecker.org/)
 
 ### Fredag   
 
