@@ -317,15 +317,7 @@ Arbeta vidare med projektet
 
 ### Måndag   
 
-<!-- 
-###### Agil utveckling med Scrum/Kanban  
-
-Det finns många sätt att organisera mjukvaruutveckling i grupp. "[Waterfall](https://en.wikipedia.org/wiki/Waterfall_model)" har hängt med sedan 50-talet. Ett av de stora alternativen är "[Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development))". Scrum går hand-i-hand med "[CDIO](https://en.wikipedia.org/wiki/CDIO_Initiative)" vilket är en allt mer vanlig modell.  
-
-Vi börjar med att se "[SCRUM: Twice the Work, Half the Time](https://youtu.be/RaaBrPCo_Mw)" (11 min) och "[Introduction to Scrum](https://youtu.be/9TycLR0TqFA)" (7 min), sedan talar vi om "[5 Scrum Meeting Best Practices: Master the Daily Stand-Up](https://sprint.ly/blog/scrum-meeting-best-practices/)" och avslutar med att se "[Daily Scrum in a Nutshell](https://youtu.be/MARBZbCw9tA)" (3 min). Nu har vi teorin.      
-
-För att förstå hur vi skall tillämpa Scrum i praktiken ser vi "[How to Use GitHub for Automated Kanban Project Management](https://youtu.be/YVFa5VljCDY)" (12 min) och tittar på "[git-standup](https://github.com/kamranahmedse/git-standup)".    
---> 
+Liten API-repetition med [You Give REST a Bad Name](https://youtu.be/nSKp2StlS6s) och [Faster apps with JSON.parse](https://youtu.be/ff4fgQxPaO0).  
 
 ### Tisdag  
 
@@ -348,25 +340,51 @@ Tittar även på olika sidor och går igenom exempel på vad som är okej och in
 
 ### Fredag   
 
+Två tips för färger är [The good colors](https://thegoodcolors.com/) och [RandomA11y](https://randoma11y.com/).  
+
+*Sociala medier-genomgång*:  
+
 ## Vecka 48   
 
 ### Måndag   
 
+Arbeta vidare med projektet
+
 ### Tisdag   
+
+Arbeta vidare med projektet
 
 ### Torsdag
 
+Arbeta vidare med projektet
+
 ### Fredag   
+
+Arbeta vidare med projektet
+
+*Sociala medier-genomgång*:  
 
 ## Vecka 49   
 
 ### Måndag   
 
+<!-- 
+###### Agil utveckling med Scrum/Kanban  
+
+Det finns många sätt att organisera mjukvaruutveckling i grupp. "[Waterfall](https://en.wikipedia.org/wiki/Waterfall_model)" har hängt med sedan 50-talet. Ett av de stora alternativen är "[Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development))". Scrum går hand-i-hand med "[CDIO](https://en.wikipedia.org/wiki/CDIO_Initiative)" vilket är en allt mer vanlig modell.  
+
+Vi börjar med att se "[SCRUM: Twice the Work, Half the Time](https://youtu.be/RaaBrPCo_Mw)" (11 min) och "[Introduction to Scrum](https://youtu.be/9TycLR0TqFA)" (7 min), sedan talar vi om "[5 Scrum Meeting Best Practices: Master the Daily Stand-Up](https://sprint.ly/blog/scrum-meeting-best-practices/)" och avslutar med att se "[Daily Scrum in a Nutshell](https://youtu.be/MARBZbCw9tA)" (3 min). Nu har vi teorin.      
+
+För att förstå hur vi skall tillämpa Scrum i praktiken ser vi "[How to Use GitHub for Automated Kanban Project Management](https://youtu.be/YVFa5VljCDY)" (12 min) och tittar på "[git-standup](https://github.com/kamranahmedse/git-standup)".    
+--> 
+
 ### Tisdag   
 
 ### Torsdag
 
 ### Fredag   
+
+*Sociala medier-genomgång*: 
 
 ## Vecka 50   
 
@@ -378,6 +396,8 @@ Tittar även på olika sidor och går igenom exempel på vad som är okej och in
 
 ### Fredag   
 
+*Sociala medier-genomgång*: 
+
 ## Vecka 51   
 
 ### Måndag   
@@ -387,6 +407,8 @@ Tittar även på olika sidor och går igenom exempel på vad som är okej och in
 ### Torsdag
 
 ### Fredag   
+
+*Sociala medier-genomgång*: 
 
 ## Vecka 52   
 
