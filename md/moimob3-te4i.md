@@ -342,7 +342,7 @@ Tittar även på olika sidor och går igenom exempel på vad som är okej och in
 
 Två tips för färger är [The good colors](https://thegoodcolors.com/) och [RandomA11y](https://randoma11y.com/).  
 
-*Sociala medier-genomgång*:  
+*Sociala medier-genomgång*: Konnor Rogers visar hur [System Colors](https://ruby.social/@konnorrogers/113522488460331252) ser ut, Ethan Marcotte's berämda bok om [Responsive Design](https://ethanmarcotte.com/books/responsive-design-patterns-and-principles/) är numera gratis och det finns en riktigt bra [Accessibility testing guide](https://github.com/alphagov/wcag-primer/wiki) på github. 
 
 ## Vecka 48   
 
