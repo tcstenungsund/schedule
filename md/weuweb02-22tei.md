@@ -153,11 +153,12 @@ Vi ser avsnitten 56-57 (Rättigheter, 8min), 58-60 (Rapporter och Uppdatering, 1
 
 ###### Teman och subteman i en CMS  
 
-Prov på Grundkurs i CMS   
+
+Uppgift: CMS subtheme  
 
 ## Vecka 50  
 
-Uppgift: CMS subtheme  
+Prov på Grundkurs i CMS   
 
 ## Vecka 51  
 
