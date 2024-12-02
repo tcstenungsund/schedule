@@ -263,18 +263,20 @@ Slutför de två påbörjade uppgifterna från vecka 48
 <!--  
 *Keywords* - Dessa värdeord är begrepp och ord som representerar projektet. Vad vill du ingjuta för känslor hos besökaren? Om sidan var en skådespelare, vem skulle den vara?    
 
+"[Using Keywords To Define A Visual Design](https://youtu.be/DDiEgwYMLhc)" (9 min)  
+
 *Comp/mockup* - En [comprehensive layout](https://en.wikipedia.org/wiki/Comprehensive_layout) är en bild av den färdiga sidan. Den tar ganska lång tid att skapa och är inte så flexibel.   
 
 *Wireframe* - En skiss av layouten på sidan. Innehåller inte rätt text, bilder, typsnitt eller färger. "[How to wireframe a website](https://youtu.be/PmmQjLqJQlY)" (4:55), "[Why and How You Should Create Wireframes With Others](https://boagworld.com/season/lean-ux/episode/create-wireframes/)" och "[What is a Wireframe](https://youtu.be/T0vt3nLZKks)" (5:09).    
 
-*Moodboard* - Ett kollage bestående av bilder, rubriker och texturer. Förmedlar färger, känslor och strukturer. "[How moodboards can save time, money and your sanity!](https://boagworld.com/design/mood/)", "[Generating web design moodboards through collaboration](https://boagworld.com/design/moodboards/)" och "[How To Make A Mood Board](https://youtu.be/JiHkYXDzamI)" (1:44).   
+*Moodboard* - Ett kollage bestående av bilder, rubriker och texturer. Förmedlar färger, känslor och strukturer. "[How To Make A Mood Board](https://youtu.be/JiHkYXDzamI)" (1:44), "[How moodboards can save time, money and your sanity!](https://boagworld.com/design/mood/)", "[Generating web design moodboards through collaboration](https://boagworld.com/design/moodboards/)" och "[How to create a mood board](https://youtu.be/cSKVI-FKLnA)" (2 min).  
 
-Alla dessa verktyg är bäst att göra fysiskt, men går även att göra digitalt. För comps rekommenderas [GIMP](https://www.gimp.org/), för wirefames [wireframe.cc](https://wireframe.cc/) och för annan design [Penpot](https://penpot.app/).   
+Alla dessa verktyg är bäst att göra fysiskt, men går även att göra digitalt. För comps rekommenderas [GIMP](https://www.gimp.org/), för wirefames [wireframe.cc](https://wireframe.cc/) och för annan design [Penpot](https://penpot.app/).  
 -->  
 
 ## Vecka 50   
 
-Repetition av CSS + frågestund  
+Frågestund och repetition av CSS  
 
 Prov: CSS  
 
