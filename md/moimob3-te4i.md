@@ -362,11 +362,13 @@ Arbeta vidare med projektet
 
 Arbeta vidare med projektet
 
-*Sociala medier-genomgång*:  
+*Sociala medier-genomgång*: Läs in vilken text som helst med hjälp av [Coconote AI](https://coconote.app/brainrot), bygg och felsök ditt API med hjälp av [Yaak](https://yaak.app/) och se över din CSS med hjälp av [Beautiful focus outlines](https://medienbaecker.com/articles/focus-outlines)!     
 
 ## Vecka 49   
 
 ### Måndag   
+
+Arbeta vidare med projektet  
 
 <!-- 
 ###### Agil utveckling med Scrum/Kanban  
@@ -380,9 +382,15 @@ För att förstå hur vi skall tillämpa Scrum i praktiken ser vi "[How to Use G
 
 ### Tisdag   
 
+Arbeta vidare med projektet  
+
 ### Torsdag
 
+Arbeta vidare med projektet  
+
 ### Fredag   
+
+Arbeta vidare med projektet  
 
 *Sociala medier-genomgång*: 
 
