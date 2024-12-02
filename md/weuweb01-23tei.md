@@ -260,10 +260,8 @@ Genomgång av provet från vecka 41
 Slutför de två påbörjade uppgifterna från vecka 48  
 
 ###### Planeringsverktyg   
-<!--  
-*Keywords* - Dessa värdeord är begrepp och ord som representerar projektet. Vad vill du ingjuta för känslor hos besökaren? Om sidan var en skådespelare, vem skulle den vara?    
 
-"[Using Keywords To Define A Visual Design](https://youtu.be/DDiEgwYMLhc)" (9 min)  
+*Keywords* - Dessa värdeord är begrepp och ord som representerar projektet. Vad vill du ingjuta för känslor hos besökaren? Om sidan var en skådespelare, vem skulle den vara? "[Using Keywords To Define A Visual Design](https://youtu.be/DDiEgwYMLhc)" (9 min)  
 
 *Comp/mockup* - En [comprehensive layout](https://en.wikipedia.org/wiki/Comprehensive_layout) är en bild av den färdiga sidan. Den tar ganska lång tid att skapa och är inte så flexibel.   
 
@@ -272,13 +270,14 @@ Slutför de två påbörjade uppgifterna från vecka 48
 *Moodboard* - Ett kollage bestående av bilder, rubriker och texturer. Förmedlar färger, känslor och strukturer. "[How To Make A Mood Board](https://youtu.be/JiHkYXDzamI)" (1:44), "[How moodboards can save time, money and your sanity!](https://boagworld.com/design/mood/)", "[Generating web design moodboards through collaboration](https://boagworld.com/design/moodboards/)" och "[How to create a mood board](https://youtu.be/cSKVI-FKLnA)" (2 min).  
 
 Alla dessa verktyg är bäst att göra fysiskt, men går även att göra digitalt. För comps rekommenderas [GIMP](https://www.gimp.org/), för wirefames [wireframe.cc](https://wireframe.cc/) och för annan design [Penpot](https://penpot.app/).  
--->  
 
 ## Vecka 50   
 
 Frågestund och repetition av CSS  
 
 Prov: CSS  
+
+Läxa till vecka 51...  
 
 ## Vecka 51  
 
