@@ -382,11 +382,18 @@ För att förstå hur vi skall tillämpa Scrum i praktiken ser vi "[How to Use G
 
 ### Tisdag   
 
-Arbeta vidare med projektet  
+Arbeta vidare med projektet
+På MOIMOB-lektionen jobbar ni vidare på egen hand då vi lärare är på Nösnäsdagarna.
 
 ### Torsdag
 
-Arbeta vidare med projektet  
+Idag pratar vi om vad för funktioner i telefonen man kan använda sig av till sin PWA. Funktioner så som kamera, geolocation, wake lock osv.
+[Fireship](https://www.youtube.com/watch?v=ppwagkhrZJs) tar upp sju olika exempel på funktioner som vi pratar igenom. Vi tittar också närmare på sidan What [PWA Can Do Today](https://whatpwacando.today/) och går igenom några exempel och vad för användning dessa kan ha för apparna ni skapar. Vi pratar även om hur dessa funktioner kan [ställa till det för SOS, polis, räddningstjänst och ambulans.](https://www.svt.se/nyheter/lokalt/vasterbotten/sos-larmar-allt-fler-falsklarm-pa-grund-av-ny-teknik)
+
+Vi utrymde också lokalerna i en brandövning på Hogia. Alla klarade sig oskadade.
+🏃🏃🏃🏃       🔥🧑‍🚒🧑‍🚒🚒🚒🚒
+
+Arbeta vidare med projektet
 
 ### Fredag   
 
