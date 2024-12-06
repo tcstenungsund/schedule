@@ -30,7 +30,7 @@ Presentation i en fil eller länk till presentationen om ni använt ett webbverk
 
 ### Var skall de lämnas in?
 
-I Haldor...     
+I Teams
 
 ---      
 
