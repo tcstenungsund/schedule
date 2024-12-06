@@ -399,7 +399,7 @@ Arbeta vidare med projektet
 
 Arbeta vidare med projektet  
 
-*Sociala medier-genomgång*: [Language of parts bookmarklet](https://beantin.net/language-of-parts-bookmarklet/) 
+*Sociala medier-genomgång*: [Language of parts bookmarklet](https://beantin.net/language-of-parts-bookmarklet/) och [One of Those “Onboarding” UIs, With Anchor Positioning](https://css-tricks.com/one-of-those-onboarding-uis-with-anchor-positioning/)  
 
 ## Vecka 50   
 
