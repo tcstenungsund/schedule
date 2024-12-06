@@ -399,7 +399,7 @@ Arbeta vidare med projektet
 
 Arbeta vidare med projektet  
 
-*Sociala medier-genomgång*: 
+*Sociala medier-genomgång*: [Language of parts bookmarklet](https://beantin.net/language-of-parts-bookmarklet/) 
 
 ## Vecka 50   
 
@@ -408,6 +408,8 @@ Arbeta vidare med projektet
 ### Tisdag   
 
 ### Torsdag
+
+Releaseparty för 1.0!!!  
 
 ### Fredag   
 
