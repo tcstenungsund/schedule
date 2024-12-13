@@ -11,7 +11,7 @@ Kurstart för alla TE4-inriktningar.
 ###### Mjukvaruhistorik      
 
 Vi lyssnar till låtarna "[Eternal Flame](https://www.gnu.org/fun/jokes/eternal-flame.html)" och "[Write in Go](https://youtu.be/LJvEIjRBSDA)", för att få chansen att tala lite om olika programmeringsspråk. Vad är skillnaden mellan kompilerade språk och scriptspråk? Vilka språk körs på server och vilka på klient? Vi ser också videon "[Most Popular Programming Languages | 1965-2020](https://youtu.be/sNURYeD4M5Y)". Vad hände med COBOL? Det förklarar "[The World Depends on 60-Year-Old Code No One Knows Anymore](https://youtu.be/LWYmGhIFy-A)" (10 min) för oss.  
-
+<!-- "[35 Things Every Programmer Should Know](https://youtu.be/ODp-yivAUnY)" (18 min) -->
 ----   
 
 Hämtar ut datorer.   
@@ -22,7 +22,7 @@ Kurstart med kursinformation om Mobila Applikationer, Gränssnittsdesign och Web
 * CSS
 
 Instruktioner finns i vårt Teams-rum.
-
+https://youtu.be/ODp-yivAUnY
 ### Torsdag  
 
 Introduktion i JavaScript. Ser på två klipp från Fireship. [The Weird History of JavaScript](https://www.youtube.com/watch?v=Sh6lK57Cuk4&t=463s) och [JavaScript for the haters](https://www.youtube.com/watch?v=aXOChLn5ZdQ).    
@@ -405,27 +405,45 @@ Arbeta vidare med projektet
 
 ### Måndag   
 
+Arbeta vidare med projektet  
+
 ### Tisdag   
 
+Arbeta vidare med projektet  
+
 ### Torsdag
+
+Arbeta vidare med projektet  
 
 Releaseparty för 1.0!!!  
 
 ### Fredag   
 
-*Sociala medier-genomgång*: 
+Arbeta vidare med projektet  
+
+*Sociala medier-genomgång*: "[35 Things Every Programmer Should Know](https://youtu.be/ODp-yivAUnY)" (18 min)
 
 ## Vecka 51   
 
 ### Måndag   
 
+Arbeta vidare med projektet  
+
 ### Tisdag   
+
+Arbeta vidare med projektet  
+
+*Sociala medier-genomgång*: 
 
 ### Torsdag
 
+Arbeta vidare med projektet  
+
+Teknisk projektpresentation för lärarna  
+
 ### Fredag   
 
-*Sociala medier-genomgång*: 
+Terminsavslutning  
 
 ## Vecka 52   
 
