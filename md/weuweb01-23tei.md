@@ -277,11 +277,11 @@ Frågestund och repetition av CSS
 
 Prov: CSS  
 
-Läxa till vecka 51...  
+Läxa till vecka 51: Ta med material till moodboardövningen!  
 
 ## Vecka 51  
 
-Fortsättning planeringsverktyg...  
+Praktisk uppgift: Moodboard  
 
 <!-- 
 caniuse.com 
