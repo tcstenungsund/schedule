@@ -281,7 +281,8 @@ Läxa till vecka 51: Ta med material till moodboardövningen!
 
 ## Vecka 51  
 
-Praktisk uppgift: Moodboard  
+[Uppgift: Planeringsverktyg Moodboard](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb01-planeringsverktyg_moodboard)  
+
 
 <!-- 
 caniuse.com 
