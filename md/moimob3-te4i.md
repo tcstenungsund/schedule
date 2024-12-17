@@ -373,16 +373,6 @@ Arbeta vidare med projektet
 
 Arbeta vidare med projektet  
 
-<!-- 
-###### Agil utveckling med Scrum/Kanban  
-
-Det finns många sätt att organisera mjukvaruutveckling i grupp. "[Waterfall](https://en.wikipedia.org/wiki/Waterfall_model)" har hängt med sedan 50-talet. Ett av de stora alternativen är "[Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development))". Scrum går hand-i-hand med "[CDIO](https://en.wikipedia.org/wiki/CDIO_Initiative)" vilket är en allt mer vanlig modell.  
-
-Vi börjar med att se "[SCRUM: Twice the Work, Half the Time](https://youtu.be/RaaBrPCo_Mw)" (11 min) och "[Introduction to Scrum](https://youtu.be/9TycLR0TqFA)" (7 min), sedan talar vi om "[5 Scrum Meeting Best Practices: Master the Daily Stand-Up](https://sprint.ly/blog/scrum-meeting-best-practices/)" och avslutar med att se "[Daily Scrum in a Nutshell](https://youtu.be/MARBZbCw9tA)" (3 min). Nu har vi teorin.      
-
-För att förstå hur vi skall tillämpa Scrum i praktiken ser vi "[How to Use GitHub for Automated Kanban Project Management](https://youtu.be/YVFa5VljCDY)" (12 min) och tittar på "[git-standup](https://github.com/kamranahmedse/git-standup)".    
---> 
-
 ### Tisdag   
 
 Arbeta vidare med projektet
@@ -436,7 +426,7 @@ Arbeta vidare med projektet
 
 Arbeta vidare med projektet  
 
-*Sociala medier-genomgång*: 
+*Sociala medier-genomgång*: [How to learn API?](https://newsletter.techworld-with-milan.com/p/how-to-learn-api), [Easing Wizard](https://easingwizard.com/), [A CheatSheet of 128 CheatSheets for Developers](https://dev.to/devmount/a-cheatsheet-of-128-cheatsheets-for-developers-f4m), [plugin till VSCodium som visar git-historik](https://phpc.social/@davidbisset/113552180868702982), [How https works](https://howhttps.works/why-do-we-need-https/), [Open source router firmware project OpenWrt ships its own entirely repairable hardware](https://www.theregister.com/2024/12/02/openwrt_one_foss_wifi_router/), [Tweaking One Set of Colors for Light/Dark Modes](https://frontendmasters.com/blog/tweaking-one-set-of-colors-for-light-dark-modes/) och [Why Accessibility Matters for Your SEO Strategy](https://www.a11y-collective.com/blog/seo-and-accessibility/).   
 
 ### Torsdag
 
@@ -453,6 +443,16 @@ Terminsavslutning
 **VINTERLOV**   
 
 ## Vecka 2   
+
+<!-- 
+###### Agil utveckling med Scrum/Kanban  
+
+Det finns många sätt att organisera mjukvaruutveckling i grupp. "[Waterfall](https://en.wikipedia.org/wiki/Waterfall_model)" har hängt med sedan 50-talet. Ett av de stora alternativen är "[Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development))". Scrum går hand-i-hand med "[CDIO](https://en.wikipedia.org/wiki/CDIO_Initiative)" vilket är en allt mer vanlig modell.  
+
+Vi börjar med att se "[SCRUM: Twice the Work, Half the Time](https://youtu.be/RaaBrPCo_Mw)" (11 min) och "[Introduction to Scrum](https://youtu.be/9TycLR0TqFA)" (7 min), sedan talar vi om "[5 Scrum Meeting Best Practices: Master the Daily Stand-Up](https://sprint.ly/blog/scrum-meeting-best-practices/)" och avslutar med att se "[Daily Scrum in a Nutshell](https://youtu.be/MARBZbCw9tA)" (3 min). Nu har vi teorin.      
+
+För att förstå hur vi skall tillämpa Scrum i praktiken ser vi "[How to Use GitHub for Automated Kanban Project Management](https://youtu.be/YVFa5VljCDY)" (12 min) och tittar på "[git-standup](https://github.com/kamranahmedse/git-standup)".    
+--> 
 
 
 ## Vecka 3   
