@@ -31,7 +31,7 @@ Hitta på ett kreativt namn på ditt subtheme, ett namn som harmonierar med den 
 
 Om du inte redan installerat Docker och Lando, gör det genom att följa instruktionerna i uppgiften [Workspace setup](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-workspace_setup). Skapa sedan en ny projektkatalog och starta en ny utvecklingsmiljö där, med hjälp av instruktionerna i uppgiften [CMS Install](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-cms_install). Välj den senaste stabila versionen av Drupal.  
 
-Installera temat [Barrio](https://www.drupal.org/project/bootstrap_barrio) samt modulen [Devel](https://www.drupal.org/project/devel), [Twig Tweak](https://www.drupal.org/project/twig_tweak) och [Mix](https://www.drupal.org/project/mix). Hitta även minst 1 modul till som du kan använda för att visa upp någonting coolt på förstasidan av din webbplats. Generera exempeldata med Devel (eller använd copy från till exempel Wikipedia).  
+Installera temat [Barrio](https://www.drupal.org/project/bootstrap_barrio) samt modulerna [Devel](https://www.drupal.org/project/devel) och [Twig Tweak](https://www.drupal.org/project/twig_tweak). Hitta även minst 1 modul till som du kan använda för att visa upp någonting coolt på förstasidan av din webbplats. Generera exempeldata med Devel (eller använd copy från till exempel Wikipedia).  
 
 Logga in på GitHub.com och skapa ett nytt publikt repository med exakt ditt subtheme namn som repository-namn. Lägg till en README.md-fil och beskriv ditt projekt. 
 
