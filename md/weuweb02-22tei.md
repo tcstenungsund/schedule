@@ -182,6 +182,17 @@ Prov på Grundkurs i CMS
 
 ## Vecka 2   
 
+<!-- 
+
+[Hur sätter lärare betyg?](https://youtu.be/Zef4M5J94Wk) (6 min)  
+
+[Examensmål för Teknikprogrammet](https://www.skolverket.se/undervisning/gymnasieskolan/laroplan-program-och-amnen-i-gymnasieskolan/gymnasieprogrammen/program?url=-996270488%2Fsyllabuscw%2Fjsp%2Fprogram.htm%3FprogramCode%3DTE001%26tos%3Dgy&sv.url=12.5dfee44715d35a5cdfa9295#anchor_1)  
+
+-- 
+
+[Tävling: CSS Zen Garden](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb_css-zen-garden)  
+
+-->
 
 ## Vecka 3   
 
