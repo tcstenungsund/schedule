@@ -182,17 +182,13 @@ Prov på Grundkurs i CMS
 
 ## Vecka 2   
 
-<!-- 
+Välkomna åter! 
 
-[Hur sätter lärare betyg?](https://youtu.be/Zef4M5J94Wk) (6 min)  
+En titt på [Examensmål för Teknikprogrammet](https://www.skolverket.se/undervisning/gymnasieskolan/laroplan-program-och-amnen-i-gymnasieskolan/gymnasieprogrammen/program?url=-996270488%2Fsyllabuscw%2Fjsp%2Fprogram.htm%3FprogramCode%3DTE001%26tos%3Dgy&sv.url=12.5dfee44715d35a5cdfa9295#anchor_1) och skolverkets syfte med kursen Webbutveckling 2. Hur lär man sig smartare, utan att behöva lägga en massa mer energi och tid på det? Vi repeterar vad vi gått igenom hittills och tar en titt på vad vi kommer ägna våren åt. Dessutom, hur utvärderas det du gör och [Hur sätter lärare betyg?](https://youtu.be/Zef4M5J94Wk) (6 min)  
 
-[Examensmål för Teknikprogrammet](https://www.skolverket.se/undervisning/gymnasieskolan/laroplan-program-och-amnen-i-gymnasieskolan/gymnasieprogrammen/program?url=-996270488%2Fsyllabuscw%2Fjsp%2Fprogram.htm%3FprogramCode%3DTE001%26tos%3Dgy&sv.url=12.5dfee44715d35a5cdfa9295#anchor_1)  
-
--- 
+--  
 
 [Tävling: CSS Zen Garden](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb_css-zen-garden)  
-
--->
 
 ## Vecka 3   
 
