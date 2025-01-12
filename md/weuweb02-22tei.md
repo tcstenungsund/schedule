@@ -192,12 +192,15 @@ En titt på [Examensmål för Teknikprogrammet](https://www.skolverket.se/underv
 
 ## Vecka 3   
 
+###### Versionshantering  
 
 ## Vecka 4   
 
+###### Arbetsflöde  
 
 ## Vecka 5   
 
+###### Projektplanering  
 
 ## Vecka 6   
 
@@ -208,51 +211,67 @@ En titt på [Examensmål för Teknikprogrammet](https://www.skolverket.se/underv
 
 ## Vecka 8   
 
+Stora projektet  
 
 ## Vecka 9   
 
+Stora projektet  
 
 ## Vecka 10   
 
+Stora projektet  
 
 ## Vecka 11   
 
+Stora projektet  
 
 ## Vecka 12   
 
+Stora projektet  
 
 ## Vecka 13   
 
+Stora projektet  
 
 ## Vecka 14   
 
 **PÅSKLOV**   
+
 ## Vecka 15   
 
+Stora projektet  
 
 ## Vecka 16   
 
+Stora projektet  
 
 ## Vecka 17   
 
+Stora projektet  
 
 ## Vecka 18   
 
+Stora projektet  
 
 ## Vecka 19   
 
+Stora projektet  
 
 ## Vecka 20   
 
+Stora projektet  
 
 ## Vecka 21   
 
+Stora projektet  
 
 ## Vecka 22   
 
+Presentation av Stora projektet  
 
 ## Vecka 23   
 
+Peer-review/Kompisbedömning  
 
 ## Vecka 24   
 
