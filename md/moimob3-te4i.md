@@ -444,6 +444,36 @@ Terminsavslutning
 
 ## Vecka 2   
 
+### Torsdag  
+
+Fas 3 av era PWA-projekt! Två nya krav, samt en massa putsning är nödvändiga när vi nu rör oss fram emot 2.0!  
+
+Vi har även Inrikntningsinfo för Teknikettorna, så eventuellt behöver ni vara behjälpliga med det.  
+
+### Fredag   
+
+Jobba på i projekten  
+
+*Sociala medier-genomgång*: Massa Tiktok! Kontentan? Don't be a dick!  
+
+## Vecka 3   
+
+### Måndag   
+
+<!-- 
+[Tävling: CSS Zen Garden](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb_css-zen-garden)  
+-->
+
+### Tisdag  
+
+Jobba på i projekten  
+
+### Torsdag  
+
+Jobba på i projekten  
+
+### Fredag   
+
 <!-- 
 ###### Agil utveckling med Scrum/Kanban  
 
@@ -454,18 +484,72 @@ Vi börjar med att se "[SCRUM: Twice the Work, Half the Time](https://youtu.be/R
 För att förstå hur vi skall tillämpa Scrum i praktiken ser vi "[How to Use GitHub for Automated Kanban Project Management](https://youtu.be/YVFa5VljCDY)" (12 min) och tittar på "[git-standup](https://github.com/kamranahmedse/git-standup)".    
 --> 
 
-
-## Vecka 3   
-
+*Sociala medier-genomgång*:  
 
 ## Vecka 4   
 
+### Måndag   
 
-## Vecka 5   
+<!--  
+###### M.V.C.   
+Fokus på en av de absolut vanligaste utvecklingsteorierna. Ett bra sätt att dela upp kod på för att öka stabilitet och minska behov av merarbete. "[MVC Explained in 4 Minutes](https://youtu.be/DUg2SWWK18I)", "[Model View Controller Explained](https://www.tomdalling.com/blog/software-design/model-view-controller-explained/)". Det finns fler, läs gärna "[7 Microservice Design Patterns to Use](https://blog.openreplay.com/7-microservice-design-patterns-to-use/)" och "[Javascript Design Patterns](https://levelup.gitconnected.com/javascript-design-patterns-aa4adb7b85e6)".  
+-->  
 
+Jobba på i projekten  
+
+### Tisdag  
+
+Jobba på i projekten  
+
+### Torsdag  
+
+Jobba på i projekten  
+
+### Fredag   
+
+Jobba på i projekten  
+
+*Sociala medier-genomgång*:  
+
+## Vecka 5    
+
+### Måndag   
+
+Jobba på i projekten  
+
+### Tisdag  
+
+Jobba på i projekten  
+
+### Torsdag  
+
+Jobba på i projekten  
+
+### Fredag  
+
+Jobba på i projekten  
+
+*Sociala medier-genomgång*:  
 
 ## Vecka 6   
+ 
+### Måndag   
 
+Jobba på i projekten  
+
+### Tisdag  
+
+Jobba på i projekten  
+
+### Torsdag  
+
+Jobba på i projekten  
+
+### Fredag  
+
+Jobba på i projekten  
+
+*Sociala medier-genomgång*:  
 
 ## Vecka 7   
 
@@ -473,21 +557,27 @@ För att förstå hur vi skall tillämpa Scrum i praktiken ser vi "[How to Use G
 
 ## Vecka 8   
 
+**APL**  
 
 ## Vecka 9   
 
+**APL**  
 
 ## Vecka 10   
 
+**APL**  
 
 ## Vecka 11   
 
+**APL**  
 
 ## Vecka 12   
 
+**APL**  
 
 ## Vecka 13   
 
+**APL**  
 
 ## Vecka 14   
 
