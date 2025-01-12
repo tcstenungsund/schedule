@@ -283,30 +283,36 @@ Läxa till vecka 51: Ta med material till moodboardövningen!
 
 [Uppgift: Planeringsverktyg Moodboard](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb01-planeringsverktyg_moodboard)  
 
+## Vecka 52   
+
+**VINTERLOV**   
+
+## Vecka 3  
+
+En titt på [Examensmål för Teknikprogrammet](https://www.skolverket.se/undervisning/gymnasieskolan/laroplan-program-och-amnen-i-gymnasieskolan/gymnasieprogrammen/program?url=-996270488%2Fsyllabuscw%2Fjsp%2Fprogram.htm%3FprogramCode%3DTE001%26tos%3Dgy&sv.url=12.5dfee44715d35a5cdfa9295#anchor_1) och skolverkets syfte med kursen [Webbutveckling 1](https://www.skolverket.se/undervisning/gymnasieskolan/laroplan-program-och-amnen-i-gymnasieskolan/gymnasieprogrammen/amne?url=-996270488%2Fsyllabuscw%2Fjsp%2Fsubject.htm%3FsubjectCode%3DWEU%26version%3D2%26tos%3Dgy&sv.url=12.5dfee44715d35a5cdfa92a3). Dessutom, hur utvärderas det du gör och [Hur sätter lärare betyg?](https://youtu.be/Zef4M5J94Wk) (6 min)  
+
+Vi repeterar vad vi gått igenom hittills och tar en titt på vad vi kommer ägna våren åt.  
+
+<!-- 
+[Tävling: CSS Zen Garden](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb_css-zen-garden)  
+-->  
+
+## Vecka 4   
 
 <!-- 
 caniuse.com 
 whocanuse.com 
 -->
 
-## Vecka 52   
-
-**VINTERLOV**   
-
-## Vecka 2   
-
-
-## Vecka 3   
-
-
-## Vecka 4   
-
+###### Mjukvara och versionshantering  
 
 ## Vecka 5   
 
+###### CSS-ramverk  
 
 ## Vecka 6   
 
+###### Designsystem  
 
 ## Vecka 7   
 
@@ -314,54 +320,82 @@ whocanuse.com
 
 ## Vecka 8   
 
+###### Vektorgrafik  
 
 ## Vecka 9   
 
+###### Logotypdesign  
 
 ## Vecka 10   
 
+Vårprojektet  
 
 ## Vecka 11   
 
+Vårprojektet  
 
 ## Vecka 12   
 
+Vårprojektet  
 
 ## Vecka 13   
 
+Vårprojektet  
 
 ## Vecka 14   
 
 **PÅSKLOV**   
+
 ## Vecka 15   
 
+###### Publicering av webbplats  
+
+Vårprojektet  
 
 ## Vecka 16   
 
+###### Tester  
+
+Vårprojektet  
 
 ## Vecka 17   
 
+Vårprojektet  
 
 ## Vecka 18   
 
+Vårprojektet  
 
 ## Vecka 19   
 
+Vårprojektet  
 
 ## Vecka 20   
 
+Vårprojektet  
+
+Prov på:
+* Planeringsverktyg  
+* Vektorgrafik & Logotypdesign  
+* Designsytem  
+* Publicering av webbplats  
+* Tester  
 
 ## Vecka 21   
 
+Vårprojektet  
 
 ## Vecka 22   
 
+Vårprojektet  
 
 ## Vecka 23   
 
+Presentation av Vårprojektet  
 
 ## Vecka 24   
 
+Projektutvärdering och kompisbedömning!    
 
 ## Vecka 25   
 **SOMMARLOV**   
