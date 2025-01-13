@@ -460,9 +460,7 @@ Jobba på i projekten
 
 ### Måndag   
 
-<!-- 
 [Tävling: CSS Zen Garden](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb_css-zen-garden)  
--->
 
 ### Tisdag  
 
