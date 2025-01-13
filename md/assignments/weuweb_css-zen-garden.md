@@ -14,7 +14,8 @@ Tid motsvarande 1 lektion i Webbutveckling.
 
 * [CSS Zen Garden](http://csszengarden.com/)   
 * [Firefox Developer Edition](https://www.mozilla.org/sv-SE/firefox/developer/)
-* [VSCodium](https://vscodium.com/)  
+* [Windows Notepad](https://apps.microsoft.com/detail/9msmlrh6lzf3)  
+<!-- * [VSCodium](https://vscodium.com/)  -->  
 
 ## Uppgiftsbeskrivning
 
