@@ -293,9 +293,7 @@ En titt på [Examensmål för Teknikprogrammet](https://www.skolverket.se/underv
 
 Vi repeterar vad vi gått igenom hittills och tar en titt på vad vi kommer ägna våren åt.  
 
-<!-- 
 [Tävling: CSS Zen Garden](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb_css-zen-garden)  
--->  
 
 ## Vecka 4   
 
