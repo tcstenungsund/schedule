@@ -500,8 +500,13 @@ Jobba på i projekten
 Jobba på i projekten  
 
 ### Torsdag  
+Vi pratar om Google Play Console där man kan registrera sig för att ladda upp appar till Google Play och vi pratar om hur man kan ladda upp appar till andra butiker så som App Store eller liknande.
 
-Jobba på i projekten  
+Vi pratar också om Github Explore och var man kan se trendande och spännande repositories att följa. Bland annat finns "code2prompt" för att ta hjälp av AI för att kommentera kod, ge förslag på README.md-filer, leta buggar, leta säkerhetshål osv.
+
+Vi kör även en avstämning där vi går igenom vilka API'er ni tänker använda er av.
+
+Jobba på i projekten 
 
 ### Fredag   
 
