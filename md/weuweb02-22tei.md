@@ -199,6 +199,10 @@ Vad är [Git](https://en.wikipedia.org/wiki/Git) och "[What is GitHub?](https://
 
 ![Git Structure](https://krishnaiitd.github.io/gitcommands/images/GitWorkflow-3.png)    
 
+--
+
+Arbeta vidare med uppgift CMS subtheme  
+
 ## Vecka 4   
 
 Vi fortsätter med versionshantering!  
@@ -207,13 +211,25 @@ Vi fortsätter med versionshantering!
          
 Gör övningarna på "[Learn Git Branching](https://learngitbranching.js.org/)"   
 
+--
+
+Arbeta vidare med uppgift CMS subtheme  
+
 ## Vecka 5   
 
 ###### Arbetsflöde  
 
+--
+
+Arbeta vidare med uppgift CMS subtheme  
+
 ## Vecka 6   
 
 ###### Projektplanering  
+
+--
+
+Uppstart av Stora projektet!  
 
 ## Vecka 7   
 
