@@ -468,9 +468,21 @@ Jobba på i projekten
 
 ### Torsdag  
 
+Vi pratar om Google Play Console där man kan registrera sig för att ladda upp appar till Google Play och vi pratar om hur man kan ladda upp appar till andra butiker så som App Store eller liknande.
+
+Vi pratar också om Github Explore och var man kan se trendande och spännande repositories att följa. Bland annat finns "code2prompt" för att ta hjälp av AI för att kommentera kod, ge förslag på README.md-filer, leta buggar, leta säkerhetshål osv.
+
+Vi kör även en avstämning där vi går igenom vilka API'er ni tänker använda er av.
+
 Jobba på i projekten  
 
 ### Fredag   
+
+Jobba på i projekten  
+
+## Vecka 4   
+
+### Måndag   
 
 <!-- 
 ###### Agil utveckling med Scrum/Kanban  
@@ -482,17 +494,6 @@ Vi börjar med att se "[SCRUM: Twice the Work, Half the Time](https://youtu.be/R
 För att förstå hur vi skall tillämpa Scrum i praktiken ser vi "[How to Use GitHub for Automated Kanban Project Management](https://youtu.be/YVFa5VljCDY)" (12 min) och tittar på "[git-standup](https://github.com/kamranahmedse/git-standup)".    
 --> 
 
-*Sociala medier-genomgång*:  
-
-## Vecka 4   
-
-### Måndag   
-
-<!--  
-###### M.V.C.   
-Fokus på en av de absolut vanligaste utvecklingsteorierna. Ett bra sätt att dela upp kod på för att öka stabilitet och minska behov av merarbete. "[MVC Explained in 4 Minutes](https://youtu.be/DUg2SWWK18I)", "[Model View Controller Explained](https://www.tomdalling.com/blog/software-design/model-view-controller-explained/)". Det finns fler, läs gärna "[7 Microservice Design Patterns to Use](https://blog.openreplay.com/7-microservice-design-patterns-to-use/)" och "[Javascript Design Patterns](https://levelup.gitconnected.com/javascript-design-patterns-aa4adb7b85e6)".  
--->  
-
 Jobba på i projekten  
 
 ### Tisdag  
@@ -500,15 +501,15 @@ Jobba på i projekten
 Jobba på i projekten  
 
 ### Torsdag  
-Vi pratar om Google Play Console där man kan registrera sig för att ladda upp appar till Google Play och vi pratar om hur man kan ladda upp appar till andra butiker så som App Store eller liknande.
-
-Vi pratar också om Github Explore och var man kan se trendande och spännande repositories att följa. Bland annat finns "code2prompt" för att ta hjälp av AI för att kommentera kod, ge förslag på README.md-filer, leta buggar, leta säkerhetshål osv.
-
-Vi kör även en avstämning där vi går igenom vilka API'er ni tänker använda er av.
 
 Jobba på i projekten 
 
 ### Fredag   
+
+<!--  
+###### M.V.C.   
+Fokus på en av de absolut vanligaste utvecklingsteorierna. Ett bra sätt att dela upp kod på för att öka stabilitet och minska behov av merarbete. "[MVC Explained in 4 Minutes](https://youtu.be/DUg2SWWK18I)", "[Model View Controller Explained](https://www.tomdalling.com/blog/software-design/model-view-controller-explained/)". Det finns fler, läs gärna "[7 Microservice Design Patterns to Use](https://blog.openreplay.com/7-microservice-design-patterns-to-use/)" och "[Javascript Design Patterns](https://levelup.gitconnected.com/javascript-design-patterns-aa4adb7b85e6)".  
+-->  
 
 Jobba på i projekten  
 
