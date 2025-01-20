@@ -302,7 +302,31 @@ caniuse.com
 whocanuse.com 
 -->
 
+<!--  
 ###### Mjukvara och versionshantering  
+
+Inför våren kommer vi introducera några nya mjukvaror. Vi kommer tala mer om dessa längre fram, men innan vi installerar dem tittar vi lite snabbt på vad de är och gör.  
+
+Vad är en [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)? Vi talar om den nya generationens lightweight-IDEer som Brackets, Atom, [neovim](https://neovim.io/) och Visual Studio Code, men nämner även traditionella IDEer som Dreamweaver, Eclipse och PHPStorm. "[5 reasons you should switch from VS Code to VSCodium](https://thedeveloperspace.com/5-reasons-you-should-switch-from-vs-code-to-vscodium/)". Slutsats: vi installerar och använder [VScodium](https://vscodium.com/). "[Visual Studio Code Web Dev Setup In 6 Minutes](https://youtu.be/4NfFFsQC77M)" (4 min).  
+
+Vad är versionshantering, och vad använder vi det till? "[What is Git](https://youtu.be/sHoZuyl5hws)" (4 min)  
+
+Hur lär man sig nya saker? Genom att följa the [Tech Support Cheat Sheet](https://xkcd.com/627/)!  
+
+Ladda ned och installera VSCodium, GitHub Desktop och Inkscape.  
+
+-->  
+<!--  
+
+###### Markdown    
+
+Vad är [Markdown](https://en.wikipedia.org/wiki/Markdown)? Vi lär oss med "[Markdown Guide](https://www.markdownguide.org/getting-started/)" och genom att göra övningen på "[Markdown Tutorial](https://www.markdowntutorial.com/)".   
+
+Vad kan man använda markdown till? "[How to set up a GitHub Profile README](https://youtube.com/-otyb0ngsa4)" (2 min)    
+
+Skapa en profil med hjälp av [ProfileMe.dev](https://www.profileme.dev/). Logga in på GitHub och lägg till din profil.    
+
+-->  
 
 ## Vecka 5   
 
