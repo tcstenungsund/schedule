@@ -297,12 +297,8 @@ Vi repeterar vad vi gått igenom hittills och tar en titt på vad vi kommer ägn
 
 ## Vecka 4   
 
-<!-- 
-caniuse.com 
-whocanuse.com 
--->
+CSS Zen Garden - Feedback och omröstning  
 
-<!--  
 ###### Mjukvara och versionshantering  
 
 Inför våren kommer vi introducera några nya mjukvaror. Vi kommer tala mer om dessa längre fram, men innan vi installerar dem tittar vi lite snabbt på vad de är och gör.  
@@ -315,7 +311,6 @@ Hur lär man sig nya saker? Genom att följa the [Tech Support Cheat Sheet](http
 
 Ladda ned och installera VSCodium, GitHub Desktop och Inkscape.  
 
--->  
 <!--  
 
 ###### Markdown    
@@ -329,6 +324,11 @@ Skapa en profil med hjälp av [ProfileMe.dev](https://www.profileme.dev/). Logga
 -->  
 
 ## Vecka 5   
+
+<!-- 
+caniuse.com 
+whocanuse.com 
+-->
 
 ###### CSS-ramverk  
 
