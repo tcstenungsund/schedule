@@ -495,6 +495,7 @@ För att förstå hur vi skall tillämpa Scrum i praktiken ser vi "[How to Use G
 Jobba på i projekten  
 
 ### Tisdag  
+Christoffer har inget särskilt att ta upp så han pratar i 25 minuter om allt möjligt gällande AI och hur den tekniska framtiden kan komma att bli efter den nya amerikanska presidenten tillträtt.
 
 Jobba på i projekten  
 
