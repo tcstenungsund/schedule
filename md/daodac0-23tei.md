@@ -171,7 +171,14 @@ Eftersom kommunstyrelsen är på besök på Hogia mellan klockan 09-10 startar v
 ## Vecka 3   
 
 
-## Vecka 4   
+## Vecka 4  
+
+**Måndag:**
+Ronnie är i Stockholm på konferens med Skolverket. Ni gör färdigt Linux Unhatced.
+
+**Onsdag:**
+
+Vi börjar prata om nätverk. Vi påbörjar kapitel 5 och går igenom innehållet till och med 5.2.4 Wireless Protocols.
 
 
 ## Vecka 5   
