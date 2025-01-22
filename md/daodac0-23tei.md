@@ -167,14 +167,21 @@ Eftersom kommunstyrelsen är på besök på Hogia mellan klockan 09-10 startar v
 
 ## Vecka 2   
 
+**VINTERLOV**
 
-## Vecka 3   
+## Vecka 3
+
+**Måndag** 
+Linux Unhatched
+
+**Onsdag** 
+Inriktningsinformation för ettor. Ni arbetar vidare med Linux Unhatched på valfri plats.
 
 
 ## Vecka 4  
 
 **Måndag:**
-Ronnie är i Stockholm på konferens med Skolverket. Ni gör färdigt Linux Unhatced.
+Ronnie är i Stockholm på konferens med Skolverket. Ni gör färdigt Linux Unhatched.
 
 **Onsdag:**
 
