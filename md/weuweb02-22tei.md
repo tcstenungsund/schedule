@@ -211,10 +211,6 @@ Vi fortsätter med versionshantering!
          
 Uppgift: "[Learn Git Branching](https://learngitbranching.js.org/)"   
 
---
-
-Arbeta vidare med uppgift CMS subtheme  
-
 ## Vecka 5   
 
 ###### Arbetsflöde  
