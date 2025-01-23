@@ -209,7 +209,7 @@ Vi fortsätter med versionshantering!
 
 "[Git cheatsheet](https://ndpsoftware.com/git-cheatsheet.html)", "[git - the simple guide](https://rogerdudler.github.io/git-guide/)", "[Write Git Commit Messages That Your Colleagues Will Love](https://prplcode.hashnode.dev/write-git-commit-messages-that-your-colleagues-will-love)" och "[Inviting collaborators to a personal repository](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository)".   
          
-Gör övningarna på "[Learn Git Branching](https://learngitbranching.js.org/)"   
+Uppgift: "[Learn Git Branching](https://learngitbranching.js.org/)"   
 
 --
 
@@ -223,10 +223,6 @@ Arbeta vidare med uppgift CMS subtheme
 
 Arbeta vidare med uppgift CMS subtheme  
 
---  
-
-Test på Versionshantering  
-
 ## Vecka 6   
 
 ###### Projektplanering  
@@ -234,6 +230,10 @@ Test på Versionshantering
 --
 
 Uppstart av Stora projektet!  
+
+--  
+
+Test på Versionshantering  
 
 ## Vecka 7   
 
