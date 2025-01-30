@@ -501,13 +501,23 @@ Jobba på i projekten
 
 ### Torsdag  
 
-Jobba på i projekten 
+Jobba på i projekten  
 
-### Fredag   
+### Fredag  
 
 <!--  
-###### M.V.C.   
-Fokus på en av de absolut vanligaste utvecklingsteorierna. Ett bra sätt att dela upp kod på för att öka stabilitet och minska behov av merarbete. "[MVC Explained in 4 Minutes](https://youtu.be/DUg2SWWK18I)", "[Model View Controller Explained](https://www.tomdalling.com/blog/software-design/model-view-controller-explained/)". Det finns fler, läs gärna "[7 Microservice Design Patterns to Use](https://blog.openreplay.com/7-microservice-design-patterns-to-use/)" och "[Javascript Design Patterns](https://levelup.gitconnected.com/javascript-design-patterns-aa4adb7b85e6)".  
+
+###### Design patterns  
+Det finns flera designmönster för hur man skriver mjukvara. En av de vanligaste heter MVC och är ett bra sätt att dela upp kod på för att öka stabilitet och minska behov av merarbete.  
+
+Vad är MVC? "[Basics of the MVC (Model View Controller) Architecture in Under 1 Mintue](https://youtu.be/onBNeVxyuKs)" (1 min) Detta är ett designmönster som hängt med riktigt länge. [Model–view–controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller), men det är mycket vanligt i webbvärlden.  
+
+"[MVC Explained in 4 Minutes](https://youtu.be/DUg2SWWK18I)" (4 min), [The Model-View-Controller: Why It Matters](https://dev.to/nkr28/the-model-view-controller-why-it-matters-4ag2).  
+
+Läs igenom artikeln [How to Build a Simple MVC App From Scratch in JavaScript](https://www.taniarascia.com/javascript-mvc-todo-app/) och testa gärna koden som skrivs!  
+
+Det finns så klart fler designmönster för mjukvara, läs gärna vidare på "[7 Microservice Design Patterns to Use](https://blog.openreplay.com/7-microservice-design-patterns-to-use/)" och "[Javascript Design Patterns](https://levelup.gitconnected.com/javascript-design-patterns-aa4adb7b85e6)".  
+
 -->  
 
 Jobba på i projekten  
