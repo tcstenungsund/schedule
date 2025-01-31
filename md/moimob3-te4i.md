@@ -505,8 +505,6 @@ Jobba på i projekten
 
 ### Fredag  
 
-<!--  
-
 ###### Design patterns  
 Det finns flera designmönster för hur man skriver mjukvara. En av de vanligaste heter MVC och är ett bra sätt att dela upp kod på för att öka stabilitet och minska behov av merarbete.  
 
@@ -517,8 +515,6 @@ Vad är MVC? "[Basics of the MVC (Model View Controller) Architecture in Under 1
 Läs igenom artikeln [How to Build a Simple MVC App From Scratch in JavaScript](https://www.taniarascia.com/javascript-mvc-todo-app/) och testa gärna koden som skrivs!  
 
 Det finns så klart fler designmönster för mjukvara, läs gärna vidare på "[7 Microservice Design Patterns to Use](https://blog.openreplay.com/7-microservice-design-patterns-to-use/)" och "[Javascript Design Patterns](https://levelup.gitconnected.com/javascript-design-patterns-aa4adb7b85e6)".  
-
--->  
 
 Jobba på i projekten  
 
