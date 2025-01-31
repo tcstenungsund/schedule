@@ -505,20 +505,7 @@ Jobba på i projekten
 
 ### Fredag  
 
-###### Design patterns  
-Det finns flera designmönster för hur man skriver mjukvara. En av de vanligaste heter MVC och är ett bra sätt att dela upp kod på för att öka stabilitet och minska behov av merarbete.  
-
-Vad är MVC? "[Basics of the MVC (Model View Controller) Architecture in Under 1 Mintue](https://youtu.be/onBNeVxyuKs)" (1 min) Detta är ett designmönster som hängt med riktigt länge. [Model–view–controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller), men det är mycket vanligt i webbvärlden.  
-
-"[MVC Explained in 4 Minutes](https://youtu.be/DUg2SWWK18I)" (4 min), [The Model-View-Controller: Why It Matters](https://dev.to/nkr28/the-model-view-controller-why-it-matters-4ag2).  
-
-Läs igenom artikeln [How to Build a Simple MVC App From Scratch in JavaScript](https://www.taniarascia.com/javascript-mvc-todo-app/) och testa gärna koden som skrivs!  
-
-Det finns så klart fler designmönster för mjukvara, läs gärna vidare på "[7 Microservice Design Patterns to Use](https://blog.openreplay.com/7-microservice-design-patterns-to-use/)" och "[Javascript Design Patterns](https://levelup.gitconnected.com/javascript-design-patterns-aa4adb7b85e6)".  
-
-Jobba på i projekten  
-
-*Sociala medier-genomgång*:  
+*Sociala medier-genomgång*: [Why You Should Keep All Your Linux Dotfiles on GitHub](https://www.howtogeek.com/why-you-should-keep-all-your-dotfiles-on-github/), [A CSS flex box "playground" from Yoav Sabag](https://phpc.social/@davidbisset/113776176271453892), [matcha.css - Drop-in semantic styling library in pure CSS](https://matcha.mizu.sh/#matcha).  
 
 ## Vecka 5    
 
@@ -536,9 +523,20 @@ Jobba på i projekten
 
 ### Fredag  
 
+###### Design patterns  
+Det finns flera designmönster för hur man skriver mjukvara. En av de vanligaste heter MVC och är ett bra sätt att dela upp kod på för att öka stabilitet och minska behov av merarbete.  
+
+Vad är MVC? "[Basics of the MVC (Model View Controller) Architecture in Under 1 Mintue](https://youtu.be/onBNeVxyuKs)" (1 min) Detta är ett designmönster som hängt med riktigt länge. [Model–view–controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller), men det är mycket vanligt i webbvärlden.  
+
+"[MVC Explained in 4 Minutes](https://youtu.be/DUg2SWWK18I)" (4 min), [The Model-View-Controller: Why It Matters](https://dev.to/nkr28/the-model-view-controller-why-it-matters-4ag2).  
+
+Läs igenom artikeln [How to Build a Simple MVC App From Scratch in JavaScript](https://www.taniarascia.com/javascript-mvc-todo-app/) och testa gärna koden som skrivs!  
+
+Det finns så klart fler designmönster för mjukvara, läs gärna vidare på "[7 Microservice Design Patterns to Use](https://blog.openreplay.com/7-microservice-design-patterns-to-use/)" och "[Javascript Design Patterns](https://levelup.gitconnected.com/javascript-design-patterns-aa4adb7b85e6)".  
+
 Jobba på i projekten  
 
-*Sociala medier-genomgång*:  
+*Sociala medier-genomgång*: Snygga övergångar mellan sidorna och animationer i din app? Då är artikeln [6 CSS Snippets Every Front-End Developer Should Know In 2025](https://nerdy.dev/6-css-snippets-every-front-end-developer-should-know-in-2025) för dig. Intresserad av moln, drift och failover? Då är artikeln [The Canva outage: another tale of saturation and resilience](https://surfingcomplexity.blog/2024/12/21/the-canva-outage-another-tale-of-saturation-and-resilience/) för dig. Gillar du coola prylar? Då kan [Mecha Comet](https://youtu.be/AGHmvOFkUKw), en bärbar Linuxdator från CES 2025 vara för dig.  
 
 ## Vecka 6   
  
