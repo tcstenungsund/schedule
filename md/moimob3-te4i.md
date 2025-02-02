@@ -125,7 +125,7 @@ Fortsätt arbeta med Moderna Webbteknologier!
 
 Presentation av Moderna Webbteknologier! (10:00)  
 
-*Sociala medier-genomgång*: Andy Bell bjuder på "[A (more) Modern CSS Reset](https://piccalil.li/blog/a-more-modern-css-reset/)", Wes Bos är trött på skömt om "[CSS block centering](https://youtube.com/shorts/2qbyJPJCjqo)" och Localghost uppmanar oss "[You should go to conferences<](https://localghost.dev/blog/you-should-go-to-conferences/)".  
+*Sociala medier-genomgång*: Andy Bell bjuder på "[A (more) Modern CSS Reset](https://piccalil.li/blog/a-more-modern-css-reset/)", Wes Bos är trött på skämt om "[CSS block centering](https://youtube.com/shorts/2qbyJPJCjqo)" och Localghost uppmanar oss "[You should go to conferences](https://localghost.dev/blog/you-should-go-to-conferences/)".  
 
 ## Vecka 39   
 
