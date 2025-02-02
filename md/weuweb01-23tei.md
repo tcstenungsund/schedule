@@ -327,12 +327,29 @@ Vi ser "[Intro & Setup](https://youtu.be/O_9u1P5YjVc)" (7 min), "[Colours & Typo
 
 ## Vecka 6   
 
-<!--  
-caniuse.com 
-whocanuse.com 
--->  
+SYV-besök med info om IND-val  
 
-###### Designsystem  
+###### Design systems   
+
+Ett designsystem är en uppsättning återanvändbara komponenter samt regler för hur de skall användas. "[What is a Design System? A simple guide to get started](https://uxdesign.cc/what-is-a-design-system-a-simple-guide-to-get-started-529fb4b38f9b)" I ett designsystem hittar du bland annat: Style guide, Component library, Colour paletts, Typography, Tone of copy, Call To Actions, Sitemap, Iconography, Grid, Templates, A11y. Se exempel på "[Design Systems Database](https://designsystems.surf/)".    
+
+"[Design Systems, Pattern Libraries & Style Guides... Oh My!](https://youtu.be/rO5dBA-avfw)" (10 min)    
+
+Style guide  
+* "[How To Create Brand Style Guides Like A Pro](https://youtu.be/AjgQBC_XyS4)" (5 min)     
+* "[How to Create a Website Style Guide](https://whitepeak.io/blog/website-style-guide-template/)"
+* "[Building Your Color Palette](https://www.refactoringui.com/previews/building-your-color-palette)"   
+
+Pattern library  
+* "[How to Create a Pattern Library and Why You Should Bother](https://boagworld.com/design/pattern-library/)"
+* "[Component Name Matrix](https://open-ui.org/research/component-matrix/)"    
+* "[Bootstrap Pattern Library](https://getbootstrap.com/docs/5.3/components/accordion/)"     
+
+"[5 Best Design Systems and How to Learn (and Steal) From Them](https://youtu.be//BISC15OPeGA)" (12 min)  
+
+--  
+
+Slutför uppgiften CSS-ramverk  
 
 ## Vecka 7   
 
@@ -340,7 +357,46 @@ whocanuse.com
 
 ## Vecka 8   
 
+<!--  
+###### Vektorgrafik   
+
+Vad är [rastergrafik](https://sv.wikipedia.org/wiki/Rastergrafik) och vad är [vektorgrafik](https://sv.wikipedia.org/wiki/Vektorgrafik)? När använder man det ena och det andra? Se de viktigaste delarna av SVG på den interaktiva referensen "[SSSV](https://fffuel.co/sssvg/)". "[Please size your inline SVGs](https://www.aaron-gustafson.com/notebook/please-size-your-inline-svgs/)"  
+
+Verktyget för vektorgrafik som vi kommer använda är det bästa på marknaden, Inkscape. Vad är Inkscape? "[Inkscape explained in 5 minutes](https://piped.video/pa6a7oz7vEE)" (5 min).  
+
+För att få en ännu bättre överblick av funktionerna i programmet så ser vi klippet [InkScape - Tutorial for Beginners in 11 MINUTES!](https://piped.video/-_KJZPOYBeA) (12 min).  
+
+Exempel på vad som går att skapa är "[7 Mind-Blowing Designs Made with Inkscape](https://logosbynick.com/professional-designs-made-with-inkscape/)", "[Wine glass vector illustration using Inkscape](https://piped.video/7DTjbKHX1J0)" (6 min) och "[Autumn landscape. Made in Inkscape](https://piped.video/nl-qkWAUD5U)" (24 min).  
+
+**Läxa till vecka 6**: "[How to design a logo](https://piped.video/watch?v=Vmilq3KDJio)" (4 min), "[Inkscape For Beginners: Skyline Logo Tutorial](https://piped.video/vRJiA0e6Clk)" (12 min), "[Inkscape Logo Design Tutorial 2022](https://piped.video/VaJWiVZdqSo)" (16 min).  
+
+###### Logotypedesign  
+
+[Logotype vs. logomark vs. logo: What is the difference? ](https://99designs.com/blog/logo-branding/logotype-vs-logomark-vs-logo/), "[The Changing Face of Brands: Evolution of Logos Explained](https://www.designyourway.net/blog/evolution-of-logos/)", [How to Design a Logo](https://www.wikihow.com/Design-a-Logo), "[25+ Key Logo Design Trends of 2024](https://designshack.net/articles/inspiration/logo-design-trends/)", "[What A Personal Brand Is (And Why You Need One)](https://www.forbes.com/sites/forbescoachescouncil/2021/02/12/what-a-personal-brand-is-and-why-you-need-one/)".   
+
+[Uppgift: Personligt varumärke](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb01-personligt_varumarke)      
+-->  
+
+
 ###### Vektorgrafik  
+
+<!--  
+
+[Uppgift: Vårprojektet](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb01-varprojektet)    
+
+**Veckans läxa:** Lyssna på avsnittet ”[001 The Box-model](https://thecsspodcast.libsyn.com/-the-css-podcast-box-model-episode-1)” (12 min) av podcasten “The CSS Podcast”. (Finns också på [Spotify](https://open.spotify.com/episode/1j2EhMoMkbiuC9LkrLG1gX).)    
+
+**Veckans läxa:** Lyssna på avsnittet ”[002 Selectors](http://thecsspodcast.googledevelopers.libsynpro.com/002-selectors)” (15 min) av podcasten “The CSS Podcast”. (Finns också på [Spotify](https://open.spotify.com/episode/4hv6ogNtJZtvxKcQ67Ctpn).)    
+
+**Veckans läxa:** Lyssna på avsnittet ”[003 Specificity](http://thecsspodcast.googledevelopers.libsynpro.com/003-specificity)” (13 min) av podcasten “The CSS Podcast”. (Finns också på [Spotify](https://open.spotify.com/episode/2I3gJ9AFUi08Sm9CV7wydO).)     
+
+**Veckans läxa:** Lyssna på avsnittet ”[004 The Cascade](http://thecsspodcast.googledevelopers.libsynpro.com/004-the-cascade)” (12 min) av podcasten “The CSS Podcast”. (Finns också på [Spotify](https://open.spotify.com/episode/698XEvD2VUmg4iVZEZqL7I).)    
+
+**Veckans läxa:** Lyssna på avsnittet ”[005 Inheritance](http://thecsspodcast.googledevelopers.libsynpro.com/005-inheritance)” (8 min) av podcasten “The CSS Podcast”. (Finns också på [Spotify](https://open.spotify.com/episode/7q4lpdJOIYaUTNMwjUvRxP).)    
+
+**Test:** The CSS Podcast avsnitt 1 – 5.
+
+-->  
 
 ## Vecka 9   
 
@@ -359,6 +415,12 @@ Vad kan man använda markdown till? "[How to set up a GitHub Profile README](htt
 Skapa en profil med hjälp av [ProfileMe.dev](https://www.profileme.dev/). Logga in på GitHub och lägg till din profil.    
 
 -->  
+
+<!--  
+caniuse.com 
+whocanuse.com 
+-->  
+
 
 Vårprojektet  
 
