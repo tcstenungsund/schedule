@@ -331,13 +331,13 @@ SYV-besök med info om IND-val
 
 ###### Design systems  
 
-Ett [designsystem](https://en.wikipedia.org/wiki/Design_system) innehåller riktlinjer och exempel på hur en organisation skall visa upp och uttrycka sig. Oavsett om du skall skapa en ny mall för brevpapper och visitkort, skriva en blogpost för er webbplats eller programmera en ny app, så går du först till ert designsystem för att se hur du skall designa den. De tre största delarna av ett designsystem är en style guide, ett pattern library och ett component library.  
+Ett [designsystem](https://en.wikipedia.org/wiki/Design_system) innehåller riktlinjer och exempel på hur en organisation skall visa upp och uttrycka sig. Oavsett om du skall skapa en ny mall för brevpapper och visitkort, skriva en blogpost för er webbplats eller programmera en ny app, så går du först till ert designsystem för att se hur du skall designa den. De tre största delarna av ett designsystem är en style guide (också kallad grafisk profil), ett pattern library och ett component library.  
 
 [Design Systems vs. Style Guides](https://youtu.be/5BgKwkpJQdE) (2 min)  
 
 Annat som du hittar i ett designsystem (antingen som en del av de tre största delarna som nämns ovan, eller enskillt) är Colour paletts, Typography, Logotype use, Tone of copy, User storys, Calls To Action, Sitemap, Iconography, Grid, Templates, A11y.  
 
-Hur skapar man ett designsystem? "[What is a Design System? A simple guide to get started](https://uxdesign.cc/what-is-a-design-system-a-simple-guide-to-get-started-529fb4b38f9b)". Se exempel på "[Design Systems Database](https://designsystems.surf/)".  
+Hur skapar man ett designsystem? "[What is a Design System? A simple guide to get started](https://uxdesign.cc/what-is-a-design-system-a-simple-guide-to-get-started-529fb4b38f9b)". Se exempel på "[Design Systems Database](https://designsystems.surf/)" och i videon "[5 Best Design Systems and How to Learn (and Steal) From Them](https://youtu.be//BISC15OPeGA)". (12 min)  
 
 Style guide  
 * "[How To Create Brand Style Guides Like A Pro](https://youtu.be/AjgQBC_XyS4)" (5 min)     
@@ -350,8 +350,6 @@ Pattern library
 Component library  
 * "[Component Name Matrix](https://open-ui.org/research/component-matrix/)"    
 * "[Bootstrap Pattern Library](https://getbootstrap.com/docs/5.3/components/accordion/)"     
-
-"[5 Best Design Systems and How to Learn (and Steal) From Them](https://youtu.be//BISC15OPeGA)" (12 min)  
 
 --  
 
