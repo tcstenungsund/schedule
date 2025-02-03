@@ -554,7 +554,7 @@ Jobba på i projekten
 
 ### Fredag  
 
-Jobba på i projekten  
+Presentation av 2.0 av projekten    
 
 *Sociala medier-genomgång*:  
 
