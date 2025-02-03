@@ -337,7 +337,7 @@ Ett [designsystem](https://en.wikipedia.org/wiki/Design_system) innehåller rikt
 
 Annat som du hittar i ett designsystem (antingen som en del av de tre största delarna som nämns ovan, eller enskillt) är Colour paletts, Typography, Logotype use, Tone of copy, User storys, Calls To Action, Sitemap, Iconography, Grid, Templates, A11y.  
 
-Hur skapar man ett designsystem? "[What is a Design System? A simple guide to get started](https://uxdesign.cc/what-is-a-design-system-a-simple-guide-to-get-started-529fb4b38f9b)". Se exempel på "[Design Systems Database](https://designsystems.surf/)" och i videon "[5 Best Design Systems and How to Learn (and Steal) From Them](https://youtu.be//BISC15OPeGA)". (12 min)  
+Hur skapar man ett designsystem? "[What is a Design System? A simple guide to get started](https://uxdesign.cc/what-is-a-design-system-a-simple-guide-to-get-started-529fb4b38f9b)". Se exempel på "[Design Systems Database](https://designsystems.surf/)" och i videon "[5 Best Design Systems and How to Learn (and Steal) From Them](https://youtu.be//BISC15OPeGA)" (12 min).  
 
 Style guide  
 * "[How To Create Brand Style Guides Like A Pro](https://youtu.be/AjgQBC_XyS4)" (5 min)     
