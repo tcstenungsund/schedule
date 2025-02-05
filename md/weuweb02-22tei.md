@@ -234,11 +234,11 @@ Arbeta vidare med uppgift CMS subtheme
 
 Hur planerar man ett projekt? Hur skall ni planera ert? Två väldigt vanliga metoder att skissa upp ett arbetsflöde är Gantt chart och Responsibility Assignment Matrix (eller RACI chart).  
 
+"[Responsibility Assignment Matrix | 5-Minute Guide](https://youtu.be/KcNBwNlY6eQ)" (2 min)  
+
+
 "[What is a Gantt Chart?](https://youtu.be/4DSV-_2pqmI)" (6 min)  
 "[What is a RACI Matrix?](https://youtu.be/dyoOIIaACcE)" (6 min)  
-
-"[Project Management Tutorial - Understanding Gantt charts](https://youtube.com/OI93w4xtgM8)" (2 min)  
-"[What is A RACI Chart](https://youtube.com/oirrcObNpL0)" (1 min)  
 
 --  
 
