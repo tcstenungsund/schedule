@@ -554,7 +554,9 @@ Jobba på i projekten
 
 ### Fredag  
 
-Presentation av 2.0 av projekten    
+Administrera Docker bättre! [lazydocker](https://github.com/jesseduffield/lazydocker), [Docker for VSCodium](https://code.visualstudio.com/docs/containers/overview) eller [Yacht](https://yacht.sh/).  
+
+Presentation av 2.0 av projekten   
 
 *Sociala medier-genomgång*:  
 
@@ -573,7 +575,7 @@ Presentation av 2.0 av projekten
 ## Vecka 10   
 
 **APL**  
-
+125 min
 ## Vecka 11   
 
 **APL**  
