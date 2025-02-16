@@ -366,17 +366,17 @@ Slutför uppgiften CSS-ramverk
 
 Vad är [rastergrafik](https://sv.wikipedia.org/wiki/Rastergrafik) och vad är [vektorgrafik](https://sv.wikipedia.org/wiki/Vektorgrafik)? När använder man det ena och det andra? Se de viktigaste delarna av SVG på den interaktiva referensen "[SSSV](https://fffuel.co/sssvg/)". "[Please size your inline SVGs](https://www.aaron-gustafson.com/notebook/please-size-your-inline-svgs/)"  
 
-Verktyget för vektorgrafik som vi kommer använda är det bästa på marknaden, Inkscape. Vad är Inkscape? "[Inkscape explained in 5 minutes](https://piped.video/pa6a7oz7vEE)" (5 min).  
+Verktyget för vektorgrafik som vi kommer använda är det bästa på marknaden, Inkscape. Vad är Inkscape? "[Inkscape explained in 5 minutes](https://youtu.be/pa6a7oz7vEE)" (5 min).  
 
-För att få en ännu bättre överblick av funktionerna i programmet så ser vi klippet [InkScape - Tutorial for Beginners in 11 MINUTES!](https://piped.video/-_KJZPOYBeA) (12 min).  
+För att få en ännu bättre överblick av funktionerna i programmet så ser vi klippet [InkScape - Tutorial for Beginners in 11 MINUTES!](https://youtu.be/-_KJZPOYBeA) (12 min).  
 
-Exempel på vad som går att skapa är "[7 Mind-Blowing Designs Made with Inkscape](https://logosbynick.com/professional-designs-made-with-inkscape/)", "[Wine glass vector illustration using Inkscape](https://piped.video/7DTjbKHX1J0)" (6 min) och "[Autumn landscape. Made in Inkscape](https://piped.video/nl-qkWAUD5U)" (24 min).  
+Exempel på vad som går att skapa är "[7 Mind-Blowing Designs Made with Inkscape](https://logosbynick.com/professional-designs-made-with-inkscape/)", "[Wine glass vector illustration using Inkscape](https://youtu.be/7DTjbKHX1J0)" (6 min) och "[Autumn landscape. Made in Inkscape](https://youtu.be/nl-qkWAUD5U)" (24 min).  
 
-**Läxa till vecka 6**: "[How to design a logo](https://piped.video/watch?v=Vmilq3KDJio)" (4 min), "[Inkscape For Beginners: Skyline Logo Tutorial](https://piped.video/vRJiA0e6Clk)" (12 min), "[Inkscape Logo Design Tutorial 2022](https://piped.video/VaJWiVZdqSo)" (16 min).  
+**Läxa till vecka 6**: "[How to design a logo](https://youtu.be/Vmilq3KDJio)" (4 min), "[Inkscape For Beginners: Skyline Logo Tutorial](https://youtu.be/vRJiA0e6Clk)" (12 min), "[Inkscape Logo Design Tutorial 2022](https://youtu.be/VaJWiVZdqSo)" (16 min).  
 
 ###### Logotypedesign  
 
-[Logotype vs. logomark vs. logo: What is the difference? ](https://99designs.com/blog/logo-branding/logotype-vs-logomark-vs-logo/), "[The Changing Face of Brands: Evolution of Logos Explained](https://www.designyourway.net/blog/evolution-of-logos/)", [How to Design a Logo](https://www.wikihow.com/Design-a-Logo), "[25+ Key Logo Design Trends of 2024](https://designshack.net/articles/inspiration/logo-design-trends/)", "[What A Personal Brand Is (And Why You Need One)](https://www.forbes.com/sites/forbescoachescouncil/2021/02/12/what-a-personal-brand-is-and-why-you-need-one/)".   
+[Logotype vs. logomark vs. logo: What is the difference? ](https://99designs.com/blog/logo-branding/logotype-vs-logomark-vs-logo/), "[The Changing Face of Brands: Evolution of Logos Explained](https://www.designyourway.net/blog/evolution-of-logos/)", [How to Design a Logo](https://www.wikihow.com/Design-a-Logo), "[The Top Logo Trends of 2025 You Shouldn’t Miss!](https://looka.com/blog/logo-trends/)", "[What A Personal Brand Is (And Why You Need One)](https://www.forbes.com/sites/forbescoachescouncil/2021/02/12/what-a-personal-brand-is-and-why-you-need-one/)".   
 
 [Uppgift: Personligt varumärke](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb01-personligt_varumarke)      
 -->  
