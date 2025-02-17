@@ -361,7 +361,7 @@ Slutför uppgiften CSS-ramverk
 
 ## Vecka 8   
 
-<!--  
+ 
 ###### Vektorgrafik   
 
 Vad är [rastergrafik](https://sv.wikipedia.org/wiki/Rastergrafik) och vad är [vektorgrafik](https://sv.wikipedia.org/wiki/Vektorgrafik)? När använder man det ena och det andra? Se de viktigaste delarna av SVG på den interaktiva referensen "[SSSV](https://fffuel.co/sssvg/)". "[Please size your inline SVGs](https://www.aaron-gustafson.com/notebook/please-size-your-inline-svgs/)"  
@@ -372,23 +372,21 @@ För att få en ännu bättre överblick av funktionerna i programmet så ser vi
 
 Exempel på vad som går att skapa är "[7 Mind-Blowing Designs Made with Inkscape](https://logosbynick.com/professional-designs-made-with-inkscape/)", "[Wine glass vector illustration using Inkscape](https://youtu.be/7DTjbKHX1J0)" (6 min) och "[Autumn landscape. Made in Inkscape](https://youtu.be/nl-qkWAUD5U)" (24 min).  
 
-**Läxa till vecka 6**: "[How to design a logo](https://youtu.be/Vmilq3KDJio)" (4 min), "[Inkscape For Beginners: Skyline Logo Tutorial](https://youtu.be/vRJiA0e6Clk)" (12 min), "[Inkscape Logo Design Tutorial 2022](https://youtu.be/VaJWiVZdqSo)" (16 min).  
-
 ###### Logotypedesign  
 
 [Logotype vs. logomark vs. logo: What is the difference? ](https://99designs.com/blog/logo-branding/logotype-vs-logomark-vs-logo/), "[The Changing Face of Brands: Evolution of Logos Explained](https://www.designyourway.net/blog/evolution-of-logos/)", [How to Design a Logo](https://www.wikihow.com/Design-a-Logo), "[The Top Logo Trends of 2025 You Shouldn’t Miss!](https://looka.com/blog/logo-trends/)", "[What A Personal Brand Is (And Why You Need One)](https://www.forbes.com/sites/forbescoachescouncil/2021/02/12/what-a-personal-brand-is-and-why-you-need-one/)".   
 
 [Uppgift: Personligt varumärke](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb01-personligt_varumarke)      
+
+<!-- 
+**Läxa till vecka 6**: "[How to design a logo](https://youtu.be/Vmilq3KDJio)" (4 min), "[Inkscape For Beginners: Skyline Logo Tutorial](https://youtu.be/vRJiA0e6Clk)" (12 min), "[Inkscape Logo Design Tutorial 2022](https://youtu.be/VaJWiVZdqSo)" (16 min).  
 -->  
 
-
-###### Vektorgrafik  
+**Veckans läxa:** Lyssna på avsnittet ”[001 The Box-model](https://thecsspodcast.libsyn.com/-the-css-podcast-box-model-episode-1)” (12 min) av podcasten “The CSS Podcast”. (Finns också på [Spotify](https://open.spotify.com/episode/1j2EhMoMkbiuC9LkrLG1gX).)   
 
 <!--  
 
 [Uppgift: Vårprojektet](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb01-varprojektet)    
-
-**Veckans läxa:** Lyssna på avsnittet ”[001 The Box-model](https://thecsspodcast.libsyn.com/-the-css-podcast-box-model-episode-1)” (12 min) av podcasten “The CSS Podcast”. (Finns också på [Spotify](https://open.spotify.com/episode/1j2EhMoMkbiuC9LkrLG1gX).)    
 
 **Veckans läxa:** Lyssna på avsnittet ”[002 Selectors](http://thecsspodcast.googledevelopers.libsynpro.com/002-selectors)” (15 min) av podcasten “The CSS Podcast”. (Finns också på [Spotify](https://open.spotify.com/episode/4hv6ogNtJZtvxKcQ67Ctpn).)    
 
@@ -397,9 +395,6 @@ Exempel på vad som går att skapa är "[7 Mind-Blowing Designs Made with Inksca
 **Veckans läxa:** Lyssna på avsnittet ”[004 The Cascade](http://thecsspodcast.googledevelopers.libsynpro.com/004-the-cascade)” (12 min) av podcasten “The CSS Podcast”. (Finns också på [Spotify](https://open.spotify.com/episode/698XEvD2VUmg4iVZEZqL7I).)    
 
 **Veckans läxa:** Lyssna på avsnittet ”[005 Inheritance](http://thecsspodcast.googledevelopers.libsynpro.com/005-inheritance)” (8 min) av podcasten “The CSS Podcast”. (Finns också på [Spotify](https://open.spotify.com/episode/7q4lpdJOIYaUTNMwjUvRxP).)    
-
-**Test:** The CSS Podcast avsnitt 1 – 5.
-
 -->  
 
 ## Vecka 9   
@@ -439,6 +434,8 @@ Vårprojektet
 ## Vecka 13   
 
 Vårprojektet  
+
+**Test:** The CSS Podcast avsnitt 1 – 5  
 
 ## Vecka 14   
 
