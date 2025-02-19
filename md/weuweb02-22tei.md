@@ -256,7 +256,21 @@ Test på Versionshantering
 
 ## Vecka 8   
 
-Stora projektet  
+Dagens uppgift består i att se ett videoklipp samt besvara några frågor (totalt ~200 ord). 
+
+"[Michelle Barker – Modern CSS Layout is Awesome!](https://youtu.be/6O0KBNslevQ)" (44 min)  
+
+Michelle Barker är en kreativ och designmedveten entusiast för CSS som gärna sprider nya och spännande sätt att bygga webbplatser på! Denna föreläsning gavs 2023 på konferensen "[beyond tellerrand](https://beyondtellerrand.com/)" Düsseldorf.  
+
+**Frågor att besvara**  
+1) Layout i CSS var en gång svårt, men är nu lättare. Vilka tekniker har vi lämnat, och vilka har vi fått?   
+2) Vad är skillnaden mellan vh och dvh? Varför behöver vi dvh?   
+3) Barker nämner "subgrid", vilket nu ett år efter hennes presentation finns i alla webbläsare. När använder man subgrid, och hur fungerar det?   
+4) En av de största nyheterna i CSS är "container queries", beskriv översiktligt hur det fungerar och ge två specifika exempel när du har användning av det.   
+
+--  
+
+Lägg lite mer tid på att putsa på uppgiften CMS subtheme, om ni inte är klara med den.  
 
 ## Vecka 9   
 
