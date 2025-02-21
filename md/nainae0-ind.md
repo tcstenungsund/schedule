@@ -96,18 +96,23 @@ Modul 11 och 12.
 
 ## Vecka 2   
 
+Inrikningsinfo
 
 ## Vecka 3   
-
+Inriktningsinfo
+Ni arbetar vidare med era labbar
 
 ## Vecka 4   
-
+Inlämning av labbar och genomgång på Netacad.
 
 ## Vecka 5   
 
+Inlämning av labbar efter feedbacken ni fått. Fortsatt arbete med Netacad.
 
 ## Vecka 6   
+CLT är sjuk.
 
+Ni pluggar inför checkpoint exam efter lovet.
 
 ## Vecka 7   
 
@@ -115,9 +120,10 @@ Modul 11 och 12.
 
 ## Vecka 8   
 
+Checkpoint exam
 
 ## Vecka 9   
-
+Inställd p.g.a UF-mässa
 
 ## Vecka 10   
 
