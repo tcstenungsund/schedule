@@ -387,80 +387,74 @@ Exempel på vad som går att skapa är "[7 Mind-Blowing Designs Made with Inksca
 
 **Veckans läxa:** Lyssna på avsnittet ”[001 The Box-model](https://thecsspodcast.libsyn.com/-the-css-podcast-box-model-episode-1)” (12 min) av podcasten “The CSS Podcast”. (Finns också på [Spotify](https://open.spotify.com/episode/1j2EhMoMkbiuC9LkrLG1gX).)   
 
+## Vecka 9  
+
+###### Markdown   
+
+Vad är [Markdown](https://en.wikipedia.org/wiki/Markdown)? Vi lär oss med "[Markdown Guide](https://www.markdownguide.org/getting-started/)" och genom att göra övningen på "[Markdown Tutorial](https://www.markdowntutorial.com/)".   
+
+Vad kan man använda markdown till? "[How to set up a GitHub Profile README](https://youtu.be/-otyb0ngsa4)" (2 min)   
+
+Skapa en profil med hjälp av [ProfileMe.dev](https://www.profileme.dev/). Logga in på GitHub och lägg till din profil.  
+
+Slutför uppgift Personligt varumärke  
+
+## Vecka 10  
+
 <!--  
 
 [Uppgift: Vårprojektet](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb01-varprojektet)    
 
-**Veckans läxa:** Lyssna på avsnittet ”[002 Selectors](http://thecsspodcast.googledevelopers.libsynpro.com/002-selectors)” (15 min) av podcasten “The CSS Podcast”. (Finns också på [Spotify](https://open.spotify.com/episode/4hv6ogNtJZtvxKcQ67Ctpn).)    
-
-**Veckans läxa:** Lyssna på avsnittet ”[003 Specificity](http://thecsspodcast.googledevelopers.libsynpro.com/003-specificity)” (13 min) av podcasten “The CSS Podcast”. (Finns också på [Spotify](https://open.spotify.com/episode/2I3gJ9AFUi08Sm9CV7wydO).)     
-
-**Veckans läxa:** Lyssna på avsnittet ”[004 The Cascade](http://thecsspodcast.googledevelopers.libsynpro.com/004-the-cascade)” (12 min) av podcasten “The CSS Podcast”. (Finns också på [Spotify](https://open.spotify.com/episode/698XEvD2VUmg4iVZEZqL7I).)    
-
-**Veckans läxa:** Lyssna på avsnittet ”[005 Inheritance](http://thecsspodcast.googledevelopers.libsynpro.com/005-inheritance)” (8 min) av podcasten “The CSS Podcast”. (Finns också på [Spotify](https://open.spotify.com/episode/7q4lpdJOIYaUTNMwjUvRxP).)    
 -->  
-
-## Vecka 9   
-
-###### Logotypdesign  
-
-## Vecka 10   
-
-<!--  
-
-###### Markdown    
-
-Vad är [Markdown](https://en.wikipedia.org/wiki/Markdown)? Vi lär oss med "[Markdown Guide](https://www.markdownguide.org/getting-started/)" och genom att göra övningen på "[Markdown Tutorial](https://www.markdowntutorial.com/)".   
-
-Vad kan man använda markdown till? "[How to set up a GitHub Profile README](https://youtube.com/-otyb0ngsa4)" (2 min)    
-
-Skapa en profil med hjälp av [ProfileMe.dev](https://www.profileme.dev/). Logga in på GitHub och lägg till din profil.    
-
--->  
-
-<!--  
-caniuse.com 
-whocanuse.com 
--->  
-
 
 Vårprojektet  
+
+**Veckans läxa:** Lyssna på avsnittet ”[002 Selectors](http://thecsspodcast.googledevelopers.libsynpro.com/002-selectors)” (15 min) av podcasten “The CSS Podcast”. (Finns också på [Spotify](https://open.spotify.com/episode/4hv6ogNtJZtvxKcQ67Ctpn).)    
 
 ## Vecka 11   
 
-Vårprojektet  
+Reklamfilmsgala  
+
+--  
+
+###### Publicering av webbplats    
+
+**Veckans läxa:** Lyssna på avsnittet ”[003 Specificity](http://thecsspodcast.googledevelopers.libsynpro.com/003-specificity)” (13 min) av podcasten “The CSS Podcast”. (Finns också på [Spotify](https://open.spotify.com/episode/2I3gJ9AFUi08Sm9CV7wydO).)     
 
 ## Vecka 12   
 
 Vårprojektet  
 
+**Veckans läxa:** Lyssna på avsnittet ”[004 The Cascade](http://thecsspodcast.googledevelopers.libsynpro.com/004-the-cascade)” (12 min) av podcasten “The CSS Podcast”. (Finns också på [Spotify](https://open.spotify.com/episode/698XEvD2VUmg4iVZEZqL7I).)    
+
 ## Vecka 13   
+
+Vårprojektet  
+
+**Veckans läxa:** Lyssna på avsnittet ”[005 Inheritance](http://thecsspodcast.googledevelopers.libsynpro.com/005-inheritance)” (8 min) av podcasten “The CSS Podcast”. (Finns också på [Spotify](https://open.spotify.com/episode/7q4lpdJOIYaUTNMwjUvRxP).)    
+
+## Vecka 14   
+
+Vårprojektet  
+
+## Vecka 15   
 
 Vårprojektet  
 
 **Test:** The CSS Podcast avsnitt 1 – 5  
 
-## Vecka 14   
+## Vecka 16 & 17   
 
 **PÅSKLOV**   
 
-## Vecka 15   
-
-###### Publicering av webbplats  
-
-Vårprojektet  
-
-## Vecka 16   
+## Vecka 18   
 
 ###### Tester  
 
-Vårprojektet  
-
-## Vecka 17   
-
-Vårprojektet  
-
-## Vecka 18   
+<!--  
+caniuse.com 
+whocanuse.com 
+-->  
 
 Vårprojektet  
 
@@ -480,6 +474,10 @@ Prov på:
 * Tester  
 
 ## Vecka 21   
+
+Matteprov  
+
+--  
 
 Vårprojektet  
 
