@@ -274,11 +274,11 @@ Lägg lite mer tid på att putsa på uppgiften CMS subtheme, om ni inte är klar
 
 ## Vecka 9   
 
-Stora projektet  
+**UF Regional mässa i Göteborg**    
 
 ## Vecka 10   
 
-Stora projektet  
+**År 8-besök**   
 
 ## Vecka 11   
 
@@ -294,7 +294,7 @@ Stora projektet
 
 ## Vecka 14   
 
-**PÅSKLOV**   
+Stora projektet  
 
 ## Vecka 15   
 
@@ -302,15 +302,15 @@ Stora projektet
 
 ## Vecka 16   
 
-Stora projektet  
+**PÅSKLOV**  
 
 ## Vecka 17   
 
-Stora projektet  
+**Gymnasiearbetesdag**    
 
 ## Vecka 18   
 
-Stora projektet  
+**Första maj**    
 
 ## Vecka 19   
 
@@ -318,24 +318,14 @@ Stora projektet
 
 ## Vecka 20   
 
-Stora projektet  
+Presentation av Stora projektet  
 
 ## Vecka 21   
 
-Stora projektet  
+Peer-review/Kompisbedömning  
 
 ## Vecka 22   
 
-Presentation av Stora projektet  
-
-## Vecka 23   
-
-Peer-review/Kompisbedömning  
-
-## Vecka 24   
-
-
-## Vecka 25   
 **SOMMARLOV**   
 
 ---     
