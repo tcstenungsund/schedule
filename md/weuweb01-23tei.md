@@ -433,6 +433,8 @@ Vårprojektet
 
 **Veckans läxa:** Lyssna på avsnittet ”[005 Inheritance](http://thecsspodcast.googledevelopers.libsynpro.com/005-inheritance)” (8 min) av podcasten “The CSS Podcast”. (Finns också på [Spotify](https://open.spotify.com/episode/7q4lpdJOIYaUTNMwjUvRxP).) 
 
+**Test:** The CSS Podcast avsnitt 1 – 5  
+
 ## Vecka 13   
 
 Vårprojektet  
@@ -445,7 +447,12 @@ Vårprojektet
 
 Vårprojektet  
 
-**Test:** The CSS Podcast avsnitt 1 – 5  
+###### Tester  
+
+<!--  
+caniuse.com 
+whocanuse.com 
+-->  
 
 ## Vecka 16 & 17   
 
@@ -453,12 +460,12 @@ Vårprojektet
 
 ## Vecka 18   
 
-###### Tester  
-
-<!--  
-caniuse.com 
-whocanuse.com 
--->  
+Prov på:
+* Planeringsverktyg  
+* Vektorgrafik & Logotypdesign  
+* Designsytem  
+* Publicering av webbplats  
+* Tester  
 
 Vårprojektet  
 
@@ -469,13 +476,6 @@ Vårprojektet
 ## Vecka 20   
 
 Vårprojektet  
-
-Prov på:
-* Planeringsverktyg  
-* Vektorgrafik & Logotypdesign  
-* Designsytem  
-* Publicering av webbplats  
-* Tester  
 
 ## Vecka 21   
 
