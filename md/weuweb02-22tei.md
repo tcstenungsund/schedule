@@ -284,6 +284,8 @@ Lägg lite mer tid på att putsa på uppgiften CMS subtheme, om ni inte är klar
 
 Vi drar igång Stora Projektet!  
 
+[Uppgift: Stora Projektet](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-stora_projektet)  
+
 ## Vecka 11   
 
 Stora projektet  
