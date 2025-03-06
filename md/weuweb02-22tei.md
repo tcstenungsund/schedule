@@ -280,6 +280,10 @@ Lägg lite mer tid på att putsa på uppgiften CMS subtheme, om ni inte är klar
 
 **År 8-besök**   
 
+--  
+
+Vi drar igång Stora Projektet!  
+
 ## Vecka 11   
 
 Stora projektet  
