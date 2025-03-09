@@ -209,6 +209,18 @@ Vi börjar prata om nätverk. Vi påbörjar kapitel 5 och går igenom innehålle
 
 ## Vecka 11   
 
+Som vi pratat om i veckan kommer Daodac lektionen, måndagen den 10/3, att bedrivas från valfri plats.
+
+RJO medverkar på onsdagens lektion, då vi ska tillverka nätverkskablar.
+
+Ni ska läsa på de kapitel i IT Essentials som vi inte kommer att gå igenom gemensamt:
+
+Module 7: Laptops and Other Mobile Devices
+Module 8: Printers
+Module 12: Mobile, Linux, and macOS Operating Systems
+
+Jag har öppnat Checkpoint Exam Modules 7-8, så gör gärna det.
+
 
 ## Vecka 12   
 
