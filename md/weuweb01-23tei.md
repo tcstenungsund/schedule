@@ -417,11 +417,14 @@ Genomgång av provet från vecka... länge sedan? Typ... 50?
 
 ## Vecka 11   
 
-Reklamfilmsgala  
+###### Publicering av webbplats   
 
---  
+Protokollet [FTP](https://en.wikipedia.org/wiki/File_Transfer_Protocol) har nästan helt ersatts av verktyget [Git](https://sv.wikipedia.org/wiki/Git_(datorprogram)) för publicering av filer på webben. Du laddar upp dina filer till platser som [GitHub](https://github.com/) eller ett [webbhotell](https://www.loopia.se/webbhotell/). För att hitta dem registrerar du en [domänadress](https://www.loopia.se/domannamn/) och konfigurerar [DNS](https://sv.wikipedia.org/wiki/Dom%C3%A4nnamnssystemet). Nämnas kan även dynamiska DNS-tjänster som [DuckDNS](https://www.duckdns.org/).   
 
-###### Publicering av webbplats    
+* [MDN: How do you upload your files to a web server?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Tools_and_setup/Upload_files_to_a_web_server)
+* [MDN: How do I use GitHub Pages?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Tools_and_setup/Using_GitHub_pages)
+* [GitHub Pages - Websites for you and your projects.](https://pages.github.com/)
+* [Host Website on Github for Free| Github Pages Tutorial 2024 (Simple Guide)](https://youtu.be/DUwbWiy7-3c) (2 min)   
 
 **Veckans läxa:** Lyssna på avsnittet ”[004 The Cascade](http://thecsspodcast.googledevelopers.libsynpro.com/004-the-cascade)” (12 min) av podcasten “The CSS Podcast”. (Finns också på [Spotify](https://open.spotify.com/episode/698XEvD2VUmg4iVZEZqL7I).)    
 
