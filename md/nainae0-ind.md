@@ -126,10 +126,19 @@ Checkpoint exam
 Inställd p.g.a UF-mässa
 
 ## Vecka 10   
+Börjar med kap 21 - kryptografi.
 
+Vi går igenom kap 21 gram till 21.2.4 och pratar om nycklar och hur dessa används tillsammans med hash-aloritmer.
+
+Efter det tittar vi på första avsnittet av SVT's serie "Hackad". 
 
 ## Vecka 11   
+Eftersom vi pratar kryptografi så ser vi första delen av "The Imitation Game". Filmen handlar om hur britterna arbetade för att knäcka tyskarnas kryptomaskin Enigma.
 
+Vi går igenom hur våren kommer att se ut och klassen är överens om att schemat ser bra ut.
+
+***Uppgift:*** 
+Övning: Krypto. I teamsrummet finns en inlämningsmapp med samma namn. Ni ska knäcka den krypterade texten och lämna in den rätta texten **SAMT** en förklaring av hur ni löste problemet. Sista inlämningsdag enligt inlämningsmappen.
 
 ## Vecka 12   
 
