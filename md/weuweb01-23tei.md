@@ -219,7 +219,7 @@ Test your skills: [Values and units](https://developer.mozilla.org/en-US/docs/Le
 
 Hur väljer man färg? Följ råden i "[How to Choose Colors (Easy 3-Step Process)](https://youtu.be/KMS3VwGh3HY)" (7 min) och "[The 60–30–10 Rule](https://uxplanet.org/the-60-30-10-rule-a-simple-way-to-creating-catchy-user-interfaces-e9e2cf957213)". Använd verktyg som [The Good Colors](https://thegoodcolors.com/) och "[RandomA11y](https://randoma11y.com/)" för att hjälpa dig hitta nya kombinationer.  
 
-Kontrast är oerhört viktigt, vilket "[Contrast Rebellion](https://contrastrebellion.com/)" talar om för oss, och på "[Odd Contrast](https://www.oddcontrast.com/)" kan vi testa våra färger. (Läs mer och gör interaktiva övningar på "[Color & Contrast](https://colorandcontrast.com/)".)   
+Kontrast är oerhört viktigt, vilket "[Contrast Rebellion](https://contrastrebellion.com/)" talar om för oss, och på "[Odd Contrast](https://www.oddcontrast.com/)" kan vi testa våra färger. Vi rekommenderas att uppnå en kontrast av 4,5:1, men vad betyder det? [WCAG Colour Contrast: What does the 4.5:1 ratio actually mean?](https://davedavies.dev/posts/wcag-colour-contrast-explained/) (Läs mer och gör interaktiva övningar på "[Color & Contrast](https://colorandcontrast.com/)".)   
 
 [Uppgift: Fundamental CSS comprehension](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/webweu01-fundamental_css_comprehension)                
 
