@@ -455,6 +455,28 @@ caniuse.com
 whocanuse.com 
 -->  
 
+Det första du skall testa är såklart om din webbplats följer W3Cs riktlinjer och validerar. Till exempel har vi [W3C: Validators and tools](https://www.w3.org/developers/tools/, [Can I Use](https://caniuse.com/) och [Who Can Use](https://www.whocanuse.com/). Det finns många verktyg som gör detta, både webbtjänster och mjukvaror i webbläsare och IDE.   
+
+En webbplats bör byggas och utveckla med fakta som bas. För att få fakta om just din webbplats används olika sorters tester. Att testa innebär ALDRIG att fråga någon vad de tycker. Istället har vi användbarhetstestning (usability testing), hastighetstestning (speed testing), tillgänglighetstestning (a11y testing) och många fler.    
+
+_Usability testing_    
+* "[Usability testing](https://en.wikipedia.org/wiki/Usability_testing)"   
+* "[Usability Testing: Don’t Guess, Test.](https://www.uxbooth.com/articles/usability-testing-dont-guess-test/)"   
+* "[How To Run Live User Testing](https://techcrunch.com/2014/02/18/how-to-run-live-user-testing-part-1-setup/)"   
+* "[What goes into a user testing script](https://boagworld.com/usability/what-goes-into-a-user-testing-script/)"   
+* "[Testing design: How do you test a design comp?](https://boagworld.com/design/testing-design/)"   
+
+_Speed testing_    
+* "[Google Website Speed Recommendations for 2025 ](https://www.stanventures.com/blog/google-pagespeed-insights/google-recommended-speed/)"   
+* [PageSpeed Insights](https://pagespeed.web.dev/)   
+
+_A11y testing_   
+* [Web accessibility](https://en.wikipedia.org/wiki/Web_accessibility)   
+* [Web Content Accessibility Guidelines](https://en.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines)   
+* "[Digital tillgänglighet - Introduktion till WCAG](https://digitill.se/)"    
+* [W3C - Evaluating Web Accessibility](https://www.w3.org/WAI/test-evaluate/)   
+* [The a11y project](https://www.a11yproject.com/)   
+
 ## Vecka 16 & 17   
 
 **PÅSKLOV**   
