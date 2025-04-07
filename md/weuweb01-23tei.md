@@ -446,8 +446,6 @@ Vårprojektet
 
 ## Vecka 15   
 
-Vårprojektet  
-
 ###### Tester  
 
 Det första du skall testa är såklart om din webbplats följer W3Cs riktlinjer och validerar. Till exempel har vi [W3C: Validators and tools](https://www.w3.org/developers/tools/), [Can I Use](https://caniuse.com/) och [Who Can Use](https://www.whocanuse.com/). Det finns många verktyg som gör detta, både webbtjänster och mjukvaror i webbläsare och IDE.   
@@ -471,6 +469,10 @@ _A11y testing_
 * "[Digital tillgänglighet - Introduktion till WCAG](https://digitill.se/)"    
 * [W3C - Evaluating Web Accessibility](https://www.w3.org/WAI/test-evaluate/)   
 * [The a11y project](https://www.a11yproject.com/)   
+
+--  
+
+Vårprojektet  
 
 ## Vecka 16 & 17   
 
