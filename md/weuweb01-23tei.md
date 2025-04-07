@@ -450,12 +450,7 @@ Vårprojektet
 
 ###### Tester  
 
-<!--  
-caniuse.com 
-whocanuse.com 
--->  
-
-Det första du skall testa är såklart om din webbplats följer W3Cs riktlinjer och validerar. Till exempel har vi [W3C: Validators and tools](https://www.w3.org/developers/tools/, [Can I Use](https://caniuse.com/) och [Who Can Use](https://www.whocanuse.com/). Det finns många verktyg som gör detta, både webbtjänster och mjukvaror i webbläsare och IDE.   
+Det första du skall testa är såklart om din webbplats följer W3Cs riktlinjer och validerar. Till exempel har vi [W3C: Validators and tools](https://www.w3.org/developers/tools/), [Can I Use](https://caniuse.com/) och [Who Can Use](https://www.whocanuse.com/). Det finns många verktyg som gör detta, både webbtjänster och mjukvaror i webbläsare och IDE.   
 
 En webbplats bör byggas och utveckla med fakta som bas. För att få fakta om just din webbplats används olika sorters tester. Att testa innebär ALDRIG att fråga någon vad de tycker. Istället har vi användbarhetstestning (usability testing), hastighetstestning (speed testing), tillgänglighetstestning (a11y testing) och många fler.    
 
