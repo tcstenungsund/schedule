@@ -141,46 +141,52 @@ Vi går igenom hur våren kommer att se ut och klassen är överens om att schem
 Övning: Krypto. I teamsrummet finns en inlämningsmapp med samma namn. Ni ska knäcka den krypterade texten och lämna in den rätta texten **SAMT** en förklaring av hur ni löste problemet. Sista inlämningsdag enligt inlämningsmappen.
 
 ## Vecka 12   
-
+Ser på Hackad avsnitt 1
 
 ## Vecka 13   
-
+Ser på Hackad avsnitt 2
 
 ## Vecka 14   
-
-**PÅSKLOV**   
+Ser på Hackad avsnitt 3
+  
 ## Vecka 15   
-
+Christoffer i Stockholm på finalen i Blixtlåset
 
 ## Vecka 16   
-
+**PÅSKLOV**
 
 ## Vecka 17   
+Modulprov
 
+Ser på Hackad avsnitt 4.
+
+Fortsätter med de två labbarna och labbrapporterna.
 
 ## Vecka 18   
 
+Ser på det sista avsnittet av Hackad (avsnitt 5).
+
+Fortsätter med de två labbarna och labbrapporterna.
 
 ## Vecka 19   
+Fortsätter med de två labbarna och labbrapporterna.
 
 
-## Vecka 20   
+## Vecka 20
+Fortsätter med de två labbarna och labbrapporterna.
 
+***Inlämning: Labbrapport 1***
+***Inlämning: Labbrapport 2***
 
 ## Vecka 21   
-
+Sista lektionen!
 
 ## Vecka 22   
-
+**LEDIGT**
 
 ## Vecka 23   
+**SOMMARLOV**  
 
-
-## Vecka 24   
-
-
-## Vecka 25   
-**SOMMARLOV**   
 
 ---     
 [![Creative Commons-licens](https://i.creativecommons.org/l/by-sa/4.0/80x15.png)](http://creativecommons.org/licenses/by-sa/4.0/) Detta dokument är licensierat under en [Creative Commons Erkännande-DelaLika 4.0 Internationell Licens](http://creativecommons.org/licenses/by-sa/4.0/).    
