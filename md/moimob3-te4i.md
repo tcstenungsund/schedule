@@ -639,6 +639,8 @@ Hur ser gränssnitt ut i vår omgivning? [Intro to UI/UX](https://youtu.be/wkAE1
 
 ### Måndag   
 
+Presentation av uppgiften Moderna Webbteknologier  
+
 ### Tisdag   
 
 ## Vecka 23   
