@@ -593,21 +593,27 @@ Presentation av 2.0 av projekten
 **PÅSKLOV**   
 ## Vecka 15   
 
+**APL**  
 
 ## Vecka 16   
 
+**APL**  
 
 ## Vecka 17   
 
+**APL**  
 
 ## Vecka 18   
 
+**APL**  
 
 ## Vecka 19   
 
+**APL**  
 
 ## Vecka 20   
 
+**APL**  
 
 ## Vecka 21   
 
@@ -631,14 +637,20 @@ Hur ser gränssnitt ut i vår omgivning? [Intro to UI/UX](https://youtu.be/wkAE1
 
 ## Vecka 22   
 
+### Måndag   
+
+### Tisdag   
 
 ## Vecka 23   
 
+### Måndag   
 
-## Vecka 24   
+Inlämning av utrustning och avveckling  
 
+### Tisdag   
 
-## Vecka 25   
+Avslutningssermoni  
+
 **SOMMARLOV**   
 
 ---     
