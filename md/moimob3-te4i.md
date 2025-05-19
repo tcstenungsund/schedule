@@ -611,6 +611,23 @@ Presentation av 2.0 av projekten
 
 ## Vecka 21   
 
+### Måndag   
+
+Med hjälp av [Frontend Roadmap](https://roadmap.sh/frontend) tittar vi på allt ni lärt er och vad ni skulle kunna gå vidare med.  
+
+#### Moderna Webbteknologier  
+
+Hur ser gränssnitt ut i vår omgivning? [Intro to UI/UX](https://youtu.be/wkAE11kWafc) Det byggs ofta med HTML/CSS, men är inte sällan kasst ändå. Vad går att göra bättre?   
+
+[Uppgift: Moderna Webbteknologier](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb33-moderna_webbteknologier.md)   
+
+### Tisdag   
+
+### Torsdag   
+
+### Fredag   
+
+*Sociala medier-genomgång*: 
 
 ## Vecka 22   
 
