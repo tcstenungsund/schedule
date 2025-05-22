@@ -336,6 +336,10 @@ Kursutvärdering
 
 Avrundning, en tillbakablick och en blick på framtiden, samtalsterapi!   
 
+--  
+
+Resurslektion  
+
 ## Vecka 22   
 
 **SOMMARLOV**   
