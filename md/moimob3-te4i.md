@@ -625,7 +625,7 @@ Med hjälp av [Frontend Roadmap](https://roadmap.sh/frontend) tittar vi på allt
 
 Hur ser gränssnitt ut i vår omgivning? [Intro to UI/UX](https://youtu.be/wkAE11kWafc) Det byggs ofta med HTML/CSS, men är inte sällan kasst ändå. Vad går att göra bättre?   
 
-[Uppgift: Moderna Webbteknologier](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb33-moderna_granssnitt.md)   
+[Uppgift: Moderna Gränssnitt](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb33-moderna_granssnitt.md)   
 
 ### Tisdag   
 Vi pratar vidare om gränssnitt och tittar på ett klipp angående design för touch-enheter. [Designing For Touch — Smart Interface Design Patterns (Smashing TV)](https://www.youtube.com/watch?v=LteyaTkTfGg).
@@ -636,10 +636,13 @@ Vi pratar om olika tjänster för att samla in data om hur användare använder 
 ### Torsdag   
 Idag är sista lektionen med Christoffer och vi pratar bland annat jobbannonser.
 
-Efter detta fortsätter ni med uppgiften [Moderna Webbteknologier](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb33-moderna_granssnitt.md)   
-.
+Efter detta fortsätter ni med uppgiften Moderna Gränssnitt.  
 
 ### Fredag   
+
+Vad kännetecknar ett bra gränssnitt? "[Touch-based user interfaces usability study](https://dworkz.com/article/touch-based-user-interfaces-usability-study/)" och "[HOW BIG Should Your UI ELEMENTS and COMPONENTS Be?](https://youtu.be/bnp8cEhHgY0)". 
+
+Läs artikeln "[Designing for Touch](https://www.uxmatters.com/mt/archives/2020/02/designing-for-touch.php)" och reflektera över ert valda gränssnitt i uppgiften Moderna Gränssnitt.  
 
 *Sociala medier-genomgång*: 
 
