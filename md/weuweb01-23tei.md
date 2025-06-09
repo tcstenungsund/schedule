@@ -515,7 +515,23 @@ Presentation av Vårprojektet
 
 ## Vecka 24   
 
+Vad har vi gjort, vad skall vi göra och vad kan vi göra?   
+
+Skolverkets instruktioner och en roadmap för att bli Frontendutvecklare  
+
 Projektutvärdering och kompisbedömning!    
+
+CSS-utmaning!  
+
+<!--  
+[En review av var vi är och vart vi är på väg](https://roadmap.sh/frontend)!   
+
+[CSSBattle](https://cssbattle.dev/play/1)!  
+
+https://flukeout.github.io/
+https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ
+
+-->  
 
 ## Vecka 25   
 **SOMMARLOV**   
