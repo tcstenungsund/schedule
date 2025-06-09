@@ -524,10 +524,8 @@ Projektutvärdering och kompisbedömning!
 Utmaning: [CSSBattle](https://cssbattle.dev/play/1)!  
 
 <!--  
-
 https://flukeout.github.io/
 https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ
-
 -->  
 
 ## Vecka 25   
