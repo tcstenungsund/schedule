@@ -517,16 +517,13 @@ Presentation av Vårprojektet
 
 Vad har vi gjort, vad skall vi göra och vad kan vi göra?   
 
-Skolverkets instruktioner och en roadmap för att bli Frontendutvecklare  
+Skolverkets instruktioner och [en roadmap](https://roadmap.sh/frontend) för att bli Frontendutvecklare  
 
-Projektutvärdering och kompisbedömning!    
+Projektutvärdering och kompisbedömning!  
 
-CSS-utmaning!  
+Utmaning: [CSSBattle](https://cssbattle.dev/play/1)!  
 
 <!--  
-[En review av var vi är och vart vi är på väg](https://roadmap.sh/frontend)!   
-
-[CSSBattle](https://cssbattle.dev/play/1)!  
 
 https://flukeout.github.io/
 https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ
