@@ -528,6 +528,21 @@ https://flukeout.github.io/
 https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ
 -->  
 
+###### Inför Webbutveckling 2  
+
+I nästa kurs förväntas att du är duktig på HTML, CSS och Bootstrap, samt verktyg som Firefox Developer Tools och VSCodium. Nedan finner du tre riktigt bra artiklar som hjälper dig att bli bättre på både CSS och Bootstrap. Du hittar också en video-kurs i grundläggande HTML & CSS samt en djupdykning i Developer Tools.   
+
+Om du fått E eller D så rekommenderar jag starkt att du tittar på materialet nedan, du kommer annars få svårt att hänga med i nästa kurs. Om du däremot fått B eller A så kan nedanstående resurser hjälpa dig att nå ännu längre, att sikta högre och att bli ännu bättre! 
+
+Lycka till!  
+
+* [7 Important Tips for Writing Better CSS](https://www.freecodecamp.org/news/7-important-tips-for-writing-better-css/)  
+* [MDN: Solve common CSS problems](https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Solve_CSS_problems)  
+* [How to Setup and Use Bootstrap (Step-by-Step)](https://websitesetup.org/bootstrap-tutorial-for-beginners/)  
+* [HTML & CSS for Absolute Beginners](https://youtube.com/playlist?list=PL4-IK0AVhVjOJs_UjdQeyEZ_cmEV3uJvx) av Kevin Powell  
+* [How to debug CSS with Firefox Developer Tools](https://youtu.be/AR9Em0X-N_8)  
+
+
 ## Vecka 25   
 **SOMMARLOV**   
 
