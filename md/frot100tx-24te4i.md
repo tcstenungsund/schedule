@@ -1,32 +1,12 @@
-# KURSNAMN - ELEVGRUPP    
+# Frontendutveckling och Digital design - 24TE4I  
 
 ## Vecka 34   
 
 
-## Vecka 35  
-Kursstart!
-Introduktion.
- 
-Vi uppdaterar våra LinkedIn konton.
- 
-The Ultimate LinkedIn Cheat Sheet 
-https://www.leisurejobs.com/staticpages/18285/the-ultimate-linkedin-cheat-sheet/
-
-Tips:
-https://www.youtube.com/watch?v=zwsOzdqmvqo
- 
- 
-
-
- 
+## Vecka 35   
 
 
 ## Vecka 36   
-Gör färdigt din Linkedin profil.
-
-CV och personligt brev. Inför APL ansökan behöver vi ha ett uppdaterat CV och personligt brev.
-
-Tips och mallar finner du här - [Arbetsförmedlingen](https://arbetsformedlingen.se/for-arbetssokande/cv-ansokan-och-intervju)
 
 
 ## Vecka 37   
@@ -154,4 +134,4 @@ Tips och mallar finner du här - [Arbetsförmedlingen](https://arbetsformedlinge
 
 ---     
 [![Creative Commons-licens](https://i.creativecommons.org/l/by-sa/4.0/80x15.png)](http://creativecommons.org/licenses/by-sa/4.0/) Detta dokument är licensierat under en [Creative Commons Erkännande-DelaLika 4.0 Internationell Licens](http://creativecommons.org/licenses/by-sa/4.0/).    
-Bilder och fotografier tillhör respektive upphovsman, och befinner sig inte nödvändigtsvis under en Creative Commons-licens.
+Bilder och fotografier tillhör respektive upphovsman, och befinner sig inte nödvändigtsvis under en Creative Commons-licens.    

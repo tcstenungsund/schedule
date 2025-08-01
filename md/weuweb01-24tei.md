@@ -1,4 +1,4 @@
-# Artificiell Intelligens - INDval 2025/2026  
+# Webbutveckling 1 - 24TEI  
 
 ## Vecka 34   
 
