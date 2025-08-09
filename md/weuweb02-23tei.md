@@ -1,30 +1,96 @@
 # Webbutveckling 2 - 23TEI  
 
-## Vecka 34   
-
-
 ## Vecka 35   
 
+### Fredag  
+
+Kursplanering, Skolverkets [mål för kursen](https://www.skolverket.se/undervisning/gymnasieskolan/program-och-amnen-i-gymnasieskolan/hitta-program-amnen-och-kurser-i-gymnasieskolan-gy11/amne?url=907561864%2Fsyllabuscw%2Fjsp%2Fsubject.htm%3FsubjectCode%3DWEU%26courseCode%3DWEUWEB02%26version%3D2%26tos%3Dgy&sv.url=12.5dfee44715d35a5cdfa92a3#anchor_WEUWEB02) samt en introduktion till ämnet.   
+
+Repetition av kursen Webbutveckling 1.  
 
 ## Vecka 36   
 
+### Måndag   
+
+###### Virtualisering  
+
+Prov  
+
+### Fredag  
+
+LAMP och UNIX-system  
 
 ## Vecka 37   
 
+### Måndag   
+
+
+
+### Fredag  
+
+###### Workspace för webbutvecklare  
 
 ## Vecka 38   
+
+### Måndag   
+
+
+### Fredag  
+
+<!-- 
+
+###### Felsökning  
+
+1 Identify the Problem  
+2 Establish a Theory of Probable Cause  
+3 Test the Theory to Determine the Cause  
+4 Establish a Plan of Action  
+5 Implement the Solution or Escalate as Necessary  
+6 Verify Full System Functionality  
+7 Document Findings, Actions, and Outcomes  
+
+[![XKCD: Tech Support Cheat Sheet](https://www.explainxkcd.com/wiki/images/3/38/tech_support_cheat_sheet.png)](https://www.explainxkcd.com/wiki/index.php/627:_Tech_Support_Cheat_Sheet)  
+
+"[Troubleshooting Steps: Your Friendly Guide to Problem Solving](https://onlinetoolguides.com/troubleshooting-steps/)" by Online Tool Guides.   
+
+"[The 6 Steps of IT Troubleshooting](https://youtu.be/fh7oYoEQb2E)" (2 min)  
+"[6 Step Troubleshooting Process by compTIA](https://youtu.be/5N56Na0iEfk)" (3 min)  
+"[The 6 Crucial Steps of IT Troubleshooting You Must Know](https://youtu.be/mIdxo_ymzno)" (40 min)  
+
+--> 
 
 
 ## Vecka 39   
 
+### Måndag   
+
+
+### Fredag  
+
+###### Introduktion till CMS:er  
 
 ## Vecka 40   
+
+### Måndag   
+
+
+### Fredag  
 
 
 ## Vecka 41   
 
+### Måndag   
+
+
+### Fredag  
+
 
 ## Vecka 42   
+
+### Måndag   
+
+
+### Fredag  
 
 
 ## Vecka 43   
@@ -36,23 +102,58 @@
 
 ## Vecka 45   
 
+### Måndag   
+
+
+### Fredag  
+
 
 ## Vecka 46   
+
+### Måndag   
+
+
+### Fredag  
 
 
 ## Vecka 47   
 
+### Måndag   
+
+
+### Fredag  
+
 
 ## Vecka 48   
+
+### Måndag   
+
+
+### Fredag  
 
 
 ## Vecka 49   
 
+### Måndag   
+
+
+### Fredag  
+
 
 ## Vecka 50   
 
+### Måndag   
+
+
+### Fredag  
+
 
 ## Vecka 51   
+
+### Måndag   
+
+
+### Fredag  
 
 
 ## Vecka 52   
