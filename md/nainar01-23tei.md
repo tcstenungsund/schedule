@@ -1,12 +1,30 @@
 # Nätverksteknik - 23TEi - 25/26    
 
-## Vecka 34   
 
 
-## Vecka 35   
+
+## Vecka 35 
+
+Klassdag.
 
 
 ## Vecka 36   
+
+Måndag:
+
+Uppstart av Nätverksteknik!
+
+Vi ska under läsåret följa Ciscos Network Technician Career Path:
+
+Som består av 4 delkurser. 
+
+[Network Technician](https://www.netacad.com/career-paths/network-technician?courseLang=en-US)
+
+![ccst.png]({{site.baseurl}}/md/ccst.png)
+
+
+
+Tisdag:
 
 
 ## Vecka 37   
