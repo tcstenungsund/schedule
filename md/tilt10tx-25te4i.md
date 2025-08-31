@@ -2,6 +2,7 @@
 
 ## Vecka 36   
 
+Uppstart med titt på [Skolverkets dokumentation](https://www.skolverket.se/undervisning/gymnasieskolan/program-och-amnen-i-gymnasieskolan/hitta-program-och-amnen-i-gymnasieskolan-gy25/amne-gy2025?url=907561864%2Fsyllabuscw%2Fjsp%2Fsubject.htm%3FsubjectCode%3DTILT%26courseCode%3DTILT100TX%26date%3D2025-08-31%26lang%3D%26tos%3Dgy&sv.url=12.467ba038192d14ade318a#anchor_TILT100TX) för kursen!  
 
 ## Vecka 37   
 
