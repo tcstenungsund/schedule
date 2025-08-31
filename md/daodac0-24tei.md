@@ -4,13 +4,10 @@
 
 Uppstart! Vi går igenom [Skolverkets dokumentation](https://www.skolverket.se/undervisning/gymnasieskolan/program-och-amnen-i-gymnasieskolan/hitta-program-amnen-och-kurser-i-gymnasieskolan-gy11/amne?url=907561864%2Fsyllabuscw%2Fjsp%2Fsubject.htm%3FsubjectCode%3DDAO%26courseCode%3DDAODAC0%26version%3D4%26tos%3Dgy&sv.url=12.5dfee44715d35a5cdfa92a3#anchor_DAODAC0) för kursen! 
 
-Vi uppdaterar våra LinkedIn konton.
- 
-https://www.leisurejobs.com/staticpages/18285/the-ultimate-linkedin-cheat-sheet/
-https://www.youtube.com/watch?v=zwsOzdqmvqo
+Vi uppdaterar våra LinkedIn konton med hjälp av [The Ultimate LinkedIn Cheat Sheet](https://www.leisurejobs.com/staticpages/18285/the-ultimate-linkedin-cheat-sheet/) och "[How to get started on LinkedIn in 2024](https://www.youtube.com/watch?v=zwsOzdqmvqo)" (23 min).    
 
-Vi startar med Digital Awareness kursen:
-https://www.netacad.com/courses/digital-awareness?courseLang=en-US
+Vi kör igång med kursen [Digital Awareness](https://www.netacad.com/courses/digital-awareness?courseLang=en-US
+) på Netacad!  
 
 ## Vecka 37   
 
