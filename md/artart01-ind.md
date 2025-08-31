@@ -1,13 +1,8 @@
 # Artificiell Intelligens - INDval 2025/2026  
 
-## Vecka 34   
-
-
-## Vecka 35   
-
-
 ## Vecka 36   
 
+Uppstart med en titt på [Skolverkets dokumentation](https://www.skolverket.se/undervisning/gymnasieskolan/program-och-amnen-i-gymnasieskolan/hitta-program-amnen-och-kurser-i-gymnasieskolan-gy11/amne?url=907561864%2Fsyllabuscw%2Fjsp%2Fsubject.htm%3FsubjectCode%3DART%26courseCode%3DARTART01%26version%3D1%26tos%3Dgy&sv.url=12.5dfee44715d35a5cdfa92a3#anchor_ARTART01) för kursen!  
 
 ## Vecka 37   
 
