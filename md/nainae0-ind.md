@@ -1,9 +1,7 @@
 # Nätverkssäkerhet - INDval 2025/2026   
 
 ## Vecka 36   
-Upprop och uppstart. Går igenom Skolverkets dokument och pratar om vägar inom cybersäkerhet.
-
-Cisco öppnar sin nya lärplattform!
+Upprop och uppstart. Går igenom [Skolverkets dokument](https://www.skolverket.se/undervisning/gymnasieskolan/program-och-amnen-i-gymnasieskolan/hitta-program-amnen-och-kurser-i-gymnasieskolan-gy11/amne?url=907561864%2Fsyllabuscw%2Fjsp%2Fsubject.htm%3FsubjectCode%3DNAI%26courseCode%3DNAINAE0%26version%3D2%26tos%3Dgy&sv.url=12.5dfee44715d35a5cdfa92a3#anchor_NAINAE0) och pratar om vägar inom cybersäkerhet.
 
 Vi registrerar oss och startar kursen CCNA CyberOps.
 
