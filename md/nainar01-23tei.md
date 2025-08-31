@@ -1,4 +1,4 @@
-# KURSNAMN - ELEVGRUPP    
+# Nätverksteknik - 23TEi - 25/26    
 
 ## Vecka 34   
 
