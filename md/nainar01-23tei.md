@@ -1,7 +1,6 @@
 # Nätverksteknik - 23TEi - 25/26    
 
-<img width="1954" height="1099" alt="Cisco" src="https://github.com/user-attachments/assets/27a3e958-fa93-4599-b397-f07c181ebdf1" 
-  style="max-width:clamp(5rem, 100%, 1954px)" />
+<img width="1954" height="1099" alt="Cisco" src="https://github.com/user-attachments/assets/27a3e958-fa93-4599-b397-f07c181ebdf1" style="max-width:clamp(5rem, 100%, 1954px)" />
 
 ## Vecka 35 
 
@@ -19,7 +18,7 @@ Som består av 4 delkurser.
 
 [Network Technician](https://www.netacad.com/career-paths/network-technician?courseLang=en-US)  
 
-<img width="702" height="738" alt="ccst" src="https://github.com/user-attachments/assets/1d20e121-4bcc-499b-803e-e3abebf26499" />
+<img width="702" height="738" alt="ccst" src="https://github.com/user-attachments/assets/1d20e121-4bcc-499b-803e-e3abebf26499" style="max-width:clamp(5rem, 100%, 1954px)" />
 
 ### Tisdag   
 
@@ -28,24 +27,45 @@ Som består av 4 delkurser.
 
 ## Vecka 37   
 
+### Måndag  
+
+### Tisdag  
 
 ## Vecka 38   
 
+### Måndag  
+
+### Tisdag  
 
 ## Vecka 39   
 
+### Måndag  
+
+### Tisdag  
 
 ## Vecka 40   
 
+### Måndag  
+
+### Tisdag  
 
 ## Vecka 41   
 
+### Måndag  
+
+### Tisdag  
 
 ## Vecka 42   
 
+### Måndag  
+
+### Tisdag  
 
 ## Vecka 43   
 
+### Måndag  
+
+### Tisdag  
 
 ## Vecka 44   
 
