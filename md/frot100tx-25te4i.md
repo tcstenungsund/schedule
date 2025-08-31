@@ -7,6 +7,8 @@ Kurstart för alla TE4-inriktningar.
 
 ### Tisdag   
 
+Låt oss ta en titt på vad Skolverket skriver om [Frontendutveckling](https://www.skolverket.se/undervisning/gymnasieskolan/program-och-amnen-i-gymnasieskolan/hitta-program-och-amnen-i-gymnasieskolan-gy25/amne-gy2025?url=907561864%2Fsyllabuscw%2Fjsp%2Fsubject.htm%3FsubjectCode%3DFROT%26date%3D2025-08-31%26lang%3D%26tos%3Dgy&sv.url=12.467ba038192d14ade318a) och [Digital design](https://www.skolverket.se/undervisning/gymnasieskolan/program-och-amnen-i-gymnasieskolan/hitta-program-och-amnen-i-gymnasieskolan-gy25/amne-gy2025?url=907561864%2Fsyllabuscw%2Fjsp%2Fsubject.htm%3FsubjectCode%3DDIGD%26courseCode%3DDIGD100TX%26date%3D2025-08-31%26lang%3D%26tos%3Dgy&sv.url=12.467ba038192d14ade318a#anchor_DIGD100TX)!  
+
 ###### Mjukvaruhistorik  
 
 <!-- 
