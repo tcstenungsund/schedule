@@ -1,6 +1,7 @@
 # Nätverksteknik - 23TEi - 25/26    
 
-<img width="1954" height="1099" alt="ccst n" src="https://github.com/user-attachments/assets/27a3e958-fa93-4599-b397-f07c181ebdf1" />
+<img width="1954" height="1099" alt="Cisco" src="https://github.com/user-attachments/assets/27a3e958-fa93-4599-b397-f07c181ebdf1" 
+  style="max-width:clamp(5rem, 100%, 1954px)" />
 
 ## Vecka 35 
 
