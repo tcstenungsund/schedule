@@ -16,7 +16,7 @@ Repetition av kursen Webbutveckling 1.
 
 ###### Virtualisering  
 
-Vi skall nu lära oss att bygga stora webbplatser. För detta måste vi förstå [LAMP](https://en.wikipedia.org/wiki/LAMP_%28software_bundle%29), som webben bygger på. Men det är mycket arbete om alla skall installera en full LAMP-stack för att samarbeta om kod.  
+Vi skall nu lära oss att bygga stora webbplatser. För detta måste vi förstå [LAMP](https://en.wikipedia.org/wiki/LAMP_%28software_bundle%29), som webben bygger på. Men det är mycket arbete om alla skall installera en full LAMP-stack för att samarbeta om kod. (Vill du lära mer om MySQL/MariaDB, börja med att lyssna på avsnittet "[Monty - The man behind your databases](https://www.hackerpublicradio.org/eps/hpr1423/)" på Hacker Public Radio)  
 
 Därför använder vi virtualisering! Vad är virtualisering?  
 
