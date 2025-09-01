@@ -2,6 +2,9 @@
 
 <img width="1954" height="1099" alt="ccst" src="https://github.com/user-attachments/assets/08b4dfd9-bb80-431f-9f32-288d5c4fbbb4" style="width:clamp(5rem, 100%, 1954px)" />
 
+<img width="1024" height="575" alt="ccst" src="https://github.com/user-attachments/assets/7aa8f096-8069-4deb-88c1-80510e149ea6" />
+
+
 ## Vecka 35 
 
 Klassdag.
