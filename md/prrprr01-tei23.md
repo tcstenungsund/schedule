@@ -8,7 +8,27 @@ Uppstart av Netacad, kursen JavaScript Essentials 1. Vi Jobbar igenom modul 1
 
 ## Vecka 36 
 
-Denna veckan fortsätter vi med kursen JavaScript Essentials 1. Vi skall jobba med sektion 1 och 2 i modul 2 som handlar om variabler och type casting . 
+Denna veckan fortsätter vi med kursen JavaScript Essentials 1. Vi skall jobba med sektion 1 och 2 i modul 2 som handlar om variabler och type casting. 
+
+#### Variabler 
+
+##### Det du bör ta med sig ifrån detta är:
+- Vad är en variabel?
+- Hur definerar vi variabler?
+- Vilka variabelnamn är ej tillåtna? Varför?
+- Skillnaden på kommandona $${\color{purple}var}$$, $${\color{purple}let}$$ och $${\color{purple}const}$$.
+- Vad innebär det att börja sin kod med $${\color{lightgreen}"use strict"};$$ och vad innebär det för hut vi definerar variabler?
+- Hur använder vi variabler?
+- Hur delar man in kod i block, vad innebär det och varför gör man det?
+- Varför indenterar vi kod?
+
+#### Datatyper 
+
+##### Det du bör ta med sig ifrån detta är:
+- Vilka är de 6 primitiva datatyperna?
+- Hur använder man sig av $${\color{purple}typeof}$$ operatorn?
+- Hur kan vi definera en variabel med en given datatyp?
+- Hur konventerar vi en datatyp till en annan
 
 ## Vecka 37 
 
