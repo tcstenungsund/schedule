@@ -12,7 +12,7 @@ Denna veckan fortsätter vi med kursen JavaScript Essentials 1. Vi skall jobba m
 
 #### Variabler 
 
-##### Det du bör ta med sig ifrån detta är:
+##### Det du bör ta med dig ifrån detta är:
 - Vad är en variabel?
 - Hur definerar vi variabler?
 - Vilka variabelnamn är ej tillåtna? Varför?
@@ -24,7 +24,7 @@ Denna veckan fortsätter vi med kursen JavaScript Essentials 1. Vi skall jobba m
 
 #### Datatyper 
 
-##### Det du bör ta med sig ifrån detta är:
+##### Det du bör ta med dig ifrån detta är:
 - Vilka är de 6 primitiva datatyperna?
 - Hur använder man sig av $${\color{purple}typeof}$$ operatorn?
 - Hur kan vi definera en variabel med en given datatyp?
