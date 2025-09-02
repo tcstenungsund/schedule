@@ -22,12 +22,16 @@ Som består av 4 delkurser.
 
 ### Tisdag   
 
+Vi fortsätter att arbeta med första delen av CCST Networking - Networking Basics.
 
+Genomgång av modul 2, 3 och 4. Nästa vecka kör vi prov på modul 1-4
 
 
 ## Vecka 37   
 
 ### Måndag  
+
+PROV modul 1-4.
 
 ### Tisdag  
 
