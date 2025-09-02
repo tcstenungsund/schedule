@@ -9,6 +9,10 @@ Kurstart för alla TE4-inriktningar.
 
 Låt oss ta en titt på vad Skolverket skriver om [Frontendutveckling](https://www.skolverket.se/undervisning/gymnasieskolan/program-och-amnen-i-gymnasieskolan/hitta-program-och-amnen-i-gymnasieskolan-gy25/amne-gy2025?url=907561864%2Fsyllabuscw%2Fjsp%2Fsubject.htm%3FsubjectCode%3DFROT%26date%3D2025-08-31%26lang%3D%26tos%3Dgy&sv.url=12.467ba038192d14ade318a) och [Digital design](https://www.skolverket.se/undervisning/gymnasieskolan/program-och-amnen-i-gymnasieskolan/hitta-program-och-amnen-i-gymnasieskolan-gy25/amne-gy2025?url=907561864%2Fsyllabuscw%2Fjsp%2Fsubject.htm%3FsubjectCode%3DDIGD%26courseCode%3DDIGD100TX%26date%3D2025-08-31%26lang%3D%26tos%3Dgy&sv.url=12.467ba038192d14ade318a#anchor_DIGD100TX)!  
 
+Installera Linux på era datorer. Sammarbeta och skriv en detaljerad how-to för hur man installerar Kubuntu som dualboot, med screenshots på viktiga inställningar. Använd befintligt repocitory.   
+
+### Torsdag 
+
 ###### Mjukvaruhistorik  
 
 <!-- 
@@ -16,8 +20,6 @@ Vi lyssnar till låtarna "[Eternal Flame](https://www.gnu.org/fun/jokes/eternal-
 
 "[35 Things Every Programmer Should Know](https://youtu.be/ODp-yivAUnY)" (18 min) 
 -->  
-
-### Torsdag 
 
 ## Vecka 37   
 
@@ -34,6 +36,10 @@ Vi börjar med att besvara frågan "[What is design?](https://draganbabic.com/bl
 
 ### Torsdag  
 
+<!-- 
+https://bsky.app/profile/spavel.bsky.social/post/3lxqqvx7tps2x 
+What UX is: make the text bigger and let people hold the thing 
+-->
 
 ## Vecka 38   
 
