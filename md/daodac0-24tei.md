@@ -25,7 +25,7 @@ Vi kommer att använda IT Essentials som extra uppgift, när man är klar med ob
 
 ## Vecka 38   
 
-SLUTPROV - Digital Awareness kursen.
+PROV - Digital Awareness kursen.
 
 Vi uppdaterar våra LinkedIn konton med hjälp av [The Ultimate LinkedIn Cheat Sheet](https://www.leisurejobs.com/staticpages/18285/the-ultimate-linkedin-cheat-sheet/) och "[How to get started on LinkedIn in 2024](https://www.youtube.com/watch?v=zwsOzdqmvqo)" (23 min). 
 
