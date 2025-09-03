@@ -4,20 +4,29 @@
 
 Uppstart! Vi går igenom [Skolverkets dokumentation](https://www.skolverket.se/undervisning/gymnasieskolan/program-och-amnen-i-gymnasieskolan/hitta-program-amnen-och-kurser-i-gymnasieskolan-gy11/amne?url=907561864%2Fsyllabuscw%2Fjsp%2Fsubject.htm%3FsubjectCode%3DDAO%26courseCode%3DDAODAC0%26version%3D4%26tos%3Dgy&sv.url=12.5dfee44715d35a5cdfa92a3#anchor_DAODAC0) för kursen! 
 
-   
+![digitalawareness.png]({{site.baseurl}}/md/digitalawareness.png)
+
 
 Vi kör igång med kursen [Digital Awareness](https://www.netacad.com/courses/digital-awareness?courseLang=en-US
 ) på Netacad!  
 
 ## Vecka 37   
 
-Arbeta vidare med Digital Awareness.
+Arbeta vidare med Digital Awareness. 
 
-Vi uppdaterar våra LinkedIn konton med hjälp av [The Ultimate LinkedIn Cheat Sheet](https://www.leisurejobs.com/staticpages/18285/the-ultimate-linkedin-cheat-sheet/) och "[How to get started on LinkedIn in 2024](https://www.youtube.com/watch?v=zwsOzdqmvqo)" (23 min). 
+Ni som är färdiga med Digital Awareness kursen anmäler er till IT Essentials kursen här:
+[IT Essentials](https://www.netacad.com/courses/it-essentials?courseLang=en-US&instance_id=76d30896-4873-4f7b-80c0-377361b9bdfa)
+
+Vi kommer att använda IT Essentials som extra uppgift, när man är klar med obligatoriska moment.
+
+![itessentials.png]({{site.baseurl}}/md/itessentials.png)
+
 
 ## Vecka 38   
 
 SLUTPROV - Digital Awareness kursen.
+
+Vi uppdaterar våra LinkedIn konton med hjälp av [The Ultimate LinkedIn Cheat Sheet](https://www.leisurejobs.com/staticpages/18285/the-ultimate-linkedin-cheat-sheet/) och "[How to get started on LinkedIn in 2024](https://www.youtube.com/watch?v=zwsOzdqmvqo)" (23 min). 
 
 ## Vecka 39   
 
