@@ -15,7 +15,7 @@ Installera Linux på era datorer. Sammarbeta och skriv en detaljerad how-to för
 
 Fortsätt med uppgiften!  
 
-*Sociala medier-genomgång*:  
+*Sociala medier-genomgång*: Denna vecka lär oss Tiktok att vi borde [bli kompetenta](https://www.offtiktok.com/post/37029), testa nya [studietekniker](https://www.offtiktok.com/post/37031), skapa vår egen [motivation](https://www.offtiktok.com/post/37032) och vara medvetna om [the dead internet theory](https://www.offtiktok.com/post/37035). Sök också lite [digital solitude](https://digitalsolitude.guillaumeslizewicz.com/)!    
 
 ## Vecka 37   
 
