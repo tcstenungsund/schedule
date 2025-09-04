@@ -13,17 +13,21 @@ Installera Linux på era datorer. Sammarbeta och skriv en detaljerad how-to för
 
 ### Torsdag 
 
-###### Mjukvaruhistorik  
-
-Vi lyssnar till låtarna "[Eternal Flame](https://www.gnu.org/fun/jokes/eternal-flame.html)" och "[Write in Go](https://youtu.be/LJvEIjRBSDA)", för att få chansen att tala lite om olika programmeringsspråk. Vad är skillnaden mellan kompilerade språk och scriptspråk? Vilka språk körs på server och vilka på klient? Vi ser också videon "[Most Popular Programming Languages | 1965-2020](https://youtu.be/sNURYeD4M5Y)". Vad hände med COBOL? Det förklarar "[The World Depends on 60-Year-Old Code No One Knows Anymore](https://youtu.be/LWYmGhIFy-A)" (10 min) för oss.  
-
-"[35 Things Every Programmer Should Know](https://youtu.be/ODp-yivAUnY)" (18 min)  
+Fortsätt med uppgiften!  
 
 *Sociala medier-genomgång*:  
 
 ## Vecka 37   
 
 ### Måndag   
+
+<!-- 
+###### Mjukvaruhistorik  
+
+Vi lyssnar till låtarna "[Eternal Flame](https://www.gnu.org/fun/jokes/eternal-flame.html)" och "[Write in Go](https://youtu.be/LJvEIjRBSDA)", för att få chansen att tala lite om olika programmeringsspråk. Vad är skillnaden mellan kompilerade språk och scriptspråk? Vilka språk körs på server och vilka på klient? Vi ser också videon "[Most Popular Programming Languages | 1965-2020](https://youtu.be/sNURYeD4M5Y)". Vad hände med COBOL? Det förklarar "[The World Depends on 60-Year-Old Code No One Knows Anymore](https://youtu.be/LWYmGhIFy-A)" (10 min) för oss.  
+
+"[35 Things Every Programmer Should Know](https://youtu.be/ODp-yivAUnY)" (18 min)  
+--> 
 
 ###### Yrkesroller inom Design     
 <!--  
