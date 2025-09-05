@@ -10,17 +10,22 @@ https://www.elementsofai.se/
 Online Ai verktyg som vi ska testa:
 https://www.futurepedia.io/
 
-Vad är egentligen Ai? - Fredrik Heintz vid Linköpings universitet beskriver Ai:
-https://www.youtube.com/watch?v=PJJryrfvlnw 
+"[Vad är AI, eller artificiell intelligens? | Fredrik Heintz, Linköpings universitet](https://youtu.be/PJJryrfvlnw?)" (10 min)
 
+Uppgift: Sedeslärande saga med tema jul!  
 
-
-https://lumo.proton.me/
-
-
+* [Proton Lumo](https://lumo.proton.me/)  
+* [Google Gemini](https://gemini.google.com/)  
 
 ## Vecka 37   
 
+<!-- 
+
+Se över förra veckans inlämningsuppgift.  
+
+Dra igång Elements of AI.  
+
+-->
 
 ## Vecka 38   
 
