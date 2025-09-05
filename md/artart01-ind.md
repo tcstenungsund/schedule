@@ -10,12 +10,11 @@ https://www.elementsofai.se/
 Online Ai verktyg som vi ska testa:
 https://www.futurepedia.io/
 
+Ett krypterat, säkert och europeiskt alternativ för generativ AI för text är [Proton Lumo](https://lumo.proton.me/). Testa gärna den!  
+
 "[Vad är AI, eller artificiell intelligens? | Fredrik Heintz, Linköpings universitet](https://youtu.be/PJJryrfvlnw?)" (10 min)
 
-Uppgift: Sedeslärande saga med tema jul!  
-
-* [Proton Lumo](https://lumo.proton.me/)  
-* [Google Gemini](https://gemini.google.com/)  
+[Uppgift: Sedeslärande saga med tema jul!](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/artart01-seseslarande_saga_med_tema_jul)  
 
 ## Vecka 37   
 
