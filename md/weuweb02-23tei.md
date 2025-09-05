@@ -34,25 +34,6 @@ Repetitionsprov
 
 ### Fredag  
 
-LAMP och UNIX-system  
-
-## Vecka 37   
-
-### Måndag   
-
-### Fredag  
-
-###### Workspace för webbutvecklare  
-
-## Vecka 38   
-
-### Måndag   
-
-
-### Fredag  
-
-<!-- 
-
 ###### Felsökning  
 
 1 Identify the Problem  
@@ -71,6 +52,25 @@ LAMP och UNIX-system
 "[The 6 Steps of IT Troubleshooting](https://youtu.be/fh7oYoEQb2E)" (2 min)  
 "[6 Step Troubleshooting Process by compTIA](https://youtu.be/5N56Na0iEfk)" (3 min)  
 "[The 6 Crucial Steps of IT Troubleshooting You Must Know](https://youtu.be/mIdxo_ymzno)" (40 min)  
+
+## Vecka 37   
+
+### Måndag   
+
+### Fredag  
+
+###### Workspace för webbutvecklare  
+
+## Vecka 38   
+
+### Måndag   
+
+
+### Fredag  
+
+<!-- 
+
+
 
 --> 
 
