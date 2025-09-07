@@ -18,7 +18,7 @@ Som består av 4 delkurser.
 
 [Network Technician](https://www.netacad.com/career-paths/network-technician?courseLang=en-US)  
 
-<img width="702" height="738" alt="ccst" src="assets/ccst_career-path.png" />
+<img width="702" height="738" alt="ccst" src="../assets/ccst_career-path.png" />
 
 ### Tisdag   
 
