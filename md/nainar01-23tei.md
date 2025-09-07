@@ -1,6 +1,6 @@
 # Nätverksteknik - 23TEi - 25/26    
 
-<img width="1954" height="1099" alt="ccst" src="https://github.com/user-attachments/assets/08b4dfd9-bb80-431f-9f32-288d5c4fbbb4" />
+<img width="1954" height="1099" alt="ccst" src="assets/ccst_networking.png" />
 
 ## Vecka 35 
 
@@ -18,7 +18,7 @@ Som består av 4 delkurser.
 
 [Network Technician](https://www.netacad.com/career-paths/network-technician?courseLang=en-US)  
 
-<img width="702" height="738" alt="ccst" src="https://github.com/user-attachments/assets/1d20e121-4bcc-499b-803e-e3abebf26499" style="width:clamp(5rem, 100%, 1954px)" />
+<img width="702" height="738" alt="ccst" src="assets/ccst_career-path.png" />
 
 ### Tisdag   
 

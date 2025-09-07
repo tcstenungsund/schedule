@@ -5,7 +5,7 @@
 Uppstart! Vi går igenom [Skolverkets dokumentation](https://www.skolverket.se/undervisning/gymnasieskolan/program-och-amnen-i-gymnasieskolan/hitta-program-amnen-och-kurser-i-gymnasieskolan-gy11/amne?url=907561864%2Fsyllabuscw%2Fjsp%2Fsubject.htm%3FsubjectCode%3DDAO%26courseCode%3DDAODAC0%26version%3D4%26tos%3Dgy&sv.url=12.5dfee44715d35a5cdfa92a3#anchor_DAODAC0) för kursen! 
 
 
-<img width="706" height="383" alt="digitalawareness" src="https://github.com/user-attachments/assets/5c0c30d4-95d1-4a47-be35-3f1696233be2" />
+<img width="706" height="383" alt="digitalawareness" src="assets/digitalawareness.png" />
 
 
 Vi kör igång med kursen [Digital Awareness](https://www.netacad.com/courses/digital-awareness?courseLang=en-US
@@ -21,7 +21,7 @@ Ni som är färdiga med Digital Awareness kursen anmäler er till IT Essentials 
 Vi kommer att använda IT Essentials som extra uppgift, när man är klar med obligatoriska moment.
 
 
-<img width="600" height="600" alt="itessentials" src="https://github.com/user-attachments/assets/e5cd2af2-aeac-4502-b910-40aae147cc46" />
+<img width="600" height="600" alt="itessentials" src="assets/itessentials.png" />
 
 ## Vecka 38   
 
