@@ -8,7 +8,7 @@ Klassdag.
 
 ## Vecka 36   
 
-### Måndag
+### Måndag  
 
 Uppstart av Nätverksteknik!  
 
@@ -16,22 +16,21 @@ Vi ska under läsåret följa Ciscos Network Technician Career Path:
 
 Som består av 4 delkurser.  
 
-[Network Technician](https://www.netacad.com/career-paths/network-technician?courseLang=en-US)  
+[Network Technician](https://www.netacad.com/career-paths/network-technician?courseLang=en-US)   
 
-<img width="702" height="738" alt="ccst" src="../assets/ccst_career-path.png" />
+<img width="702" height="738" alt="ccst" src="../assets/ccst_career-path.png" />  
 
 ### Tisdag   
 
-Vi fortsätter att arbeta med första delen av CCST Networking - Networking Basics.
+Vi fortsätter att arbeta med första delen av CCST Networking - Networking Basics.  
 
-Genomgång av modul 2, 3 och 4. Nästa vecka kör vi prov på modul 1-4
-
+Genomgång av modul 2, 3 och 4. Nästa vecka kör vi prov på modul 1-4   
 
 ## Vecka 37   
 
 ### Måndag  
 
-[PROV](netacad.com) modul 1-4.
+[Prov: Modul 1 - 4](netacad.com)
 
 ### Tisdag  
 
