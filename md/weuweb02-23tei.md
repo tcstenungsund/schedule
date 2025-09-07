@@ -57,59 +57,125 @@ Repetitionsprov
 
 ### Måndag   
 
+<!-- 
+"[Michelle Barker – Modern CSS Layout is Awesome!](https://youtu.be/6O0KBNslevQ)" (44 min)  
+
+Michelle Barker är en kreativ och designmedveten entusiast för CSS som gärna sprider nya och spännande sätt att bygga webbplatser på! Denna föreläsning gavs 2022 på konferensen "[beyond tellerrand](https://beyondtellerrand.com/)" Düsseldorf.  
+
+[Flexbox Froggy](https://flexboxfroggy.com/)  
+[Flexbox Adventure](https://codingfantasy.com/games/flexboxadventure)  
+[Grid Garden](https://cssgridgarden.com/)  
+
+-->
+
 ### Fredag  
 
-###### Workspace för webbutvecklare  
+###### Linux för webbutvecklare  
+<!-- 
+Mjukvaruutvecklare föredrar att arbeta i Unix-liknande operativsystem. De kräver inte den nivå av förståelse av kommandoraden som [xkcd: tar](https://xkcd.com/1168/) ger sken av, men du bör i alla fall förstå vad en [pakethanterare](https://sv.wikipedia.org/wiki/Pakethanterare) är och överblickar av din arbetsmiljö som [KDE Plasma in 180 Seconds](https://youtu.be/dZ6bojRSIw0) (4 min) är inte dum att se. Vill du anpassa utseendet ännu mer finns videos som How to [Customize KDE Plasma 6 | Guide for beginners](https://youtu.be/4OuaCXWSXFE) (24 min) till din hjälp.    
+
+Läxa till nästa vecka är att ni bekantar er med er desktop och gör den personlig!  
+-->
 
 ## Vecka 38   
 
 ### Måndag   
 
+###### Workspace för webbutvecklare  
+<!-- 
+Webbutvecklare behöver tillgång till LAMP-stacken och för det använder vi Docker. Din uppgift nu är att lära dig att använda Docker.  
+
+"[Docker Tutorial For Beginners](https://youtu.be/RrTbOvqlEic)", "[Docker for Web Development: A Brief Guide](https://medium.com/@vithusha.ravirajan/docker-for-web-development-a-brief-guide-5c0656319dcd)".  
+[<img alt="Docker, docker-compose och Lando" src="https://github.com/tcstenungsund/schedule/assets/5168530/63096533-a01f-49ba-b366-131ba467c8b2" width="42" style="width:42%">](https://github.com/tcstenungsund/schedule/assets/5168530/63096533-a01f-49ba-b366-131ba467c8b2)   
+
+[Uppgift: Workspace setup](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-workspace_setup)       
+
+När du är klar med ovanstående uppgift, ta reda på vad följande kommandon gör och testa dem i din miljö ("[8 Basic Docker Commands](https://youtu.be/xGn7cFR3ARU)").  
+
+    docker ps 
+    docker up 
+    docker down 
+    docker start 
+    docker stop 
+    docker kill 
+    docker exec -it <container-name> bash
+
+Prova att dra igång några containrar. Till exempel [ReactOS](https://github.com/hectorm/docker-qemu-reactos), [Haiku OS](https://github.com/hectorm/docker-qemu-haiku) eller något annat projekt från [Docker Hub](https://hub.docker.com/).  
+
+-->
 
 ### Fredag  
 
 <!-- 
 
+"[My top 5 most popular front-end tips](https://youtu.be/DGOeyJjq80g)" (22 min)  
 
+Kevin Powell är känd för sin kärlek till CSS.  
 
---> 
-
+-->
 
 ## Vecka 39   
 
 ### Måndag   
 
+###### Introduktion till Content Management Systems  
+<!-- 
+Det finns [många CMS:er](https://en.wikipedia.org/wiki/List_of_content_management_systems). Vi kommer använda en av de största, Drupal. Drupal är känd för att den har en aktiv utvecklarcommunity, många moduler och är både stabil att bygga komplexa lösningar på, men också enkel att arbeta med. Youtube-kursen vi skall se baseras på version 8, så under kursens gång är det den versionen vi kör. Men när vi sedan arbetar med systemet kommer vi köra version 10.  
+
+[![Drupal End-Of-Life table](https://www.prometsource.com/system/files/2023-11/drupal_versions.jpg)](https://www.prometsource.com/blog/faqs-drupal-9-end-of-life)  
+
+[Uppgift: CMS Install](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-cms_install)   
+
+Nu har du en utvecklingsmiljö med Drupal 8 som du kan stoppa och starta med följande kommandon.  
+
+    docker compose start  
+
+&nbsp;
+
+    docker compose stop  
+--> 
 
 ### Fredag  
 
-###### Introduktion till CMS:er  
 
 ## Vecka 40   
 
 ### Måndag   
 
+<!-- 
+
+[Uppgift: Aktivera Utvecklarläge](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-aktivera_utvecklarlage)   
+
+Vi ser avsnitten 1-3 (Introduktion, 15min) och 8-15 (Systemöverblick, 17min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".  
+--> 
 
 ### Fredag  
 
+Youtubekurs i CMS  
 
 ## Vecka 41   
 
 ### Måndag   
 
+Youtubekurs i CMS  
 
 ### Fredag  
 
+Youtubekurs i CMS  
 
 ## Vecka 42   
 
 ### Måndag   
 
+Youtubekurs i CMS  
 
 ### Fredag  
 
+Youtubekurs i CMS  
 
 ## Vecka 43   
 
+Youtubekurs i CMS  
 
 ## Vecka 44   
 
@@ -119,57 +185,71 @@ Repetitionsprov
 
 ### Måndag   
 
+Prov på Youtubekurs i CMS  
 
 ### Fredag  
 
+Individuell uppgift  
 
 ## Vecka 46   
 
 ### Måndag   
 
+Individuell uppgift  
 
 ### Fredag  
 
+Individuell uppgift  
 
 ## Vecka 47   
 
 ### Måndag   
 
+Individuell uppgift  
 
 ### Fredag  
 
+Individuell uppgift  
 
 ## Vecka 48   
 
 ### Måndag   
 
+Individuell uppgift  
 
 ### Fredag  
 
+Individuell uppgift  
 
 ## Vecka 49   
 
 ### Måndag   
 
+Individuell uppgift  
 
 ### Fredag  
 
+Individuell uppgift  
 
 ## Vecka 50   
 
 ### Måndag   
 
+Individuell uppgift  
 
 ### Fredag  
 
+Individuell uppgift  
 
 ## Vecka 51   
 
 ### Måndag   
 
+Individuell uppgift  
 
 ### Fredag  
 
+Individuell uppgift  
 
 ## Vecka 52   
 
@@ -177,18 +257,23 @@ Repetitionsprov
 
 ## Vecka 2   
 
+Gruppuppgift  
 
 ## Vecka 3   
 
+Gruppuppgift  
 
 ## Vecka 4   
 
+Gruppuppgift  
 
 ## Vecka 5   
 
+Gruppuppgift  
 
 ## Vecka 6   
 
+Gruppuppgift  
 
 ## Vecka 7   
 
@@ -243,6 +328,12 @@ Repetitionsprov
 
 
 ## Vecka 24   
+
+<!-- 
+"[Jeffrey Zeldman 20 years of Web Design and Community](https://vimeo.com/219302853)" (40 min)        
+
+Jeffrey Zeldman är en legend i webbutvecklingsbranschen av samma dignitet som Tim Berners-Lee. I dokumentären ovan får lära oss mer om hans bakgrund, varför han började med webbutveckling och vad han bidragit med. Se gärna vidare på webtidningen [A List Apart](https://alistapart.com/) som han grundade och inspelningar från hans konferenser [An Event Apart](https://www.youtube.com/@AnEventApartLive).     
+-->
 
 
 ## Vecka 25   
