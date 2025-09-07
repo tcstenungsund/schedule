@@ -21,9 +21,9 @@ Fortsätt med uppgiften!
 
 ### Måndag   
 
-<!-- 
-###### Mjukvaruhistorik  
 
+###### Mjukvaruhistorik  
+<!-- 
 Vi lyssnar till låtarna "[Eternal Flame](https://www.gnu.org/fun/jokes/eternal-flame.html)" och "[Write in Go](https://youtu.be/LJvEIjRBSDA)", för att få chansen att tala lite om olika programmeringsspråk. Vad är skillnaden mellan kompilerade språk och scriptspråk? Vilka språk körs på server och vilka på klient? Vi ser också videon "[Most Popular Programming Languages | 1965-2020](https://youtu.be/sNURYeD4M5Y)". Vad hände med COBOL? Det förklarar "[The World Depends on 60-Year-Old Code No One Knows Anymore](https://youtu.be/LWYmGhIFy-A)" (10 min) för oss.  
 
 "[35 Things Every Programmer Should Know](https://youtu.be/ODp-yivAUnY)" (18 min)  
@@ -33,6 +33,7 @@ Vi lyssnar till låtarna "[Eternal Flame](https://www.gnu.org/fun/jokes/eternal-
 <!--  
 För 25 år sedan gjordes allt av en Webbdesigner. Idag finns över 100 olika yrkesroller som sprungit ur samma uppgift. Och inom kort kommer AI att förändra hur dessa yrkesroller fungerar och vilka verktyg de använder.   
 Vi börjar med att besvara frågan "[What is design?](https://draganbabic.com/blog/what-is-design/)", förtydligar detta med hjälp av "[The Design Squiggle](https://thedesignsquiggle.com/about)" och "[Answers to Common Design Questions](https://danmall.com/posts/answers-to-common-design-questions/)". Sedan följer vi upp med en titt på framtiden med hjälp av TikTok-klippet "[AI is a Loom](https://proxitok.pabloferreiro.es/@placeholder/video/ZGJvtqsfo)" (10 min).   
+"[AI is a Loom: The End and the New Beginning of Web Dev](https://mor10.com/ai-is-a-loom/)" av Morten Rand-Hendriksen.  
 -->
 
 ### Tisdag   
