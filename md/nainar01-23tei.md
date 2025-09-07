@@ -1,6 +1,6 @@
 # Nätverksteknik - 23TEi - 25/26    
 
-<img width="1954" height="1099" alt="ccst" src="assets/ccst_networking.png" />
+<img width="1954" height="1099" alt="ccst" src="../assets/ccst_networking.png" />
 
 ## Vecka 35 
 
