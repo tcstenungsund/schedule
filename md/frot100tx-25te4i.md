@@ -42,6 +42,10 @@ Vad hände med COBOL? Det förklarar "[The World Depends on 60-Year-Old Code No 
 
 Implementation av uppgiften! Se hur treorna tar till sig er guide, vad som går rätt och vad som går fel! Förbättra efter behov!  
 
+<!--  
+"[Most Popular Programming Languages 1955 - 2025](https://youtu.be/5yAbVkIMl_M)" (8 min)  
+-->
+
 ### Torsdag  
 
 ###### Yrkesroller inom Design     
