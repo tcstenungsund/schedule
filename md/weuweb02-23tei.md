@@ -59,10 +59,11 @@ Genomgång av provet från i måndags
 
 ### Måndag   
 
-<!--
+Michelle Barker är en kreativ och designmedveten entusiast för CSS som gärna sprider nya och spännande sätt att bygga webbplatser på! Denna föreläsning gavs 2022 på konferensen "[beyond tellerrand](https://beyondtellerrand.com/)" Düsseldorf.  
+
 "[Michelle Barker – Modern CSS Layout is Awesome!](https://youtu.be/6O0KBNslevQ)" (44 min)  
 
-Michelle Barker är en kreativ och designmedveten entusiast för CSS som gärna sprider nya och spännande sätt att bygga webbplatser på! Denna föreläsning gavs 2022 på konferensen "[beyond tellerrand](https://beyondtellerrand.com/)" Düsseldorf.  
+<!--
 
 1) [Flexbox Froggy](https://flexboxfroggy.com/)  
 2) [Flexbox Adventure](https://codingfantasy.com/games/flexboxadventure)  
