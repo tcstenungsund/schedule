@@ -21,7 +21,6 @@ Vikten av Fri mjukvara blir tydligt i exemplet med Karen Sandler som vi hör i t
 
 ###### Vad är webben egentligen?  
 
-<!-- 
 Se dokumentären "[The web, past and future](https://youtu.be/cCE2EyV_IiY)" (35 min). Ta anteckningar, då vi kommer diskutera den vidare.    
 
 Men vad är webben egentligen? Vi diskuterar dokumentären "The web, past and future". Relationen mellan Internet och the World Wide Web. Vad var syftet med WWW och hur hänger det syftet ihop med idealen som Free och Open Source Software och Hacker-kulturen har? Vem var Tim Berners-Lee och vad är [W3C](https://en.wikipedia.org/wiki/World_Wide_Web_Consortium). Utifrån det talar vi om [http](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol), [HTML](https://simple.wikipedia.org/wiki/HTML) och [CSS](https://en.wikipedia.org/wiki/CSS).       
@@ -40,8 +39,6 @@ Hur är CSS strukturerat och hur använder man det? Några vanliga värden och e
 För att genomföra uppgiften nedan måste du veta hur du [tar ett screenshot](https://support.mozilla.org/en-US/kb/take-screenshots-firefox).      
 
 [Uppgift: HTML & CSS Basics](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb01-html_css_basics)     
-
--->
 
 ## Vecka 38   
 
