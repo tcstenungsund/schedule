@@ -1,6 +1,6 @@
 # Webbutveckling 1 - INDval 2025/2026  
 
-## Vecka 36   
+## Vecka 37   
 
 Kursplanering, presentation och introduktion till ämnet. Tittar på [Skolverkets riktlinjer](https://www.skolverket.se/undervisning/gymnasieskolan/laroplan-program-och-amnen-i-gymnasieskolan/gymnasieprogrammen/amne?url=1530314731%2Fsyllabuscw%2Fjsp%2Fsubject.htm%3FsubjectCode%3DWEU%26lang%3Dsv%26tos%3Dgy%26p%3Dp).  
 
@@ -17,7 +17,7 @@ Både Hacker-mentaliteten och rörelsen för fri mjukvara är det som skapat web
 Vikten av Fri mjukvara blir tydligt i exemplet med Karen Sandler som vi hör i talet hon höll på "[OSCON 2011: Karen Sandler](https://youtu.be/nFZGpES-St8)" (15 min) eller kan läsa om i artikeln "[Why cyborgs need free software](https://superuser.openstack.org/articles/medical-devices-free-software/)".  
 
 
-## Vecka 37   
+## Vecka 38   
 
 ###### Vad är webben egentligen?  
 
@@ -40,11 +40,9 @@ För att genomföra uppgiften nedan måste du veta hur du [tar ett screenshot](h
 
 [Uppgift: HTML & CSS Basics](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb01-html_css_basics)     
 
-## Vecka 38   
-
-Grundkurs i webbutveckling på [MDN](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core)  
-
 ## Vecka 39   
+
+Grundkurs i webbutveckling på [MDN](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core)     
 
 
 ## Vecka 40   
