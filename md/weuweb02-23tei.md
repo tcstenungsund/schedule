@@ -34,20 +34,22 @@ Repetitionsprov
 
 ### Fredag  
 
-###### Felsökning  
+Genomgång av provet från i måndags  
 
-1 Identify the Problem  
-2 Establish a Theory of Probable Cause  
-3 Test the Theory to Determine the Cause  
-4 Establish a Plan of Action  
-5 Implement the Solution or Escalate as Necessary  
-6 Verify Full System Functionality  
-7 Document Findings, Actions, and Outcomes  
+###### Felsökning  
 
 [![XKCD: Tech Support Cheat Sheet](https://www.explainxkcd.com/wiki/images/3/38/tech_support_cheat_sheet.png)](https://www.explainxkcd.com/wiki/index.php/627:_Tech_Support_Cheat_Sheet)  
 
+1) Identify the Problem  
+2) Establish a Theory of Probable Cause  
+3) Test the Theory to Determine the Cause  
+4) Establish a Plan of Action  
+5) Implement the Solution or Escalate as Necessary  
+6) Verify Full System Functionality  
+7) Document Findings, Actions, and Outcomes  
+
 "[A CompTIA Troubleshooting Guide](https://www.thetechedvocate.org/438497-2/)" by the Tech Edvocate.  
-"[Troubleshooting Steps: Your Friendly Guide to Problem Solving](https://onlinetoolguides.com/troubleshooting-steps/)" by Online Tool Guides.   
+"[Troubleshooting Steps: Your Friendly Guide to Problem Solving](https://onlinetoolguides.com/troubleshooting-steps/)" by Online Tool Guides.  
 
 "[The 6 Steps of IT Troubleshooting](https://youtu.be/fh7oYoEQb2E)" (2 min)  
 "[6 Step Troubleshooting Process by compTIA](https://youtu.be/5N56Na0iEfk)" (3 min)  
@@ -57,14 +59,14 @@ Repetitionsprov
 
 ### Måndag   
 
-<!-- 
+<!--
 "[Michelle Barker – Modern CSS Layout is Awesome!](https://youtu.be/6O0KBNslevQ)" (44 min)  
 
 Michelle Barker är en kreativ och designmedveten entusiast för CSS som gärna sprider nya och spännande sätt att bygga webbplatser på! Denna föreläsning gavs 2022 på konferensen "[beyond tellerrand](https://beyondtellerrand.com/)" Düsseldorf.  
 
-[Flexbox Froggy](https://flexboxfroggy.com/)  
-[Flexbox Adventure](https://codingfantasy.com/games/flexboxadventure)  
-[Grid Garden](https://cssgridgarden.com/)  
+1) [Flexbox Froggy](https://flexboxfroggy.com/)  
+2) [Flexbox Adventure](https://codingfantasy.com/games/flexboxadventure)  
+3) [Grid Garden](https://cssgridgarden.com/)  
 
 -->
 
