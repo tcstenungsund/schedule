@@ -5,8 +5,7 @@
 Kursplanering, presentation och introduktion till ämnet. Tittar på [Skolverkets riktlinjer](https://www.skolverket.se/undervisning/gymnasieskolan/laroplan-program-och-amnen-i-gymnasieskolan/gymnasieprogrammen/amne?url=1530314731%2Fsyllabuscw%2Fjsp%2Fsubject.htm%3FsubjectCode%3DWEU%26lang%3Dsv%26tos%3Dgy%26p%3Dp).  
 
 ###### Upphovsrätt och mjukvarulicenser      
-
-<!-- 
+ 
 Det är dags för [A Brief History of Copyright](https://socialsci.libretexts.org/Bookshelves/Education_and_Professional_Development/Book%3A_Education_for_a_Digital_World_-_Advice_Guidelines_and_Effective_Practice_from_Around_Globe_(Hirtz)/15%3A_Understanding_Copyright_-_Knowing_Your_Rights_and_Knowing_When_Youre_Right/15.2%3A_A_Brief_History_of_Copyright). Vi börjar med en översikt av the "[History of copyright](https://en.wikipedia.org/wiki/History_of_copyright)", från the Statute of Anne 1710 och the Berne Convention 1886 till idag. Någonstans längs vägen förvandlas upphovsrättens historia via [The Mickey Mouse Curve](https://artrepreneur.com/journal/disney-copyright-keeps-changing/) till [The Disney History](https://www.boredpanda.com/funny-disney-history/).       
 
 Exempel på människor som är framgångsrika utan upphovsrätt är [Cory Doctorow](https://craphound.com/) och [Jonathan Coulton](https://www.jonathancoulton.com/). "[Vad är Creative Commons?](https://youtu.be/Yd9dP3vlOyk)", och var hittar man verk under Creative commons-licenser? [Free SVG](https://freesvg.org/), [Free Music Archive](https://freemusicarchive.org/) och [Pexels](https://www.pexels.com/sv-se/). Mer information finns på [Creative Commons egna webbplats](http://www.creativecommons.se/). Ett verk som är Creative Commons är [Sintel](https://youtu.be/eRsGyueVLvQ).       
@@ -16,7 +15,7 @@ Sintel är skapad med Free och Open Source Software. Detta koncept skapades på 
 Både Hacker-mentaliteten och rörelsen för fri mjukvara är det som skapat webben så som vi känner den idag. Det ligger i grunden för alla tekniker vi tar för givet.    
 
 Vikten av Fri mjukvara blir tydligt i exemplet med Karen Sandler som vi hör i talet hon höll på "[OSCON 2011: Karen Sandler](https://youtu.be/nFZGpES-St8)" (15 min) eller kan läsa om i artikeln "[Why cyborgs need free software](https://superuser.openstack.org/articles/medical-devices-free-software/)".  
---> 
+
 
 ## Vecka 37   
 
