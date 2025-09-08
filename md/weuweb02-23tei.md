@@ -63,13 +63,9 @@ Michelle Barker är en kreativ och designmedveten entusiast för CSS som gärna 
 
 "[Michelle Barker – Modern CSS Layout is Awesome!](https://youtu.be/6O0KBNslevQ)" (44 min)  
 
-<!--
-
 1) [Flexbox Froggy](https://flexboxfroggy.com/)  
 2) [Flexbox Adventure](https://codingfantasy.com/games/flexboxadventure)  
 3) [Grid Garden](https://cssgridgarden.com/)  
-
--->
 
 ### Fredag  
 
