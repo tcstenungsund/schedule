@@ -24,23 +24,21 @@ Se dokumentären "[The web, past and future](https://youtu.be/cCE2EyV_IiY)" (35 
 
 Men vad är webben egentligen? Vi diskuterar dokumentären "The web, past and future". Relationen mellan Internet och the World Wide Web. Vad var syftet med WWW och hur hänger det syftet ihop med idealen som Free och Open Source Software och Hacker-kulturen har? Vem var Tim Berners-Lee och vad är [W3C](https://en.wikipedia.org/wiki/World_Wide_Web_Consortium). Utifrån det talar vi om [http](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol), [HTML](https://simple.wikipedia.org/wiki/HTML) och [CSS](https://en.wikipedia.org/wiki/CSS).       
 
-<!-- 
 ###### Vad är HTML & CSS?    
 
 Om du börjar med information som du vill förmedla på webben, så använder du HTML för att strukturerar upp informationen med taggar för att webbläsaren skall förstå. HTML används för att webbläsare skall förstå det vi människor ser direkt.    
 
-[<img alt="HTML-struktur" src="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics/grumpy-cat-small.png" width="60%">](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics/grumpy-cat-small.png)
-[<img alt="HTML-struktur" src="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics/grumpy-cat-attribute-small.png" width="60%">](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics/grumpy-cat-attribute-small.png)  
+[<img alt="HTML-struktur" src="https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Basic_HTML_syntax/grumpy-cat-small.png" width="60%">](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Basic_HTML_syntax/grumpy-cat-small.png)
 
 Hur är CSS strukturerat och hur använder man det? Några vanliga värden och egenskaper. CSS styr utseende, färg och position. Om HTML är till för webbläsaren så är CSS till för människor.      
+
+[CSS-struktur](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/What_is_CSS#css_syntax_basics)
 
 [<img alt="Selektor, egenskap och värde" src="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics/css-declaration-small.png" width="60%">](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics/css-declaration-small.png)       
 
 För att genomföra uppgiften nedan måste du veta hur du [tar ett screenshot](https://support.mozilla.org/en-US/kb/take-screenshots-firefox).      
 
 [Uppgift: HTML & CSS Basics](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb01-html_css_basics)     
-
--->
 
 ## Vecka 38   
 
