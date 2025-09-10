@@ -29,10 +29,11 @@ PROV - Digital Awareness kursen.
 
 <img width="881" height="362" alt="IT C S B" src="https://github.com/user-attachments/assets/a7c30874-f47c-47a5-bcdc-55f55064918d" />
 
-
 Anmälan till IT Customer Support Basics (CCST IT-Support 1/4):
 
 https://www.netacad.com/courses/it-customer-support-basics?courseLang=en-US&instance_id=ac5674bb-1092-449a-af12-93c744b6bdba
+
+Genomgång av Modul 1.1 - IT Customer Support Basics (CCST IT-Support 1/4) : Gör frågorna till 1.1.10.
 
 
 
