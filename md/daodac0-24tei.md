@@ -35,7 +35,7 @@ https://www.netacad.com/courses/it-customer-support-basics?courseLang=en-US&inst
 
 Genomgång av Modul 1.1 - IT Customer Support Basics (CCST IT-Support 1/4) : Gör frågorna till 1.1.10.
 
-
+Vi ska även påbörja installation av mjukvaror som ni behöver för undervisningen:
 [Uppgift: Accounts and Software](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/accounts_and_software)  
 
 
