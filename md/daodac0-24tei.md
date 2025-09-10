@@ -27,6 +27,11 @@ Vi kommer att använda IT Essentials som extra uppgift, när man är klar med ob
 
 PROV - Digital Awareness kursen.
 
+Anmälan till IT Customer Support Basics (CCST IT-Support 1/4):
+
+https://www.netacad.com/courses/it-customer-support-basics?courseLang=en-US&instance_id=ac5674bb-1092-449a-af12-93c744b6bdba
+
+
 Vi uppdaterar våra LinkedIn konton med hjälp av [The Ultimate LinkedIn Cheat Sheet](https://www.leisurejobs.com/staticpages/18285/the-ultimate-linkedin-cheat-sheet/) och "[How to get started on LinkedIn in 2024](https://www.youtube.com/watch?v=zwsOzdqmvqo)" (23 min). 
 
 ## Vecka 39   
