@@ -35,11 +35,17 @@ Genomgång av modul 2, 3 och 4. Nästa vecka kör vi prov på modul 1-4
 
 ### Tisdag  
 
+Genomgång av Modul 5,6 och 7 färdig.
+
 ## Vecka 38   
 
 ### Måndag  
 
+Arbeta med Modul 5,6 och 7.
+
 ### Tisdag  
+
+[Prov: Modul 5 - 7](netacad.com) 
 
 ## Vecka 39   
 
