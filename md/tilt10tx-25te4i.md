@@ -22,6 +22,10 @@ Utvärdering av CDIO projektet - Dualboot för årskurs 3.
 Vi uppdaterar våra LinkedIn konton med hjälp av [The Ultimate LinkedIn Cheat Sheet](https://www.leisurejobs.com/staticpages/18285/the-ultimate-linkedin-cheat-sheet/) och "[How to get started on LinkedIn in 2024](https://www.youtube.com/watch?v=zwsOzdqmvqo)" (23 min). 
 
 ## Vecka 38   
+Vi fortsätter med att sätta upp våra LinkedIn konton.
+Hur skriver man CV och personligt brev?:
+
+[Info från AF](https://arbetsformedlingen.se/for-arbetssokande/cv-ansokan-och-intervju)
 
 
 ## Vecka 39   
