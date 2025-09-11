@@ -1,6 +1,6 @@
 # Nätverkssäkerhet - INDval 2025/2026   
 
-## Vecka 36   
+## Vecka 37   
 Upprop och uppstart. Går igenom [Skolverkets dokument](https://www.skolverket.se/undervisning/gymnasieskolan/program-och-amnen-i-gymnasieskolan/hitta-program-amnen-och-kurser-i-gymnasieskolan-gy11/amne?url=907561864%2Fsyllabuscw%2Fjsp%2Fsubject.htm%3FsubjectCode%3DNAI%26courseCode%3DNAINAE0%26version%3D2%26tos%3Dgy&sv.url=12.5dfee44715d35a5cdfa92a3#anchor_NAINAE0) och pratar om vägar inom cybersäkerhet.
 
 Vi registrerar oss och startar kursen CCNA CyberOps.
@@ -9,21 +9,21 @@ Går igenom modul 1.
 
 Fortsätter gå igenom modul 1 och påbörjar modul 2.
 
-## Vecka 37   
+## Vecka 38   
 
 Vi skummar igenom modul 3 som handlar om Windows. Mycket av detta har vi redan gått igenom i IT Essentials, men det är vissa nya delar som vi pratar om.
 
 Vi börjar också titta på filmen The Great Hack. 
 
-## Vecka 38   
+## Vecka 39   
 
 Vi tittar färdigt på The Great Hack och reflekterar över de saker filmen tog upp angående datainsamling och hur man kan påverka människor genom data.
 
-## Vecka 39   
+## Vecka 40   
 
 Jag är sjuk och ni har i uppgift att läsa igenom modul 4 som handlar om Linux.
 
-## Vecka 40   
+## Vecka 41   
 
 Vi lägger upp arbetet kring nätverksmodulerna (modul 5-10) och börjar prata lite kring den första modulen.
 
@@ -35,7 +35,7 @@ Ni får även ett gäng länkar med praktiska uppgifter
  
 [Over The Wire: Bandit](https://overthewire.org/wargames/bandit/bandit0.html) - "Spel" för att öva kommandon i Linux
 
-## Vecka 41   
+## Vecka 42   
 Chat Control har klubbats igenom och vi pratar om vad det innebär. Vi tittar på två klipp angående Chat Control.
 
 [Into Europe: Chat Control](https://www.youtube.com/watch?v=V9UNdPO_kkc)
@@ -46,7 +46,7 @@ Vi disukuterar i grupper och återger för varandra vad vi kommit fram till.
 
 Vi fortsätter resterande del av lektionen med materialet från Cisco och gör praktiska övningar.
 
-## Vecka 42   
+## Vecka 43   
 
 Vi startar European Cyber Race från Cisco!
 
@@ -54,25 +54,22 @@ Kursen som vi använder oss av är Introduction to Cybersecurity.
 
 Mer information kring European Cyber Race finns [här](https://www.netacadlearnathon.com/projects/eurocyberrace-2024/)
 
-## Vecka 43   
+## Vecka 44   
 
 Vi fortsätter med European Cyber Race och pluggar inför checkpoint exam på modulerna 5-10.
 
 Ni gör Checkpoint Exam för modul 5-10 hemma. **Deadline är fredag 8 november (vecka 45)**
 
-## Vecka 44   
+## Vecka 45   
 
 **HÖSTLOV**   
 
-## Vecka 45   
-
-Modul 11 och 12.
-
-
 ## Vecka 46   
 
+<- Modul 11 och 12.
 
-## Vecka 47   
+
+## Vecka 47    
 
 
 ## Vecka 48   
