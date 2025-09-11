@@ -25,7 +25,7 @@ Se över förra veckans inlämningsuppgift.
 Dra igång [Elements of AI](https://course.elementsofai.com/).  
 "[Hur definieras artificiell intelligens?](https://course.elementsofai.com/se/1/1)"  
 
-Vi ser ett avsnitt av [Generation AI](https://www.svtplay.se/generation-ai). "[Kreativa maskiner](https://www.svtplay.se/video/KNw75xd/generation-ai/1-kreativa-maskiner)" (24 min) 
+Vi ser ett avsnitt av [Generation AI](https://www.svtplay.se/generation-ai). "[Kreativa maskiner](https://www.svtplay.se/video/KNw75xd/generation-ai/1-kreativa-maskiner)" (24 min) EPA! Eget, Par, Alla! 
 
 -->
 
