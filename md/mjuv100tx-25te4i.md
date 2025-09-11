@@ -81,3 +81,80 @@ Denna veckan fortsätter vi med kursen JavaScript Essentials 1. Vi skall jobba m
 ## Vecka 48
 
 ## Vecka 49
+
+**VINTERLOV**   
+
+## Vecka 2   
+
+
+## Vecka 3   
+
+
+## Vecka 4   
+
+
+## Vecka 5   
+
+
+## Vecka 6   
+
+
+## Vecka 7   
+
+**SPORTLOV**   
+
+## Vecka 8   
+
+
+## Vecka 9   
+
+
+## Vecka 10   
+
+
+## Vecka 11   
+
+
+## Vecka 12   
+
+
+## Vecka 13   
+
+
+## Vecka 14   
+
+**PÅSKLOV**   
+## Vecka 15   
+
+
+## Vecka 16   
+
+
+## Vecka 17   
+
+
+## Vecka 18   
+
+
+## Vecka 19   
+
+
+## Vecka 20   
+
+
+## Vecka 21   
+
+
+## Vecka 22   
+
+
+## Vecka 23   
+
+
+## Vecka 24   
+
+
+## Vecka 25   
+**SOMMARLOV**   
+
+
