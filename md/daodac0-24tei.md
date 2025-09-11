@@ -38,7 +38,7 @@ Genomgång av Modul 1.1 - IT Customer Support Basics (CCST IT-Support 1/4) : Gö
 Vi ska även påbörja installation av mjukvaror som ni behöver för undervisningen:
 [Uppgift: Accounts and Software](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/accounts_and_software)  
 
-
+På mentorstiden:
 Vi uppdaterar våra LinkedIn konton med hjälp av [The Ultimate LinkedIn Cheat Sheet](https://www.leisurejobs.com/staticpages/18285/the-ultimate-linkedin-cheat-sheet/) och "[How to get started on LinkedIn in 2024](https://www.youtube.com/watch?v=zwsOzdqmvqo)" (23 min). 
 
 ## Vecka 39   
