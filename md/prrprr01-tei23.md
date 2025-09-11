@@ -31,6 +31,32 @@ Denna veckan fortsätter vi med kursen JavaScript Essentials 1. Vi skall jobba m
 - Hur konventerar vi en datatyp till en annan
 
 ## Vecka 37 
+Denna veckan ska vi bli färdiga med modul 2 i netacad kursen JavaScript Essentials 1 så vi kan göra modultestet på onsdag nästa vecka. Fokuset denna vecka ligger på komplexa datatyper, närmare bestämt _Objekt_ och _Arrays_. 
+#### Kommplexa datatyper
+- Vad är skillnaden på en primitiv datatyp och en komplex data typ?
+- Varför kan dessa underlätta vårat arbete?
+
+#### Objekt
+- Hur initierar vi ett objet i JavaScript?
+- Vad är ett objekt?
+- Vad är ett keyword?
+- Hur kan vi komma åt datan som finns i ett objekt?
+
+#### Arrays
+- Hur initierar vi en Array i JavaScript?
+- Vad är en array?
+- Hur hur kan vi plocka ut ett element ur en array?
+- Hur ändrar vi innehållet i en array?
+- Hur fungerar följande metoder och vad använder vi dem till:
+  - length
+  - indexOf
+  - push
+  - unshift
+  - pop
+  - shift
+  - reverse
+  - slice
+  - concat 
 
 ## Vecka 38 
 
