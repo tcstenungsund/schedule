@@ -32,7 +32,7 @@ Denna veckan fortsätter vi med kursen JavaScript Essentials 1. Vi skall jobba m
 
 ## Vecka 37 
 Denna veckan ska vi bli färdiga med modul 2 i netacad kursen JavaScript Essentials 1 så vi kan göra modultestet på onsdag nästa vecka. Fokuset denna vecka ligger på komplexa datatyper, närmare bestämt _Objekt_ och _Arrays_. Vi ska också jobba med hur man skriver kommentarer i JavaScript
-
+### Det du bör ta med dig ifrån detta är:
 
 #### Kommplexa datatyper
 - Vad är skillnaden på en primitiv datatyp och en komplex data typ?
@@ -66,6 +66,18 @@ Denna veckan ska vi bli färdiga med modul 2 i netacad kursen JavaScript Essenti
 - Varför skriver vi kommentarer?
 
 ## Vecka 38 
+
+Denna veckan ska vi göra modul-testet till modul 2 och börja jobba med modul 3. sektion 1. 
+### Test
+Denna veckan börjar vi med att göra modul-testet till modul 2. 
+
+
+### Det du bör ta med dig ifrån denna lektion är:
+#### Operatorer
+- Vad är en operator?
+- Vad är skilklnaden mellan en unitär-, binär och en ternär operator?
+- Beskriv vad Assignment operators, Arithmetic operators, Unary arithmetic operators, Unary increment and decrement operators och Logical operators innebär?
+- Vad är Compound Assignment Operators?
 
 ## Vecka 39 
 
