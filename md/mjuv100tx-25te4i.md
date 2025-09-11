@@ -7,7 +7,7 @@ Uppstart av Netacad, kursen JavaScript Essentials 1. Vi Jobbar igenom modul 1. [
 ## Vecka 37 
  
 
-Denna veckan fortsätter vi med kursen JavaScript Essentials 1. Vi skall jobba med modul 2 som handlar om variabler och datatyper.
+Denna veckan fortsätter vi med kursen JavaScript Essentials 1. Vi skall jobba med modul 2 som handlar om variabler och datatyper. Det sista kommer vi också prata lite om kommentarer.
 ### Det du bör ta med dig ifrån detta är:
 
 #### Variabler 
@@ -54,7 +54,10 @@ Denna veckan fortsätter vi med kursen JavaScript Essentials 1. Vi skall jobba m
   - reverse
   - slice
   - concat 
-
+#### Kommentarer
+- Hur skriver man "enkel-rad" kommentarer?
+- Hur skriver man "multi-rad" kommentarer?
+- Varför skriver vi kommentarer?
 ## Vecka 38 
 
 ## Vecka 39 
