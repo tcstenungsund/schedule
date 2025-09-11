@@ -31,7 +31,9 @@ Denna veckan fortsätter vi med kursen JavaScript Essentials 1. Vi skall jobba m
 - Hur konventerar vi en datatyp till en annan
 
 ## Vecka 37 
-Denna veckan ska vi bli färdiga med modul 2 i netacad kursen JavaScript Essentials 1 så vi kan göra modultestet på onsdag nästa vecka. Fokuset denna vecka ligger på komplexa datatyper, närmare bestämt _Objekt_ och _Arrays_. 
+Denna veckan ska vi bli färdiga med modul 2 i netacad kursen JavaScript Essentials 1 så vi kan göra modultestet på onsdag nästa vecka. Fokuset denna vecka ligger på komplexa datatyper, närmare bestämt _Objekt_ och _Arrays_. Vi ska också jobba med hur man skriver kommentarer i JavaScript
+
+
 #### Kommplexa datatyper
 - Vad är skillnaden på en primitiv datatyp och en komplex data typ?
 - Varför kan dessa underlätta vårat arbete?
@@ -57,6 +59,11 @@ Denna veckan ska vi bli färdiga med modul 2 i netacad kursen JavaScript Essenti
   - reverse
   - slice
   - concat 
+
+#### Kommentarer
+- Hur skriver man "enkel-rad" kommentarer?
+- Hur skriver man "multi-rad" kommentarer?
+- Varför skriver vi kommentarer?
 
 ## Vecka 38 
 
