@@ -27,6 +27,9 @@ Hur skriver man CV och personligt brev?:
 
 [Info från AF](https://arbetsformedlingen.se/for-arbetssokande/cv-ansokan-och-intervju)
 
+Vi arbetar med att skriva ett personligtbrev för APL ansökan.
+
+Lämna in CV och personligtbrev i .pdf format.
 
 ## Vecka 39   
 
