@@ -58,6 +58,7 @@ Denna veckan fortsätter vi med kursen JavaScript Essentials 1. Vi skall jobba m
 - Hur skriver man "enkel-rad" kommentarer?
 - Hur skriver man "multi-rad" kommentarer?
 - Varför skriver vi kommentarer?
+  
 ## Vecka 38 
 
 ## Vecka 39 
