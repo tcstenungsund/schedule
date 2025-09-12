@@ -105,43 +105,44 @@ Denna veckan fortsätter vi med kursen JavaScript Essentials 1. Vi skall jobba m
 **SPORTLOV**   
 
 ## Vecka 8   
-
+#### APL 
 
 ## Vecka 9   
-
+#### APL 
 
 ## Vecka 10   
-
+#### APL 
 
 ## Vecka 11   
-
+#### APL 
 
 ## Vecka 12   
-
+#### APL 
 
 ## Vecka 13   
-
+#### APL 
 
 ## Vecka 14   
+#### APL / **PÅSKLOV**   
+Osäker på vad ni faktiskt har denna veckan men det vet nog ni och Ronnie
 
-**PÅSKLOV**   
 ## Vecka 15   
-
+#### APL 
 
 ## Vecka 16   
-
+#### APL 
 
 ## Vecka 17   
-
+#### APL 
 
 ## Vecka 18   
-
+#### APL 
 
 ## Vecka 19   
-
+#### APL 
 
 ## Vecka 20   
-
+#### APL 
 
 ## Vecka 21   
 
