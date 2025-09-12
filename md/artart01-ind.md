@@ -18,16 +18,14 @@ Ett krypterat, säkert och europeiskt alternativ för generativ AI för text är
 
 ## Vecka 37   
 
-<!-- 
+Genomgång av uppgiften från förra veckan!  
 
-Se över förra veckans inlämningsuppgift.  
+<!--  
+Registrera dig på kursen [Elements of AI](https://www.elementsofai.se/).  
+Genomgång av "[Hur definieras artificiell intelligens?](https://course.elementsofai.com/se/1/1)"  
 
-Dra igång [Elements of AI](https://www.elementsofai.se/).  
-"[Hur definieras artificiell intelligens?](https://course.elementsofai.com/se/1/1)"  
-
-Vi ser ett avsnitt av [Generation AI](https://www.svtplay.se/generation-ai). "[Kreativa maskiner](https://www.svtplay.se/video/KNw75xd/generation-ai/1-kreativa-maskiner)" (24 min) EPA! Eget, Par, Alla! 
-
--->
+Vi ser ett avsnitt av [Generation AI](https://www.svtplay.se/generation-ai), närmare bestämt avsnitt 1 om "[Kreativa maskiner](https://www.svtplay.se/video/KNw75xd/generation-ai/1-kreativa-maskiner)" (24 min) och kör en EPA (Enskilt, Par, Alla)!  
+-->  
 
 ## Vecka 38   
 
