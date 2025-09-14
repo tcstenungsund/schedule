@@ -84,28 +84,13 @@ Läxa till nästa vecka är att ni bekantar er med er desktop och gör den perso
 
 ###### Workspace för webbutvecklare  
 <!-- 
-Webbutvecklare behöver tillgång till LAMP-stacken och för det använder vi Docker. Din uppgift nu är att lära dig att använda Docker.  
+Webbutvecklare behöver tillgång till LAMP-stacken och för det använder vi Docker. Därför skall vi nu installera och lära oss använda Docker!  
 
-"[Docker Tutorial For Beginners](https://youtu.be/RrTbOvqlEic)", "[Docker for Web Development: A Brief Guide](https://medium.com/@vithusha.ravirajan/docker-for-web-development-a-brief-guide-5c0656319dcd)".  
+"[Docker Tutorial For Beginners](https://youtu.be/RrTbOvqlEic)" (13 min), "[Docker for Web Development: A Brief Guide](https://medium.com/@vithusha.ravirajan/docker-for-web-development-a-brief-guide-5c0656319dcd)".  
 
 [Uppgift: Workspace setup](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-workspace_setup)  
 
-[Uppgift: Docker Basics]()  
-
-Kör Hello World!  
-
-Ta reda på vad följande kommandon gör och testa dem i din miljö ("[8 Basic Docker Commands](https://youtu.be/xGn7cFR3ARU)").  
-
-    docker ps 
-    docker up 
-    docker down 
-    docker start 
-    docker stop 
-    docker kill 
-    docker exec -it <container-name> bash
-
-Prova att dra igång några containrar. Till exempel [ReactOS](https://github.com/hectorm/docker-qemu-reactos), [Haiku OS](https://github.com/hectorm/docker-qemu-haiku) eller något annat projekt från [Docker Hub](https://hub.docker.com/).  
-
+[Uppgift: Docker Basics](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-docker_basics)  
 -->
 
 ### Fredag  
