@@ -29,8 +29,7 @@ Men vad är webben egentligen? Vi diskuterar dokumentären "The web, past and fu
 
 Om du börjar med information som du vill förmedla på webben, så använder du HTML för att strukturerar upp informationen med taggar för att webbläsaren skall förstå. HTML används för att webbläsare skall förstå det vi människor ser direkt.    
 
-[<img alt="HTML-struktur" src="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics/grumpy-cat-small.png" width="60%">](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics/grumpy-cat-small.png)
-[<img alt="HTML-struktur" src="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics/grumpy-cat-attribute-small.png" width="60%">](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics/grumpy-cat-attribute-small.png)  
+[<img alt="HTML-struktur" src="https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Basic_HTML_syntax/grumpy-cat-small.png" width="60%">](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Basic_HTML_syntax/grumpy-cat-small.png)
 
 Hur är CSS strukturerat och hur använder man det? Några vanliga värden och egenskaper. CSS styr utseende, färg och position. Om HTML är till för webbläsaren så är CSS till för människor.      
 
