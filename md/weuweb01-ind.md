@@ -37,7 +37,7 @@ Hur är CSS strukturerat och hur använder man det? Några vanliga värden och e
 
 För att genomföra uppgiften nedan måste du veta hur du [tar ett screenshot](https://support.mozilla.org/en-US/kb/take-screenshots-firefox).      
 
-[Uppgift: HTML & CSS Basics](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb01-html_css_basics)     
+[Uppgift: HTML & CSS Basics](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb01-html_css_basics)    
 
 ## Vecka 39   
 
