@@ -54,40 +54,65 @@ För 25 år sedan gjordes allt av en Webbdesigner. Idag finns över 100 olika yr
 Vi börjar med att besvara frågan "[What is design?](https://draganbabic.com/blog/what-is-design/)", förtydligar detta med hjälp av "[The Design Squiggle](https://thedesignsquiggle.com/about)" och "[Answers to Common Design Questions](https://danmall.com/posts/answers-to-common-design-questions/)". Sedan följer vi upp med en titt på framtiden med hjälp av TikTok-klippet "[AI is a Loom](https://proxitok.pabloferreiro.es/@placeholder/video/ZGJvtqsfo)" (10 min).   
 "[AI is a Loom: The End and the New Beginning of Web Dev](https://mor10.com/ai-is-a-loom/)" av Morten Rand-Hendriksen.  
 
-Kevin Powell utmanar er! "[Challenging you to a CSS Battle](https://youtu.be/hoDmeE72G7A)" (32 min)  
+*Sociala medier-genomgång*: Kevin Powell utmanar er! "[Challenging you to a CSS Battle](https://youtu.be/hoDmeE72G7A)" (32 min)  
+
+## Vecka 38   
+
+### Måndag   
+<!--
+###### Native Android Apps  
+
+Vi börjar med att titta på "[What Is an APK File on Android?](https://youtu.be/_iLLcRjhsPQ)" (3 min), "[What Is an APK, and Are They Safe to Download?](https://www.howtogeek.com/what-is-an-apk-and-are-they-safe-to-download/)" och [F-Droid](https://f-droid.org/).  
+
+"[What's the Best Android App Store?](https://youtu.be/2KGMq53qFik?)" (5 min)  
+"[12 Best F-Droid Open-Source Apps](https://youtu.be/KSPoLLAXc9w)" (12 min)  
+"[Best F Droid Repositories to Use in 2025!](https://youtu.be/CDwDgnRO0rQ)" (2 min)  
+
+För att kunna köra en Android-app på din dator så behöver du någon form av emulator. Det finns många alternativ, som [Bluestacks](https://www.bluestacks.com/) och [Nox](https://www.bignox.com/). En av de nyare (fortfarande alpha) är [Waydroid](https://waydro.id/). Det finns tyvärr många som är dyra eller fulla av reklam, så kolla upp recensioner och omdömmen innan du testar någon Android-emulator!  
+
+Om du vill go all in på att utveckla appar för Android så rekommenderas du idag att lära dig Kotlin eller Java. Men det är inte vår grej. Native är inte vår grej. Men för att ni ändå skall få känna på hur det är och hur det fungerar så skall vi använda verktyget [MIT App Inventor](https://appinventor.mit.edu/), en Scratch-liknande blockprogrammerings-frontend som används för att prototypa, testa och brygga apk-filer i.  
+
+"[Create Your First Mobile App (Mobile App Development) || MIT App Inventor Beginners](https://youtu.be/YqaptBdq8c4)" (15 min)  
+
+1) Börja med att följa "Option 1" i guiden [Setting Up App Inventor](https://appinventor.mit.edu/explore/ai2/setup) så du kan testa dina appar i din mobil  
+3) Gör [Hello Codi!](https://appinventor.mit.edu/explore/ai2/hello-codi.html) som ditt första projekt!
+4) Som ditt andra projekt, gör [Ball Bounce](https://appinventor.mit.edu/explore/sites/all/files/hourofcode/BallBounceTutorial.pdf)!
+5) Besök [@MITAppInventor](https://www.youtube.com/@MITAppInventor/) och se hur andra använt MIT App Inventor för att lösa riktiga problem! 
+6) Installera valfri Android-emulator så du kan köra APK-filer i din dator  
+-->
+### Tisdag   
+
+Fortsätt arbeta med MIT App Inventor  
+
+### Torsdag  
+
+Fortsätt arbeta med MIT App Inventor  
+
+*Sociala medier-genomgång*: 
 
 <!-- 
 https://bsky.app/profile/spavel.bsky.social/post/3lxqqvx7tps2x 
 What UX is: make the text bigger and let people hold the thing 
 -->
 
-## Vecka 38   
-
-
-### Måndag   
-
-
-### Tisdag   
-
-
-### Torsdag  
-
-
 ## Vecka 39   
 
-
 ### Måndag   
 
+<!-- 
+###### Web apps vs. Native apps  
+
+-->
 
 ### Tisdag   
 
 
 ### Torsdag  
 
+*Sociala medier-genomgång*: 
 
 ## Vecka 40   
 
-
 ### Måndag   
 
 
@@ -96,10 +121,10 @@ What UX is: make the text bigger and let people hold the thing
 
 ### Torsdag  
 
+*Sociala medier-genomgång*: 
 
 ## Vecka 41   
 
-
 ### Måndag   
 
 
@@ -108,10 +133,10 @@ What UX is: make the text bigger and let people hold the thing
 
 ### Torsdag  
 
+*Sociala medier-genomgång*: 
 
 ## Vecka 42   
 
-
 ### Måndag   
 
 
@@ -120,10 +145,10 @@ What UX is: make the text bigger and let people hold the thing
 
 ### Torsdag  
 
+*Sociala medier-genomgång*: 
 
 ## Vecka 43   
 
-
 ### Måndag   
 
 
@@ -132,6 +157,7 @@ What UX is: make the text bigger and let people hold the thing
 
 ### Torsdag  
 
+*Sociala medier-genomgång*: 
 
 ## Vecka 44   
 
@@ -139,7 +165,6 @@ What UX is: make the text bigger and let people hold the thing
 
 ## Vecka 45   
 
-
 ### Måndag   
 
 
@@ -148,10 +173,10 @@ What UX is: make the text bigger and let people hold the thing
 
 ### Torsdag  
 
+*Sociala medier-genomgång*: 
 
 ## Vecka 46   
 
-
 ### Måndag   
 
 
@@ -160,10 +185,10 @@ What UX is: make the text bigger and let people hold the thing
 
 ### Torsdag  
 
+*Sociala medier-genomgång*: 
 
 ## Vecka 47   
 
-
 ### Måndag   
 
 
@@ -172,10 +197,10 @@ What UX is: make the text bigger and let people hold the thing
 
 ### Torsdag  
 
+*Sociala medier-genomgång*: 
 
 ## Vecka 48   
 
-
 ### Måndag   
 
 
@@ -184,10 +209,10 @@ What UX is: make the text bigger and let people hold the thing
 
 ### Torsdag  
 
+*Sociala medier-genomgång*: 
 
 ## Vecka 49   
 
-
 ### Måndag   
 
 
@@ -196,10 +221,10 @@ What UX is: make the text bigger and let people hold the thing
 
 ### Torsdag  
 
+*Sociala medier-genomgång*: 
 
 ## Vecka 50   
 
-
 ### Måndag   
 
 
@@ -208,10 +233,10 @@ What UX is: make the text bigger and let people hold the thing
 
 ### Torsdag  
 
+*Sociala medier-genomgång*: 
 
 ## Vecka 51   
 
-
 ### Måndag   
 
 
@@ -220,6 +245,7 @@ What UX is: make the text bigger and let people hold the thing
 
 ### Torsdag  
 
+*Sociala medier-genomgång*: 
 
 ## Vecka 52   
 
