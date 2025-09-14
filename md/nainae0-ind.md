@@ -3,16 +3,13 @@
 ## Vecka 37   
 Upprop och uppstart. Går igenom [Skolverkets dokument](https://www.skolverket.se/undervisning/gymnasieskolan/program-och-amnen-i-gymnasieskolan/hitta-program-amnen-och-kurser-i-gymnasieskolan-gy11/amne?url=907561864%2Fsyllabuscw%2Fjsp%2Fsubject.htm%3FsubjectCode%3DNAI%26courseCode%3DNAINAE0%26version%3D2%26tos%3Dgy&sv.url=12.5dfee44715d35a5cdfa92a3#anchor_NAINAE0) och pratar om vägar inom cybersäkerhet.
 
+Vi börjar också titta på filmen The Great Hack.
 
-<!-- Går igenom modul 1.
-
-Fortsätter gå igenom modul 1 och påbörjar modul 2. -->
 
 ## Vecka 38   
 
-<!-- Vi skummar igenom modul 3 som handlar om Windows. Mycket av detta har vi redan gått igenom i IT Essentials, men det är vissa nya delar som vi pratar om.
+Vi fortsätter med andra halvan av The Great Hack.
 
-Vi börjar också titta på filmen The Great Hack. -->
 
 ## Vecka 39   
 
