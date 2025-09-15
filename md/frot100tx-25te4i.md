@@ -44,10 +44,6 @@ Implementation av uppgiften! Se hur treorna tar till sig er guide, vad som går 
 
 ### Torsdag  
 
-<!--   
-"[Most Popular Programming Languages 1955 - 2025](https://youtu.be/5yAbVkIMl_M)" (8 min)  
--->
-
 ###### Yrkesroller inom Design     
   
 För 25 år sedan gjordes allt av en Webbdesigner. Idag finns över 100 olika yrkesroller som sprungit ur samma uppgift. Och inom kort kommer AI att förändra hur dessa yrkesroller fungerar och vilka verktyg de använder.   
@@ -82,6 +78,16 @@ Om du vill go all in på att utveckla appar för Android så rekommenderas du id
    
 ### Tisdag   
 
+<!--
+###### Ethical Hacking      
+
+Idag talar vi om ethical hacking, med [Kevin Mitnick](https://en.wikipedia.org/wiki/Kevin_Mitnick) som exempel. Vi ser en [interview with renowned hacker Kevin Mitnick](https://youtu.be/LaypU4qAuYw) (9 min) (vill ni se mer kan jag rekommendera dokumentären "[A Hacker's Story](https://youtu.be/Qe73tRTksf0)" (27 min)) och påminner oss dokumentet [How To Become A Hacker](http://vadeker.net/articles/hacker-howto.html). Ett sätt att hålla koll på folk är genom deras digitala fingeravtryck, hur ditt ser ut ser du på [Am I Unique](https://www.amiunique.org/). Klassisk comic "[Exploits of a Mom](https://xkcd.com/327/)".  
+
+Önskar du gå vidare är ett bra första steg Ciscos kurs [Ethical Hacker](https://www.netacad.com/courses/ethical-hacker), följt av enorma mängder resurser på nätet.  
+
+[Uppgift: MIT App Inventor](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/frot100tx-mitappinventor) 
+-->
+
 Fortsätt arbeta med MIT App Inventor  
 
 ### Torsdag  
@@ -93,21 +99,33 @@ Fortsätt arbeta med MIT App Inventor
 <!-- 
 https://bsky.app/profile/spavel.bsky.social/post/3lxqqvx7tps2x 
 What UX is: make the text bigger and let people hold the thing 
+
+* [“Hello World” In 30 Different Languages](https://www.geeksforgeeks.org/hello-world-in-30-different-languages/)
+* [Hello World in 50 Programming Languages (in 1 min)](https://youtu.be/dFvgUjXKsLU) (1 min)   
+* "[Most Popular Programming Languages 1955 - 2025](https://youtu.be/5yAbVkIMl_M)" (8 min)  
+* "[Will PHP make YOU Rich in 2025?](https://youtu.be/AJiv09SWUNc)" (17 min)
 -->
 
 ## Vecka 39   
 
 ### Måndag   
 
+
+
 <!-- 
-###### Web apps vs. Native apps  
+
 
 -->
 
 ### Tisdag   
-
+<!-- 
+###### The Fediverse      
+Som en backlash mot den misslyckade centraliseringen hos olika sociala medier skapades the Fediverse. Ett socialt media som bygger på samma principer som internet självt, att det är bra att sprida ut de viktiga resurserna och koppla ihop dem på distans. Det går att använda AI för att försöka göra Twitter/𝕏 drägligt med [MindFirewall](https://www.mindfw.com/), men i många lägen är det vettigare att bara flytta över till the Fediverse. För att hålla lite koll på vad som händer på the Fediverse kan du vända dig till [FediDB](https://fedidb.org/) och [Mastodon Instances](https://instances.social/) kan hjälpa dig att hitta en Mastodonserver att skapa ett konto på. Om du skaffar ett konto där vill du utan tvekan installera en pluggin för din webbläsare vid namn [Graze for Mastodon](https://graze.jaredzimmerman.com/). Webbklienten ni sett mig använda heter [Panphy](https://phanpy.social/#/).  
+-->
 
 ### Torsdag  
+
+**Presentation av uppgiften MIT App Inventor**  
 
 *Sociala medier-genomgång*: 
 
@@ -115,6 +133,26 @@ What UX is: make the text bigger and let people hold the thing
 
 ### Måndag   
 
+<!-- 
+##### Sass och Task runners         
+
+Av de pre-processingspråk som finns är [Sass](https://sass-lang.com/) det vanligaste just nu. 
+
+[Sass - Tutorial for Beginners in 11 MINUTES!](https://youtu.be/6glgx4EViZQ) (12 min) och [CSS is getting better, but Sass is still relevant](https://youtu.be/GLxZ1gyW-IU) (18 min).         
+
+Med ett avstamp i "[Frontend Developer Roadmap](https://roadmap.sh/frontend)" talar vi mer om npm och npm scripts.         
+
+Saker man kan göra med en taskrunner       
+* Livereload      
+* CSS minification       
+* Autoprefixer        
+* Compile Sass          
+* Lints the compiled css      
+
+"[Introduction to NPM scripts](https://www.geeksforgeeks.org/introduction-to-npm-scripts/)" och "[Using Npm Scripts as a Build Tool ](https://deliciousbrains.com/npm-build-script/)".       
+
+[Uppgift: Moderna Webbteknologier](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb33-moderna_webbteknologier)   
+-->
 
 ### Tisdag   
 
@@ -126,7 +164,22 @@ What UX is: make the text bigger and let people hold the thing
 ## Vecka 41   
 
 ### Måndag   
+<!-- 
+###### Progressive Web Apps
 
+Dagens föreläsning bygger på "[Vad är PWA eller Progressive Web Apps?](https://whitespace.se/blogg/vad-ar-pwa-eller-progressive-web-apps/)", hur skapar man en "[Progressive Web App](https://web.dev/progressive-web-apps/)", och "[What PWA Can Do Today](https://whatpwacando.today/)".  
+
+De tre kraven för en PWA är följande: 
+
+1) HTTPS/SSL (som löses med [GitHub Pages](https://pages.github.com/) eller [Let's Encrypt](https://letsencrypt.org/))  
+2) En service worker (vilket bara är någon rad JavaScript)
+3) Ett Webb App Manifest (vilket kan lösas med "[Web App Manifest Generator](https://app-manifest.firebaseapp.com/)")   
+"[Progressive Web Apps: Where Do I Begin?](https://youtu.be/e8R-34uTtU8)" (58 min)      
+
+I videon talar Aaron bland annat om [Responsive images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images) och [Microsoft Design Guidelines](https://inclusive.microsoft.design/) (som sedan dess bytt namn).  
+
+Dagens uppgift är att skapa er första PWA. Den behöver inte ha något innehåll eller funktionalitet, men den skall kännas igen som en PWA av verktyg som [PWA Testing Tool](https://www.seoreviewtools.com/pwa-testing-tool/).  
+-->
 
 ### Tisdag   
 
@@ -150,7 +203,29 @@ What UX is: make the text bigger and let people hold the thing
 ## Vecka 43   
 
 ### Måndag   
+<!--
+###### Testning  
+Sedan tidigare är ni bekanta med hur man testar [kontrast](https://www.oddcontrast.com/), a11y, om koden [validerar](https://www.w3.org/developers/tools/), [laddningshastighet](https://pagespeed.web.dev/), [LCP](https://web.dev/lcp/), och så vidare... Nu när ni kan använda taskrunners så går det mycket lättare att automatisera sådant som a11y-tester med verktyg som [axe-core](https://www.npmjs.com/package/axe-core). Men det finns många fler sorters tester, som vi kommer titta närmare på nu!  
 
+[web.dev Learn Testing](https://web.dev/learn/testing) "What testing is" och "Types of automated testing"   
+
+* "[What Are the Types of Automated Testing](https://youtu.be/CQpY3W60PlY)" (1 min)  
+* "[What is Unit Testing and Why You Must Learn It](https://youtu.be/W2KOSaetWBk)" (2 min)
+* "[End to End Testing in 60 Seconds](https://youtu.be/OtJkafQtLGs)" (1 min)
+
+Notera att det finns olika standarder för vad man kallar tester på olika nivåer, men det handlar oftast om hur stor del av webbplatsen som testas.  
+
+* Accessibility testing, UI testing  
+* **Unit** testing, Component testing   
+* **Integration** testing, API testing   
+* System testing, End-to-end (**E2E**) testing  
+
+[MDN Introduction to automated testing](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Automated_testing)   
+
+[Cain Maddox]([https://twitter.com/ctrlshifti/status/1307599545803575296](https://x.com/ctrlshifti/status/1307599545803575296)) på 𝕏 uppmanar oss att sluta testa vår mjukvara, men Michael Lynch ger oss "[The Painless Way](https://mtlynch.io/painless-web-app-testing/)" att göra End-to-End Testing i mjukvaran [Cypress](https://www.cypress.io/). "[Cypress in 100 Seconds](https://youtu.be/BQqzfHQkREo)". (3 min)  
+
+Lägg till testning i er personliga PWA som ni skapade vecka 41. Konfigurera både axe-core och Cypress enligt ovan.  
+-->
 
 ### Tisdag   
 
