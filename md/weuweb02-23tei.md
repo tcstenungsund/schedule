@@ -76,11 +76,11 @@ Fortsätt med CSS-uppgifterna...
 ### Måndag   
 
 ###### Linux för webbutvecklare  
-<!-- 
+
 Mjukvaruutvecklare föredrar att arbeta i Unix-liknande operativsystem. De kräver inte den nivå av förståelse av kommandoraden som [xkcd: tar](https://xkcd.com/1168/) ger sken av, men du bör i alla fall förstå vad en [pakethanterare](https://sv.wikipedia.org/wiki/Pakethanterare) är och överblickar av din arbetsmiljö som [KDE Plasma in 180 Seconds](https://youtu.be/dZ6bojRSIw0) (4 min) är inte dum att se. Vill du anpassa utseendet ännu mer finns videos som How to [Customize KDE Plasma 6 | Guide for beginners](https://youtu.be/4OuaCXWSXFE) (24 min) till din hjälp.    
 
-Läxa till nästa vecka är att ni bekantar er med er desktop och gör den personlig!  
--->
+Uppgift: Gör er desktop mer personlig! Installera ett par Widgets och byt tema!  
+
 
 ###### Workspace för webbutvecklare  
 <!-- 
