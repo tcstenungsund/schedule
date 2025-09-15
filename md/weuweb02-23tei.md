@@ -81,9 +81,11 @@ Mjukvaruutvecklare föredrar att arbeta i Unix-liknande operativsystem. De kräv
 
 Uppgift: Gör er desktop mer personlig! Installera ett par Widgets och byt tema!  
 
+Fixa också till er prompt! [Starship](https://starship.rs/) rekommenderas!   
 
-###### Workspace för webbutvecklare  
 <!-- 
+###### Workspace för webbutvecklare  
+
 Webbutvecklare behöver tillgång till LAMP-stacken och för det använder vi Docker. Därför skall vi nu installera och lära oss använda Docker!  
 
 "[Docker Tutorial For Beginners](https://youtu.be/RrTbOvqlEic)" (13 min), "[Docker for Web Development: A Brief Guide](https://medium.com/@vithusha.ravirajan/docker-for-web-development-a-brief-guide-5c0656319dcd)".  
