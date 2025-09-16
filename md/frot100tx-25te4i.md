@@ -32,7 +32,7 @@ Vi lyssnar till låtarna "[Eternal Flame](https://www.gnu.org/fun/jokes/eternal-
 * Hur populära är olika språk genom tiderna?  
 * Vilka språk är inspirerade av varandra?  
 
-"[Most Popular Programming Languages | 1965-2020](https://youtu.be/sNURYeD4M5Y)" (5 min) "[Generational list of programming languages](https://en.wikipedia.org/wiki/Generational_list_of_programming_languages)"  
+"[The seven programming ur-languages](https://madhadron.com/programming/seven_ur_languages.html)", "[Most Popular Programming Languages | 1965-2020](https://youtu.be/sNURYeD4M5Y)" (5 min) "[Generational list of programming languages](https://en.wikipedia.org/wiki/Generational_list_of_programming_languages)"  
 
 Vad hände med COBOL? Det förklarar "[The World Depends on 60-Year-Old Code No One Knows Anymore](https://youtu.be/LWYmGhIFy-A)" (10 min) för oss.  
 
