@@ -94,12 +94,14 @@ Quiz: Att hitta sin fil + HTML - Struktur
 <!-- 
 * MDN [HTML images](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/HTML_images)
 * MDN Test your skills: [HTML images](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Test_your_skills/Images)
-* MDN [HTML video and audio](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/HTML_video_and_audio)
-* MDN Test your skills: [Audio and video](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Test_your_skills/Audio_and_video)
+* MDN [HTML video and audio](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/HTML_video_and_audio) (Överkurs)  
+* MDN Test your skills: [Audio and video](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Test_your_skills/Audio_and_video) (Överkurs)  
 * MDN Challenge: [Creepy-crawly splash page](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Splash_page)
 * MDN [Debugging HTML](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Marking_up_a_letter)
 -->
 ## Vecka 41   
+
+Quiz: HTML - Bilder och media (+ felsökning)  
 
 Prov: HTML  
 
