@@ -78,7 +78,6 @@ Om du vill go all in på att utveckla appar för Android så rekommenderas du id
    
 ### Tisdag   
 
-<!--
 ###### Ethical Hacking      
 
 Idag talar vi om ethical hacking, med [Kevin Mitnick](https://en.wikipedia.org/wiki/Kevin_Mitnick) som exempel. Vi ser en [interview with renowned hacker Kevin Mitnick](https://youtu.be/LaypU4qAuYw) (9 min) (vill ni se mer kan jag rekommendera dokumentären "[A Hacker's Story](https://youtu.be/Qe73tRTksf0)" (27 min)) och påminner oss dokumentet [How To Become A Hacker](http://vadeker.net/articles/hacker-howto.html). Ett sätt att hålla koll på folk är genom deras digitala fingeravtryck, hur ditt ser ut ser du på [Am I Unique](https://www.amiunique.org/). Klassisk comic "[Exploits of a Mom](https://xkcd.com/327/)".  
@@ -86,7 +85,6 @@ Idag talar vi om ethical hacking, med [Kevin Mitnick](https://en.wikipedia.org/w
 Önskar du gå vidare är ett bra första steg Ciscos kurs [Ethical Hacker](https://www.netacad.com/courses/ethical-hacker), följt av enorma mängder resurser på nätet.  
 
 [Uppgift: MIT App Inventor](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/frot100tx-mitappinventor) 
--->
 
 Fortsätt arbeta med MIT App Inventor  
 
