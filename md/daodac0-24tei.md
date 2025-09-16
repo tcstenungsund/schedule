@@ -1,9 +1,5 @@
 # Datorkunskap 1 - 24TEI  
 
-
-
-## Vecka 36  
-
 Uppstart! Vi går igenom [Skolverkets dokumentation](https://www.skolverket.se/undervisning/gymnasieskolan/program-och-amnen-i-gymnasieskolan/hitta-program-amnen-och-kurser-i-gymnasieskolan-gy11/amne?url=907561864%2Fsyllabuscw%2Fjsp%2Fsubject.htm%3FsubjectCode%3DDAO%26courseCode%3DDAODAC0%26version%3D4%26tos%3Dgy&sv.url=12.5dfee44715d35a5cdfa92a3#anchor_DAODAC0) för kursen! 
 
 
@@ -13,7 +9,7 @@ Uppstart! Vi går igenom [Skolverkets dokumentation](https://www.skolverket.se/u
 Vi kör igång med kursen [Digital Awareness](https://www.netacad.com/courses/digital-awareness?courseLang=en-US
 ) på Netacad!  
 
-## Vecka 37   
+## Vecka 36  
 
 Arbeta vidare med Digital Awareness. 
 
@@ -25,7 +21,7 @@ Vi kommer att använda IT Essentials som extra uppgift, när man är klar med ob
 
 <img width="600" height="600" alt="itessentials" src="/assets/itessentials.png" />
 
-## Vecka 38   
+## Vecka 37   
 
 PROV - Digital Awareness kursen.
 
@@ -42,6 +38,12 @@ Vi ska även påbörja installation av mjukvaror som ni behöver för undervisni
 
 På mentorstiden:
 Vi uppdaterar våra LinkedIn konton med hjälp av [The Ultimate LinkedIn Cheat Sheet](https://www.leisurejobs.com/staticpages/18285/the-ultimate-linkedin-cheat-sheet/) och "[How to get started on LinkedIn in 2024](https://www.youtube.com/watch?v=zwsOzdqmvqo)" (23 min). 
+
+
+## Vecka 38   
+
+Vi fortsätter med genomgång av Modul 1 - IT Customer Support Basics (CCST IT-Support 1/4)
+
 
 ## Vecka 39   
 
