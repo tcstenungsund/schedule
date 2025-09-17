@@ -15,11 +15,10 @@ Vi fortsätter med andra halvan av The Great Hack.
 
 ## Vecka 39   
 
-<!-- Vi tittar färdigt på The Great Hack och reflekterar över de saker filmen tog upp angående datainsamling och hur man kan påverka människor genom data. -->
 
 ## Vecka 40   
 
-<!-- Jag är sjuk och ni har i uppgift att läsa igenom modul 4 som handlar om Linux. -->
+
 
 ## Vecka 41   
 
