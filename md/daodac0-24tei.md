@@ -42,11 +42,18 @@ Vi uppdaterar våra LinkedIn konton med hjälp av [The Ultimate LinkedIn Cheat S
 
 ## Vecka 38   
 
-Vi fortsätter med genomgång av Modul 1 - IT Customer Support Basics (CCST IT-Support 1/4)
+Vi fortsätter med genomgång av Modul 1 och 2 - IT Customer Support Basics (CCST IT-Support 1/4)
 
 
 ## Vecka 39   
+Förmiddag:
+Arbeta med Modul 1 och 2. Båda modulproven är öppna.
 
+Eftermiddag:
+PROV - Final Exam - IT Customer Support Basics (CCST IT-Support 1/4)
+
+Arvid från Hogias intern IT-support kommer på besök och svarar på frågor om sina arbets vardag.
+Arvid läste vårt fjärde år och fick sedan arbete på sin APL plats.
 
 ## Vecka 40   
 
