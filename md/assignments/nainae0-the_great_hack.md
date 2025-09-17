@@ -1,8 +1,6 @@
 # The Great Hack
 
 
---
-
 ## Förutsättningar
 
 Enskild uppgift.
