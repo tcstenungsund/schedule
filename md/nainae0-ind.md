@@ -10,8 +10,8 @@ Vi börjar också titta på filmen The Great Hack.
 
 Vi fortsätter med andra halvan av The Great Hack.
 
-<!-- [Uppgift: The Great Hack](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/nainae0-the_great_hack)
--->
+[Uppgift: The Great Hack](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/nainae0-the_great_hack)
+
 
 ## Vecka 39   
 
