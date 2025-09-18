@@ -60,8 +60,42 @@ Denna veckan fortsätter vi med kursen JavaScript Essentials 1. Vi skall jobba m
 - Varför skriver vi kommentarer?
   
 ## Vecka 38 
+### Test
+Denna veckan börjar vi med att göra modul-testet till modul 2. 
+### Test 
+Fredags lektionen börjar vi med att göra modul-testet till modul 3. 
+
+### Det du bör ta med dig ifrån detta är:
+#### Operatorer
+- Vad är en operator?
+- Vad är skilklnaden mellan en unitär-, binär och en ternär operator?
+- Beskriv vad Assignment operators, Arithmetic operators, Unary arithmetic operators, Unary increment and decrement operators och Logical operators innebär?
+- Vad är Compound Assignment Operators?
+- Vad är Logical operators?
+- Varför vill vi kunna använda Logical operators?
+- Vad är Comparison operators?
+- Vad är skillnaden på "==" och "==="
+- Precedence, vilken del av koden körs först?
+#### User-input
+- Vad gör alert()?
+- Vad gör confirm()?
+- Vad gör prompt()
+#### Conditional statements
+- Hur fungerar ett if statment?
+- Vad är skillnaden mellan $${\color{purple}else}$$ $${\color{purple}if}$$ och $${\color{purple}else}$$?
+- Hur fungerar $${\color{purple} switch}$$? Vilka keywords är aktuella isamband med $${\color{purple}switch}$$.
+#### Loops
+- Vad är en while loop?
+- Vad är en for loop?
+- Varför loopar?
+- Hur gör man för att loopa över elementen i en array?
+- Vilken funktion har keywordet $${\color{purple} break}$$?
+- Vilken funktion har keywordet $${\color{purple} continiue}$$?
+
 
 ## Vecka 39 
+
+
 
 ## Vecka 40 
 
