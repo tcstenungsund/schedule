@@ -78,7 +78,8 @@ Denna veckan börjar vi med att göra modul-testet till modul 2.
 - Vad är skilklnaden mellan en unitär-, binär och en ternär operator?
 - Beskriv vad Assignment operators, Arithmetic operators, Unary arithmetic operators, Unary increment and decrement operators och Logical operators innebär?
 - Vad är Compound Assignment Operators?
-
+- Vad är Logical operators?
+- 
 ## Vecka 39 
 
 ## Vecka 40 
