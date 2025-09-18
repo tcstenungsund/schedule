@@ -27,13 +27,20 @@ Dra igång Elements of AI.
 -->
 
 ## Vecka 38   
+Genomgång EoAi Kapitel 1 del 2
+Skapa Persona
+Skapa texter
 
 
 ## Vecka 39   
+Genomgång EoAi Kapitel 1 del 3
+Skapa texter fortsatt - lite fritt. Skruva idéer från lokala nyheter.
+Kanske testa ett par nya text generatorer?
 
 
 ## Vecka 40   
 
+Hemuppgift - något från EoAi och kanske se ett avsnitt från ur och reflektera?
 
 ## Vecka 41   
 
