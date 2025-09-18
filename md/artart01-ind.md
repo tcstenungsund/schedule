@@ -25,14 +25,19 @@ Genomgång av "[Hur definieras artificiell intelligens?](https://course.elements
 
 Vi ser ett avsnitt av [Generation AI](https://www.svtplay.se/generation-ai), närmare bestämt avsnitt 1 om "[Kreativa maskiner](https://www.svtplay.se/video/KNw75xd/generation-ai/1-kreativa-maskiner)" (24 min) och kör en EPA (Enskilt, Par, Alla)!  
 
-## Vecka 38   
+## Vecka 38  
+
+<img width="900" height="300" alt="ai" src="https://github.com/user-attachments/assets/f958133a-6117-4c72-84a2-35aa7ff72ae9" />
 
 Lite Ai nyheter:
+
+
 
 Genomgång av [Kapitel 1 del 2](https://course.elementsofai.com/se/1/2) - ElementsofAi.
 
 
 ###### PERSONA
+<img width="300" height="400" alt="persona" src="https://github.com/user-attachments/assets/1916b5cd-de84-4828-95f4-f7d86da3cf1c" />
 
 Vi ska nu börja använda Ai verktyg för att skapa texter, men innan vi gör det ska vi skapa några olika personas.
 
