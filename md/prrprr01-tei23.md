@@ -80,8 +80,13 @@ Denna veckan börjar vi med att göra modul-testet till modul 2.
 - Vad är Compound Assignment Operators?
 - Vad är Logical operators?
 - Varför vill vi kunna använda Logical operators?
+- Vad är Comparison operators?
+- Vad är skillnaden på "==" och "==="
+- Precedence, vilken del av koden körs först?
 
 ## Vecka 39 
+
+
 
 ## Vecka 40 
 
