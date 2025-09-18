@@ -29,7 +29,7 @@ Vi ser ett avsnitt av [Generation AI](https://www.svtplay.se/generation-ai), nä
 
 Lite Ai nyheter:
 
-Genomgång av Kapitel 1 del 2 - ElementsofAi.
+Genomgång av [Kapitel 1 del 2](https://course.elementsofai.com/se/1/2) - ElementsofAi.
 
 
 ###### PERSONA
