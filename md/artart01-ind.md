@@ -32,6 +32,7 @@ Lite Ai nyheter:
 Genomgång av Kapitel 1 del 2 - ElementsofAi.
 
 PERSONA
+
 Vi ska nu börja använda Ai verktyg för att skapa texter, men innan vi gör det ska vi skapa några olika personas.
 
 Skapa en Persona - https://svid.se/guider-och-verktyg/metoder/persona/
@@ -49,13 +50,16 @@ X år Turist besökare kvinna
 20 år Chalmerist pendlar kvinna
 
 Uppgift: 
+
 Dela in er i grupper om 2-3 personer.
 Varje grupp får en persona att utveckla enligt mall - https://svid.se/wp-content/uploads/2019/12/designprocessguiden-persona.pdf
 
 Lämna in:
+
 Lämna in ett text dokument där ni svarat på frågorna i ovanstående .pdf. Ni får gärna bifoga en skiss på personan.
 
 SKAPA TEXTER
+
 Nu när vi har våra personas, ska vi skapa texter där vi utgår ifrån deras sätt att uttrycka sig.
 
 Den första texten utgår ifrån någon av följande händelser:
@@ -90,11 +94,13 @@ Viktigt att ni utgår från er persona när ni skapar texterna. Hur uttrycker si
 Arga insändare? Kära dagbok? Intervju i lokalpress? Socialamedier?
 
 Uppgift:
+
 Använd en valfri text generator - https://www.futurepedia.io/ai-tools/text-generators
 Eller varför inte lumo.proton.me
 
 
 Lämna in:
+
 Lämna in ett textdokument med följande rubriker:
 
 Rubrik
