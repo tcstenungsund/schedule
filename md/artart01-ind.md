@@ -31,6 +31,7 @@ Lite Ai nyheter:
 
 Genomgång av Kapitel 1 del 2 - ElementsofAi.
 
+
 PERSONA
 
 Vi ska nu börja använda Ai verktyg för att skapa texter, men innan vi gör det ska vi skapa några olika personas.
@@ -42,21 +43,29 @@ Utveckla någon av följande personas:
 Allt kretsar kring restaurang Hagadösen Wärdshus och människor som bor där eller i närheten. 
 
 43 år VD Hagadösen Wärdshus kvinna 
+
 14 år EPA Vape tjej
+
 58 år bonde vit man
+
 68 år konstnär vit man pensionär Xson - "all bestående konst är borgerlig" 
+
 32 år naturintresserad skogsmulle man inget körkort 
+
 X år Turist besökare kvinna
+
 20 år Chalmerist pendlar kvinna
 
 Uppgift: 
 
 Dela in er i grupper om 2-3 personer.
+
 Varje grupp får en persona att utveckla enligt mall - https://svid.se/wp-content/uploads/2019/12/designprocessguiden-persona.pdf
 
 Lämna in:
 
 Lämna in ett text dokument där ni svarat på frågorna i ovanstående .pdf. Ni får gärna bifoga en skiss på personan.
+
 
 SKAPA TEXTER
 
@@ -104,24 +113,37 @@ Lämna in:
 Lämna in ett textdokument med följande rubriker:
 
 Rubrik
+
 Namn på persona.
+
 Använt Ai verktyg
+
 Promt som använts
+
 Resultat
 
 
 Exempel:
 
 Rubrik
+
   Snöröjning upphandlad
+  
 Namn på persona
+
   Bengt - bonde
+  
 Använt Ai verktyg
+
   lumo.proton.me
+  
 Promt som använts
+
   Skapa en arg insändare kring faktumet att EPA traktorer ska användas för att skotta snö. Texten ska poängtera att det är farligt med ungdomar utan dubbdäck på vägarna. 
   Avsändaren är en medelålders vit man och texten ska använda enkla ord och ha ett argt tonläge. Hot om kospillning som kastas på kommunhuset ska vara med. 400 ord
+
 Resultat
+
   Nu är måttet rågat. Något så dumt har jag aldrig hört....
 
 
