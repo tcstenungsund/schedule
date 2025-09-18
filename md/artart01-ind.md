@@ -27,6 +27,97 @@ Vi ser ett avsnitt av [Generation AI](https://www.svtplay.se/generation-ai), nä
 
 ## Vecka 38   
 
+Lite Ai nyheter:
+
+Genomgång av Kapitel 1 del 2 - ElementsofAi.
+
+PERSONA
+Vi ska nu börja använda Ai verktyg för att skapa texter, men innan vi gör det ska vi skapa några olika personas.
+
+Skapa en Persona - https://svid.se/guider-och-verktyg/metoder/persona/
+
+Utveckla någon av följande personas:
+
+Allt kretsar kring restaurang Hagadösen Wärdshus och människor som bor där eller i närheten. 
+
+43 år VD Hagadösen Wärdshus kvinna 
+14 år EPA Vape tjej
+58 år bonde vit man
+68 år konstnär vit man pensionär Xson - "all bestående konst är borgerlig" 
+32 år naturintresserad skogsmulle man inget körkort 
+X år Turist besökare kvinna
+20 år Chalmerist pendlar kvinna
+
+Uppgift: 
+Dela in er i grupper om 2-3 personer.
+Varje grupp får en persona att utveckla enligt mall - https://svid.se/wp-content/uploads/2019/12/designprocessguiden-persona.pdf
+
+Lämna in:
+Lämna in ett text dokument där ni svarat på frågorna i ovanstående .pdf. Ni får gärna bifoga en skiss på personan.
+
+SKAPA TEXTER
+Nu när vi har våra personas, ska vi skapa texter där vi utgår ifrån deras sätt att uttrycka sig.
+
+Den första texten utgår ifrån någon av följande händelser:
+
+Julbord på krogen - veganskt utan sill
+
+Midnattslopp för EPA traktorer, på tunn is
+
+Nyårsraketer miljövänliga utan krut - lyktor som brinner och färdas långt
+Tävling om vilken som färdats längst - ut och leta fina priser.
+
+Nya mjölkrobotar för jordbruket - ai styrning ställer till det..
+
+Strandexkursion där man upptäcker den invasiva arten pistolräka
+
+Snöröjning upphandlad - lägsta budet vann - företag drivet av ungdomar - EPA traktorer med snöplog. 
+"De har ju inte ens dubbdäck!"
+
+Djur som simmar över havet - älg? Varg?
+
+Livsstils tips. Tokig heminredning. Tänk Ernst på speed.
+
+Kändis besöker krogen - kung/prins/oljemiljadär/politiker
+
+Band som spelar på krogen
+
+Vi kommer att producera mer texter nästa lektion.
+Övriga texter kan ni med fördel hämta från verkligheten.
+Googla aktuella nyheter i lokal och rikspress - vad kan man skruva och knyta till den fiktiva krogen Hagadösen Wärdshus?
+
+Viktigt att ni utgår från er persona när ni skapar texterna. Hur uttrycker sig hen sig? I vilka sammanhag publicerar hen sina åsikter?
+Arga insändare? Kära dagbok? Intervju i lokalpress? Socialamedier?
+
+Uppgift:
+Använd en valfri text generator - https://www.futurepedia.io/ai-tools/text-generators
+Eller varför inte lumo.proton.me
+
+
+Lämna in:
+Lämna in ett textdokument med följande rubriker:
+
+Rubrik
+Namn på persona.
+Använt Ai verktyg
+Promt som använts
+Resultat
+
+
+Exempel:
+
+Rubrik
+  Snöröjning upphandlad
+Namn på persona
+  Bengt - bonde
+Använt Ai verktyg
+  lumo.proton.me
+Promt som använts
+  Skapa en arg insändare kring faktumet att EPA traktorer ska användas för att skotta snö. Texten ska poängtera att det är farligt med ungdomar utan dubbdäck på vägarna. 
+  Avsändaren är en medelålders vit man och texten ska använda enkla ord och ha ett argt tonläge. Hot om kospillning som kastas på kommunhuset ska vara med. 400 ord
+Resultat
+  Nu är måttet rågat. Något så dumt har jag aldrig hört....
+
 
 ## Vecka 39   
 
