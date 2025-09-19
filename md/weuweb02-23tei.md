@@ -83,7 +83,8 @@ Uppgift: Gör er desktop mer personlig! Installera ett par Widgets och byt tema!
 
 Fixa också till er prompt! [Starship](https://starship.rs/) rekommenderas!   
 
-<!-- 
+### Fredag  
+
 ###### Workspace för webbutvecklare  
 
 Webbutvecklare behöver tillgång till LAMP-stacken och för det använder vi Docker. Därför skall vi nu installera och lära oss använda Docker!  
@@ -92,10 +93,9 @@ Webbutvecklare behöver tillgång till LAMP-stacken och för det använder vi Do
 
 [Uppgift: Workspace setup](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-workspace_setup)  
 
+<!-- 
 [Uppgift: Docker Basics](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-docker_basics)  
 -->
-
-### Fredag  
 
 <!-- 
 
