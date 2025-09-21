@@ -93,6 +93,12 @@ Webbutvecklare behöver tillgång till LAMP-stacken och för det använder vi Do
 
 [Uppgift: Workspace setup](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-workspace_setup)  
 
+
+
+## Vecka 39   
+
+### Måndag   
+
 <!-- 
 [Uppgift: Docker Basics](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-docker_basics)  
 -->
@@ -105,28 +111,17 @@ Kevin Powell är känd för sin kärlek till CSS.
 
 -->
 
-## Vecka 39   
-
-### Måndag   
+### Fredag  
 
 ###### Introduktion till Content Management Systems  
 <!-- 
-Det finns [många CMS:er](https://en.wikipedia.org/wiki/List_of_content_management_systems). Vi kommer använda en av de största, Drupal. Drupal är känd för att den har en aktiv utvecklarcommunity, många moduler och är både stabil att bygga komplexa lösningar på, men också enkel att arbeta med. Youtube-kursen vi skall se baseras på version 8, så under kursens gång är det den versionen vi kör. Men när vi sedan arbetar med systemet kommer vi köra version 10.  
+Det finns [många CMS:er](https://en.wikipedia.org/wiki/List_of_content_management_systems). Vi kommer använda en av de största, Drupal. Drupal är känd för att den har en aktiv utvecklarcommunity, många moduler och är både stabil att bygga komplexa lösningar på, men också enkel att arbeta med. Youtube-kursen vi skall se baseras på version 8, så under kursens gång är det den versionen vi kör. Men när vi sedan arbetar med systemet kommer vi köra version 11.  
 
 [![Drupal End-Of-Life table](https://www.prometsource.com/system/files/2023-11/drupal_versions.jpg)](https://www.prometsource.com/blog/faqs-drupal-9-end-of-life)  
 
 [Uppgift: CMS Install](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-cms_install)   
 
-Nu har du en utvecklingsmiljö med Drupal 8 som du kan stoppa och starta med följande kommandon.  
-
-    docker compose start  
-
-&nbsp;
-
-    docker compose stop  
 --> 
-
-### Fredag  
 
 
 ## Vecka 40   
