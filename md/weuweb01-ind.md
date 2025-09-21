@@ -41,7 +41,19 @@ För att genomföra uppgiften nedan måste du veta hur du [tar ett screenshot](h
 
 ## Vecka 39   
 
-Grundkurs i webbutveckling på [MDN](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core)     
+Slutför uppgiften HTML & CSS Basics.      
+
+###### Färgteori         
+
+Det finns många färger, vilket vi kan se på ett "[Color wheel](https://en.wikipedia.org/wiki/Color_wheel)". Färger har också olika betydelser på olika platser, enligt "[Colours In Culture](https://informationisbeautiful.net/visualizations/colours-in-cultures/)".      
+
+"[MDN Color](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value)" förklarar för oss hur man anger färger i CSS, klippet "[What The Heck Is A Hex Value Anyway?](https://cgi.tutsplus.com/tutorials/what-the-heck-is-a-hex-value-anyway--ae-11932)" (4:15) ger oss bakgrunden till hexvärden, "[HEXplorer](https://codepen.io/robdimarzo/full/xxZgKOR)" illustrerar det och artikeln "[A Guide To Modern CSS Colors With RGB, HSL, HWB, LAB And LCH](https://www.smashingmagazine.com/2021/11/guide-modern-css-colors/)" förklarar alla de övriga.         
+
+Om du inte har någon speciell orsak så rekommenderar artikeln "[Why we moved from RGB and HSL](https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl)" oss att använda använda OKLCH med hjälp av [OKLCH Color Picker & Converter](https://oklch.com)!         
+
+Men hur väljer man då? Jo, följ råden i "[How to Choose Colors (Easy 3-Step Process)](https://youtu.be/KMS3VwGh3HY)" och "[The 60:30:10 design rule for web design](https://yuricodesbot.hashnode.dev/the-603010-color-rule-for-web-design)". Hitta nya kombinationer med hjälp av "[ColorKit](https://colorkit.co/)" och "[Color picker](https://htmlcolorcodes.com/color-picker/)".        
+
+Kontrast är dock oerhört viktigt, vilket "[Contrast Rebellion](https://contrastrebellion.com/)" talar om för oss, och på "[Color review](https://color.review/)"/"[APCA Contrast Calculator ](https://www.myndex.com/APCA/)" (och "[Odd Contrast](https://www.oddcontrast.com/)" för OKLCH) kan vi testa våra färger. (Läs mer och gör interaktiva övningar på "[Color & Contrast](https://colorandcontrast.com/)".)        
 
 
 ## Vecka 40   
