@@ -102,6 +102,8 @@ Fortsätt arbeta med MIT App Inventor
 * "[Hello World in 50 Programming Languages (in 1 min)](https://youtu.be/dFvgUjXKsLU)" (1 min)   
 * "[Most Popular Programming Languages 1955 - 2025](https://youtu.be/5yAbVkIMl_M)" (8 min)  
 * "[Will PHP make YOU Rich in 2025?](https://youtu.be/AJiv09SWUNc)" (17 min)
+
+[11 New CSS Features Every Browser Supports in 2025](https://youtu.be/55uUK-iJeNM) (21 min)  
 -->
 
 Fortsätt arbeta med MIT App Inventor  
