@@ -94,36 +94,46 @@ Fortsätt arbeta med MIT App Inventor
 
 *Sociala medier-genomgång*: 
 
-<!-- 
-https://bsky.app/profile/spavel.bsky.social/post/3lxqqvx7tps2x 
-What UX is: make the text bigger and let people hold the thing 
+## Vecka 39   
 
-* [“Hello World” In 30 Different Languages](https://www.geeksforgeeks.org/hello-world-in-30-different-languages/)
-* [Hello World in 50 Programming Languages (in 1 min)](https://youtu.be/dFvgUjXKsLU) (1 min)   
+### Måndag   
+<!-- 
+* "[“Hello World” In 30 Different Languages](https://www.geeksforgeeks.org/hello-world-in-30-different-languages/)"  
+* "[Hello World in 50 Programming Languages (in 1 min)](https://youtu.be/dFvgUjXKsLU)" (1 min)   
 * "[Most Popular Programming Languages 1955 - 2025](https://youtu.be/5yAbVkIMl_M)" (8 min)  
 * "[Will PHP make YOU Rich in 2025?](https://youtu.be/AJiv09SWUNc)" (17 min)
 -->
 
-## Vecka 39   
-
-### Måndag   
-
-
-
-<!-- 
-
-
--->
+Fortsätt arbeta med MIT App Inventor  
 
 ### Tisdag   
-<!-- 
-###### The Fediverse      
-Som en backlash mot den misslyckade centraliseringen hos olika sociala medier skapades the Fediverse. Ett socialt media som bygger på samma principer som internet självt, att det är bra att sprida ut de viktiga resurserna och koppla ihop dem på distans. Det går att använda AI för att försöka göra Twitter/𝕏 drägligt med [MindFirewall](https://www.mindfw.com/), men i många lägen är det vettigare att bara flytta över till the Fediverse. För att hålla lite koll på vad som händer på the Fediverse kan du vända dig till [FediDB](https://fedidb.org/) och [Mastodon Instances](https://instances.social/) kan hjälpa dig att hitta en Mastodonserver att skapa ett konto på. Om du skaffar ett konto där vill du utan tvekan installera en pluggin för din webbläsare vid namn [Graze for Mastodon](https://graze.jaredzimmerman.com/). Webbklienten ni sett mig använda heter [Panphy](https://phanpy.social/#/).  
--->
+
+Fortsätt arbeta med MIT App Inventor  
+
+**Presentation av uppgiften MIT App Inventor**  
 
 ### Torsdag  
 
-**Presentation av uppgiften MIT App Inventor**  
+##### Pre-processing och Task runners  
+
+<!-- 
+Av de pre-processingspråk som finns är [Sass](https://sass-lang.com/) det vanligaste just nu. 
+
+[Sass - Tutorial for Beginners in 11 MINUTES!](https://youtu.be/6glgx4EViZQ) (12 min) och [CSS is getting better, but Sass is still relevant](https://youtu.be/GLxZ1gyW-IU) (18 min).  
+
+Med ett avstamp i "[Frontend Developer Roadmap](https://roadmap.sh/frontend)" talar vi mer om npm och npm scripts.  
+
+Saker man kan göra med en taskrunner       
+* Livereload   
+* CSS minification   
+* Autoprefixer    
+* Compile Sass       
+* Lints the compiled css   
+
+"[Introduction to NPM scripts](https://www.geeksforgeeks.org/introduction-to-npm-scripts/)" och "[Using Npm Scripts as a Build Tool ](https://deliciousbrains.com/npm-build-script/)".       
+
+[Uppgift: Moderna Webbteknologier](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb33-moderna_webbteknologier)   
+-->
 
 *Sociala medier-genomgång*: 
 
@@ -132,28 +142,15 @@ Som en backlash mot den misslyckade centraliseringen hos olika sociala medier sk
 ### Måndag   
 
 <!-- 
-##### Sass och Task runners         
-
-Av de pre-processingspråk som finns är [Sass](https://sass-lang.com/) det vanligaste just nu. 
-
-[Sass - Tutorial for Beginners in 11 MINUTES!](https://youtu.be/6glgx4EViZQ) (12 min) och [CSS is getting better, but Sass is still relevant](https://youtu.be/GLxZ1gyW-IU) (18 min).         
-
-Med ett avstamp i "[Frontend Developer Roadmap](https://roadmap.sh/frontend)" talar vi mer om npm och npm scripts.         
-
-Saker man kan göra med en taskrunner       
-* Livereload      
-* CSS minification       
-* Autoprefixer        
-* Compile Sass          
-* Lints the compiled css      
-
-"[Introduction to NPM scripts](https://www.geeksforgeeks.org/introduction-to-npm-scripts/)" och "[Using Npm Scripts as a Build Tool ](https://deliciousbrains.com/npm-build-script/)".       
-
-[Uppgift: Moderna Webbteknologier](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb33-moderna_webbteknologier)   
+###### The Fediverse      
+Som en backlash mot den misslyckade centraliseringen hos olika sociala medier skapades the Fediverse. Ett socialt media som bygger på samma principer som internet självt, att det är bra att sprida ut de viktiga resurserna och koppla ihop dem på distans. För att hålla lite koll på vad som händer på the Fediverse kan du vända dig till [FediDB](https://fedidb.org/) och [Mastodon Instances](https://instances.social/) kan hjälpa dig att hitta en Mastodonserver att skapa ett konto på. Om du skaffar ett konto där vill du utan tvekan installera en pluggin för din webbläsare vid namn [Graze for Mastodon](https://graze.jaredzimmerman.com/). Webbklienten ni sett mig använda heter [Panphy](https://phanpy.social/#/).  
 -->
 
 ### Tisdag   
+<!-- 
 
+
+-->
 
 ### Torsdag  
 
