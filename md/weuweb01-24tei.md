@@ -122,9 +122,12 @@ Quiz: Att hitta sin fil + HTML - Struktur
 * MDN Challenge: [Creepy-crawly splash page](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Splash_page)
 * MDN [Debugging HTML](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Marking_up_a_letter)
 -->
+
 ## Vecka 41   
 
 Quiz: HTML - Bilder och media (+ felsökning)  
+
+Repetition inför provet  
 
 Prov: HTML  
 
