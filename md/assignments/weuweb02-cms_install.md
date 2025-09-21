@@ -24,9 +24,9 @@ Vill du göra en installation i en container så krävs att du synkroniserar en 
 
 1) Skapa först en ny projektkatalog och navigerar dit i ditt shell.  
 
-2) Ladda ned filen docker-compose.yml (länken finns under resurser) och följ instruktionerna i den (det sägs bland annat att du skall initialisera ditt projekt med kommandot 'docker compose up -d') och välj att installera Drupal version 8  
+2) Ladda ned filen _docker-compose.yml_ (länken finns under resurser) och följ instruktionerna i den (det sägs bland annat att du skall initialisera ditt projekt med kommandot 'docker compose up -d') och välj att installera Drupal version 8  
 
-3) Öppna Firefox Developer Edition och besök localhost:8080, slutför installationen med relevant exempeldata samt de uppgifter du angav i punkt 2  
+3) Öppna Firefox Developer Edition och besök [http://localhost:8080](http://localhost:8080/), slutför där installationen. Välj Engelska som språk och i övrigt väljer du defaultvärden eller egna kreativa lösningar, samt de uppgifter du angav i punkt 2  
 
 4) Nu har du en färdig miljö, redo att användas! För att starta och stoppa din utvecklingsmiljö, använd följande två kommandon.  
 
