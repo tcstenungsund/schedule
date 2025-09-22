@@ -94,6 +94,10 @@ Fredags lektionen börjar vi med att göra modul-testet till modul 3.
 
 
 ## Vecka 39 
+Denna veckan ligger fokuset på framförallt funktioner. Vi arbetar med modul 5 och den sista halvan av fredags lektionen börjar vi med modul 6.
+### Test
+Måndags lektionen börjar vi med att göra modul-testet till modul 4. 
+
 
 
 
