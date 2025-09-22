@@ -97,19 +97,13 @@ Webbutvecklare behöver tillgång till LAMP-stacken och för det använder vi Do
 
 ## Vecka 39   
 
-### Måndag   
-
-<!-- 
-[Uppgift: Docker Basics](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-docker_basics)  
--->
-
-<!-- 
+### Måndag  
 
 "[My top 5 most popular front-end tips](https://youtu.be/DGOeyJjq80g)" (22 min)  
 
 Kevin Powell är känd för sin kärlek till CSS.  
 
--->
+[Uppgift: Docker Basics](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-docker_basics)  
 
 ### Fredag  
 
