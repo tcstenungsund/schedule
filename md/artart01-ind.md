@@ -31,6 +31,17 @@ Vi ser ett avsnitt av [Generation AI](https://www.svtplay.se/generation-ai), nä
 
 Lite Ai nyheter:
 
+https://www.theguardian.com/technology/2025/sep/17/google-deepmind-claims-historic-ai-breakthrough-in-problem-solving
+
+https://computersweden.se/article/4052803/europeiska-teknikjatten-investerar-stort-i-mistral-ai.html
+
+https://www.pcforalla.se/article/2894693/proton-lumo-ai.html
+
+https://computersweden.se/article/4056322/albanien-utser-ai-bot-till-minister.html
+
+https://www.bbc.com/news/articles/c5y599yz0l3o
+
+Vi ser gemensamt presentationen av Meta Ray-Ban Display - https://www.youtube.com/watch?v=gZ9IsB72nVk
 
 
 Genomgång av [Kapitel 1 del 2](https://course.elementsofai.com/se/1/2) - ElementsofAi.
@@ -64,7 +75,16 @@ Varje grupp får en persona att utveckla enligt mall - https://svid.se/wp-conten
 ##### Lämna in:
 
 Lämna in ett text dokument där ni svarat på frågorna i ovanstående .pdf. Ni får gärna bifoga en skiss på personan.
+Inlämningsmapp finns under /Uppgifter i TEAMs-rummet.
 
+## Vecka 39   
+
+Lite Ai nyheter:
+
+..
+..
+
+Genomgång av [Kapitel 1 del 3](https://course.elementsofai.com/se/1/3) - ElementsofAi.
 
 ###### SKAPA TEXTER
 
@@ -131,9 +151,6 @@ Promt som använts
 Resultat
 
   Nu är måttet rågat. Något så dumt har jag aldrig hört....
-
-
-## Vecka 39   
 
 
 ## Vecka 40   
