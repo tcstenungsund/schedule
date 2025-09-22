@@ -98,7 +98,19 @@ Denna veckan ligger fokuset på framförallt funktioner. Vi arbetar med modul 5 
 ### Test
 Måndags lektionen börjar vi med att göra modul-testet till modul 4. 
 
+### Det du bör ta med dig ifrån detta är:
 
+#### Funktioner
+- Vad är en funktion?
+- Varför är funktioner använbara?
+- Hur skriver vi funktioner i JavaScript?
+- Hur kallar vi på funktioner i JavaScript?
+- Vad använder vi $${\color{purple} return}$$ till?
+- Vad är en parameter?
+- Vad är recursion?
+- Funktioner är så kallade "first-class members", vad innebär det?
+- Vad är en arrow function och vad är de bra för?
+- Hur skriver man en arrow function?
 
 
 ## Vecka 40 
