@@ -46,12 +46,24 @@ Arbeta med Modul 5,6 och 7.
 ### Tisdag  
 
 [Prov: Modul 5 - 7](netacad.com) 
+Genomgång av Modul 8 och 9 - IP och nätverkssegmantering.
 
 ## Vecka 39   
 
+<img width="765" height="425" alt="ipv4" src="https://github.com/user-attachments/assets/fed198a0-e17d-4893-b206-4ac4b6c76a7a" />
+
+
 ### Måndag  
 
+Genomgång av Modul 10 och 11 - IPv6 och DHCP.
+Gör interaktiva övningar och läs på Modul 8 - 11.
+
+
 ### Tisdag  
+
+Gör interaktiva övningar och läs på Modul 8 - 11.
+
+[Prov: Modul 8 - 11](netacad.com) 
 
 ## Vecka 40   
 
