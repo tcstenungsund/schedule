@@ -115,6 +115,8 @@ Fortsätt arbeta med MIT App Inventor
 
 **Presentation av uppgiften MIT App Inventor**  
 
+Ni kommer sannolikt att göra hundratals presentationer när ni kommer ut i arbetslivet, så gör en professionell presentation idag! Börja med att presentera er själva och vad ni skall tala om. Ingen är intresserad av vem som gjorde vad eller hur ni delat upp arbetet. Det är projektet i sig som åhörarna vill veta mer om. Visa upp era block, framförallt något specifikt exempel som ni är extra nöjda med, som var riktigt svårt att få till eller som kan utgöra ett bra exempel för de andra. Genomför en ordentlig demo av er app.  
+
 ### Torsdag  
 
 ##### Pre-processing och Task runners  
