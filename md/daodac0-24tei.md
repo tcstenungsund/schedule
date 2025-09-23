@@ -18,8 +18,7 @@ Ni som är färdiga med Digital Awareness kursen anmäler er till IT Essentials 
 
 Vi kommer att använda IT Essentials som extra uppgift, när man är klar med obligatoriska moment.
 
-
-<img width="600" height="600" alt="itessentials" src="/assets/itessentials.png" />
+<img width="600" height="600" alt="itessentials" src="https://raw.githubusercontent.com/tcstenungsund/schedule/main/assets/itessentials.png" />
 
 ## Vecka 37   
 
