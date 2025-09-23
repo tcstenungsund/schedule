@@ -73,21 +73,26 @@ Quiz: HTML - Att märka upp text
 
 
 ###### Att hitta sin fil  
-<!--  
+
+Var är din webbsida? Är den i din dator? Var i din dator, vet du det? Borde den vara på webben, och i så fall var? Det finns många regler som gäller för hur vi hanterar våra webbsidor och hur vi får upp dem på nätet. Det är enormt mycket lättare att publicera en webbplats om du är medveten om dessa regler och följer dem redan i din egen dator. Tack och lov så ger MDN oss riktlinjer, och det är ganska tydligt vad saker heter och hur de fungerar på svenska. 
+
 * MDN [Dealing with files](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files)         
-* MDN [What is a URL?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_URL)
 
 **Termer ni behöver kunna**       
 * [fil](https://sv.wikipedia.org/wiki/Fil_(data))
 * [katalog](https://sv.wikipedia.org/wiki/Katalog_(datorteknik))
 * [filsystemet](https://sv.wikipedia.org/wiki/Filsystem)       
 * [filträd](https://sv.wikipedia.org/wiki/Filtr%C3%A4d)
-* [folder metaphor](https://en.wikipedia.org/wiki/Directory_%28computing%29#Folder_metaphor)  
-
-Dessa saker som finns i din dator finns också på servrar och återspeglas i länkar på webben! Vi måste ha lite koll på "[how URLs work](https://gdevops.frama.io/web/tuto-http/_images/how_urls_work.jpeg)" och [howurls.work](https://howurls.work/)!  
+* [folder metaphor](https://en.wikipedia.org/wiki/Directory_%28computing%29#Folder_metaphor)
 
 **Saker ni behöver kunna göra**       
 Ni måste veta hur man [skapar en textfil](https://www.wikihow.com/Make-a-New-File-in-Windows) hur man [skapar en katalog](https://www.minitool.com/news/how-do-i-create-a-directory.html#how-to-create-a-directory-in-windows-10-7400), [Komprimera och packa upp filer](https://support.microsoft.com/sv-se/windows/komprimera-och-packa-upp-filer-f6dde0a7-0fec-8294-e1d3-703ed85e7ebc), ta ett screenshot av hela sidan ([Firefox](https://support.mozilla.org/en-US/kb/take-screenshots-firefox?redirectslug=firefox-screenshots&redirectlocale=en-US), [Edge](https://www.howtogeek.com/719285/how-to-take-full-page-screenshots-in-microsoft-edge/)) och hur man visar dolda filändelser ([Windows 10](https://windowsreport.com/show-file-extensions-windows-10/), [Windows 11](https://windowsreport.com/show-file-extension-windows-11/)).      
+
+Varför är det så här? Jo, för de val du gör i din egen dator återspeglas i hur och var filer dyker upp på webben. 
+
+* MDN [What is a URL?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_URL)
+
+Vi måste ha lite koll på "[how URLs work](https://gdevops.frama.io/web/tuto-http/_images/how_urls_work.jpeg)" och [howurls.work](https://howurls.work/)!  
 
 **Regler för namngivning**      
 * Undvik svenska tecken, åäö      
@@ -95,10 +100,9 @@ Ni måste veta hur man [skapar en textfil](https://www.wikihow.com/Make-a-New-Fi
 * Undvik STORA bokstäver       
 
 Vid all namngivning (filer, kataloger, etc) så gäller ovanstående grundregler. En av anledningarna till dessa är "[character encoding](https://developer.mozilla.org/en-US/docs/Glossary/character_encoding)". Idag förlitar vi oss på "[Unicode](https://youtu.be/2r6OZD5n-wc)" (3:01).  
--->
 
 ###### HTML - Struktur  
-<!--
+
 * MDN [Basic HTML syntax / Anatomy of an HTML document](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Basic_HTML_syntax#anatomy_of_an_html_document)
 * MDN [What's in the head? Web page metadata](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Webpage_metadata)  
 * MDN [Structuring documents](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Structuring_documents)
@@ -106,8 +110,7 @@ Vid all namngivning (filer, kataloger, etc) så gäller ovanstående grundregler
 * MDN Test your skills: [Links](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Test_your_skills/Links)
 * MDN Challenge: [Structuring a page of content](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Structuring_a_page_of_content)
 
-Läs på om [The anchor element](https://heydonworks.com/article/the-anchor-element/), det är viktigt!  
--->
+Läs på om [The anchor element](https://heydonworks.com/article/the-anchor-element/), det är viktigt! Det går också att djupdyka i taggen [HEAD](https://htmlhead.dev/) och allt den kan innehålla. Om det är svårt att hålla ordning på den semantiska betydelsen hos taggar så är [HTML5 Doctor's flowchart](https://html5doctor.com/downloads/h5d-sectioning-flowchart.pdf) en bra resurs.  
 
 ## Vecka 40   
 
