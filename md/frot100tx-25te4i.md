@@ -92,7 +92,7 @@ Fortsätt arbeta med MIT App Inventor
 
 Fortsätt arbeta med MIT App Inventor  
 
-*Sociala medier-genomgång*: 
+*Sociala medier-genomgång*: [Meta släpper bra glasögon](https://youtu.be/5cVGKvl7Oek) som folk är upprörda kommer från Meta. Ai får en backlash av [rekryterare](https://www.reddit.com/r/ExperiencedDevs/comments/1nb8svg/had_an_existential_crisis_friday_afternoon_at_work/), [AI-hatare](https://anthonymoser.github.io/writing/ai/haterdom/2025/08/26/i-am-an-ai-hater.html) och [testare](https://www.reddit.com/r/LinusTechTips/comments/1n128e1/this_was_the_perfect_encapsulation_of_what_most/). UX är inte animationer, [UX är större text och bra marginaler](https://bsky.app/profile/spavel.bsky.social/post/3lxqqvx7tps2x)! 
 
 ## Vecka 39   
 
