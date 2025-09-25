@@ -119,7 +119,7 @@ Ni kommer sannolikt att göra hundratals presentationer när ni kommer ut i arbe
 
 ### Torsdag  
 
-Många teorier om användbarhet och människors interaktion med teknik har hängt med ett tag. Tre riktigt kända referensverk i branchen är Don't Make Me Think, Rocket Surgery Made Easy och 
+Många teorier om användbarhet och människors interaktion med teknik har hängt med ett tag. Tre riktigt kända referensverk i branchen är [Don't Make Me Think](https://www.akademibokhandeln.se/bok/dont-make-me-think-revisited/9780321965516), [Rocket Surgery Made Easy](https://www.akademibokhandeln.se/bok/rocket-surgery-made-easy/9780321657299) och [The Design of Everyday Things](https://www.akademibokhandeln.se/bok/the-design-of-everyday-things/9780465050659). 
 
 [Uppgift: UX-teorier](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/frot100tx-ux-teorier)   
 
