@@ -108,15 +108,12 @@ Kevin Powell är känd för sin kärlek till CSS.
 ### Fredag  
 
 ###### Introduktion till Content Management Systems  
-<!-- 
+
 Det finns [många CMS:er](https://en.wikipedia.org/wiki/List_of_content_management_systems). Vi kommer använda en av de största, Drupal. Drupal är känd för att den har en aktiv utvecklarcommunity, många moduler och är både stabil att bygga komplexa lösningar på, men också enkel att arbeta med. Youtube-kursen vi skall se baseras på version 8, så under kursens gång är det den versionen vi kör. Men när vi sedan arbetar med systemet kommer vi köra version 11.  
 
 [![Drupal End-Of-Life table](https://www.prometsource.com/system/files/2023-11/drupal_versions.jpg)](https://www.prometsource.com/blog/faqs-drupal-9-end-of-life)  
 
 [Uppgift: CMS Install](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-cms_install)   
-
---> 
-
 
 ## Vecka 40   
 
