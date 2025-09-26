@@ -20,8 +20,10 @@ Ett krypterat, säkert och europeiskt alternativ för generativ AI för text är
 
 Genomgång av uppgiften från förra veckan!  
 
+###### Elements of AI - Vad är artificiell intelligens?  
 Registrera dig på kursen [Elements of AI](https://www.elementsofai.se/).  
-Genomgång av "[Hur definieras artificiell intelligens?](https://course.elementsofai.com/se/1/1)"  
+Genomgång av Kapitel 1 del 1 - [Hur definieras artificiell intelligens?](https://course.elementsofai.com/se/1/1)  
+"I det här kapitlet bekantar vi oss med artificiell intelligens som begrepp och tar upp några exempel."  
 
 Vi ser ett avsnitt av [Generation AI](https://www.svtplay.se/generation-ai), närmare bestämt avsnitt 1 om "[Kreativa maskiner](https://www.svtplay.se/video/KNw75xd/generation-ai/1-kreativa-maskiner)" (24 min) och kör en EPA (Enskilt, Par, Alla)!  
 
@@ -29,58 +31,25 @@ Vi ser ett avsnitt av [Generation AI](https://www.svtplay.se/generation-ai), nä
 
 <img width="900" height="300" alt="ai" src="https://github.com/user-attachments/assets/f958133a-6117-4c72-84a2-35aa7ff72ae9" />
 
-Lite Ai nyheter:
+###### Nytt om AI  
+* https://www.theguardian.com/technology/2025/sep/17/google-deepmind-claims-historic-ai-breakthrough-in-problem-solving
+* https://computersweden.se/article/4052803/europeiska-teknikjatten-investerar-stort-i-mistral-ai.html
+* https://www.pcforalla.se/article/2894693/proton-lumo-ai.html
+* https://computersweden.se/article/4056322/albanien-utser-ai-bot-till-minister.html
+* https://www.bbc.com/news/articles/c5y599yz0l3o
+* Vi ser gemensamt presentationen av Meta Ray-Ban Display - https://www.youtube.com/watch?v=gZ9IsB72nVk
 
-https://www.theguardian.com/technology/2025/sep/17/google-deepmind-claims-historic-ai-breakthrough-in-problem-solving
+###### Elements of AI - Vad är artificiell intelligens?  
+Genomgång av kapitel 1 del 2 - [Andra ämnesområden](https://course.elementsofai.com/se/1/2)  
+"Utöver artificiell intelligens finns det några andra ämnesområden som är bra att känna till, åtminstone till namnet. Till dessa hör maskininlärning, datavetenskap, data science och djupinlärning (också djup maskininlärning)."  
 
-https://computersweden.se/article/4052803/europeiska-teknikjatten-investerar-stort-i-mistral-ai.html
-
-https://www.pcforalla.se/article/2894693/proton-lumo-ai.html
-
-https://computersweden.se/article/4056322/albanien-utser-ai-bot-till-minister.html
-
-https://www.bbc.com/news/articles/c5y599yz0l3o
-
-Vi ser gemensamt presentationen av Meta Ray-Ban Display - https://www.youtube.com/watch?v=gZ9IsB72nVk
-
-
-Genomgång av [Kapitel 1 del 2](https://course.elementsofai.com/se/1/2) - ElementsofAi.
+###### Projektet  
 
 [Uppgift: Persona](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/artart01-skapa_persona)  
 
-###### PERSONA
-<img width="300" height="400" alt="persona" src="https://github.com/user-attachments/assets/1916b5cd-de84-4828-95f4-f7d86da3cf1c" />
-
-Vi ska nu börja använda Ai verktyg för att skapa texter, men innan vi gör det ska vi skapa några olika personas.
-
-Skapa en Persona - https://svid.se/guider-och-verktyg/metoder/persona/
-
-Utveckla någon av följande personas:
-
-Allt kretsar kring restaurang Hagadösen Wärdshus och människor som bor där eller i närheten. 
-
-* 43 år VD Hagadösen Wärdshus kvinna 
-* 14 år EPA Vape tjej
-* 58 år bonde vit man
-* 68 år konstnär vit man pensionär Xet - "all bestående konst är borgerlig" 
-* 32 år naturintresserad skogsmulle man inget körkort 
-* X år Turist besökare kvinna
-* 20 år Chalmerist pendlar kvinna
-
-##### Uppgift: 
-
-Dela in er i grupper om 2-3 personer.
-
-Varje grupp får en persona att utveckla enligt mall - https://svid.se/wp-content/uploads/2019/12/designprocessguiden-persona.pdf
-
-##### Lämna in:
-
-Lämna in ett text dokument där ni svarat på frågorna i ovanstående .pdf. Ni får gärna bifoga en skiss på personan.
-Inlämningsmapp finns under /Uppgifter i TEAMs-rummet.
-
 ## Vecka 39   
 
-Lite Ai nyheter:
+###### Nytt om AI  
 * [Introducing ChatGPT Pulse](https://openai.com/index/introducing-chatgpt-pulse/)
 * [AI Sweden strengthens its network with seven new partners](https://www.ai.se/en/news/ai-sweden-strengthens-its-network-seven-new-partners)
 * [Italien först med åldersgräns för AI](https://www.tv4.se/artikel/44A34Yi8kuskF4Ud6WsBSm/italien-foerst-med-aldersgraens-foer-ai-da-infoers-lagen-till-sverige)
@@ -88,7 +57,9 @@ Lite Ai nyheter:
 * [AI-bubbla?](https://vm.tiktok.com/ZNdsCe4o2/)
 * [Hacka AI med emoji?](https://vm.tiktok.com/ZNdsCRw5v/)  
 
-Genomgång av [Kapitel 1 del 3](https://course.elementsofai.com/se/1/3) - ElementsofAi.
+###### Elements of AI - Vad är artificiell intelligens?  
+Genomgång av kapitel 1 del 3 - [Filosofin kring artificiell intelligens](https://course.elementsofai.com/se/1/3)  
+"Begreppet artificiell intelligens väcker på egen hand ofrånkomligen mängder av filosofiska frågor. Vi kan bland annat fundera över huruvida intelligent beteende innebär eller förutsätter medvetande och i vilken mån medvetande kan återskapas med hjälp av beräkningar."  
 
 ###### SKAPA TEXTER
 
@@ -159,14 +130,40 @@ Resultat
 
 ## Vecka 40   
 
+Uppgift!  
 
 ## Vecka 41   
 
+<img width="1324" height="495" alt="image" src="https://github.com/user-attachments/assets/438ff18e-ea31-499d-8b12-21cbacd79b5a" />
+
+
+###### Nytt om AI  
+*
+* 
+*
+
+###### Elements of AI - Problemlösning med hjälp av artificiell intelligens  
+Genomgång av kapitel 2 del 1 - [Sökning och problemlösning](https://course.elementsofai.com/se/2/1)  
+"Många uppgifter kan klassas som sökningsproblem. De förutsätter att man kan beskriva alla möjliga alternativ och konsekvenserna av dessa."  
 
 ## Vecka 42   
 
+###### Nytt om AI  
+*
+* 
+*
+
+###### Elements of AI  
+
 
 ## Vecka 43   
+
+###### Nytt om AI  
+*
+* 
+*
+
+###### Elements of AI  
 
 
 ## Vecka 44   
@@ -174,6 +171,18 @@ Resultat
 **HÖSTLOV**   
 
 ## Vecka 45   
+
+###### Elements of AI - AI i praktiken  
+<img width="1324" height="609" alt="image" src="https://github.com/user-attachments/assets/a6b48490-c843-441e-86be-58c78da651e8" />
+
+###### Elements of AI - Maskininlärning  
+<img width="1324" height="565" alt="image" src="https://github.com/user-attachments/assets/ebc30200-6c8c-4c4d-afec-5443adeb3e82" />
+
+###### Elements of AI - Neuronnät  
+<img width="1324" height="550" alt="image" src="https://github.com/user-attachments/assets/8fc2a5eb-ea40-479b-9617-b8ba924ee755" />
+
+###### Elements of AI - Konsekvenser  
+<img width="1324" height="547" alt="image" src="https://github.com/user-attachments/assets/7cc3b812-64cc-48f0-9321-c54982c9154d" />
 
 
 ## Vecka 46   
