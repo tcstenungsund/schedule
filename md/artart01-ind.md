@@ -46,6 +46,7 @@ Vi ser gemensamt presentationen av Meta Ray-Ban Display - https://www.youtube.co
 
 Genomgång av [Kapitel 1 del 2](https://course.elementsofai.com/se/1/2) - ElementsofAi.
 
+[Uppgift: Persona](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/artart01-skapa_persona)  
 
 ###### PERSONA
 <img width="300" height="400" alt="persona" src="https://github.com/user-attachments/assets/1916b5cd-de84-4828-95f4-f7d86da3cf1c" />
