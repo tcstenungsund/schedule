@@ -80,9 +80,12 @@ Inlämningsmapp finns under /Uppgifter i TEAMs-rummet.
 ## Vecka 39   
 
 Lite Ai nyheter:
-
-..
-..
+* [Introducing ChatGPT Pulse](https://openai.com/index/introducing-chatgpt-pulse/)
+* [AI Sweden strengthens its network with seven new partners](https://www.ai.se/en/news/ai-sweden-strengthens-its-network-seven-new-partners)
+* [Italien först med åldersgräns för AI](https://www.tv4.se/artikel/44A34Yi8kuskF4Ud6WsBSm/italien-foerst-med-aldersgraens-foer-ai-da-infoers-lagen-till-sverige)
+* [AI med minne?](https://vm.tiktok.com/ZNdsQ3kuf/)
+* [AI-bubbla?](https://vm.tiktok.com/ZNdsCe4o2/)
+* [Hacka AI med emoji?](https://vm.tiktok.com/ZNdsCRw5v/)  
 
 Genomgång av [Kapitel 1 del 3](https://course.elementsofai.com/se/1/3) - ElementsofAi.
 
