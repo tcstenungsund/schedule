@@ -20,7 +20,7 @@ Du bör sedan tidigare genomfört uppgifterna [Workspace setup](https://tcstenun
 
 En normal installation av Drupal kräver att man sätter upp en server med PHP, Apache, MariaDB (SQL), samt PHPs pakethanterare Composer. Med hjälp av Composer installerar man sedan Drupal och Drush, för att slutligen göra konfigurationen av Drupal med hjälp av Drush.          
 
-Vill du istället göra en installation i en container så krävs att du konfigurerar både en en Apache/PHP-container och en SQL-container, kopplar ihop dem via ett virtuellt nätverk och delar ut ett par kataloger till ditt host-system. Men tack och lov går det att automatisera detta med ett program som heter Docker Compose. Med hjälp av Docker Compose så kan du skapa en receptfil som talar om hur du vill din miljö skall se ut, och sedan fixar Docker Compose resten! 
+Vill du istället göra en installation i en container så krävs att du konfigurerar både en en Apache/PHP-container och en SQL-container, kopplar ihop dem via ett virtuellt nätverk och delar ut ett par kataloger till ditt host-system. Men tack och lov går det att automatisera detta med ett program som heter Docker Compose. Med hjälp av Docker Compose så kan du utgå ifrån en receptfil som talar om hur du vill din miljö skall se ut, och sedan fixar Docker Compose resten! 
 
 Nu skall vi sätta upp ett nytt projekt! I exemplet nedan förutsätts projektet heta "d8beginner", men det bör ju ändras beroende på vad för slags projekt vi gör.  
 
