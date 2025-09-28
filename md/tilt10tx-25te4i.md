@@ -32,10 +32,23 @@ Vi arbetar med att skriva ett personligtbrev för APL ansökan.
 Lämna in CV och personligtbrev i .pdf format.
 
 ## Vecka 39   
-
+Vi fortsätter vårt arbete med CV och personligt brev.
+Genomgång av hur man ska matcha önskemål i jobbannonser.
+Lämna in CV och personligtbrev i .pdf format - öppen ansökan (spontanansökan).
 
 ## Vecka 40   
+Ni som inte lämnat in ert CV och personligabrev gör det med en gång. - I TEAMs.
 
+Eftersom Ronnie är i Tjeckien denna vecka ska ni träna på att skriva en jobbansökan. Ni ska alltså anpassa den spontanansökan som vi skrivit på tidigare, efter vad som står i annonsen.
+
+Välj mellan följande annonser:
+
+Support - https://arbetsformedlingen.se/platsbanken/annonser/30074156
+Nätverk - https://arbetsformedlingen.se/platsbanken/annonser/30075683
+Utvecklare - https://arbetsformedlingen.se/platsbanken/annonser/30017783
+
+Lämna in både CV och personligtbrev i .pdf format. Observera att det måste framgå vilket jobb det är ni söker.
+RUBRIK i det personligabrevet - Exempelvis: "Ansökan till tjänsten som Junior webbutvecklare . referensnummer 32171"
 
 ## Vecka 41   
 
