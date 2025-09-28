@@ -66,14 +66,19 @@ Gör interaktiva övningar och läs på Modul 8 - 11.
 [Prov: Modul 8 - 11](netacad.com) 
 
 ## Vecka 40   
+<img width="1004" height="389" alt="nätverk" src="https://github.com/user-attachments/assets/f3997739-468e-499d-a572-aa83d7ea4dd3" />
 
 ### Måndag  
+Genomgång av Modul 12, 13 och 14. 
+
 
 ### Tisdag  
+Ronnie i Tjeckien. Arbeta med Modul 12, 13 och 14.
 
 ## Vecka 41   
 
 ### Måndag  
+[Prov: Modul 12 - 14](netacad.com)
 
 ### Tisdag  
 
