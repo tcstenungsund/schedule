@@ -58,6 +58,30 @@ Kontrast är dock oerhört viktigt, vilket "[Contrast Rebellion](https://contras
 
 ## Vecka 40   
 
+Dags att påbörja vår grundkurs i HTML & CSS. Först lägger vi några veckor på HTML, för att se hur man märker upp innehåll så en webbläsare förstår det. Vi kommer att använda många verktyg under kursens gång, men de som är aktuella under höstterminen är [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/) och [Anteckningar](https://en.wikipedia.org/wiki/Windows_Notepad).  
+
+Det första vi ger oss på är MDN [Core module "Structuring content with HTML"](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content). Vi kommer inte hinna titta på alla avsnitt, men de viktigaste får vi med oss.  
+
+MDN [Research and learning](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Soft_skills/Research_and_learning)  
+
+För att kunna genomföra kursen förväntas du:  
+* **Läsa kursmaterialet** och göra interaktiva övningar med målsättningen att kunna omsätta det i praktiken 
+* Lyssna på **föreläsningar** och eventuellt ta anteckningar
+* Göra **praktiska övningar** varje vecka och lämna in några av dem
+* Varje vecka gör du ett **test** på föregående veckas material
+* I slutet av varje större moment gör du ett **prov** på det
+
+###### HTML - Att märka upp text        
+
+Först repeterar vi hur en HTML-tagg är uppbygd, sedan djupdyker vi hur man märker upp text på alla möjliga sätt och vis!  
+
+* MDN [Basic HTML syntax](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Basic_HTML_syntax) (Överkurs: Attributes (allt utom ingressen), Character references)<br>(Anatomy of an HTML document spar vi till nästa vecka.)  
+* MDN [Headings and paragraphs](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Headings_and_paragraphs)  
+* MDN [Emphasis and importance](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Emphasis_and_importance)  
+* MDN [Lists](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Lists)  
+* MDN Test your skills: [HTML text basics](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Test_your_skills/HTML_text_basics)   
+* MDN [Advanced text features](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Advanced_text_features) (Överkurs)  
+* MDN Challenge: [Marking up a letter](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Marking_up_a_letter) (Överkurs) 
 
 ## Vecka 41   
 
