@@ -114,7 +114,7 @@ Läs på om [The anchor element](https://heydonworks.com/article/the-anchor-elem
 
 ## Vecka 40   
 
-Quiz: Att hitta sin fil + HTML - Struktur   
+Quiz: Att hitta sin fil + HTML - Struktur  
 
 ###### HTML - Bilder och media (+ felsökning)    
 <!-- 
@@ -125,6 +125,8 @@ Quiz: Att hitta sin fil + HTML - Struktur
 * MDN Challenge: [Creepy-crawly splash page](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Splash_page)
 * MDN [Debugging HTML](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Marking_up_a_letter)
 -->
+
+Efter föreläsningen nyttjar ni tiden till att läsa igenom materialet, genomföra de interaktiva moment som finns på de flesta sidor, samt gör de Test your skills och Challanges ni ännu inte slutfört! Se till att fråga om sådant ni inte förstår!  
 
 ## Vecka 41   
 
