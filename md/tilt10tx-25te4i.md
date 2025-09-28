@@ -44,11 +44,17 @@ Eftersom Ronnie är i Tjeckien denna vecka ska ni träna på att skriva en jobba
 Välj mellan följande annonser:
 
 Support - https://arbetsformedlingen.se/platsbanken/annonser/30074156
+
 Nätverk - https://arbetsformedlingen.se/platsbanken/annonser/30075683
+
 Utvecklare - https://arbetsformedlingen.se/platsbanken/annonser/30017783
+
 
 Lämna in både CV och personligtbrev i .pdf format. Observera att det måste framgå vilket jobb det är ni söker.
 RUBRIK i det personligabrevet - Exempelvis: "Ansökan till tjänsten som Junior webbutvecklare . referensnummer 32171"
+
+Använd:
+[Info från AF](https://arbetsformedlingen.se/for-arbetssokande/cv-ansokan-och-intervju)
 
 ## Vecka 41   
 
