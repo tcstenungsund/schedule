@@ -11,12 +11,15 @@ Enskild uppgift.
 ## Resurser
 
 *   [Install Docker in Linux](https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository)
+*   [Manage Docker as a non-root user](https://docs.docker.com/engine/install/linux-postinstall/#manage-docker-as-a-non-root-user)  
 
 ## Uppgiftsbeskrivning
 
 Målet är att installera och konfigurera :whale2: Docker.  
 
-Om du bara klarar av att läsa instruktionen ovan så är den här övningen ganska enkel. Se till att Docker är installerad via APT eller motsvarande pakethanterare. 
+Om du bara klarar av att läsa instruktionen ovan så är den här övningen ganska enkel. Se till att Docker är installerad via APT eller motsvarande pakethanterare.  
+
+Om du upptäcker att du bara kan köra Docker med hjälp av sudo följer du instruktionen för hur man kör Docker utan att vara root som du finner under resurser ovan.  
 
 > Tips! Undvik att installera Docker via Snap, då det kan ställa till problem längre fram  
 
