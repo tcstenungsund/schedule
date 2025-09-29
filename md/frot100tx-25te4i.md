@@ -167,6 +167,11 @@ Saker man kan göra med en taskrunner
 
 *Sociala medier-genomgång*: 
 
+<!-- 
+https://youtu.be/EXu2gqOXDEQ?t=3332
+55:32 - 59:18 
+-->
+
 ## Vecka 41   
 
 ### Måndag   
