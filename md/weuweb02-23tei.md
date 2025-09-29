@@ -65,7 +65,9 @@ Michelle Barker är en kreativ och designmedveten entusiast för CSS som gärna 
 
 1) [Flexbox Froggy](https://flexboxfroggy.com/)  
 2) [Flexbox Adventure](https://codingfantasy.com/games/flexboxadventure)  
-3) [Grid Garden](https://cssgridgarden.com/)  
+3) [Grid Garden](https://cssgridgarden.com/)
+4) [Flexbox Defense](http://www.flexboxdefense.com/)
+5) [CSS Diner](https://flukeout.github.io/)  
 
 ### Fredag  
 
