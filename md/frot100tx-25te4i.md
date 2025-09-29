@@ -129,12 +129,10 @@ Många teorier om användbarhet och människors interaktion med teknik har häng
 
 ### Måndag   
 
-<!-- 
 ###### The Fediverse      
 Som en backlash mot den misslyckade centraliseringen hos olika sociala medier skapades the Fediverse. Tim Berners-Lee ställer frågan "[is the web still free today?](https://expressional.social/@petersuber@fediscience.org/115282405819883420)" Ett socialt media som bygger på samma principer som internet självt, att det är bra att sprida ut de viktiga resurserna och koppla ihop dem på distans. Därmed skapades [The Fediverse](https://en.wikipedia.org/wiki/Fediverse), the federated universe.  
 
 Så nu behövs [A Hitchhiker's Guide to the Fediverse](https://gofoss.net/fediverse/)! För att hålla lite koll på vad som händer på the Fediverse kan du vända dig till [FediDB](https://fedidb.com/) och [Mastodon Instances](https://instances.social/) kan hjälpa dig att hitta en Mastodonserver att skapa ett konto på. Om du skaffar ett konto där vill du utan tvekan installera en pluggin för din webbläsare vid namn [Graze for Mastodon](https://graze.jaredzimmerman.com/). Webbklienten ni sett mig använda heter [Panphy](https://phanpy.social/#/).  
--->
 
 ### Tisdag   
 <!-- 
