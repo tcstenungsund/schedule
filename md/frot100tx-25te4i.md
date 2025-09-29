@@ -123,7 +123,7 @@ Många teorier om användbarhet och människors interaktion med teknik har häng
 
 [Uppgift: UX-teorier](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/frot100tx-ux-teorier)   
 
-*Sociala medier-genomgång*: 
+*Sociala medier-genomgång*: "[Why Organizations Don’t Do User Research and How to Change That](https://www.nngroup.com/articles/why-organizations-dont-do-user-research/)", "[Something dumb that rich people understand](https://www.tiktok.com/@jimmycarr/video/7550392983309290784)", "[i just implemented oauth in my app! is this enough?](https://www.reddit.com/r/webdev/comments/1nilgyn/i_just_implemented_oauth_in_my_app_is_this_enough/)" och "[the peculiar case of japanese web design](https://sabrinas.space/)".  
 
 ## Vecka 40   
 
@@ -137,10 +137,10 @@ Så nu behövs [A Hitchhiker's Guide to the Fediverse](https://gofoss.net/fedive
 Fortsätt arbeta med UX-tekniker  
 
 ### Tisdag   
-<!-- 
 
+Fortsätt arbeta med UX-tekniker  
 
--->
+Presentation av uppgiften UX-tekniker  
 
 ### Torsdag  
 
@@ -188,6 +188,11 @@ Dagens uppgift är att skapa er första PWA. Den behöver inte ha något innehå
 -->
 
 ### Tisdag   
+
+<!-- 
+
+
+-->
 
 
 ### Torsdag  
