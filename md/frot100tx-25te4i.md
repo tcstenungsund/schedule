@@ -134,6 +134,8 @@ Som en backlash mot den misslyckade centraliseringen hos olika sociala medier sk
 
 Så nu behövs [A Hitchhiker's Guide to the Fediverse](https://gofoss.net/fediverse/)! För att hålla lite koll på vad som händer på the Fediverse kan du vända dig till [FediDB](https://fedidb.com/) och [Mastodon Instances](https://instances.social/) kan hjälpa dig att hitta en Mastodonserver att skapa ett konto på. Om du skaffar ett konto där vill du utan tvekan installera en pluggin för din webbläsare vid namn [Graze for Mastodon](https://graze.jaredzimmerman.com/). Webbklienten ni sett mig använda heter [Panphy](https://phanpy.social/#/).  
 
+Fortsätt arbeta med UX-tekniker  
+
 ### Tisdag   
 <!-- 
 
