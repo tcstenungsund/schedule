@@ -117,14 +117,12 @@ Läs på om [The anchor element](https://heydonworks.com/article/the-anchor-elem
 Quiz: Att hitta sin fil + HTML - Struktur  
 
 ###### HTML - Bilder och media (+ felsökning)    
-<!-- 
-* MDN [HTML images](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/HTML_images)
+w* MDN [HTML images](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/HTML_images)
 * MDN Test your skills: [HTML images](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Test_your_skills/Images)
 * MDN [HTML video and audio](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/HTML_video_and_audio) (Överkurs)  
 * MDN Test your skills: [Audio and video](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Test_your_skills/Audio_and_video) (Överkurs)  
 * MDN Challenge: [Creepy-crawly splash page](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Splash_page)
 * MDN [Debugging HTML](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Marking_up_a_letter)
--->
 
 Efter föreläsningen nyttjar ni tiden till att läsa igenom materialet, genomföra de interaktiva moment som finns på de flesta sidor, samt gör de Test your skills och Challanges ni ännu inte slutfört! Se till att fråga om sådant ni inte förstår!  
 
@@ -132,12 +130,11 @@ Efter föreläsningen nyttjar ni tiden till att läsa igenom materialet, genomf�
 
 Quiz: HTML - Bilder och media (+ felsökning)  
 
+## Vecka 42   
+
 Repetition inför provet  
 
 Prov: HTML  
-
-## Vecka 42   
-
 
 ## Vecka 43   
 
