@@ -85,6 +85,20 @@ Denna veckan börjar vi med att göra modul-testet till modul 2.
 - Precedence, vilken del av koden körs först?
 
 ## Vecka 39 
+Denna veckan var målet att jobba klart med modul 3 och på börja modul 4. I modul 3 handlar det om att komunicera med användaren genom prompt(), confirm() och alert(). I modul 4 är det flow-control som står på tapetern, närmare bestämt if-satser och switchar. 
+
+### Det du bör ta med dig ifrån detta är:
+#### User interaction
+- Hur man använder alert()
+- Hur man använder confirm()
+- Hur man använder prompt()
+#### Conditional statements
+- Varför behöver vi conditional statements?
+- Vad är skillnaden på if-satser och switch... case statements
+
+#### If statements
+- 
+#### switch... case statements
 
 
 
