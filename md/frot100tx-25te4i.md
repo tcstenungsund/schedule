@@ -103,10 +103,6 @@ Fortsätt arbeta med MIT App Inventor
 * "[Most Popular Programming Languages 1955 - 2025](https://youtu.be/5yAbVkIMl_M)" (8 min)  
 * "[Will PHP make YOU Rich in 2025?](https://youtu.be/AJiv09SWUNc)" (17 min)  
 
-<!-- 
-[11 New CSS Features Every Browser Supports in 2025](https://youtu.be/55uUK-iJeNM) (21 min)  
--->
-
 Fortsätt arbeta med MIT App Inventor  
 
 ### Tisdag   
@@ -137,6 +133,8 @@ För att använda sig av ett distribuerat socialt nätverk så måste du välja 
 Fortsätt arbeta med UX-tekniker  
 
 ### Tisdag   
+
+[11 New CSS Features Every Browser Supports in 2025](https://youtu.be/55uUK-iJeNM) (21 min)  
 
 Fortsätt arbeta med UX-tekniker  
 
