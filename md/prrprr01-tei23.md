@@ -97,9 +97,10 @@ Denna veckan var målet att jobba klart med modul 3 och på börja modul 4. I mo
 - Vad är skillnaden på if-satser och switch... case statements
 
 #### If statements
-- 
+- Hur skriver man ett If statement?
+- Vad innebär $${\color{purple}else$$ och $${\color{purple}else$$ $${\color{purple}if$$?
 #### switch... case statements
-
+- Hur skriver man ett switch... case statement?
 
 
 ## Vecka 40 
