@@ -142,25 +142,13 @@ Presentation av uppgiften UX-tekniker
 
 ### Torsdag  
 
+Kevin Powell är tillbaka med ytterligare en utmaning, denna gången [CSS Hell](https://csshell.com/)! Vi gör som sist, tittar på Kevins inledning, pausar 5-10 minuter och försöker lösa övningen, sedan tittar vi på hur han löst problemet! Nu är det dags för "[Pro Developer Tries to Survive CSS Hell](https://youtu.be/z6OQO5SwUhU)"! (46min)
+
 <!-- 
-##### Pre-processing och Task runners  
-
-Av de pre-processingspråk som finns är [Sass](https://sass-lang.com/) det vanligaste just nu. 
-
-[Sass - Tutorial for Beginners in 11 MINUTES!](https://youtu.be/6glgx4EViZQ) (12 min) och [CSS is getting better, but Sass is still relevant](https://youtu.be/GLxZ1gyW-IU) (18 min).  
-
-Med ett avstamp i "[Frontend Developer Roadmap](https://roadmap.sh/frontend)" talar vi mer om npm och npm scripts.  
-
-Saker man kan göra med en taskrunner       
-* Livereload   
-* CSS minification   
-* Autoprefixer    
-* Compile Sass       
-* Lints the compiled css   
-
-"[Introduction to NPM scripts](https://www.geeksforgeeks.org/introduction-to-npm-scripts/)" och "[Using Npm Scripts as a Build Tool ](https://deliciousbrains.com/npm-build-script/)".       
-
+Gör undersökningen [State of JS](https://stateofjs.com/)! 
 -->
+
+
 
 
 *Sociala medier-genomgång*: 
@@ -199,6 +187,27 @@ Dagens uppgift är att skapa er första PWA. Den behöver inte ha något innehå
 
 
 ### Torsdag  
+
+<!-- 
+##### Pre-processing och Task runners  
+
+Av de pre-processingspråk som finns är [Sass](https://sass-lang.com/) det vanligaste just nu. 
+
+[Sass - Tutorial for Beginners in 11 MINUTES!](https://youtu.be/6glgx4EViZQ) (12 min) och [CSS is getting better, but Sass is still relevant](https://youtu.be/GLxZ1gyW-IU) (18 min).  
+
+Med ett avstamp i "[Frontend Developer Roadmap](https://roadmap.sh/frontend)" talar vi mer om npm och npm scripts.  
+
+Saker man kan göra med en taskrunner       
+* Livereload   
+* CSS minification   
+* Autoprefixer    
+* Compile Sass       
+* Lints the compiled css   
+
+"[Introduction to NPM scripts](https://www.geeksforgeeks.org/introduction-to-npm-scripts/)" och "[Using Npm Scripts as a Build Tool ](https://deliciousbrains.com/npm-build-script/)".       
+
+-->
+
 
 *Sociala medier-genomgång*: 
 
