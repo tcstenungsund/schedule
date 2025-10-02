@@ -142,16 +142,9 @@ Presentation av uppgiften UX-tekniker
 
 ### Torsdag  
 
-Kevin Powell är tillbaka med ytterligare en utmaning, denna gången [CSS Hell](https://csshell.com/)! Vi gör som sist, tittar på Kevins inledning, pausar 5-10 minuter och försöker lösa övningen, sedan tittar vi på hur han löst problemet! Nu är det dags för "[Pro Developer Tries to Survive CSS Hell](https://youtu.be/z6OQO5SwUhU)"! (46min)
+Kevin Powell är tillbaka med ytterligare en utmaning, denna gången [CSS Hell](https://csshell.com/)! Vi gör som sist, tittar på Kevins inledning, pausar 5-10 minuter och försöker lösa övningen, sedan tittar vi på hur han löst problemet! Nu är det dags för "[Pro Developer Tries to Survive CSS Hell](https://youtu.be/z6OQO5SwUhU)"! (46min)  
 
-<!-- 
-Gör undersökningen [State of JS](https://stateofjs.com/)! 
--->
-
-
-
-
-*Sociala medier-genomgång*: 
+*Sociala medier-genomgång*: [How vibe coders ruined everything](https://youtu.be/RiSIS3jcaXU), [Tjörn joinar AI Sweden](https://www.ai.se/en/news/ai-sweden-strengthens-its-network-seven-new-partners) och [Gör Apple någonsin något nytt?](https://www.youtube.com/shorts/8RhE1FMQvzo).  
 
 <!-- 
 https://youtu.be/EXu2gqOXDEQ?t=3332
@@ -161,6 +154,11 @@ https://youtu.be/EXu2gqOXDEQ?t=3332
 ## Vecka 41   
 
 ### Måndag   
+
+<!-- 
+Gör undersökningen [State of JS](https://stateofjs.com/)! 
+-->
+
 <!-- 
 ###### Progressive Web Apps
 
