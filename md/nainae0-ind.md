@@ -15,9 +15,15 @@ Vi fortsätter med andra halvan av The Great Hack.
 
 ## Vecka 39   
 
+Vi tittar på första avsnittet av serien Most Wanted: Teen Hacker
+
+Samt genomgång av moduldelarna: 1,2 - 1,3
 
 ## Vecka 40   
 
+Vi tittar på avsnitt 2 av seriern Most Wanted: Teen Hacker
+
+Samt läsa själva delarna 1.4 1.5 1.6 och göra modul quiz.
 
 
 ## Vecka 41   
