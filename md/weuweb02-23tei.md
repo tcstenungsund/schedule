@@ -134,7 +134,13 @@ Vi ser avsnitten 1-3 (Introduktion, 15min) och 8-15 (Systemöverblick, 17min) i 
 
 ### Fredag  
 
-Youtubekurs i CMS  
+Vi slutför de tidigare fyra uppgifterna!  
+
+[How To Use AI in Drupal to Set the Tone of Your Content](https://youtu.be/Vz7oTYYBeK0) (8 min)   
+
+## Vecka 41   
+
+### Måndag   
 
 <!-- 
 Vi ser avsnitten 16-18, 22-26 (Content Type, 26min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".  
@@ -147,10 +153,6 @@ Vi ser avsnitten 48-51 (Block och Menyer, 13min) och 52-55 (Teman, 15min) i seri
 Vi ser avsnitten 56-57 (Rättigheter, 8min), 58-60 (Rapporter och Uppdatering, 10min) och 61-62 (Drupals Community, 6min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".   
 Prov på Grundkurs i CMS   
 --> 
-
-## Vecka 41   
-
-### Måndag   
 
 Youtubekurs i CMS  
 
@@ -203,8 +205,6 @@ Youtubekurs i CMS
 [My solar-powered and self-hosted website](https://dri.es/my-solar-powered-and-self-hosted-website)   
 
 [OSTips - Drupal](https://youtube.com/playlist?list=PLtaXuX0nEZk_R36-089QmM-OMTZ3APvuc&si=0pxyc81CkDZfHqZX)   
-
-[How To Use AI in Drupal to Set the Tone of Your Content](https://youtu.be/Vz7oTYYBeK0) (8 min)   
 
 -->
 
