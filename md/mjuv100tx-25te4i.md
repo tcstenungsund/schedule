@@ -114,6 +114,24 @@ Måndags lektionen börjar vi med att göra modul-testet till modul 4.
 
 
 ## Vecka 40 
+### Tornet i Hanoi
+I grupper om 3 
+
+Vi ska skriva ett program som låter oss spela ”Tornet i Hanoi” och en algoritm som löser Tornet i Hanoi för några olika torn.
+Ni ska arbeta i grupper om 3.
+Ni ska använda av er av JavaScript. För user-input så får ni använda er av valfri metod, Ett HTML dokument med knappar som representerar de olika förflyttningarna skulle kunna vara ett alternativ.
+
+1.	Bekanta er med tornet i Hanoi
+2.	Konstruera ett flödesschema för ett program som låter oss spela ”tornet i Hanoi” 
+3.	Skriva ett program som låter oss spela ”Tornet i Hanoi” med ett torn som är 1 bit hög
+4.	Skriva ett program som låter oss spela ”Tornet i Hanoi” med ett torn som är 2 bitar högt
+5.	Skriva ett program som låter oss spela ”Tornet i Hanoi” med ett torn som är 3 bitar högt
+6.	Skriva ett program som låter oss spela ”Tornet i Hanoi” med ett torn som är n bitar högt
+7.	Skriva ett program som löser ”Tornet i Hanoi” för ett torn som är 1 bit hög
+8.	Skriva ett program som löser ”Tornet i Hanoi” för ett torn som är 2 bitar högt
+9.	Skriva ett program som löser ”Tornet i Hanoi” för ett torn som är 3 bitar högt
+10.	Skriva ett program som löser ”Tornet i Hanoi” för ett torn som är n bitar högt
+Måndagen den 6 oktober ska gruppen hålla ett cirka 5 minuter presentation om hur projektet har gått.
 
 ## Vecka 41
 
