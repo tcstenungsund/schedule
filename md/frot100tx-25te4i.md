@@ -146,11 +146,6 @@ Kevin Powell är tillbaka med ytterligare en utmaning, denna gången [CSS Hell](
 
 *Sociala medier-genomgång*: [How vibe coders ruined everything](https://youtu.be/RiSIS3jcaXU), [Tjörn joinar AI Sweden](https://www.ai.se/en/news/ai-sweden-strengthens-its-network-seven-new-partners) och [Gör Apple någonsin något nytt?](https://www.youtube.com/shorts/8RhE1FMQvzo).  
 
-<!-- 
-https://youtu.be/EXu2gqOXDEQ?t=3332
-55:32 - 59:18 
--->
-
 ## Vecka 41   
 
 ### Måndag   
@@ -169,6 +164,7 @@ De tre kraven för en PWA är följande:
 1) HTTPS/SSL (som löses med [GitHub Pages](https://pages.github.com/) eller [Let's Encrypt](https://letsencrypt.org/))  
 2) En service worker (vilket bara är någon rad JavaScript)
 3) Ett Webb App Manifest (vilket kan lösas med "[Web App Manifest Generator](https://app-manifest.firebaseapp.com/)")   
+
 "[Progressive Web Apps: Where Do I Begin?](https://youtu.be/e8R-34uTtU8)" (58 min)      
 
 I videon talar Aaron bland annat om [Responsive images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images) och [Microsoft Design Guidelines](https://inclusive.microsoft.design/) (som sedan dess bytt namn).  
@@ -208,6 +204,11 @@ Saker man kan göra med en taskrunner
 
 
 *Sociala medier-genomgång*: 
+
+<!-- 
+https://youtu.be/EXu2gqOXDEQ?t=3332
+55:32 - 59:18 
+-->
 
 ## Vecka 42   
 
