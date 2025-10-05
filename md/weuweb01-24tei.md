@@ -134,6 +134,12 @@ Quiz: HTML - Bilder och media (+ felsökning)
 
 ## Vecka 42   
 
+<!-- 
+Välj era resurser. Kom ihåg [W3Fools](https://www.w3fools.com/) och även om saker ändrats, är frågan [Do we still hate w3schools or...](https://masto.ai/@teacherbuknoy/112890440326314007) berättigad.   
+
+Repetition på HTML. Hur många element kan du? Testa dig själv med "[HTML Tags Memory](https://codepen.io/plfstr/full/zYqQeRw)").   
+-->
+
 Repetition inför provet  
 
 Prov: HTML  
@@ -149,6 +155,160 @@ Prov: HTML
 ## Vecka 45   
 
 ###### CSS  
+<!--
+
+###### CSS styling basics - The first steps  
+* MDN [What is CSS?](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/What_is_CSS)  
+* MDN [Getting started with CSS](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Getting_started)  
+
+[Uppgift: Styling a biography page](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/webweu01-styling_a_biography_page)  
+
+###### CSS styling basics - Selectors 
+* MDN [Basic CSS selectors](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Basic_selectors)  
+* MDN [Attribute selectors](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Attribute_selectors) (Överkurs)  
+* MDN [Pseudo-classes and pseudo-elements](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Pseudo_classes_and_elements)  
+* MDN [Combinators](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Combinators)  
+
+Test your skills: [Selectors](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Test_your_skills/Selectors)   
+
+###### CSS styling basics - Fundamental axioms  
+* MDN [The box model](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Box_model)  
+* MDN [Handling conflicts](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Handling_conflicts)  
+* MDN [Values and units](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Values_and_units)  
+
+###### CSS styling basics - Basic looks  
+* MDN [Sizing items in CSS](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Sizing)  
+* MDN [Backgrounds and borders](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Backgrounds_and_borders)  
+* MDN [Overflowing content](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Overflow) (Överkurs)  
+* MDN [Images, media, and form elements](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Images_media_forms) (Överkurs)    
+* MDN [Styling tables](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Tables) (Överkurs)    
+
+###### CSS styling basics - Make it work!  
+* MDN [Debugging CSS](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Debugging_CSS)  
+* MDN [Organizing your CSS](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Organizing)  
+
+###### CSS text styling  
+* MDN [Fundamental text and font styling](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Text_styling/Fundamentals)   
+* MDN [Styling lists](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Text_styling/Styling_lists)  
+* MDN [Styling links](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Text_styling/Styling_links)  
+* MDN [Web fonts](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Text_styling/Web_fonts)  
+
+###### CSS layout  
+* MDN [Introduction to CSS layout](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Introduction)  
+* MDN [Floats](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Floats)  
+* MDN [Positioning](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Positioning)  
+* MDN [Flexbox](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Flexbox)  
+* MDN [CSS grid layout](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Grids)  
+* MDN [Responsive design](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Responsive_Design)  
+* MDN [Media query fundamentals](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Media_queries)  
+* MDN [CSS layout cookbook](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook)  
+
+
+
+
+-->
+
+<!-- 
+
+###### CSS First steps           
+* MDN [What is CSS?](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)                      
+* MDN [Getting started with CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Getting_started)              
+* MDN [How CSS is structured](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_is_structured)             
+* MDN [How CSS works](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_works)       
+
+[Uppgift: Styling a biography page](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/webweu01-styling_a_biography_page)             
+
+###### CSS Selektorer           
+* MDN [CSS selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors) (Överkurs: Type of selectors)             
+* MDN [Type, class, and ID selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Type_Class_and_ID_Selectors)             
+* MDN [Attribute selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Attribute_selectors) (Överkurs)            
+* MDN [Pseudo-classes and pseudo-elements](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Pseudo-classes_and_pseudo-elements)            
+* MDN [Combinators](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Combinators) (Överkurs: Creating complex selectors with nesting)      
+
+Quiz: CSS Selektorer  
+
+Test your skills: [Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Selectors_Tasks)     
+
+###### CSS Cascade och Specificity           
+* MDN [Cascade, specificity, and inheritance](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance) (Överkurs: Controlling inheritance, Resetting all property values, Order of cascade layers, Scoping proximity)   
+* MDN [Cascade layers](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_layers) (Överkurs)  
+
+"[How CSS Specificity Is Calculated](https://youtu.be/ZBphodDntVc)" (4½ min), [Batficity](http://batificity.com/), [The CSS Selector Specificity Calculator](https://polypane.app/css-specificity-calculator/) och [The CSS Cascade](https://2019.wattenberger.com/blog/css-cascade).   
+
+###### CSS Box model    
+* MDN [The box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)  
+* MDN [Backgrounds and borders](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Backgrounds_and_borders)     
+* MDN [Handling different text directions](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Handling_different_text_directions) (Överkurs, förutom Logical properties and values)  
+* Mapped logical properties: [margin-block](https://developer.mozilla.org/en-US/docs/Web/CSS/margin-block) and [margin-inline](https://developer.mozilla.org/en-US/docs/Web/CSS/margin-inline)  
+* MDN [Overflowing content](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Overflowing_content) (Överkurs)      
+
+"[The box model for beginners](https://youtu.be/MrAnu4zdjjY)" (1:54), "[Everything You Need To Know About CSS Margins](https://www.smashingmagazine.com/2019/07/margins-in-css/)"    
+
+Test your skills: [The box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Box_Model_Tasks)  
+Test your skills: [Backgrounds and borders](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Test_your_skills_backgrounds_and_borders)    
+
+Quiz: CSS Box model, Cascade och Specificity   
+
+###### Värden och enheter + felsökning        
+* MDN [CSS values and units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units)
+* MDN [Sizing items in CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Sizing_items_in_CSS)
+* MDN [Debugging CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Debugging_CSS)                 
+* MDN [Organizing your CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Organizing) (Överkurs: Other tools that can help)                
+* MDN [Advanced styling effects](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Advanced_styling_effects) (Överkurs)          
+
+Det är lurigt att välja rätt enhet, då det finns så många. Webbutvecklaren Kevin Powell hjälper oss besvara frågan "[What length CSS unit should you use?](https://whatunit.com/)", och mitt råd är att du kör _em_ om du inte definitivt vet att du behöver en annan enhet.     
+
+Test your skills: [Sizing](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Sizing_tasks)              
+
+###### Färgteori                      
+Det finns många färger, vilket vi kan se på ett "[Color wheel](https://en.wikipedia.org/wiki/Color_wheel)". Färger har också olika betydelser på olika platser, enligt "[Colours In Culture](https://informationisbeautiful.net/visualizations/colours-in-cultures/)".  
+
+Det finns många sätt att ange färger på (se "[MDN Color](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value)"), de två vi fokuserar på är HEX och OKLCH. Klippet "[What The Heck Is A Hex Value Anyway?](https://cgi.tutsplus.com/tutorials/what-the-heck-is-a-hex-value-anyway--ae-11932)" (4 min) ger oss bakgrunden till hexvärden och "[HEXplorer](https://codepen.io/robdimarzo/full/xxZgKOR)" illustrerar dem. [OKLCH Color Picker & Converter](https://oklch.com) hjälper oss förstå OKLCH.  
+
+Min rekommendation är att du håller dig till hex eller OKLCH, och skriver på det här formatet: _oklch(0% 0 0 / 42%)_  
+
+Test your skills: [Values and units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_tasks)    
+
+Hur väljer man färg? Följ råden i "[How to Choose Colors (Easy 3-Step Process)](https://youtu.be/KMS3VwGh3HY)" (7 min) och "[The 60–30–10 Rule](https://uxplanet.org/the-60-30-10-rule-a-simple-way-to-creating-catchy-user-interfaces-e9e2cf957213)". Använd verktyg som [The Good Colors](https://thegoodcolors.com/) och "[RandomA11y](https://randoma11y.com/)" för att hjälpa dig hitta nya kombinationer.  
+
+Kontrast är oerhört viktigt, vilket "[Contrast Rebellion](https://contrastrebellion.com/)" talar om för oss, och på "[Odd Contrast](https://www.oddcontrast.com/)" kan vi testa våra färger. Vi rekommenderas att uppnå en kontrast av 4,5:1, men vad betyder det? [WCAG Colour Contrast: What does the 4.5:1 ratio actually mean?](https://davedavies.dev/posts/wcag-colour-contrast-explained/) (Läs mer och gör interaktiva övningar på "[Color & Contrast](https://colorandcontrast.com/)".)   
+
+[Uppgift: Fundamental CSS comprehension](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/webweu01-fundamental_css_comprehension)                
+[Tänk på läsbarheten på era hemsidor](https://www.gp.se/fria-ord/ska-fettforaktet-tryckas-ner-i-halsen-pa-vara-barn-sa-fort-de-lar-sig-lasa.757e2417-7ee9-4165-9e99-da23b8202d3c)
+
+Repetition med [Hexcodle](https://hexcodle.com/)! 
+
+Quiz: Värden och enheter, färgteori + felsökning  
+
+###### CSS Styling text      
+* MDN [Fundamental text and font styling](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals)  
+* MDN [Styling lists](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_lists) (Självstudier)  
+* MDN [Styling links](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_links) (Självstudier)  
+* MDN [Web fonts](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts) (Överkurs, utom Using an online font service)  
+
+Vill du få en riktigt bra översikt av typografi så rekommenderas du Jason Santa Marias bok "[On Web Typography](https://jasonsantamaria.com/)". För att finna fonter som är fria att använda, besök sidor som [Open Foundry](https://open-foundry.com/) och [Fontesk's GPL-sida](https://fontesk.com/license/ofl-gpl/). En av de bästa sätten att göra text lättläst är att begränsa längden på rader, generellt [rekommenderas en line-length](https://legibility.info/text/line-length) på 80 tecken.  
+
+Uppgift: [Creating fancy letterheaded paper](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Creating_fancy_letterheaded_paper)   
+
+###### CSS Layout  
+
+[Layout modes](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_mode) är ett stort område i CSS. Se [exempel på layout modes](https://codepen.io/collection/PYJyGp) på Codepen. Se klippen "[Flexbox vs. CSS Grid — Which is Better?](https://youtu.be/hs3piaN4b5I)" (4:18) och "[The Lowdown on CSS Positioning](https://youtu.be/6o-J6We3hkQ)" (9:28). Pilla även på "[An Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)". Referera till de kompletta guiderna på CSS-Tricks till [Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) och [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/).      
+
+* MDN [Normal Flow](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Normal_Flow)           
+* MDN [Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)              
+* MDN [Grids](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids)              
+* MDN [Floats](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Floats)              
+* MDN [Positioning](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning)          
+* MDN [Multiple-column layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Multiple-column_Layout)         
+* MDN [Responsive design](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)            
+* MDN [Beginner's guide to media queries](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Media_queries)            
+
+Uppgift: [A cool looking box](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/A_cool_looking_box)    
+
+
+
+
+-->
 
 ## Vecka 46   
 
