@@ -130,6 +130,8 @@ Efter föreläsningen nyttjar ni tiden till att läsa igenom materialet, genomf�
 
 Quiz: HTML - Bilder och media (+ felsökning)  
 
+###### CSS  
+
 ## Vecka 42   
 
 Repetition inför provet  
@@ -138,6 +140,7 @@ Prov: HTML
 
 ## Vecka 43   
 
+###### CSS  
 
 ## Vecka 44   
 
@@ -145,18 +148,23 @@ Prov: HTML
 
 ## Vecka 45   
 
+###### CSS  
 
 ## Vecka 46   
 
+###### CSS  
 
 ## Vecka 47   
 
+###### CSS  
 
 ## Vecka 48   
 
+###### CSS  
 
 ## Vecka 49   
 
+Prov: CSS  
 
 ## Vecka 50   
 
