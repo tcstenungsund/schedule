@@ -18,7 +18,8 @@ Enskild uppgift.
 * [CodePen](https://codepen.io/)      
 
 ###### Mjukvaror     
-* [Firefox Developer Edition](https://www.mozilla.org/sv-SE/firefox/developer/)     
+* [Firefox Developer Edition](https://www.mozilla.org/sv-SE/firefox/developer/)
+* [Cisco Packet Tracer](https://www.netacad.com/resources/lab-downloads)  
 
 ###### Extensions till webbläsare   
 * [Proton Pass](https://addons.mozilla.org/en-US/firefox/addon/proton-pass/)   
