@@ -150,11 +150,9 @@ Kevin Powell är tillbaka med ytterligare en utmaning, denna gången [CSS Hell](
 
 ### Måndag   
 
-<!-- 
 Gör undersökningen [State of JS](https://stateofjs.com/)! 
--->
 
-<!-- 
+
 ###### Progressive Web Apps
 
 Dagens föreläsning bygger på "[Vad är PWA eller Progressive Web Apps?](https://whitespace.se/blogg/vad-ar-pwa-eller-progressive-web-apps/)", hur skapar man en "[Progressive Web App](https://web.dev/progressive-web-apps/)", och "[What PWA Can Do Today](https://whatpwacando.today/)".  
@@ -170,7 +168,6 @@ De tre kraven för en PWA är följande:
 I videon talar Aaron bland annat om [Responsive images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images) och [Microsoft Design Guidelines](https://inclusive.microsoft.design/) (som sedan dess bytt namn).  
 
 Dagens uppgift är att skapa er första PWA. Den behöver inte ha något innehåll eller funktionalitet, men den skall kännas igen som en PWA av verktyg som [PWA Testing Tool](https://www.seoreviewtools.com/pwa-testing-tool/).  
--->
 
 ### Tisdag   
 
