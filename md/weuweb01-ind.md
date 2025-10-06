@@ -85,9 +85,12 @@ Först repeterar vi hur en HTML-tagg är uppbygd, sedan djupdyker vi hur man mä
 
 ## Vecka 41   
 
+Repetition på det jag gick igenom förra veckan.
 
 ## Vecka 42   
+Quiz på HTML - att märka upp text
 
+Genomgång
 
 ## Vecka 43   
 
