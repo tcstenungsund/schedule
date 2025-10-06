@@ -197,6 +197,9 @@ Saker man kan göra med en taskrunner
 
 "[Introduction to NPM scripts](https://www.geeksforgeeks.org/introduction-to-npm-scripts/)" och "[Using Npm Scripts as a Build Tool ](https://deliciousbrains.com/npm-build-script/)".       
 
+
+[Basic Service Worker](https://github.com/DannyMoerkerke/basic-service-worker)
+
 -->
 
 
