@@ -158,8 +158,6 @@ Vi ser avsnitten 56-57 (Rättigheter, 8min), 58-60 (Rapporter och Uppdatering, 1
 Prov på Grundkurs i CMS  
 --> 
 
-Youtubekurs i CMS  
-
 ### Fredag  
 
 Youtubekurs i CMS  
