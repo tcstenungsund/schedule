@@ -137,6 +137,13 @@ Quiz: HTML - Bilder och media (+ felsökning)
 [Uppgift: Styling a biography page](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/webweu01-styling_a_biography_page)  
 
 ###### CSS styling basics - Selectors  
+* MDN [Basic CSS selectors](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Basic_selectors)  
+* MDN [Attribute selectors](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Attribute_selectors) (Överkurs)  
+* MDN [Pseudo-classes and pseudo-elements](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Pseudo_classes_and_elements)  
+* MDN [Combinators](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Combinators)  
+
+Test your skills: [Selectors](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Test_your_skills/Selectors)  
+
 
 ## Vecka 42   
 
@@ -162,16 +169,6 @@ Prov: HTML
 
 ###### CSS  
 <!--
-
-
-###### CSS styling basics - Selectors 
-* MDN [Basic CSS selectors](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Basic_selectors)  
-* MDN [Attribute selectors](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Attribute_selectors) (Överkurs)  
-* MDN [Pseudo-classes and pseudo-elements](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Pseudo_classes_and_elements)  
-* MDN [Combinators](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Combinators)  
-
-Test your skills: [Selectors](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Test_your_skills/Selectors)  
-
 
 
 
