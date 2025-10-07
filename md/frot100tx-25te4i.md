@@ -171,8 +171,13 @@ Dagens uppgift är att skapa er första PWA. Den behöver inte ha något innehå
 
 ### Tisdag   
 
+Bygg vidare på din PWA från igår. Lägg till funktionalitet från "What PWA Can Do Today" och [Basic Service Worker](https://github.com/DannyMoerkerke/basic-service-worker).  
+
+
 <!-- 
 
+[OKLCH Color Picker & Converter](https://oklch.com/) 
+[Odd Contrast](https://www.oddcontrast.com/#oklch__oklch(32.588~_0.13332_265.49)__oklch(82.41~_0.10609_0.84891))  
 
 -->
 
@@ -196,9 +201,6 @@ Saker man kan göra med en taskrunner
 * Lints the compiled css   
 
 "[Introduction to NPM scripts](https://www.geeksforgeeks.org/introduction-to-npm-scripts/)" och "[Using Npm Scripts as a Build Tool ](https://deliciousbrains.com/npm-build-script/)".       
-
-
-[Basic Service Worker](https://github.com/DannyMoerkerke/basic-service-worker)
 
 -->
 
