@@ -80,13 +80,21 @@ Ronnie i Tjeckien. Arbeta med Modul 12, 13 och 14.
 ### Måndag  
 [Prov: Modul 12 - 14](netacad.com)
 
+Genomgång av Modul 15, 16 och 17.
+
 ### Tisdag  
+Arbeta med Modul 15, 16 och 17.
+
+[Prov: Modul 15 - 17](netacad.com) är öppnat, gör under lektion.
 
 ## Vecka 42   
 
 ### Måndag  
+Förberedelser inför slutprov.
 
 ### Tisdag  
+[Prov: Final Exam](netacad.com)
+
 
 ## Vecka 43   
 
