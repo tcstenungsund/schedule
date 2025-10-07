@@ -173,14 +173,23 @@ Dagens uppgift är att skapa er första PWA. Den behöver inte ha något innehå
 
 Bygg vidare på din PWA från igår. Lägg till funktionalitet från "What PWA Can Do Today" och [Basic Service Worker](https://github.com/DannyMoerkerke/basic-service-worker).  
 
+###### Färger!  
+<img width="1156" height="740" alt="image" src="https://github.com/user-attachments/assets/b5752ca4-34b2-4d6b-a8be-5e9edac129b3" />  
 
-<!-- 
+[Grayscale Design](https://grayscale.design/) argumenterar för att man skall börja designa i gråskala och har en generator som underlättar för detta. Många gånger finns redan både primära och sekundära färger kopplade till ett varumärke, men om du har helt fria händer kan det vara svårare att välja färger. 
 
-[OKLCH Color Picker & Converter](https://oklch.com/) 
-[Odd Contrast](https://www.oddcontrast.com/#oklch__oklch(32.588~_0.13332_265.49)__oklch(82.41~_0.10609_0.84891))  
+Två råd vi stött på tidigare i utbildningen är "[How to Choose Colors (Easy 3-Step Process)](https://youtu.be/KMS3VwGh3HY)" (7 min) och "[The 60:30:10 color rule for web design](https://yuricodesbot.hashnode.dev/the-603010-color-rule-for-web-design)" vilka bägge två fortfarande utgör goda råd.  
 
--->
+Det finns en uppsjö med olika sätt att ange färg på, se [MDN color](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value). Min starka rekommendation är dock att använda [MDN oklch](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value/oklch) genomgående, och hex när det inte går.  
 
+* "[CSS Color Options: Why is OKLCH better ?](https://blog.simon-hu.org/posts/2025/2025-08-04-css-color-options/)"
+* "[Why everyone is talking about OKLCH](https://youtu.be/kVi9Augt7HY)" (12 min)
+* "[OKLCH! New CSS color features are 🔥](https://youtu.be/i62GjJAgD9M)" (1 min)
+* "[Master CSS OKLCH & color-mix](https://youtu.be/lmpbJPxaD14)" (2 min)  
+
+Det finns hjälp att få för att finna inspiration till färgpaletter, som [ColorKit](https://colorkit.co/) och [Color Ramp](https://color-ramp.com/).  
+
+Se till alla färger du använder har bra kontrast! Nyttja verktyg som [Odd Contrast](https://www.oddcontrast.com/#oklch__oklch(32.588~_0.13332_265.49)__oklch(82.41~_0.10609_0.84891)), [Color Contrast Tool](https://www.color-contrast.dev/) och [Color Palette Contrast Checker](https://color-contrast-checker.deque.com/). Samt [OKLCH Color Picker & Converter](https://oklch.com/) för att konvertera till oklch, om verktygen jobbar med hex eller liknande.  
 
 ### Torsdag  
 
@@ -265,7 +274,13 @@ Lägg till testning i er personliga PWA som ni skapade vecka 41. Konfigurera bå
 ## Vecka 45   
 
 ### Måndag   
+<!-- 
 
+https://penpot.app/ 
+
+
+
+-->
 
 ### Tisdag   
 
