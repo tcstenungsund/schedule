@@ -174,7 +174,7 @@ Dagens uppgift är att skapa er första PWA. Den behöver inte ha något innehå
 Bygg vidare på din PWA från igår. Lägg till funktionalitet från "What PWA Can Do Today" och [Basic Service Worker](https://github.com/DannyMoerkerke/basic-service-worker).  
 
 ###### Färger!  
-<img width="1156" height="740" alt="image" src="https://github.com/user-attachments/assets/b5752ca4-34b2-4d6b-a8be-5e9edac129b3" />  
+<img width="1156" height="740" alt="image" src="https://github.com/user-attachments/assets/b5752ca4-34b2-4d6b-a8be-5e9edac129b3" style="max-inline-size:100%;object-fit:contain;" />  
 
 [Grayscale Design](https://grayscale.design/) argumenterar för att man skall börja designa i gråskala och har en generator som underlättar för detta. Många gånger finns redan både primära och sekundära färger kopplade till ett varumärke, men om du har helt fria händer kan det vara svårare att välja färger. 
 
