@@ -28,9 +28,11 @@ Samt läsa själva delarna 1.4 1.5 1.6 och göra modul quiz.
 
 ## Vecka 41   
 
-<!-- Vi lägger upp arbetet kring nätverksmodulerna (modul 5-10) och börjar prata lite kring den första modulen.
+Vi tittar på ett nytt avsnitt av Most Wanted: Teen Hacker.
 
-Ni får även ett gäng länkar med praktiska uppgifter
+Sedan är det individuellt läsa hela modul 2 och göra quiz i CCST cybersecurity.
+
+<!--
 
 [CTF Time](https://ctftime.org/) - Samlingssida för CTF-tävlingar
  
