@@ -129,13 +129,29 @@ Resultat
 
 
 ## Vecka 40   
-
-Uppgift!  
+ 
+Se först och främst till att ni slutfört tidigare uppgifter om Persona och att Skriva text. 
+ 
+Uppgiften under denna veckans lektion är att se nästa avsnitt av SVTs dokumentärserie "[Generation AI](https://www.svtplay.se/generation-ai)" och skriva en reflektion utifrån den. Vi har kommit fram till det andra avsnittet, "[Superläraren](https://www.svtplay.se/video/86dEA3p/generation-ai/2-superlararen)". Se avsnittet och tänk till kring hur din bild av den perfekta framtida skolan ser ut. Håll dig till ungefär 400 ord. 
+ 
+När du är klar med ovanstående så ser du klippet "[What is Prompt Tuning?](https://youtu.be/yu27PWzJI_Y)", som vi kommer tala vidare om nästa vecka! 
 
 ## Vecka 41   
 
-<img width="1324" height="495" alt="image" src="https://github.com/user-attachments/assets/438ff18e-ea31-499d-8b12-21cbacd79b5a" />
+###### Nytt om AI  
+* [Next time you consult an AI Chatbot, remember one thing](https://www.nytimes.com/2025/09/26/well/is-ai-validation-healthy.html)  
+* [AI as the Next Literacy](https://www.psychologytoday.com/us/blog/the-emergence-of-skill/202510/ai-as-the-next-literacy)  
+* [AI company found with graph?](https://www.tiktok.com/@mlgonzo1/video/7556925535260036374)
+* [It's the AI Aslopolypse!!](https://vm.tiktok.com/ZNdnxXk2c/)  
 
+Låt oss diskutera Superläraren.  
+
+Hur anpassar man prompter?  
+
+Utvärdering av de första genererade texterna.  
+
+## Vecka 42   
+<img width="1324" height="495" alt="image" src="https://github.com/user-attachments/assets/438ff18e-ea31-499d-8b12-21cbacd79b5a" />  
 
 ###### Nytt om AI  
 *
@@ -146,25 +162,15 @@ Uppgift!
 Genomgång av kapitel 2 del 1 - [Sökning och problemlösning](https://course.elementsofai.com/se/2/1)  
 "Många uppgifter kan klassas som sökningsproblem. De förutsätter att man kan beskriva alla möjliga alternativ och konsekvenserna av dessa."  
 
-## Vecka 42   
-
-###### Nytt om AI  
-*
-* 
-*
-
-###### Elements of AI  
-
-
 ## Vecka 43   
-
+<!--
 ###### Nytt om AI  
 *
 * 
 *
 
 ###### Elements of AI  
-
+-->
 
 ## Vecka 44   
 
@@ -172,6 +178,7 @@ Genomgång av kapitel 2 del 1 - [Sökning och problemlösning](https://course.el
 
 ## Vecka 45   
 
+<!-- 
 ###### Elements of AI - AI i praktiken  
 <img width="1324" height="609" alt="image" src="https://github.com/user-attachments/assets/a6b48490-c843-441e-86be-58c78da651e8" />
 
@@ -183,7 +190,7 @@ Genomgång av kapitel 2 del 1 - [Sökning och problemlösning](https://course.el
 
 ###### Elements of AI - Konsekvenser  
 <img width="1324" height="547" alt="image" src="https://github.com/user-attachments/assets/7cc3b812-64cc-48f0-9321-c54982c9154d" />
-
+-->
 
 ## Vecka 46   
 
