@@ -95,7 +95,7 @@ Förberedelser inför slutprov. Eftersom flera av er är på UF kickoff får ni 
 ### Tisdag  
 [Prov: Final Exam](netacad.com)
 
-Eftersom ni ska iväg på teater klockan 11.15 blir tiden knapp för provet. De som vill får gärna göra slutprovet (ni har en timma på er). Annars går det bra att göra provet på måndag i vecka 43. Då har vi gott om tid.
+Eftersom ni ska iväg på teater klockan 11.15 blir tiden knapp för provet. De som vill får gärna göra slutprovet (ni har en timma på er). Annars rekommenderar jag att ni gör provet på måndag i vecka 43. Då har vi gott om tid.
 
 
 ## Vecka 43   
