@@ -90,15 +90,18 @@ Arbeta med Modul 15, 16 och 17.
 ## Vecka 42   
 
 ### Måndag  
-Förberedelser inför slutprov.
+Förberedelser inför slutprov. Eftersom flera av er är på UF kickoff får ni lov att förbereda er på valfri plats. Jag kommer att vara på plats om ni behöver direkt hjälp.
 
 ### Tisdag  
 [Prov: Final Exam](netacad.com)
+
+Eftersom ni ska iväg på teater klockan 11.15 blir tiden knapp för provet. De som vill får gärna göra slutprovet (ni har en timma på er). Annars går det bra att göra provet på måndag i vecka 43. Då har vi gott om tid.
 
 
 ## Vecka 43   
 
 ### Måndag  
+[Prov: Final Exam](netacad.com)
 
 ### Tisdag  
 
