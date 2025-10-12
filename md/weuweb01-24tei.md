@@ -147,9 +147,13 @@ Test your skills: [Selectors](https://developer.mozilla.org/en-US/docs/Learn_web
 
 ## Vecka 42   
 
-<!-- 
-Välj era resurser. Kom ihåg [W3Fools](https://www.w3fools.com/) och även om saker ändrats, är frågan [Do we still hate w3schools or...](https://masto.ai/@teacherbuknoy/112890440326314007) berättigad.   
+Quiz: CSS The first steps + Selectors  
 
+Var källkritiska när ni läser om HTML & CSS! Kom ihåg [W3Fools](https://www.w3fools.com/) och även om saker ändrats, är frågan [Do we still hate w3schools or...](https://masto.ai/@teacherbuknoy/112890440326314007) berättigad.  
+
+> You should get used to searching for "mdn css-feature-name" in your favorite search engine whenever you need to find out more information about a CSS feature. For example, try searching for "mdn color" or "mdn font-size"! - [MDN, 2025](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/What_is_CSS)  
+
+<!-- 
 Repetition på HTML. Hur många element kan du? Testa dig själv med "[HTML Tags Memory](https://codepen.io/plfstr/full/zYqQeRw)").   
 -->
 
@@ -159,7 +163,7 @@ Prov: HTML
 
 ## Vecka 43   
 
-###### CSS  
+###### CSS styling basics - Fundamental axioms  
 
 ## Vecka 44   
 
@@ -234,24 +238,6 @@ Test your skills: [Images and form elements](https://developer.mozilla.org/en-US
 
 <!-- 
 
-###### CSS First steps           
-* MDN [What is CSS?](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)                      
-* MDN [Getting started with CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Getting_started)              
-* MDN [How CSS is structured](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_is_structured)             
-* MDN [How CSS works](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_works)       
-
-[Uppgift: Styling a biography page](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/webweu01-styling_a_biography_page)             
-
-###### CSS Selektorer           
-* MDN [CSS selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors) (Överkurs: Type of selectors)             
-* MDN [Type, class, and ID selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Type_Class_and_ID_Selectors)             
-* MDN [Attribute selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Attribute_selectors) (Överkurs)            
-* MDN [Pseudo-classes and pseudo-elements](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Pseudo-classes_and_pseudo-elements)            
-* MDN [Combinators](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Combinators) (Överkurs: Creating complex selectors with nesting)      
-
-Quiz: CSS Selektorer  
-
-Test your skills: [Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Selectors_Tasks)     
 
 ###### CSS Cascade och Specificity           
 * MDN [Cascade, specificity, and inheritance](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance) (Överkurs: Controlling inheritance, Resetting all property values, Order of cascade layers, Scoping proximity)   
