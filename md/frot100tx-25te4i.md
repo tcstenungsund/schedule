@@ -193,6 +193,25 @@ Se till alla färger du använder har bra kontrast! Nyttja verktyg som [Odd Cont
 
 ### Torsdag  
 
+Arbeta vidare med era individuella PWA:er. Lägg till funktionalitet från What PWA Can Do Today och fixa ett färgschema med hjälp av tisdagens resurser.  
+
+*Sociala medier-genomgång*: 
+
+<!-- 
+https://youtu.be/EXu2gqOXDEQ?t=3332
+55:32 - 59:18 
+-->
+
+## Vecka 42   
+
+### Måndag   
+
+Arbeta vidare med era individuella PWA:er.  
+
+10:00 - 12:00 Konferens! Vi är med på Skolverkets konferens "[Fokus yrkesutbildning](https://www.skolverket.se/kompetensutveckling/stod-i-arbetet/fokus-yrkesutbildning)" som bland annat talar om "STEM för alla!" och "Artificiell intelligens och jobben".  
+
+### Tisdag   
+
 <!-- 
 ##### Pre-processing och Task runners  
 
@@ -212,22 +231,6 @@ Saker man kan göra med en taskrunner
 "[Introduction to NPM scripts](https://www.geeksforgeeks.org/introduction-to-npm-scripts/)" och "[Using Npm Scripts as a Build Tool ](https://deliciousbrains.com/npm-build-script/)".       
 
 -->
-
-
-*Sociala medier-genomgång*: 
-
-<!-- 
-https://youtu.be/EXu2gqOXDEQ?t=3332
-55:32 - 59:18 
--->
-
-## Vecka 42   
-
-### Måndag   
-
-
-### Tisdag   
-
 
 ### Torsdag  
 
