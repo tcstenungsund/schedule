@@ -91,6 +91,18 @@ Repetition på det jag gick igenom förra veckan.
 
 Quiz på HTML - att märka upp text
 
+###### HTML - Bilder och media (+ felsökning)    
+* MDN [HTML images](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/HTML_images)
+* MDN Test your skills: [HTML images](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Test_your_skills/Images)
+* MDN [HTML video and audio](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/HTML_video_and_audio) (Överkurs)  
+* MDN Test your skills: [Audio and video](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Test_your_skills/Audio_and_video) (Överkurs)  
+* MDN Challenge: [Creepy-crawly splash page](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Splash_page)
+* MDN [Debugging HTML](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Debugging_HTML)
+
+Efter föreläsningen nyttjar ni tiden till att läsa igenom materialet, genomföra de interaktiva moment som finns på de flesta sidor, samt gör de Test your skills och Challanges ni ännu inte slutfört! Se till att fråga om sådant ni inte förstår! 
+
+
+## Vecka 43   
 
 ###### Att hitta sin fil  
 
@@ -131,9 +143,6 @@ Vid all namngivning (filer, kataloger, etc) så gäller ovanstående grundregler
 * MDN Challenge: [Structuring a page of content](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Structuring_a_page_of_content)
 
 Läs på om [The anchor element](https://heydonworks.com/article/the-anchor-element/), det är viktigt! Det går också att djupdyka i taggen [HEAD](https://htmlhead.dev/) och allt den kan innehålla. Om det är svårt att hålla ordning på den semantiska betydelsen hos taggar så är [HTML5 Doctor's flowchart](https://html5doctor.com/downloads/h5d-sectioning-flowchart.pdf) en bra resurs. 
-
-## Vecka 43   
-
 
 ## Vecka 44   
 
