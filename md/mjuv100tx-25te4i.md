@@ -138,6 +138,10 @@ Denna veckan gjorde vi två saker, redovisade "Tornet i Hanoi" och göra klart d
  
 
 ## Vecka 42
+På måndagen var jag fortsatt sjuk så ni fick i uppgift att repetera innför slutprovet i netacad-kusen JavaScript Essentials 1.
+
+### PROV
+På fredag gör vi slutprovet i JavaScript Essentials 1.
 
 ## Vecka 43
 
