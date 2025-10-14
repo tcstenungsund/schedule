@@ -104,8 +104,35 @@ Denna veckan var målet att jobba klart med modul 3 och på börja modul 4. I mo
 
 
 ## Vecka 40 
+Denna veckan jobbade vi med loopar, mer specifikt for och while loopar
+
+### Det du bör ta med dig ifrån detta är:
+#### Loops
+- Vad är en while loop?
+- Vad är en for loop?
+- Varför loopar?
+- Hur gör man för att loopa över elementen i en array?
+- Vilken funktion har keywordet $${\color{purple} break}$$?
+- Vilken funktion har keywordet $${\color{purple} continiue}$$?
+
+
 
 ## Vecka 41
+Dejnna veckan började vi jobba med funktioner.
+
+### Det du bör ta med dig ifrån detta är:
+
+#### Funktioner
+- Vad är en funktion?
+- Varför är funktioner använbara?
+- Hur skriver vi funktioner i JavaScript?
+- Hur kallar vi på funktioner i JavaScript?
+- Vad använder vi $${\color{purple} return}$$ till?
+- Vad är en parameter?
+- Vad är recursion?
+- Funktioner är så kallade "first-class members", vad innebär det?
+- Vad är en arrow function och vad är de bra för?
+- Hur skriver man en arrow function?
 
 ## Vecka 42
 
