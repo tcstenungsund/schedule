@@ -144,7 +144,6 @@ Quiz: HTML - Bilder och media (+ felsökning)
 
 Test your skills: [Selectors](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Test_your_skills/Selectors)  
 
-
 ## Vecka 42   
 
 Quiz: CSS The first steps + Selectors  
@@ -153,11 +152,7 @@ Var källkritiska när ni läser om HTML & CSS! Kom ihåg [W3Fools](https://www.
 
 > You should get used to searching for "mdn css-feature-name" in your favorite search engine whenever you need to find out more information about a CSS feature. For example, try searching for "mdn color" or "mdn font-size"! - [MDN, 2025](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/What_is_CSS)  
 
-<!-- 
-Repetition på HTML. Hur många element kan du? Testa dig själv med "[HTML Tags Memory](https://codepen.io/plfstr/full/zYqQeRw)").   
--->
-
-Repetition inför provet  
+Repetition inför provet. Testa dig själv med "[HTML Tags Memory](https://codepen.io/plfstr/full/zYqQeRw)").  
 
 Prov: HTML  
 
