@@ -134,6 +134,8 @@ Ni ska använda av er av JavaScript. För user-input så får ni använda er av 
 Måndagen den 6 oktober ska gruppen hålla ett cirka 5 minuter presentation om hur projektet har gått.
 
 ## Vecka 41
+Denna veckan gjorde vi två saker, redovisade "Tornet i Hanoi" och göra klart den sista moduloen i netacad-kursen. Trots min sjukdom i slutet av veckan verkar allt gått som det skulle och vi är redo för att skriva slutprov på fredag vecka 42.
+ 
 
 ## Vecka 42
 
