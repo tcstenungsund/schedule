@@ -44,6 +44,10 @@ Sedan är det individuellt läsa hela modul 2 och göra quiz i CCST cybersecurit
 
 ## Vecka 42   
 
+Sista avsnittet av Most wanted teen hacker.
+
+Samt sedan sitta och läsa modul 3 och gör quizen.
+
 <!-- Chat Control har klubbats igenom och vi pratar om vad det innebär. Vi tittar på två klipp angående Chat Control.
 
 [Into Europe: Chat Control](https://www.youtube.com/watch?v=V9UNdPO_kkc)
@@ -62,11 +66,13 @@ Vi fortsätter resterande del av lektionen med materialet från Cisco och gör p
 
 Kursen som vi använder oss av är Introduction to Cybersecurity.
 
-Mer information kring European Cyber Race finns [här](https://www.netacadlearnathon.com/projects/eurocyberrace-2024/)
+Mer information kring European Cyber Race finns [här](https://www.netacadlearnathon.com/projects/eurocyberrace-2024/) -->
 
-## Vecka 44   
+## Vecka 44  
 
-Vi fortsätter med European Cyber Race och pluggar inför checkpoint exam på modulerna 5-10.
+**HÖSTLOV** 
+
+<!-- Vi fortsätter med European Cyber Race och pluggar inför checkpoint exam på modulerna 5-10.
 
 Ni gör Checkpoint Exam för modul 5-10 hemma. **Deadline är fredag 8 november (vecka 45)**
 
@@ -74,7 +80,7 @@ Ni gör Checkpoint Exam för modul 5-10 hemma. **Deadline är fredag 8 november 
 
 ## Vecka 45   
 
-**HÖSTLOV**   
+  
 
 ## Vecka 46   
 
