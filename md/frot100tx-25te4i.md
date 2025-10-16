@@ -229,6 +229,10 @@ Saker man kan göra med en taskrunner
 
 ### Torsdag  
 
+Tävling! Vem minns flest HTML-taggar?  
+
+[HTML Tags Memory Test](https://codepen.io/plfstr/full/zYqQeRw)  
+
 *Sociala medier-genomgång*: 
 
 ## Vecka 43   
