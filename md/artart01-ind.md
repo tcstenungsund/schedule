@@ -154,13 +154,27 @@ Utvärdering av de första genererade texterna.
 <img width="1324" height="495" alt="image" src="https://github.com/user-attachments/assets/438ff18e-ea31-499d-8b12-21cbacd79b5a" />  
 
 ###### Nytt om AI  
-*
-* 
-*
+* [Artikel om Ai undersökning](https://www.theguardian.com/technology/2025/oct/15/pupils-fear-ai-eroding-study-ability-research)
+* [Engelsk undersökning om hur undomar använder Ai](https://fdslive.oup.com/www.oup.com/oxed/secondary/Teaching_the_AI_Native_Generation.pdf)  
+* [Ai hjälp vid inköp av hårdvara](https://computersweden.se/article/4072179/nu-tar-cioer-ai-till-hjalp-for-it-inkopen.html)
+
 
 ###### Elements of AI - Problemlösning med hjälp av artificiell intelligens  
 Genomgång av kapitel 2 del 1 - [Sökning och problemlösning](https://course.elementsofai.com/se/2/1)  
 "Många uppgifter kan klassas som sökningsproblem. De förutsätter att man kan beskriva alla möjliga alternativ och konsekvenserna av dessa."  
+
+Ni gör Uppgift 5 två och två. Sparar Uppgift 6 till nästa gång.
+
+#### Uppgift:
+
+Persona Promt!
+
+Arbeta med en promt som alltid ska användas när er persona skriver något. Promten ska beskriva karaktären men också hur personen uttrycker sig.
+
+
+#### Lämna in:
+
+Lämna in Persona Promten (behöver inte vara färdig, vi ska justera mera) under UPPGITER/Perona Promt.
 
 ## Vecka 43   
 <!--
