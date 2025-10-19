@@ -175,12 +175,13 @@ Youtubekurs i CMS
 <!-- 
 
 [Uppgift: Moduler i Drupal](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-moduler_i_drupal)  
+
 Quiz: Moduler i Drupal  
 
 Vi ser avsnitten 48-51 (Block och Menyer, 13min) och 52-55 (Teman, 15min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".   
+
 Vi ser avsnitten 56-57 (Rättigheter, 8min), 58-60 (Rapporter och Uppdatering, 10min) och 61-62 (Drupals Community, 6min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".   
 
-Prov på Grundkurs i CMS  
 --> 
 
 ## Vecka 44   
@@ -200,6 +201,18 @@ Youtubekurs i CMS
 ## Vecka 46   
 
 ### Måndag   
+
+Youtubekurs i CMS  
+
+### Fredag  
+
+Prov på Youtubekurs i CMS  
+
+## Vecka 47   
+
+### Måndag   
+
+Individuell uppgift  
 
 <!--
 
@@ -225,18 +238,6 @@ Youtubekurs i CMS
 [OSTips - Drupal](https://youtube.com/playlist?list=PLtaXuX0nEZk_R36-089QmM-OMTZ3APvuc&si=0pxyc81CkDZfHqZX)   
 
 -->
-
-Prov på Youtubekurs i CMS  
-
-### Fredag  
-
-Individuell uppgift  
-
-## Vecka 47   
-
-### Måndag   
-
-Individuell uppgift  
 
 ### Fredag  
 
