@@ -158,20 +158,22 @@ Jag kommer att finnas på plats, för de som känner att de behöver extra hjäl
 
 ### Fredag  
 
-Vi ser avsnitten 34-36 (Displays, 15min) och 37-40 (Views, 20min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".  
+Vi ser avsnitten 34-36 (Displays, 15min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".  
 
 ## Vecka 43   
 
 ### Måndag   
 
-Youtubekurs i CMS  
+Vi ser avsnitten 37-40 (Views, 20min) och 41-42 (Image Styles och Photo Gallery, 8min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".  
+
+Vi ser avsnitten 43-47 (Moduler, 23min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".  
 
 ### Fredag  
 
 Youtubekurs i CMS  
 
 <!-- 
-Vi ser avsnitten 41-42 (Image Styles och Photo Gallery, 8min) och 43-47 (Moduler, 23min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".  
+
 [Uppgift: Moduler i Drupal](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-moduler_i_drupal)  
 Quiz: Moduler i Drupal  
 
@@ -189,6 +191,16 @@ Prov på Grundkurs i CMS
 
 ### Måndag   
 
+Youtubekurs i CMS  
+
+### Fredag  
+
+Youtubekurs i CMS  
+
+## Vecka 46   
+
+### Måndag   
+
 <!--
 
 ###### Teman och subteman i en CMS  
@@ -203,7 +215,6 @@ Prov på Grundkurs i CMS
 
 [Uppgift: CMS subtheme](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-cms_subhteme)  
 
-
 -->
 
 <!-- 
@@ -216,16 +227,6 @@ Prov på Grundkurs i CMS
 -->
 
 Prov på Youtubekurs i CMS  
-
-### Fredag  
-
-Individuell uppgift  
-
-## Vecka 46   
-
-### Måndag   
-
-Individuell uppgift  
 
 ### Fredag  
 
