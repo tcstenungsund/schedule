@@ -262,8 +262,11 @@ Lägg till testning i er individuella PWA. Konfigurera både axe-core och Cypres
 
 ### Tisdag   
 
+Arbeta vidare med era individuella PWA:er  
 
 ### Torsdag  
+
+Arbeta vidare med era individuella PWA:er  
 
 *Sociala medier-genomgång*: 
 
