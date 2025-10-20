@@ -158,7 +158,11 @@ Prov: HTML
 
 ## Vecka 43   
 
+Genomgång av provet från förra veckan!  
+
 ###### CSS styling basics - Fundamental axioms  
+
+Test your skills:  
 
 ## Vecka 44   
 
