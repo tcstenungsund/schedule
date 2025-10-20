@@ -195,12 +195,7 @@ Se till alla färger du använder har bra kontrast! Nyttja verktyg som [Odd Cont
 
 Arbeta vidare med era individuella PWA:er. Lägg till funktionalitet från What PWA Can Do Today och fixa ett färgschema med hjälp av tisdagens resurser.  
 
-*Sociala medier-genomgång*: 
-
-<!-- 
-https://youtu.be/EXu2gqOXDEQ?t=3332
-55:32 - 59:18 
--->
+*Sociala medier-genomgång*: "[Äldre man, Orust](https://swedia.ling.gu.se/Gotaland/Bohuslan/Orust/om.html)", [The Conspiracy Episode | Lemonade stand](https://youtu.be/EXu2gqOXDEQ?t=3332) (55:32 - 59:18) och networkchuck berättar om hur han låter AI ta över kontrollen i "[n8n Now Runs My ENTIRE Homelab](https://youtu.be/budTmdQfXYU)".  
 
 ## Vecka 42   
 
@@ -235,7 +230,7 @@ Tävling! Vem minns flest HTML-taggar?
 
 Oförberett prov på MDN - HTML  
 
-*Sociala medier-genomgång*: 
+*Sociala medier-genomgång*: En helt reklamfinansierad TV vid namn [Telly](https://www.tiktok.com/@verge/video/7557015639102098702), [det är FEL att använda tab istället för mellanslag](https://www.tiktok.com/@verge/video/7557015639102098702), [The Largest Library of Open-Source UI](https://uiverse.io/), [Better CSS layouts](https://ishadeed.com/article/time-layout/#only-the-start) - en fallstudie, [Modern CSS Alternatives to JavaScript](https://prismic.io/blog/css-ui-features), Kevin Powell berättar [Why I use single-color gradients in my CSS](https://youtu.be/8NfafU1BgaY) och mlgonzo1 teoriserar kring [Why has Windows 7 seen a big boost?](https://www.tiktok.com/@mlgonzo1/video/7556925535260036374)  
 
 ## Vecka 43   
 
@@ -246,9 +241,11 @@ Sedan tidigare är ni bekanta med hur man testar [kontrast](https://www.oddcontr
 
 [web.dev Learn Testing](https://web.dev/learn/testing) "What testing is" och "Types of automated testing"   
 
+<!--
 * "[What Are the Types of Automated Testing](https://youtu.be/CQpY3W60PlY)" (1 min)  
 * "[What is Unit Testing and Why You Must Learn It](https://youtu.be/W2KOSaetWBk)" (2 min)
 * "[End to End Testing in 60 Seconds](https://youtu.be/OtJkafQtLGs)" (1 min)
+-->
 
 Notera att det finns olika standarder för vad man kallar tester på olika nivåer, men det handlar oftast om hur stor del av webbplatsen som testas.  
 
@@ -259,7 +256,7 @@ Notera att det finns olika standarder för vad man kallar tester på olika nivå
 
 [MDN Introduction to automated testing](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Automated_testing)   
 
-[Cain Maddox]([https://twitter.com/ctrlshifti/status/1307599545803575296](https://x.com/ctrlshifti/status/1307599545803575296)) på 𝕏 uppmanar oss att sluta testa vår mjukvara, men Michael Lynch ger oss "[The Painless Way](https://mtlynch.io/painless-web-app-testing/)" att göra End-to-End Testing i mjukvaran [Cypress](https://www.cypress.io/). "[Cypress in 100 Seconds](https://youtu.be/BQqzfHQkREo)". (3 min)  
+[Cain Maddox](https://twitter.com/ctrlshifti/status/1307599545803575296) på 𝕏 uppmanar oss att sluta testa vår mjukvara, men Michael Lynch ger oss "[The Painless Way](https://mtlynch.io/painless-web-app-testing/)" att göra End-to-End Testing i mjukvaran [Cypress](https://www.cypress.io/). "[Cypress in 100 Seconds](https://youtu.be/BQqzfHQkREo)". (3 min)  
 
 Lägg till testning i er individuella PWA. Konfigurera både axe-core och Cypress enligt ovan.  
 
