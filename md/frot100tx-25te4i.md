@@ -240,7 +240,7 @@ Oförberett prov på MDN - HTML
 ## Vecka 43   
 
 ### Måndag   
-<!--
+
 ###### Testning  
 Sedan tidigare är ni bekanta med hur man testar [kontrast](https://www.oddcontrast.com/), a11y, om koden [validerar](https://www.w3.org/developers/tools/), [laddningshastighet](https://pagespeed.web.dev/), [LCP](https://web.dev/lcp/), och så vidare... Nu när ni kan använda taskrunners så går det mycket lättare att automatisera sådant som a11y-tester med verktyg som [axe-core](https://www.npmjs.com/package/axe-core). Men det finns många fler sorters tester, som vi kommer titta närmare på nu!  
 
@@ -262,7 +262,6 @@ Notera att det finns olika standarder för vad man kallar tester på olika nivå
 [Cain Maddox]([https://twitter.com/ctrlshifti/status/1307599545803575296](https://x.com/ctrlshifti/status/1307599545803575296)) på 𝕏 uppmanar oss att sluta testa vår mjukvara, men Michael Lynch ger oss "[The Painless Way](https://mtlynch.io/painless-web-app-testing/)" att göra End-to-End Testing i mjukvaran [Cypress](https://www.cypress.io/). "[Cypress in 100 Seconds](https://youtu.be/BQqzfHQkREo)". (3 min)  
 
 Lägg till testning i er individuella PWA. Konfigurera både axe-core och Cypress enligt ovan.  
--->
 
 ### Tisdag   
 
