@@ -144,6 +144,15 @@ På måndagen var jag fortsatt sjuk så ni fick i uppgift att repetera innför s
 På fredag gör vi slutprovet i JavaScript Essentials 1.
 
 ## Vecka 43
+### Måndag Vecka 43
+#### BAKGRUND
+För några veckor sedan jobbade vi med tornet i Hanoi. Denna vecka ska vi bygga vidare på detta tänk. Ni ska under veckan skriva 2 program. Ett program som tillåter en person att spela stensaxpåse mot datorn. Program två ska låta två personer spela luffarschack mot varandra (på samma dator). 
+#### UPPGIFTER
+1.	Gör en HTML-sida som låter en person spela stensaxpåse mot datorn
+2.	Gör en HTML-sida som låter två personer spela luffarschack mot varandra
+3.	Gör så att du kan spela luffarschack mot datorn där datorn spelar helt ”random”
+4.	Gör så att datorn spelar luffarschack så optimalt som du kan lösa. 
+
 
 ## Vecka 44
 ### Höstlov
