@@ -186,7 +186,9 @@ Test your skills: [Values and units ](https://developer.mozilla.org/en-US/docs/L
 
 "[How CSS Specificity Is Calculated](https://youtu.be/ZBphodDntVc)" (4½ min), [Batficity](http://batificity.com/), [The CSS Selector Specificity Calculator](https://polypane.app/css-specificity-calculator/) och [The CSS Cascade](https://2019.wattenberger.com/blog/css-cascade).  
 
-"[The box model for beginners](https://youtu.be/MrAnu4zdjjY)" (1:54), "[Everything You Need To Know About CSS Margins](https://www.smashingmagazine.com/2019/07/margins-in-css/)"  
+"[The box model for beginners](https://youtu.be/MrAnu4zdjjY)" (1:54)
+
+, "[Everything You Need To Know About CSS Margins](https://www.smashingmagazine.com/2019/07/margins-in-css/)"  
 
 Det är lurigt att välja rätt enhet, då det finns så många. Webbutvecklaren Kevin Powell hjälper oss besvara frågan "[What length CSS unit should you use?](https://whatunit.com/)", och mitt råd är att du kör _em_ om du inte definitivt vet att du behöver en annan enhet. vw/vh till layout och font  
 
@@ -283,8 +285,6 @@ Hur väljer man färg? Följ råden i "[How to Choose Colors (Easy 3-Step Proces
 Kontrast är oerhört viktigt, vilket "[Contrast Rebellion](https://contrastrebellion.com/)" talar om för oss, och på "[Odd Contrast](https://www.oddcontrast.com/)" kan vi testa våra färger. Vi rekommenderas att uppnå en kontrast av 4,5:1, men vad betyder det? [WCAG Colour Contrast: What does the 4.5:1 ratio actually mean?](https://davedavies.dev/posts/wcag-colour-contrast-explained/) (Läs mer och gör interaktiva övningar på "[Color & Contrast](https://colorandcontrast.com/)".)   
 
 [Uppgift: Fundamental CSS comprehension](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/webweu01-fundamental_css_comprehension)                
-[Tänk på läsbarheten på era hemsidor](https://www.gp.se/fria-ord/ska-fettforaktet-tryckas-ner-i-halsen-pa-vara-barn-sa-fort-de-lar-sig-lasa.757e2417-7ee9-4165-9e99-da23b8202d3c)
-
 Repetition med [Hexcodle](https://hexcodle.com/)! 
 
 Quiz: Värden och enheter, färgteori + felsökning  
