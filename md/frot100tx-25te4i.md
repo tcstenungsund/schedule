@@ -241,6 +241,10 @@ Sedan tidigare är ni bekanta med hur man testar [kontrast](https://www.oddcontr
 
 [web.dev Learn Testing](https://web.dev/learn/testing) "What testing is" och "Types of automated testing"   
 
+[Software Testing Explained in 100 Seconds](https://youtu.be/u6QfIXgjwGQ) (3 min)  
+[Software Testing Explained in 90 Seconds!](https://youtu.be/Kq6biN8sI4g) (2 min)  
+
+
 <!--
 * "[What Are the Types of Automated Testing](https://youtu.be/CQpY3W60PlY)" (1 min)  
 * "[What is Unit Testing and Why You Must Learn It](https://youtu.be/W2KOSaetWBk)" (2 min)
