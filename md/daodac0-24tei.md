@@ -56,14 +56,36 @@ Arvid läste vårt fjärde år och fick sedan arbete på sin APL plats.
 
 ## Vecka 40   
 
+Arbete med inlämningsuppgift - Support scenarios.
+
 
 ## Vecka 41 
 
+Introduktion av andra delen av CCST IT Support - Operating Systems Support (CCST IT-Support 2/4).
+Genomgång av: Module 1: Troubleshooting the Windows Operating System
+
+
 
 ## Vecka 42   
+UTVECKLINGSSAMTAL
 
 
 ## Vecka 43   
+
+Module 2: Troubleshooting Linux and macOS
+Installation av Linux på våra Laptops - via VirtualBox. Vi gör Laboration 2.3.3
+
+FÖRBERED INFÖR LEKTION:
+
+Ladda ner en linux ISO
+
+https://kubuntu.org/
+
+https://ubuntu.com/
+
+Ladda ner Virtualbox
+
+https://www.virtualbox.org/
 
 
 ## Vecka 44   
