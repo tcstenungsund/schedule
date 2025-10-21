@@ -294,6 +294,21 @@ https://penpot.app/
 
 ### Torsdag  
 
+Presentation av era individuella PWA:er!  
+
+De skall innehålla:  
+* [HTTP/SSL ](https://pages.github.com/)  
+* [Service Worker](https://github.com/DannyMoerkerke/basic-service-worker)  
+* [Web App Manifest Generator](https://app-manifest.firebaseapp.com/)  
+* Minst en funktionalitet från "[What PWA Can Do Today](https://whatpwacando.today/)".  
+* [Npm Scripts](https://deliciousbrains.com/npm-build-script/) som Taskrunner  
+* Ett SASS-dokument som kompileras till CSS  
+* Linting av CSS  
+* Testa a11y med [axe-core](https://www.npmjs.com/package/axe-core)  
+* Testa någon funktionalitet med [Cypress](https://www.cypress.io/)
+* Ett genomtänkt och välgjort färgtema bifogat som SVG-fil, men också implementerat i PWA:n  
+
+
 *Sociala medier-genomgång*: 
 
 ## Vecka 46   
