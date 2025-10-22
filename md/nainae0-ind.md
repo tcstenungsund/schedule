@@ -44,9 +44,7 @@ Sedan är det individuellt läsa hela modul 2 och göra quiz i CCST cybersecurit
 
 ## Vecka 42   
 
-Sista avsnittet av Most wanted teen hacker.
-
-Samt sedan sitta och läsa modul 3 och gör quizen.
+Sitta och läsa modul 3 och gör quizen.
 
 <!-- Chat Control har klubbats igenom och vi pratar om vad det innebär. Vi tittar på två klipp angående Chat Control.
 
@@ -61,6 +59,12 @@ Vi fortsätter resterande del av lektionen med materialet från Cisco och gör p
 -->
 
 ## Vecka 43   
+
+
+Sista avsnittet av Most wanted teen hacker. 
+
+
+[Uppgift: Most Wanted Teen Hacker](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/nainae0-nainae0-most_wanted_teen_hacker)
 
 <!-- Vi startar European Cyber Race från Cisco!
 
