@@ -7,6 +7,11 @@ Enskild uppgift.
 
 ## Resurser
 
+
+## Uppgiftsbeskrivning
+
+Efter att ha sett på dokumentären Most Wanted: Teen Hacker
+
 Svara på följande frågor:
 
 I dagens uppkopplade värld kan en person bakom en skärm orsaka enorm skada globalt. Hur påverkar det vårt sätt att tänka kring moral och konsekvenser när vi agerar online? Är det lättare att avhumanisera sina handlingar på nätet?
@@ -16,11 +21,6 @@ Serien lyfter fram en kamp mellan hackare och säkerhetsexperter. Tror du att fr
 Vilken känsla eller tanke lämnade det sista avsnittet dig med?
 
 Hur upplever du att rättssystemet behandlade honom i slutet? Tycker du att domen och konsekvenserna var rättvisa i förhållande till hans ålder och gärningar?
-
-
-## Uppgiftsbeskrivning
-
-Efter att ha sett på dokumentären Most Wanted: Teen Hacker
 
 ## Förväntat resultat
 
