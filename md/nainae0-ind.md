@@ -64,7 +64,7 @@ Vi fortsätter resterande del av lektionen med materialet från Cisco och gör p
 Sista avsnittet av Most wanted teen hacker. 
 
 
-[Uppgift: Most Wanted Teen Hacker](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/nainae0-nainae0-most_wanted_teen_hacker)
+[Uppgift: Most Wanted Teen Hacker](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/nainae0-most_wanted_teen_hacker)
 
 <!-- Vi startar European Cyber Race från Cisco!
 
