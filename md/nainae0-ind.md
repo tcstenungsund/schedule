@@ -60,10 +60,9 @@ Vi fortsätter resterande del av lektionen med materialet från Cisco och gör p
 
 ## Vecka 43   
 
-
 Sista avsnittet av Most wanted teen hacker. 
 
-
+Hemläxa:
 [Uppgift: Most Wanted Teen Hacker](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/nainae0-most_wanted_teen_hacker)
 
 <!-- Vi startar European Cyber Race från Cisco!
@@ -83,6 +82,8 @@ Ni gör Checkpoint Exam för modul 5-10 hemma. **Deadline är fredag 8 november 
 -->
 
 ## Vecka 45   
+
+  [Anmälan till CTF tävling](https://ctf.crate.foi.se/)
 
   
 
