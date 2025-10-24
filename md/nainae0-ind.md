@@ -91,10 +91,14 @@ Anmälan är på följande länk: [Anmälan till CTF tävling](https://ctf.crate
 Tanken är att ni ska testa denna tävlingen, för att vi sedan ska köra skarpt i andra tävnlingar under läsåret.
 Ni kommer att få en torsdag utkompad, att ni inte äns behöver gå på mentorstid/studiepass eller min lektion.
 
-Här nedan finns det länkar till olika träningssidor som ni ska sitta med på lektionen idag.
+Här nedan finns det länkar till olika träningssidor som ni ska sitta med på lektionen idag:
+
 [Over The Wire](https://overthewire.org/wargames/bandit/bandit0.html) - SSH fungerar inte på skolans nätverk, koppla upp er på tcstenungsund nätverket (Ronnie/Kenneth kan lösenordet)
+
 [Pico CFT](https://picoctf.org/)
+
 [CTF Handbook](https://ctf101.org/)
+
 [Deus X64](https://deusx64.ai/)
 
 
