@@ -182,7 +182,9 @@ Lämna in Persona Promten (behöver inte vara färdig, vi ska justera mera) unde
 * 
 *
 
-###### Elements of AI  
+
+Vår mall för [Skills](../assets/skill-persona-mall.md), och [ett exempel](../assets/skill-persona-alex.md) på hur den kan fyllas i!  
+
 
 
 ## Vecka 44   
