@@ -93,7 +93,7 @@ Ni kommer att få en torsdag utkompad, att ni inte äns behöver gå på mentors
 
 Här nedan finns det länkar till olika träningssidor som ni ska sitta med på lektionen idag:
 
-[Over The Wire](https://overthewire.org/wargames/bandit/bandit0.html) - SSH fungerar inte på skolans nätverk, koppla upp er på tcstenungsund nätverket (Ronnie/Kenneth kan lösenordet)
+[Over The Wire](https://overthewire.org/wargames/bandit/bandit0.html) - SSH fungerar inte på skolans nätverk, koppla upp er på tcstenungsund nätverket (Ronnie/Kenneth kan lösenordet) Jag rekommenderar att börja med Bandit som är en bra början för nybörjare.
 
 [Pico CFT](https://picoctf.org/)
 
