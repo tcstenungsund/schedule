@@ -166,15 +166,13 @@ Vi ser avsnitten 34-36 (Displays, 15min) i serien "[Drupal 8 Beginner](https://w
 
 Vi ser avsnitten 37-40 (Views, 20min) och 41-42 (Image Styles och Photo Gallery, 8min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".  
 
-Vi ser avsnitten 43-47 (Moduler, 23min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".  
-
 ### Fredag  
 
-Youtubekurs i CMS  
-
-<!-- 
+Vi ser avsnitten 43-47 (Moduler, 23min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".  
 
 [Uppgift: Moduler i Drupal](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-moduler_i_drupal)  
+
+<!-- 
 
 Quiz: Moduler i Drupal  
 
