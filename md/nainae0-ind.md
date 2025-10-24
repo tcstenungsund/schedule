@@ -83,9 +83,20 @@ Ni gör Checkpoint Exam för modul 5-10 hemma. **Deadline är fredag 8 november 
 
 ## Vecka 45   
 
-  [Anmälan till CTF tävling](https://ctf.crate.foi.se/)
+Nu är jag borta och ni kommer att ha Kevin som vikarie denna lektion.
 
-  
+Ni SKA vara med i en CTF-tävling som är den 15:e November, mellan klockan 14:00-22:00.
+Anmälan är på följande länk: [Anmälan till CTF tävling](https://ctf.crate.foi.se/)
+
+Tanken är att ni ska testa denna tävlingen, för att vi sedan ska köra skarpt i andra tävnlingar under läsåret.
+Ni kommer att få en torsdag utkompad, att ni inte äns behöver gå på mentorstid/studiepass eller min lektion.
+
+Här nedan finns det länkar till olika träningssidor som ni ska sitta med på lektionen idag.
+[Over The Wire](https://overthewire.org/wargames/bandit/bandit0.html) - SSH fungerar inte på skolans nätverk, koppla upp er på tcstenungsund nätverket (Ronnie/Kenneth kan lösenordet)
+[Pico CFT](https://picoctf.org/)
+[CTF Handbook](https://ctf101.org/)
+[Deus X64](https://deusx64.ai/)
+
 
 ## Vecka 46   
 
