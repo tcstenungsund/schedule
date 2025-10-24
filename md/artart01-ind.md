@@ -163,20 +163,33 @@ Utvärdering av de första genererade texterna.
 Genomgång av kapitel 2 del 1 - [Sökning och problemlösning](https://course.elementsofai.com/se/2/1)  
 "Många uppgifter kan klassas som sökningsproblem. De förutsätter att man kan beskriva alla möjliga alternativ och konsekvenserna av dessa."  
 
-Ni gör Uppgift 5 två och två. Sparar Uppgift 6 till nästa gång.
+Ni gör Uppgift 5 två och två. Sparar Uppgift 6 till nästa gång.  
 
-#### Uppgift:
+#### Uppgift:  
 
-Persona Promt!
+Persona Promt!  
 
-Arbeta med en promt som alltid ska användas när er persona skriver något. Promten ska beskriva karaktären men också hur personen uttrycker sig.
+Arbeta med en promt som alltid ska användas när er persona skriver något. Promten ska beskriva karaktären men också hur personen uttrycker sig.  
 
+#### Lämna in:  
 
-#### Lämna in:
-
-Lämna in Persona Promten (behöver inte vara färdig, vi ska justera mera) under UPPGITER/Perona Promt.
+Lämna in Persona Promten (behöver inte vara färdig, vi ska justera mera) under UPPGIFTER/Persona Promt.  
 
 ## Vecka 43   
+
+###### Nytt om AI  
+*
+* 
+*
+
+###### Elements of AI  
+
+
+## Vecka 44   
+
+**HÖSTLOV**   
+
+## Vecka 45   
 <!--
 ###### Nytt om AI  
 *
@@ -186,11 +199,16 @@ Lämna in Persona Promten (behöver inte vara färdig, vi ska justera mera) unde
 ###### Elements of AI  
 -->
 
-## Vecka 44   
 
-**HÖSTLOV**   
+## Vecka 46   
+<!--
+###### Nytt om AI  
+*
+* 
+*
 
-## Vecka 45   
+###### Elements of AI  
+-->
 
 <!-- 
 ###### Elements of AI - AI i praktiken  
@@ -205,9 +223,6 @@ Lämna in Persona Promten (behöver inte vara färdig, vi ska justera mera) unde
 ###### Elements of AI - Konsekvenser  
 <img width="1324" height="547" alt="image" src="https://github.com/user-attachments/assets/7cc3b812-64cc-48f0-9321-c54982c9154d" />
 -->
-
-## Vecka 46   
-
 
 ## Vecka 47   
 
