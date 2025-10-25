@@ -167,6 +167,13 @@ De tre kraven för en PWA är följande:
 
 I videon talar Aaron bland annat om [Responsive images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images) och [Microsoft Design Guidelines](https://inclusive.microsoft.design/) (som sedan dess bytt namn).  
 
+Resurser  
+
+* [web.dev Learn PWA](https://web.dev/learn/pwa)
+* [Awesome list of progressive web apps!](https://github.com/hemanth/awesome-pwa)
+* [Badging for PWA app icons, Like Native Apps](https://github.com/ali-master/pwa-badge)
+* [PWA asset generation and image declaration](https://github.com/elegantapp/pwa-asset-generator)  
+
 Dagens uppgift är att skapa er första PWA. Den behöver inte ha något innehåll eller funktionalitet, men den skall kännas igen som en PWA av verktyg som [PWA Testing Tool](https://www.seoreviewtools.com/pwa-testing-tool/).  
 
 ### Tisdag   
