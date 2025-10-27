@@ -178,11 +178,18 @@ Lämna in Persona Promten (behöver inte vara färdig, vi ska justera mera) unde
 ## Vecka 43   
 
 ###### Nytt om AI  
-*
-* 
-*
+* [AI is a Hype-Fuelled Dumpster Fire](https://www.youtube.com/watch?v=0bF_AQvHs1M&t=1475s) (24:35 - 26:16)  
+* [AI-forskaren Sophie berättar om vilka tjänster hon använder och till vad](https://vm.tiktok.com/ZNd7PHYrt/)  
+* [We cant make an AI that thinks the world is flat](https://vm.tiktok.com/ZNdvXxRVj/)
+* [Katter gör att AI räknar fel](https://vm.tiktok.com/ZNdvXC2NL/)  
 
+###### Skills!  
 
+Anthropic har introducerat Skills i Claude, och det är något vi kan använda i vilken generativ AI-tjänst som helst. Det är ett logiskt nästa steg för oss och våra persona-prompter. Anghropic har [flera exempel](https://github.com/anthropics/skills/) tillgängliga. 
+
+Vi låter [Nate från Tiktok](https://vm.tiktok.com/ZNdvX4pJu/) berätta för oss om hur det fungerar. (Det finns fler videoklipp, som [detta](https://vm.tiktok.com/ZNd7vsuLH/) och [detta](https://vm.tiktok.com/ZNdvXhrxA/).) De flesta är överrens om att detta med Skills kommer bli framtiden. "In six months, everyone doing knowledge work will have skill libraries"  
+
+Under kursen kommer vi ständigt uppdatera vår mall för Skills, men här är ett exempel på hur den kan fyllas i nu.  
 ## Vecka 44   
 
 **HÖSTLOV**   
