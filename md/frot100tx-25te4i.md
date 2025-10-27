@@ -279,7 +279,7 @@ Arbeta vidare med era individuella PWA:er
 
 Arbeta vidare med era individuella PWA:er  
 
-*Sociala medier-genomgång*: 
+*Sociala medier-genomgång*: [CLI Cheat Sheet](https://assets.ubuntu.com/v1/d00791ae-ubuntu_cli_cheat_sheet_2025.pdf), [AI Know The Earth Isn't Flat](https://vm.tiktok.com/ZNdvXxRVj/), [AI is a Hype-Fuelled Dumpster Fire](https://www.youtube.com/watch?v=0bF_AQvHs1M&t=1475s) (24:35 - 26:16), Sir Tim Berners-Lee släpper boken [This Is For Everyone](https://thisisforeveryone.timbl.com/).  
 
 ## Vecka 44   
 
