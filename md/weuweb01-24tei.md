@@ -173,7 +173,7 @@ Test your skills: [The box model](https://developer.mozilla.org/en-US/docs/Learn
 
 ## Vecka 45   
 
-Quiz: CSS styling basics - Fundamental axioms  
+Quiz: CSS styling basics - Fundamental axioms - The box model  
 
 ###### CSS styling basics - Fundamental axioms  
 
