@@ -173,23 +173,23 @@ Test your skills: [The box model](https://developer.mozilla.org/en-US/docs/Learn
 
 ## Vecka 45   
 
-###### CSS  
-<!--
-
-
+Quiz: CSS styling basics - Fundamental axioms  
 
 ###### CSS styling basics - Fundamental axioms  
 
 * MDN [Handling conflicts](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Handling_conflicts)  
-* MDN [Values and units](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Values_and_units)  
 
 Test your skills: [The Cascade](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Test_your_skills/Cascade)  
-Test your skills: [Values and units ](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Test_your_skills/Values)
 
 "[How CSS Specificity Is Calculated](https://youtu.be/ZBphodDntVc)" (4½ min), [Batficity](http://batificity.com/), [The CSS Selector Specificity Calculator](https://polypane.app/css-specificity-calculator/) och [The CSS Cascade](https://2019.wattenberger.com/blog/css-cascade).  
 
+<!--
 
+###### CSS styling basics - Fundamental axioms  
 
+* MDN [Values and units](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Values_and_units)  
+
+Test your skills: [Values and units ](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Test_your_skills/Values)
 
 Det är lurigt att välja rätt enhet, då det finns så många. Webbutvecklaren Kevin Powell hjälper oss besvara frågan "[What length CSS unit should you use?](https://whatunit.com/)", och mitt råd är att du kör _em_ om du inte definitivt vet att du behöver en annan enhet. vw/vh till layout och font  
 
