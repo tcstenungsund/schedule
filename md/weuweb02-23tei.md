@@ -1,4 +1,4 @@
-# Webbutveckling 2 - 23TEI  
+<# Webbutveckling 2 - 23TEI  
 
 ## Vecka 35   
 
@@ -184,13 +184,13 @@ Uppgiften nedan har ni i läxa till vecka 45!
 
 Vi ser avsnitten 48-51 (Block och Menyer, 13min) och 52-55 (Teman, 15min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".   
 
-Vi ser avsnitten 56-57 (Rättigheter, 8min), 58-60 (Rapporter och Uppdatering, 10min) och 61-62 (Drupals Community, 6min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".   
-
 Quiz: Moduler i Drupal  
 
 ### Fredag  
 
 Presentation: Moduler i Drupal  
+
+Vi ser avsnitten 56-57 (Rättigheter, 8min), 58-60 (Rapporter och Uppdatering, 10min) och 61-62 (Drupals Community, 6min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".   
 
 ## Vecka 46   
 
