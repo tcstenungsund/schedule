@@ -183,8 +183,6 @@ Test your skills: [The Cascade](https://developer.mozilla.org/en-US/docs/Learn_w
 
 "[How CSS Specificity Is Calculated](https://youtu.be/ZBphodDntVc)" (4½ min), [Batficity](http://batificity.com/), [The CSS Selector Specificity Calculator](https://polypane.app/css-specificity-calculator/) och [The CSS Cascade](https://2019.wattenberger.com/blog/css-cascade).  
 
-<!--
-
 ###### CSS styling basics - Fundamental axioms  
 
 * MDN [Values and units](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Values_and_units)  
@@ -195,7 +193,7 @@ Det är lurigt att välja rätt enhet, då det finns så många. Webbutvecklaren
 
 > Använd måttenheten "em", om du inte vet att du specifikt behöver en annan enhet  
 
-
+<!--
 
 ###### CSS styling basics - Basic looks  
 * MDN [Sizing items in CSS](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Sizing)  
