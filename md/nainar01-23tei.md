@@ -100,35 +100,67 @@ Eftersom ni ska iväg på teater klockan 11.15 blir tiden knapp för provet. De 
 
 ## Vecka 43   
 
-### Måndag  
+### Måndag
+
+ 
 [Prov: Final Exam](netacad.com)
+
+Genomgång av Kapitel 2 i CCNA2 kursen - Vlan.
 
 ### Tisdag  
 
+<img width="572" height="322" alt="Labb 362" src="https://github.com/user-attachments/assets/70228175-27af-4a3c-8282-55c1be0c3657" />
+
+Vi gör laboration 3.6.2 - Implementing Vlan och Trunk.
+Lämna in.
 ## Vecka 44   
 
 **HÖSTLOV**   
 
 ## Vecka 45   
 
+### Måndag  
+
+Genomgång av CCNA2 Modul 4 - Inter VLAN routing.
+
+
+### Tisdag  
 
 ## Vecka 46   
 
+### Måndag  
+
+### Tisdag  
 
 ## Vecka 47   
 
+### Måndag  
+
+### Tisdag  
 
 ## Vecka 48   
 
+### Måndag  
+
+### Tisdag  
 
 ## Vecka 49   
 
+### Måndag  
+
+### Tisdag  
 
 ## Vecka 50   
 
+### Måndag  
+
+### Tisdag  
 
 ## Vecka 51   
 
+### Måndag  
+
+### Tisdag  
 
 ## Vecka 52   
 
