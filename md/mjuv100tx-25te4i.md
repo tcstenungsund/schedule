@@ -157,6 +157,41 @@ För några veckor sedan jobbade vi med tornet i Hanoi. Denna vecka ska vi bygga
 ## Vecka 44
 ### Höstlov
 ## Vecka 45
+### Projekt "Mastermind"
+Från och med denna veckan fram till jul ska vi jobba med projektet "Mastermind". Alla ska fått uppgiften utskriven på papper men jag lägger ändå upp den här också.
+
+### MASTERMIND
+Detta projekt handlar om det ”gamla” spelet mastermind, för en introduktion till spelet rekommenderar jag er att läsa igenom Wikipediasidan för spelet: Mastermind (board game) - Wikipedia. Observera att detta spel påminner om ett ännu äldre spel kallat ”Bulls and cows” (Här kommer den Wikipediasidan länkad också Bulls and cows - Wikipedia). 
+Under de kommande veckorna ska ni bygga ett program som tillåter er att spela spelet mastermind. Då detta projekt är relativt stort och tidskrävande kommer vi dela upp projektet i olika delar. Efter att ni gjort en del ska ni redovisa all kod för mig och först när jag godkänt det ni gjort ska ni gå vidare till nästa steg, detta för att ni ska reflektera över hur processen flyter på. Under projektets gång förväntar jag mig att ni skriver en loggbok för att dokumentera vem som har ansvar för vad. 
+#### Delprojekt
+1.	Innan vi ens ska börja skriva någon kod behöver vi bestämma oss för hur vi ska arbeta med detta projekt. Så det vi först vill göra är att öppna github och organisera vårat projekt där.  
+2.	Det första vi ska göra är att producera ett gränssnitt där man kan starta ett spel av mastermind. Gränssnittet ska låta en användare ange en 5 element lång kod, varje element i koden kan anta en av följande 6 färger: röd, grön, blå, gul, vit eller svart. När koden är inskriven ska användaren kunna bekräfta att hen är nöjd med koden och den ska döljas. 
+3.	En annan användare ska nu kunna välja en gissning på vad koden är koden. Efter att användaren gissat ska programmet kolla om gissningen är rätt och om inte ska denna gissning sparas på sidan och användaren ska få ange en ny gissning. Är denna rätt så ska användaren få reda på det, annars ska denna läggas till under den tidigare felaktiga gissningen och användaren får försöka igen. Om användaren misslyckas 12 gånger ska programmet avslutas med meddelandet att användaren förlorat. 
+4.	Nu har vi det grundläggande gränssnittet behöver vi nu ge användaren ledtrådar. Alltså att användaren ska få reda på hur många av elementen som var i gissningen och koden samt hur många som var på rätt plats. I den traditionella varianten av spelet får man en vit pinne för varje element som är med i koden men på fel plats och en svart pinne för varje element som är både med och på rätt plats.
+5.	Nu ska vi ge användaren möjlighet att bara spela mot sig själv utan att någon annan människa skriver in en kod. När vi startar ett nytt spel ska vi få välja mellan att låta en människa välja en kod och att låta datorn generera en helt slumpmässig kod.
+6.	Vi står nu med ett fungerande mastermind med en 5 element lång kod och 6 olika färger. Nu ska vi ändra programmet så användarna kan spela med olika antal färger och olika långa koder, dessa val ska göras samtidigt som valet vi gjorde i delstget ovan. 
+7.	Detta program vi nu har kan nu anses vara färdigt men jag skulle vilja använda detta i en förskolas verksamhet. Då förskolebarn är något yngre än vuxna (källa behövs förhoppningsvis inte) behöver de ett handikapp. Därför ska man nu när man väljer allt annat kunna välja ”easy-mode” där man får reda på vilka element som är helt rätt och vilka som är med men på fel plats. 
+8.	Överkurs Det finns ett populärt(?) spel som heter wordle, se länken: Wordle — The New York Times. Detta spel liknar mastermind på många sätt, vi ska fortfarande gissa koder på så få försök så möjligt men nu är koden ett engelskt ord på 5 bokstäver och elementen bokstäver. Två viktiga detaljer är att användarens gissning måste vara ett riktigt ord, precis som koden och att användaren får reda på vilken bokstav som är på rätt pålats och vilken som är med men på fel plats. I den ”traditionella” (osäker om ett så pass nytt internettfenomen är kan kallas traditionellt) varianten av spelet som New York Times tillhandahåller har spelaren 6 försök på sig men du kan naturligtvis lägga till möjligheten för användaren att själv välja hur många försök denna ska ha på sig. Ni får själva välja om spelet ska spelas på engelska eller svenska och vilken ordlista ni ska använda er för att kolla om 5 givna bokstäver är ett riktigt ord på valt språk. 
+9.	Överkurs Nu kan vi naturligtvis göra en svårare variant där användaren inte vet vilka bokstäver som är rätt eller ej. Låt oss nu ge användaren alternativet att köra på detta svårare sätt. Observera att när man kör så här så kanske man ska låta användaren få fler gissningar på sig.
+#### Allmänt
+1.	Använd github för att organisera ert arbete. 
+2.	Fastnar ni, be andra grupper om input eller mig.
+3.	Använd en rimlig mängd AI och om ni tar hjälp av AI använder ni copilot, order ifrån skolledningen angående GDPR och liknande. 
+4.	Kommentera eran kod! Om jag frågar vad en specifik del av koden gör ska ni kunna svara på det! 
+Arbetsflöde
+Varje delprojekt förväntar jag mig att ni ska utgå ifrån följande steg.
+1.	Se till att alla i gruppen/paret förstår vad ni ska göra.
+2.	Gör en skiss över hur gränssnittet ska se ut (om deluppgiften innehåller mycket förändringar på den).
+3.	Gör ett flödesschema/ modifiera ett tidigare flödesschema. 
+4.	Dela upp arbetsuppgifter, ska ni göra en funktionalitet var, ska ni jobba med mobbprogrammering eller på ett helt annat sätt?
+5.	När ni är färdiga, testa, försök göra sönder ert program. Fungerar allt som det förväntas, kan man göra saker som ni förväntar er. Byt med en annan grupp, låt dem testa erat program med ni testar deras. 
+6.	Redovisa för mig innan ni går vidare!
+#### Loggbok
+Jag förväntar mig att ni i slutet av varje lektion dokumenterar vad var och en har gjort under lektionen och hur det har gått. Jag tycker också att ni ska skriva om det är några särskilda problem ni stött på och vad ni ska göra nästa gång. 
+Bedömning
+
+
+
 
 ## Vecka 46
 
