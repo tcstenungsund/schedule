@@ -197,16 +197,22 @@ Under kursen kommer vi ständigt uppdatera vår [mall för Skills](https://raw.g
 
 ## Vecka 45   
 
-###### Nytt om AI  
-*
-* 
-*
+<img width="243" height="354" alt="kap2 ai" src="https://github.com/user-attachments/assets/ab330d14-84e0-42fc-85bb-cfb58d39e732" />
 
-Titta på den uppdaterade [mallen för skills](https://raw.githubusercontent.com/tcstenungsund/schedule/refs/heads/main/assets/skill-persona-mall.md.txt), och fyll i den utifrån era persona prompts sedan tidigare!  
+###### Nytt om AI  
+* [Cisco - Edge Ai computing](https://www.nyteknik.se/sponsrad/ai-vantar-inte-pa-datacentren-nu-ar-det-edge-som-raknas/4408263)
+* [Ai ringen - Stream Ring](https://www.m3.se/article/2962905/nya-ai-ringen-stream-ring-ska-lata-dig-prata-med-dig-sjalv.html)
+* [Ai Sweden - Öppna språkmodeller](https://www.ai.se/sv/nyheter/unik-kompetens-kring-sprakmodeller-starker-sveriges-och-europas-oberoende)
+
 
 ###### Elements of AI  
 
+Genomgång av Kapitel 2 - del 2 och 3 färdig.
+Vi gör övning 7 två och två.
 
+###### Skills!  
+
+Titta på den uppdaterade [mallen för skills](https://raw.githubusercontent.com/tcstenungsund/schedule/refs/heads/main/assets/skill-persona-mall.md.txt), och fyll i den utifrån era persona prompts sedan tidigare!  
 
 ## Vecka 46   
 <!--
@@ -216,7 +222,13 @@ Titta på den uppdaterade [mallen för skills](https://raw.githubusercontent.com
 *
 
 ###### Elements of AI  
+
+
+
 -->
+
+
+
 
 <!-- 
 ###### Elements of AI - AI i praktiken  
