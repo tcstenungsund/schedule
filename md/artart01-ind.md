@@ -189,20 +189,23 @@ Anthropic har introducerat Skills i Claude, och det är något vi kan använda i
 
 Vi låter [Nate från Tiktok](https://vm.tiktok.com/ZNdvX4pJu/) berätta för oss om hur det fungerar. (Det finns fler videoklipp, som [detta](https://vm.tiktok.com/ZNd7vsuLH/) och [detta](https://vm.tiktok.com/ZNdvXhrxA/).) De flesta är överrens om att detta med Skills kommer bli framtiden. "In six months, everyone doing knowledge work will have skill libraries"  
 
-Under kursen kommer vi ständigt uppdatera vår mall för Skills, men här är ett exempel på hur den kan fyllas i nu.  
+Under kursen kommer vi ständigt uppdatera vår [mall för Skills](https://raw.githubusercontent.com/tcstenungsund/schedule/refs/heads/main/assets/skill-persona-mall.md.txt).  
+
 ## Vecka 44   
 
 **HÖSTLOV**   
 
 ## Vecka 45   
-<!--
+
 ###### Nytt om AI  
 *
 * 
 *
 
+Titta på den uppdaterade [mallen för skills](https://raw.githubusercontent.com/tcstenungsund/schedule/refs/heads/main/assets/skill-persona-mall.md.txt), och fyll i den utifrån era persona prompts sedan tidigare!  
+
 ###### Elements of AI  
--->
+
 
 
 ## Vecka 46   
