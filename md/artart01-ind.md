@@ -207,8 +207,7 @@ Under kursen kommer vi ständigt uppdatera vår [mall för Skills](https://raw.g
 
 ###### Elements of AI  
 
-Genomgång av Kapitel 2 - del 2 och 3 färdig.
-Vi gör övning 7 två och två.
+Genomgång av Kapitel 2 - del 2 färdig.
 
 ###### Skills!  
 
@@ -223,7 +222,8 @@ Titta på den uppdaterade [mallen för skills](https://raw.githubusercontent.com
 
 ###### Elements of AI  
 
-
+Genomgång av Kapitel 2 - del 3 färdig.
+Vi gör övning 7 två och två.
 
 -->
 
