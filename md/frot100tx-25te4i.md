@@ -295,15 +295,6 @@ Arbeta vidare med era individuella PWA:er
 
 Arbeta vidare med era individuella PWA:er  
 
-<!-- 
-
-https://penpot.app/ 
-
-
-
--->
-
-
 ### Torsdag  
 
 Presentation av era individuella PWA:er!  
@@ -320,13 +311,15 @@ De skall innehålla:
 * Testa någon funktionalitet med [Cypress](https://www.cypress.io/)
 * Ett genomtänkt och välgjort färgtema bifogat som SVG-fil, men också implementerat i PWA:n  
 
-
 *Sociala medier-genomgång*: 
 
 ## Vecka 46   
 
 ### Måndag   
 
+Vi gästar kursen Webbutveckling 1 som INDval, där William gästföreläser idag! Se till att stötta honom!  
+
+Efter det har ni en timme på er att förbättra era individuella PWA:er, och några av er förbereder presentationerna som ni missade i torsdags.  
 
 ### Tisdag   
 
@@ -339,6 +332,16 @@ De skall innehålla:
 
 ### Måndag   
 
+<!--  
+
+###### Agil utveckling med Scrum/Kanban  
+
+Det finns många sätt att organisera mjukvaruutveckling i grupp. "[Waterfall](https://en.wikipedia.org/wiki/Waterfall_model)" har hängt med sedan 50-talet. Ett av de stora alternativen är "[Agile](https://en.wikipedia.org/wiki/Agile_software_development)"/"[Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development))". Scrum går hand-i-hand med "[CDIO](https://en.wikipedia.org/wiki/CDIO_Initiative)" vilket är en allt mer vanlig modell.  
+
+Vi börjar med att se "[Agile Project Management](https://youtu.be/ihhNWV9vHX0)" (10 min), "[SCRUM: Twice the Work, Half the Time](https://youtu.be/RaaBrPCo_Mw)" (11 min) och "[Introduction to Scrum](https://youtu.be/9TycLR0TqFA)" (7 min), sedan talar vi om "[5 Scrum Meeting Best Practices: Master the Daily Stand-Up](https://sprint.ly/blog/scrum-meeting-best-practices/)" och avslutar med att se "[Daily Scrum in a Nutshell](https://youtu.be/MARBZbCw9tA)" (3 min). Nu har vi teorin.      
+
+För att förstå hur vi skall tillämpa Scrum i praktiken ser vi "[How to Use GitHub for Automated Kanban Project Management](https://youtu.be/YVFa5VljCDY)" (12 min) och tittar på "[git-standup](https://github.com/kamranahmedse/git-standup)".   
+--> 
 
 ### Tisdag   
 
@@ -351,6 +354,20 @@ De skall innehålla:
 
 ### Måndag   
 
+<!-- 
+
+###### Projekt Del 3:
+
+https://raw.githubusercontent.com/tcstenungsund/schedule/refs/tags/ay2425/md/assignments/weuweb33-pwa.md
+
+    Github Project som Kanban-bräde
+    Arbeta efter SCRUM
+    Node.js
+    Någon form av API
+    Dokumentation av projekt
+
+
+--> 
 
 ### Tisdag   
 
@@ -401,6 +418,17 @@ De skall innehålla:
 
 ## Vecka 2   
 
+
+<!-- 
+
+https://penpot.app/ 
+
+
+Med avstamp i artikeln "[10 Projects everyone should try at least once](https://www.webdesignerdepot.com/2017/11/design-bucket-list-10-projects-everyone-should-try-at-least-once/)" talar vi om mjukvara för UX-design, som [Scribus](https://www.scribus.net/) och [Inkscape](https://inkscape.org/). Vi ser "[What Is Figma?](https://youtu.be/PaPIsyO1t3Q)" och "[Is Figma Dead?](https://youtu.be/pj7D0tSNmEg)". I kursen kommer vi använda [Penpot](https://penpot.app/) för detta ändamål. 
+
+[<img alt="Alternatives to Adobe products" src="https://i.imgur.com/ieDaMzO.png" width="20%">](https://i.imgur.com/ieDaMzO.png)
+
+-->
 
 ## Vecka 3   
 
