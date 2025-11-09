@@ -154,6 +154,23 @@ Prov HTML
 
 ## Vecka 46   
 
+Idag kommer två gästföreläsare! Dels en elev som läser fjärde året på Teknikprogrammet och dels en lärare på Teknikprogrammet. Vi hoppar en bit framåt i kursen, och plockar några intressanta delar av CSS!  
+
+###### CSS styling basics - The first steps  
+* MDN [What is CSS?](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/What_is_CSS)  
+* MDN [Getting started with CSS](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Getting_started)  
+
+[Uppgift: Styling a biography page](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/webweu01-styling_a_biography_page)  
+
+###### CSS styling basics - Fundamental axioms  
+
+* MDN [Handling conflicts](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Handling_conflicts)  
+
+Test your skills: [The Cascade](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Test_your_skills/Cascade)  
+
+"[How CSS Specificity Is Calculated](https://youtu.be/ZBphodDntVc)" (4½ min), [Batficity](http://batificity.com/), [The CSS Selector Specificity Calculator](https://polypane.app/css-specificity-calculator/) och [The CSS Cascade](https://2019.wattenberger.com/blog/css-cascade).  
+
+Testa dig själv med "[HTML Tags Memory](https://codepen.io/plfstr/full/zYqQeRw)").  
 
 ## Vecka 47   
 
