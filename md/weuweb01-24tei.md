@@ -183,9 +183,9 @@ Test your skills: [The Cascade](https://developer.mozilla.org/en-US/docs/Learn_w
 
 "[How CSS Specificity Is Calculated](https://youtu.be/ZBphodDntVc)" (4½ min), [Batficity](http://batificity.com/), [The CSS Selector Specificity Calculator](https://polypane.app/css-specificity-calculator/) och [The CSS Cascade](https://2019.wattenberger.com/blog/css-cascade).  
 
-* MDN [Values and units](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Values_and_units)  
+* MDN [Values and units](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Values_and_units) (förutom "Color", som vi sparar till nästa vecka)  
 
-Test your skills: [Values and units ](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Test_your_skills/Values)
+Test your skills: [Values and units: Task 2 och 3](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Test_your_skills/Values)
 
 Det är lurigt att välja rätt enhet, då det finns så många. Webbutvecklaren Kevin Powell hjälper oss besvara frågan "[What length CSS unit should you use?](https://whatunit.com/)", och mitt råd är att du kör _em_ om du inte definitivt vet att du behöver en annan enhet. vw/vh till layout och font  
 
@@ -199,19 +199,22 @@ Det är lurigt att välja rätt enhet, då det finns så många. Webbutvecklaren
 ###### Färgteori                      
 Det finns många färger, vilket vi kan se på ett "[Color wheel](https://en.wikipedia.org/wiki/Color_wheel)". Färger har också olika betydelser på olika platser, enligt "[Colours In Culture](https://informationisbeautiful.net/visualizations/colours-in-cultures/)".  
 
-Det finns många sätt att ange färger på (se "[MDN Color](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value)"), de två vi fokuserar på är HEX och OKLCH. Klippet "[What The Heck Is A Hex Value Anyway?](https://cgi.tutsplus.com/tutorials/what-the-heck-is-a-hex-value-anyway--ae-11932)" (4 min) ger oss bakgrunden till hexvärden och "[HEXplorer](https://codepen.io/robdimarzo/full/xxZgKOR)" illustrerar dem. [OKLCH Color Picker & Converter](https://oklch.com) hjälper oss förstå OKLCH.  
+* MDN [Values and units](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Values_and_units#color)  
 
-Min rekommendation är att du håller dig till hex eller OKLCH, och skriver på det här formatet: _oklch(0% 0 0 / 42%)_  
+Det finns många sätt att ange färger på (se "[MDN Color](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value)"), min starka rekommendation är dock att använda [MDN oklch](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value/oklch) genomgående, och hex när det inte går.  Klippet "[What The Heck Is A Hex Value Anyway?](https://youtu.be/a-9Qoso60Q8)" (4 min) ger oss bakgrunden till hexvärden och "[HEXplorer](https://codepen.io/robdimarzo/full/xxZgKOR)" illustrerar dem. [OKLCH Color Picker & Converter](https://oklch.com) hjälper oss förstå OKLCH.  
 
-Test your skills: [Values and units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_tasks)    
+* "[Why everyone is talking about OKLCH](https://youtu.be/kVi9Augt7HY)" (12 min)
+* "[OKLCH! New CSS color features are 🔥](https://youtu.be/i62GjJAgD9M)" (1 min)
 
-Hur väljer man färg? Följ råden i "[How to Choose Colors (Easy 3-Step Process)](https://youtu.be/KMS3VwGh3HY)" (7 min) och "[The 60–30–10 Rule](https://uxplanet.org/the-60-30-10-rule-a-simple-way-to-creating-catchy-user-interfaces-e9e2cf957213)". Använd verktyg som [The Good Colors](https://thegoodcolors.com/) och "[RandomA11y](https://randoma11y.com/)" för att hjälpa dig hitta nya kombinationer.  
+> Använd OKLCH (eller hex om det av någon anledning inte går), och skriv på det här formatet: _oklch(0% 0 0 / 42%)_  
 
-Kontrast är oerhört viktigt, vilket "[Contrast Rebellion](https://contrastrebellion.com/)" talar om för oss, och på "[Odd Contrast](https://www.oddcontrast.com/)" kan vi testa våra färger. Vi rekommenderas att uppnå en kontrast av 4,5:1, men vad betyder det? [WCAG Colour Contrast: What does the 4.5:1 ratio actually mean?](https://davedavies.dev/posts/wcag-colour-contrast-explained/) (Läs mer och gör interaktiva övningar på "[Color & Contrast](https://colorandcontrast.com/)".)   
+Test your skills: [Values and units: Task 1](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_tasks)    
 
-      
+Hur väljer man färg? Följ råden i "[How to Choose Colors (Easy 3-Step Process)](https://youtu.be/KMS3VwGh3HY)" (7 min) och "[The 60–30–10 Rule](https://uxplanet.org/the-60-30-10-rule-a-simple-way-to-creating-catchy-user-interfaces-e9e2cf957213)". Använd verktyg som [The Good Colors](https://thegoodcolors.com/) och "[RandomA11y](https://randoma11y.com/)" för att hjälpa dig hitta nya kombinationer. Det finns också hjälp att få för att finna inspiration till färgpaletter, som [ColorKit](https://colorkit.co/) och [Color Ramp](https://color-ramp.com/).  
+
+Kontrast är oerhört viktigt, vilket "[Contrast Rebellion](https://contrastrebellion.com/)" talar om för oss, och på  [Odd Contrast](https://www.oddcontrast.com/#oklch__oklch(32.588~_0.13332_265.49)__oklch(82.41~_0.10609_0.84891)), [Color Contrast Tool](https://www.color-contrast.dev/) och [Color Palette Contrast Checker](https://color-contrast-checker.deque.com/) för att testa kontrasten på våra färger. Samt [OKLCH Color Picker & Converter](https://oklch.com/) för att konvertera till oklch, om verktygen jobbar med hex eller liknande. Vi rekommenderas att uppnå en kontrast av 4,5:1, men vad betyder det? [WCAG Colour Contrast: What does the 4.5:1 ratio actually mean?](https://davedavies.dev/posts/wcag-colour-contrast-explained/) (Läs mer och gör interaktiva övningar på "[Color & Contrast](https://colorandcontrast.com/)".)   
+ 
 Repetition med [Hexcodle](https://hexcodle.com/)! 
-
 
 -->
 
