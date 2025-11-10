@@ -175,7 +175,7 @@ Test your skills: [The box model](https://developer.mozilla.org/en-US/docs/Learn
 
 Quiz: CSS styling basics - Fundamental axioms - The box model  
 
-###### CSS styling basics - Fundamental axioms  
+###### CSS styling basics - Fundamental axioms (forts.)  
 
 * MDN [Handling conflicts](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Handling_conflicts)  
 
@@ -195,8 +195,10 @@ Det är lurigt att välja rätt enhet, då det finns så många. Webbutvecklaren
 
 ###### CSS  
 
-<!-- 
+Quiz: CSS styling basics - Fundamental axioms - Handling conflicts och Values and units  
+
 ###### Färgteori                      
+<!-- 
 Det finns många färger, vilket vi kan se på ett "[Color wheel](https://en.wikipedia.org/wiki/Color_wheel)". Färger har också olika betydelser på olika platser, enligt "[Colours In Culture](https://informationisbeautiful.net/visualizations/colours-in-cultures/)".  
 
 * MDN [Values and units](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Values_and_units#color)  
