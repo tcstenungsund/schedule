@@ -183,7 +183,7 @@ Test your skills: [The Cascade](https://developer.mozilla.org/en-US/docs/Learn_w
 
 "[How CSS Specificity Is Calculated](https://youtu.be/ZBphodDntVc)" (4½ min), [Batficity](http://batificity.com/), [The CSS Selector Specificity Calculator](https://polypane.app/css-specificity-calculator/) och [The CSS Cascade](https://2019.wattenberger.com/blog/css-cascade).  
 
-* MDN [Values and units](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Values_and_units) (förutom "Color", som vi sparar till nästa vecka)  
+* MDN [Values and units](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Values_and_units) (förutom "Color", som vi sparar till nästa vecka, och Strings and identifiers och Functions som är Överkurs)  
 
 Test your skills: [Values and units: Task 2 och 3](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Test_your_skills/Values)
 
