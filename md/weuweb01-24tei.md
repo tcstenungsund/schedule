@@ -197,8 +197,7 @@ Det är lurigt att välja rätt enhet, då det finns så många. Webbutvecklaren
 
 Quiz: CSS styling basics - Fundamental axioms - Handling conflicts och Values and units  
 
-###### Färgteori                      
-<!-- 
+###### Färgteori  
 Det finns många färger, vilket vi kan se på ett "[Color wheel](https://en.wikipedia.org/wiki/Color_wheel)". Färger har också olika betydelser på olika platser, enligt "[Colours In Culture](https://informationisbeautiful.net/visualizations/colours-in-cultures/)".  
 
 * MDN [Values and units](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Values_and_units#color)  
@@ -211,6 +210,8 @@ Det finns många sätt att ange färger på (se "[MDN Color](https://developer.m
 > Använd OKLCH (eller hex om det av någon anledning inte går), och skriv på det här formatet: _oklch(0% 0 0 / 42%)_  
 
 Test your skills: [Values and units: Task 1](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_tasks)    
+
+<!-- 
 
 Hur väljer man färg? Följ råden i "[How to Choose Colors (Easy 3-Step Process)](https://youtu.be/KMS3VwGh3HY)" (7 min) och "[The 60–30–10 Rule](https://uxplanet.org/the-60-30-10-rule-a-simple-way-to-creating-catchy-user-interfaces-e9e2cf957213)". Använd verktyg som [The Good Colors](https://thegoodcolors.com/) och "[RandomA11y](https://randoma11y.com/)" för att hjälpa dig hitta nya kombinationer. Det finns också hjälp att få för att finna inspiration till färgpaletter, som [ColorKit](https://colorkit.co/) och [Color Ramp](https://color-ramp.com/).  
 
