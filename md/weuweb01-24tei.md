@@ -193,8 +193,6 @@ Det är lurigt att välja rätt enhet, då det finns så många. Webbutvecklaren
 
 ## Vecka 46   
 
-###### CSS  
-
 Quiz: CSS styling basics - Fundamental axioms - Handling conflicts och Values and units  
 
 ###### Färgteori  
