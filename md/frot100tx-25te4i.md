@@ -332,9 +332,9 @@ Efter det har ni en timme på er att förbättra era individuella PWA:er, och n�
 
 ### Måndag   
 
-William gästföreläser för Webbutveckling 1 INDval, och vi är med för att stötta honom.  
+Vi gästar kursen Webbutveckling 1 som INDval, där William gästföreläser idag! Se till att stötta honom!
 
-Era individuella PWA skulle vara klara förra veckan, men några presentationer återstår. Förbered inför presentation av dessa så avslutar vi lektionen med dessa.  
+Efter det har ni en timme på er att förbättra era individuella PWA:er, och några av er förbereder presentationerna som ni missade i torsdags.  
 
 ### Tisdag   
 
