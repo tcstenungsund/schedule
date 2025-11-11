@@ -332,7 +332,11 @@ Efter det har ni en timme på er att förbättra era individuella PWA:er, och n�
 
 ### Måndag   
 
-<!--  
+William gästföreläser för Webbutveckling 1 INDval, och vi är med för att stötta honom.  
+
+Era individuella PWA skulle vara klara förra veckan, men några presentationer återstår. Förbered inför presentation av dessa så avslutar vi lektionen med dessa.  
+
+### Tisdag   
 
 ###### Agil utveckling med Scrum/Kanban  
 
@@ -341,10 +345,6 @@ Det finns många sätt att organisera mjukvaruutveckling i grupp. "[Waterfall](h
 Vi börjar med att se "[Agile Project Management](https://youtu.be/ihhNWV9vHX0)" (10 min), "[SCRUM: Twice the Work, Half the Time](https://youtu.be/RaaBrPCo_Mw)" (11 min) och "[Introduction to Scrum](https://youtu.be/9TycLR0TqFA)" (7 min), sedan talar vi om "[5 Scrum Meeting Best Practices: Master the Daily Stand-Up](https://sprint.ly/blog/scrum-meeting-best-practices/)" och avslutar med att se "[Daily Scrum in a Nutshell](https://youtu.be/MARBZbCw9tA)" (3 min). Nu har vi teorin.      
 
 För att förstå hur vi skall tillämpa Scrum i praktiken ser vi "[How to Use GitHub for Automated Kanban Project Management](https://youtu.be/YVFa5VljCDY)" (12 min) och tittar på "[git-standup](https://github.com/kamranahmedse/git-standup)".   
---> 
-
-### Tisdag   
-
 
 ### Torsdag  
 
