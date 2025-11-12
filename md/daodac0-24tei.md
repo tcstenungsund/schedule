@@ -96,11 +96,33 @@ https://www.virtualbox.org/
 
 ## Vecka 45   
 
+Genomgång av Module 2: Troubleshooting Linux and macOS färdig.
+
+Genomgång av hur man använder Linux Terminalen, vanliga kommandon.
+
+Ni ska kunna skapa filer, flytta filer, skriva i filer osv. via Linux Terminalen.
+
+Öva på följande:
+
+CHEATSHEET:
+ 
+https://www.geeksforgeeks.org/linux-unix/linux-commands-cheat-sheet/
+
+Grundläggande övningar Linux Terminalen:
+ 
+https://ubuntu.com/tutorials/command-line-for-beginners#1-overview
+
 
 ## Vecka 46   
 
+PROV Modul 2.
+
+Genomgång av Modul 3 - Troubleshooting Mobile Devices and Applications. 3.1 - 3.6
+
 
 ## Vecka 47   
+
+Genomgång av Modul 3 - Troubleshooting Mobile Devices and Applications. 3.7 - CLoud
 
 
 ## Vecka 48   
