@@ -96,6 +96,8 @@ https://www.virtualbox.org/
 
 ## Vecka 45   
 
+<img width="469" height="196" alt="Linuxterminal" src="https://github.com/user-attachments/assets/b5423fca-bab2-4d03-9501-3e604b559bd8" />
+
 Genomgång av Module 2: Troubleshooting Linux and macOS färdig.
 
 Genomgång av hur man använder Linux Terminalen, vanliga kommandon.
