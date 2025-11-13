@@ -311,7 +311,8 @@ De skall innehålla:
 * Testa någon funktionalitet med [Cypress](https://www.cypress.io/)
 * Ett genomtänkt och välgjort färgtema bifogat som SVG-fil, men också implementerat i PWA:n  
 
-*Sociala medier-genomgång*: 
+*Sociala medier-genomgång*: [Masonry: Watching a CSS Feature Evolve](https://css-tricks.com/masonry-watching-a-css-feature-evolve/), [87-year-old App Developer on Creating an Age-inclusive Workplace](https://www.hitachi.com/en/insights/articles/colors-wakamiya-masako/), 
+[LinkedIn set to expand AI training on user profiles - here's how to stop it using your personal data](https://feddit.nu/post/15157418).  
 
 ## Vecka 46   
 
@@ -333,11 +334,17 @@ För att förstå hur vi skall tillämpa Scrum i praktiken ser vi "[How to Use G
 
 ### Torsdag  
 
-*Sociala medier-genomgång*: 
+Arbeta med projektet!  
+
+Se till att du är med i repot, att det fungerar att pusha och alla rättigheter och inställningar är korrekt. Sätt upp Github Projects. Börja spåna idéer och lägg till dem i kolumnen "Project Backlog" i Github Projects. Förbered så att ert första möte på måndag morgon kan ägnas åt att populera kolumnen "Sprint Backlog" med det ni kommer göra under veckan.  
+
+*Sociala medier-genomgång*: Först talar vi om hur LLM påverkar mjukvaruutveckling med stöd av "[I Know When You're Vibe Coding](https://alexkondov.com/i-know-when-youre-vibe-coding/)" och "[Vibe code is legacy code](https://blog.val.town/vibe-code)". Sedan tittade vi på två verktyg som kan vara intressanta, [Starship](https://www.xda-developers.com/starship-customizable-shell-prompt-windows/) och [Atuin](https://atuin.sh/).  
 
 ## Vecka 47   
 
 ### Måndag   
+
+###### MVC  
 
 
 ### Tisdag   
