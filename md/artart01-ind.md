@@ -214,18 +214,22 @@ Genomgång av Kapitel 2 - del 2 färdig.
 Titta på den uppdaterade [mallen för skills](https://raw.githubusercontent.com/tcstenungsund/schedule/refs/heads/main/assets/skill-persona-mall.md.txt), och fyll i den utifrån era persona prompts sedan tidigare!  
 
 ## Vecka 46   
-<!--
+
 ###### Nytt om AI  
-*
-* 
-*
+* [The No. 1 Country Song in America Is by a Non-Human Artist](https://www.thedailybeast.com/the-no-1-country-song-in-america-is-by-a-non-human-artist/)
+* [Stäng inte ute skolan från AI-strategi](https://www.svd.se/a/Pp6eKb/ai-strategi-bor-inkludera-skolan-skriver-debattorer)
+* [GEMA vinner upphovsrättsmål](https://www.svt.se/kultur/gema-vinner-upphovsrattsmal-mot-open-ai-och-chat-gpt)
+* [GDPR påväg att luckras upp för att hjälpa AI indurtin](https://computersweden.se/article/4087372/gdpr-pa-vag-att-luckras-upp-for-att-hjalpa-ai-industrin.html)
+* [Meta släpper öppen AI-modell som kan transkribera över 1600 språk](https://computersweden.se/article/4088126/meta-slapper-oppen-ai-modell-som-kan-transkribera-over-1600-sprak.html)
+
+
 
 ###### Elements of AI  
 
 Genomgång av Kapitel 2 - del 3 färdig.
 Vi gör övning 7 två och två.
 
--->
+
 
 
 
