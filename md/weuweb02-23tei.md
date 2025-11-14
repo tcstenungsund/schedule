@@ -214,7 +214,26 @@ Vi ser avsnitten 56-57 (Rättigheter, 8min), 58-60 (Rapporter och Uppdatering, 1
 
 ### Fredag  
 
-Prov på Youtubekurs i CMS  
+# Drupal 8 Beginner
+| Avsnitt | Ämne                           | Tid    |
+| :---    | :----:                         | ---:   |
+| 1-3     | Introduktion                   | 15 min |
+| 8-15    | Systemöverblick                | 17 min |
+| 16-18,<br/>22-26 | Content Type          | 26 min |
+| 27-29   | Taxonomy                       | 10 min |
+| 30-31   | Content                        | 10 min |
+| 32-33   | Revisions <br />och Devel      | 9 min  |
+| 34-36   | Displays                       | 15 min |
+| 37-40   | Views                          | 20 min |
+| 41-42   | Image Styles och Photo Gallery | 8 min  |
+| 43-47   | Moduler                        | 23 min |
+| 48-51   | Block och Menyer               | 13 min |
+| 52-55   | Teman                          | 15 min |
+| 56-57   | Rättigheter                    | 8 min  |
+| 58-60   | Rapporter och uppdatering      | 10 min |
+| 61-62   | Drupals Community              | 6 min  |
+
+Prov CMS Grundkurs - Drupal 8 Beginner  
 
 ## Vecka 47   
 
