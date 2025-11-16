@@ -213,30 +213,56 @@ Genomgång av Kapitel 2 - del 2 färdig.
 
 Titta på den uppdaterade [mallen för skills](https://raw.githubusercontent.com/tcstenungsund/schedule/refs/heads/main/assets/skill-persona-mall.md.txt), och fyll i den utifrån era persona prompts sedan tidigare!  
 
-## Vecka 46   
+## Vecka 46  
 
 ###### Nytt om AI  
-* [The No. 1 Country Song in America Is by a Non-Human Artist](https://www.thedailybeast.com/the-no-1-country-song-in-america-is-by-a-non-human-artist/)
-* [Stäng inte ute skolan från AI-strategi](https://www.svd.se/a/Pp6eKb/ai-strategi-bor-inkludera-skolan-skriver-debattorer)
-* [GEMA vinner upphovsrättsmål](https://www.svt.se/kultur/gema-vinner-upphovsrattsmal-mot-open-ai-och-chat-gpt)
-* [GDPR påväg att luckras upp för att hjälpa AI indurtin](https://computersweden.se/article/4087372/gdpr-pa-vag-att-luckras-upp-for-att-hjalpa-ai-industrin.html)
-* [Meta släpper öppen AI-modell som kan transkribera över 1600 språk](https://computersweden.se/article/4088126/meta-slapper-oppen-ai-modell-som-kan-transkribera-over-1600-sprak.html)
-
-
+* [The No. 1 Country Song in America Is by a Non-Human Artist](https://www.thedailybeast.com/the-no-1-country-song-in-america-is-by-a-non-human-artist/)  
+* [Stäng inte ute skolan från AI-strategi](https://www.svd.se/a/Pp6eKb/ai-strategi-bor-inkludera-skolan-skriver-debattorer)  
+* [GEMA vinner upphovsrättsmål](https://www.svt.se/kultur/gema-vinner-upphovsrattsmal-mot-open-ai-och-chat-gpt)  
+* [GDPR påväg att luckras upp för att hjälpa AI indurtin](https://computersweden.se/article/4087372/gdpr-pa-vag-att-luckras-upp-for-att-hjalpa-ai-industrin.html)  
+* [Meta släpper öppen AI-modell som kan transkribera över 1600 språk](https://computersweden.se/article/4088126/meta-slapper-oppen-ai-modell-som-kan-transkribera-over-1600-sprak.html)  
 
 ###### Elements of AI  
 
-Genomgång av Kapitel 2 - del 3 färdig.
-Vi gör övning 7 två och två.
+Genomgång av Kapitel 2 - del 3 färdig.  
+Vi gör övning 7 två och två.  
 
+## Vecka 47   
 
+###### Nytt om AI  
+* 
+* 
+* 
 
+## Vecka 48   
 
+###### Gästföreläsare från Chalmers  
 
+*TBA*  
+
+###### Elements of AI - AI i praktiken  
+<img width="1324" height="609" alt="image" src="https://github.com/user-attachments/assets/a6b48490-c843-441e-86be-58c78da651e8" />  
+
+## Vecka 49   
+
+<!--
+###### Nytt om AI  
+* 
+* 
+* 
+-->
+  
+## Vecka 50   
+
+<!--
+###### Nytt om AI  
+* 
+* 
+-->
+
+## Vecka 51   
 
 <!-- 
-###### Elements of AI - AI i praktiken  
-<img width="1324" height="609" alt="image" src="https://github.com/user-attachments/assets/a6b48490-c843-441e-86be-58c78da651e8" />
 
 ###### Elements of AI - Maskininlärning  
 <img width="1324" height="565" alt="image" src="https://github.com/user-attachments/assets/ebc30200-6c8c-4c4d-afec-5443adeb3e82" />
@@ -247,21 +273,6 @@ Vi gör övning 7 två och två.
 ###### Elements of AI - Konsekvenser  
 <img width="1324" height="547" alt="image" src="https://github.com/user-attachments/assets/7cc3b812-64cc-48f0-9321-c54982c9154d" />
 -->
-
-## Vecka 47   
-
-
-## Vecka 48   
-
-
-## Vecka 49   
-
-
-## Vecka 50   
-
-
-## Vecka 51   
-
 
 ## Vecka 52   
 
