@@ -201,17 +201,6 @@ Vi ser avsnitten 56-57 (Rättigheter, 8min), 58-60 (Rapporter och Uppdatering, 1
 * "[How to Create a Sub Theme in Drupal 8 or 9](https://youtu.be/hPXUn_D2-lE)" (4 min)  
 * "[Theming Drupal](https://www.drupal.org/docs/theming-drupal)"  
 
-<!--
-
-* "[How to Convert an HTML Template to a Drupal 8 Theme](https://youtu.be/xdifbN3y5hU)" (15 min)  
-
-###### Konfigurationsfiler  
-[YAML](https://en.wikipedia.org/wiki/YAML), "[The YAML file explained](https://youtu.be/fwLBfZFrLgI)" (2 min), "[YAML Basics Every DevOps Engineer Must Know](https://linuxhandbook.com/yaml-basics/)".     
-[TWIG](https://en.wikipedia.org/wiki/Twig_(template_engine)), "[Introduction to Twig and its syntax](https://youtu.be/50RBUmPOYig)" (3 min), [Twig Tweak](https://www.drupal.org/project/twig_tweak), "[Twig Tweak Cheat sheet](https://git.drupalcode.org/project/twig_tweak/-/blob/3.x/docs/cheat-sheet.md)".  
-
-[Uppgift: CMS subtheme](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-cms_subhteme)  
--->
-
 ### Fredag  
 
 # Drupal 8 Beginner
@@ -239,7 +228,27 @@ Prov CMS Grundkurs - Drupal 8 Beginner
 
 ### Måndag   
 
+###### Teman och subteman i en CMS (forts.)  
+<!--
+* "[How to Convert an HTML Template to a Drupal 8 Theme](https://youtu.be/xdifbN3y5hU)" (15 min)  
+
+###### Konfigurationsfiler  
+[YAML](https://en.wikipedia.org/wiki/YAML), "[The YAML file explained](https://youtu.be/fwLBfZFrLgI)" (2 min), "[YAML Basics Every DevOps Engineer Must Know](https://linuxhandbook.com/yaml-basics/)".     
+[TWIG](https://en.wikipedia.org/wiki/Twig_(template_engine)), "[Introduction to Twig and its syntax](https://youtu.be/50RBUmPOYig)" (3 min), [Twig Tweak](https://www.drupal.org/project/twig_tweak), "[Twig Tweak Cheat sheet](https://git.drupalcode.org/project/twig_tweak/-/blob/3.x/docs/cheat-sheet.md)".  
+
+[Uppgift: CMS subtheme](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-cms_subhteme)  
+-->
+
 Individuell uppgift  
+
+
+### Fredag  
+
+Individuell uppgift  
+
+## Vecka 48   
+
+### Måndag   
 
 <!-- 
 [AI in Drupal: It's Coming, and it's Awesome](https://youtu.be/4S-HBFVE2lU) (6 min)  
@@ -249,14 +258,6 @@ Individuell uppgift
 [OSTips - Drupal](https://youtube.com/playlist?list=PLtaXuX0nEZk_R36-089QmM-OMTZ3APvuc&si=0pxyc81CkDZfHqZX)   
 
 -->
-
-### Fredag  
-
-Individuell uppgift  
-
-## Vecka 48   
-
-### Måndag   
 
 Individuell uppgift  
 
