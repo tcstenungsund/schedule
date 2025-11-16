@@ -209,6 +209,9 @@ Det finns många sätt att ange färger på (se "[MDN Color](https://developer.m
 
 Test your skills: [Values and units: Task 1](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_tasks)    
 
+## Vecka 47   
+
+###### Färgteori (forts.)  
 <!-- 
 
 Hur väljer man färg? Följ råden i "[How to Choose Colors (Easy 3-Step Process)](https://youtu.be/KMS3VwGh3HY)" (7 min) och "[The 60–30–10 Rule](https://uxplanet.org/the-60-30-10-rule-a-simple-way-to-creating-catchy-user-interfaces-e9e2cf957213)". Använd verktyg som [The Good Colors](https://thegoodcolors.com/) och "[RandomA11y](https://randoma11y.com/)" för att hjälpa dig hitta nya kombinationer. Det finns också hjälp att få för att finna inspiration till färgpaletter, som [ColorKit](https://colorkit.co/) och [Color Ramp](https://color-ramp.com/).  
@@ -219,11 +222,9 @@ Repetition med [Hexcodle](https://hexcodle.com/)!
 
 -->
 
-## Vecka 47   
-
-###### CSS  
-
 ## Vecka 48   
+
+Quiz: Färgteori  
 
 ###### CSS  
 
