@@ -344,8 +344,21 @@ Se till att du är med i repot, att det fungerar att pusha och alla rättigheter
 
 ### Måndag   
 
-###### MVC  
+###### Design patterns  
+Det finns flera designmönster för hur man skriver mjukvara. En av de vanligaste heter MVC och är ett bra sätt att dela upp kod på för att öka stabilitet och minska behov av merarbete.  
 
+Vad är MVC? "[Basics of the MVC (Model View Controller) Architecture in Under 1 Mintue](https://youtu.be/onBNeVxyuKs)" (1 min) Detta är ett designmönster som hängt med riktigt länge. [Model–view–controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller), men det är mycket vanligt i webbvärlden.  
+
+"[MVC Explained in 4 Minutes](https://youtu.be/DUg2SWWK18I)" (4 min), [The Model-View-Controller: Why It Matters](https://dev.to/nkr28/the-model-view-controller-why-it-matters-4ag2).  
+
+Läs igenom artikeln [How to Build a Simple MVC App From Scratch in JavaScript](https://www.taniarascia.com/javascript-mvc-todo-app/) och basera strukturen hos den PWA ni nu skall bygga i grupp på koden som beskrivs!  
+
+###### Gästföreläsare: En alumn  
+
+
+Planera sprint #1!  
+
+Arbeta vidare med projekten!  
 
 ### Tisdag   
 
