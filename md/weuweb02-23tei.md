@@ -229,7 +229,7 @@ Prov CMS Grundkurs - Drupal 8 Beginner
 ### Måndag   
 
 ###### Teman och subteman i en CMS (forts.)  
-<!--
+
 * "[How to Convert an HTML Template to a Drupal 8 Theme](https://youtu.be/xdifbN3y5hU)" (15 min)  
 
 ###### Konfigurationsfiler  
@@ -237,10 +237,6 @@ Prov CMS Grundkurs - Drupal 8 Beginner
 [TWIG](https://en.wikipedia.org/wiki/Twig_(template_engine)), "[Introduction to Twig and its syntax](https://youtu.be/50RBUmPOYig)" (3 min), [Twig Tweak](https://www.drupal.org/project/twig_tweak), "[Twig Tweak Cheat sheet](https://git.drupalcode.org/project/twig_tweak/-/blob/3.x/docs/cheat-sheet.md)".  
 
 [Uppgift: CMS subtheme](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-cms_subhteme)  
--->
-
-Individuell uppgift  
-
 
 ### Fredag  
 
