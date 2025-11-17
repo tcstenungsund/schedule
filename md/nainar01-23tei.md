@@ -130,13 +130,27 @@ Genomgång av CCNA2 Modul 4 - Inter VLAN routing.
 
 ### Måndag  
 
+Fortsätt med 
+
 ### Tisdag  
+
+Anmäl er till CCST Networking del 2 av 4 - Networking Devices and Initial Configuration 
+
+Vi går gemensamt igenom Modul 1 och 2.
 
 ## Vecka 47   
 
 ### Måndag  
 
+Genomgång av Modul 3.
+
+Arbeta med Modul 1 - 3. Gör interaktiva övningar.
+
 ### Tisdag  
+
+Arbeta med Modul 1 - 3. Gör interaktiva övningar.
+
+PROV - Modul 1-3.
 
 ## Vecka 48   
 
