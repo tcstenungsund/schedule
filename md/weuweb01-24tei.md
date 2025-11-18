@@ -254,7 +254,15 @@ Test your skills: [Images and form elements](https://developer.mozilla.org/en-US
 Vill du få en riktigt bra översikt av typografi så rekommenderas du Jason Santa Marias bok "[On Web Typography](https://jasonsantamaria.com/)". För att finna fonter som är fria att använda, besök sidor som [Open Foundry](https://open-foundry.com/) och [Fontesk's GPL-sida](https://fontesk.com/license/ofl-gpl/). En av de bästa sätten att göra text lättläst är att begränsa längden på rader, generellt [rekommenderas en line-length](https://legibility.info/text/line-length) på 80 tecken.  
 
 
+-->
+
+
+
+## Vecka 49   
+
 ###### CSS layout  
+
+<!--
 
 [Layout modes](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_mode) är ett stort område i CSS. Se [exempel på layout modes](https://codepen.io/collection/PYJyGp) på Codepen. Se klippen "[Flexbox vs. CSS Grid — Which is Better?](https://youtu.be/hs3piaN4b5I)" (4:18) och "[The Lowdown on CSS Positioning](https://youtu.be/6o-J6We3hkQ)" (9:28). Pilla även på "[An Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)". Referera till de kompletta guiderna på CSS-Tricks till [Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) och [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/).  
 
@@ -268,20 +276,11 @@ Vill du få en riktigt bra översikt av typografi så rekommenderas du Jason San
 * MDN [CSS layout cookbook](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook)  
 
 
-
-
-
-
 -->
-
-
-
-## Vecka 49   
-
-Prov: CSS  
 
 ## Vecka 50   
 
+Prov: CSS  
 
 ## Vecka 51   
 
