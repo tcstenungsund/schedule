@@ -233,17 +233,16 @@ Test your skills: [Images and form elements](https://developer.mozilla.org/en-US
 
 ## Vecka 48   
 
-Quiz: Färgteori  
+Quiz: Färgteori + Basic looks  
 
-###### CSS  
+###### CSS styling basics - Make it work!  
+###### CSS text styling  
 
 <!--
 
 ###### CSS styling basics - Make it work!  
 * MDN [Debugging CSS](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Debugging_CSS)  
 * MDN [Organizing your CSS](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Organizing)  
-
-
 
 ###### CSS text styling  
 * MDN [Fundamental text and font styling](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Text_styling/Fundamentals)   
@@ -280,10 +279,13 @@ Vill du få en riktigt bra översikt av typografi så rekommenderas du Jason San
 
 ## Vecka 50   
 
+###### Planeringsverktyg  
+
 Prov: CSS  
 
 ## Vecka 51   
 
+Praktisk labb på planeringsverktyg  
 
 ## Vecka 52   
 
@@ -291,9 +293,11 @@ Prov: CSS
 
 ## Vecka 2   
 
+Tävling!  
 
 ## Vecka 3   
 
+Vektorgrafik  
 
 ## Vecka 4   
 
