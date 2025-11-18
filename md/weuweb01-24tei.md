@@ -219,14 +219,6 @@ Kontrast är oerhört viktigt, vilket "[Contrast Rebellion](https://contrastrebe
  
 Repetition med [Hexcodle](https://hexcodle.com/)! 
 
-## Vecka 48   
-
-Quiz: Färgteori  
-
-###### CSS  
-
-<!--
-
 ###### CSS styling basics - Basic looks  
 * MDN [Sizing items in CSS](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Sizing)  
 * MDN [Backgrounds and borders](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Backgrounds_and_borders)  
@@ -238,6 +230,14 @@ Test your skills: [Sizing](https://developer.mozilla.org/en-US/docs/Learn_web_de
 Test your skills: [Backgrounds and borders](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Test_your_skills/Backgrounds_and_borders)  
 Test your skills: [Overflow](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Test_your_skills/Overflow) (Överkurs)  
 Test your skills: [Images and form elements](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Test_your_skills/Images) (Överkurs)  
+
+## Vecka 48   
+
+Quiz: Färgteori  
+
+###### CSS  
+
+<!--
 
 ###### CSS styling basics - Make it work!  
 * MDN [Debugging CSS](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Debugging_CSS)  
