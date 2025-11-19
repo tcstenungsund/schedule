@@ -104,14 +104,18 @@ Här nedan finns det länkar till olika träningssidor som ni ska sitta med på 
 
 ## Vecka 46   
 
-<!-- Modul 11 och 12. -->
+Forsatt jobb med förberedelse inför CTF tävlingen den 15/11.
 
 
 ## Vecka 47    
 
+Ingen lektion denna veckan då ni är på framtid och kunskapsmässan.
+
+Se Teams för hemläxa.
 
 ## Vecka 48   
 
+Genomgång av modul 5.
 
 ## Vecka 49   
 
