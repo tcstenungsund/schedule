@@ -215,6 +215,9 @@ Titta på den uppdaterade [mallen för skills](https://raw.githubusercontent.com
 
 ## Vecka 46  
 
+<img width="512" height="512" alt="Gemini_Generated_Image_gj58i0gj58i0gj58" src="https://github.com/user-attachments/assets/a6ca126a-b970-438b-ac1d-22c2f40533fc" />
+
+
 ###### Nytt om AI  
 
 
