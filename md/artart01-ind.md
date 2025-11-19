@@ -217,8 +217,6 @@ Titta på den uppdaterade [mallen för skills](https://raw.githubusercontent.com
 
 ###### Nytt om AI  
 
-![Gemini_Generated_Image_gj58i0gj58i0gj58.png]({{site.baseurl}}/md/Gemini_Generated_Image_gj58i0gj58i0gj58.png)
-
 
 * [The No. 1 Country Song in America Is by a Non-Human Artist](https://www.thedailybeast.com/the-no-1-country-song-in-america-is-by-a-non-human-artist/)  
 * [Stäng inte ute skolan från AI-strategi](https://www.svd.se/a/Pp6eKb/ai-strategi-bor-inkludera-skolan-skriver-debattorer)  
