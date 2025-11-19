@@ -134,7 +134,7 @@ Genomgång av Modul 3 - Troubleshooting Mobile Devices and Applications. 3.7 - C
 
 ## Vecka 49   
 
-PROV: Operating Systems Support
+SLUTPROV: Operating Systems Support
 
 
 ## Vecka 50   
