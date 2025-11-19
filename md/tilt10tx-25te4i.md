@@ -58,11 +58,16 @@ Använd:
 
 ## Vecka 41   
 
+Anmälan CCST IT Support 1 av 4 finns under ALLMÄNT.
 
 ## Vecka 42   
 
+Anmälan CCST IT Support 2 av 4 finns under ALLMÄNT.
+
 
 ## Vecka 43   
+
+Skicka APL ansökan till Hogia!
 
 
 ## Vecka 44   
@@ -71,16 +76,31 @@ Använd:
 
 ## Vecka 45   
 
+CCST Cybersecurity - anmälningslänk finns under ALLMÄNT.
+
 
 ## Vecka 46   
 
+Studiebesök SmoothComp
 
-## Vecka 47   
+
+## Vecka 47 
+
+Studiebesök Soltak AB
 
 
 ## Vecka 48   
 
+Alexander Svensson, chef på Soltak Support, kommer upp för att presentera mer information kring instruktionsfilmer.
 
+TORSDAG: Speeddating med Hogia
+
+ 
+Ni har möte med Hogia. Deras APL handledare är på plats och vill träffa er.
+ 
+Tid och plats: Torsdag 27/11 kl. 14 i Bohuslän. Hogia bjuder på fika.
+ 
+ 
 ## Vecka 49   
 
 
