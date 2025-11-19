@@ -126,11 +126,15 @@ Genomgång av Modul 3 - Troubleshooting Mobile Devices and Applications. 3.1 - 3
 
 Genomgång av Modul 3 - Troubleshooting Mobile Devices and Applications. 3.7 - CLoud
 
+Öva på Modul 1,2 och 3.
+
 
 ## Vecka 48   
 
 
 ## Vecka 49   
+
+PROV: Operating Systems Support
 
 
 ## Vecka 50   
