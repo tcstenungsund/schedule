@@ -216,6 +216,10 @@ Titta på den uppdaterade [mallen för skills](https://raw.githubusercontent.com
 ## Vecka 46  
 
 ###### Nytt om AI  
+
+![Gemini_Generated_Image_gj58i0gj58i0gj58.png]({{site.baseurl}}/md/Gemini_Generated_Image_gj58i0gj58i0gj58.png)
+
+
 * [The No. 1 Country Song in America Is by a Non-Human Artist](https://www.thedailybeast.com/the-no-1-country-song-in-america-is-by-a-non-human-artist/)  
 * [Stäng inte ute skolan från AI-strategi](https://www.svd.se/a/Pp6eKb/ai-strategi-bor-inkludera-skolan-skriver-debattorer)  
 * [GEMA vinner upphovsrättsmål](https://www.svt.se/kultur/gema-vinner-upphovsrattsmal-mot-open-ai-och-chat-gpt)  
@@ -225,7 +229,31 @@ Titta på den uppdaterade [mallen för skills](https://raw.githubusercontent.com
 ###### Elements of AI  
 
 Genomgång av Kapitel 2 - del 3 färdig.  
-Vi gör övning 7 två och två.  
+Vi gör övning 7 två och två. 
+
+
+###### TEXT TILL BILD
+
+Vi påbörjar nästa fas i vårt promtande! Först arbetade vi med TEXT, nu ska vi arbeta med BILD och framöver blir det LJUD och VIDEO.
+
+Här finns verktyg ni kan testa: 
+https://www.futurepedia.io/ai-tools/text-to-image
+
+Geminis Nano Banana kan jag rekommendera att ni testar också:
+https://gemini.google/fi/overview/image-generation/?hl=sv
+
+Lite råd:
+
+Våga testa!
+
+Var så specifik du kan. Promptar bör innehålla så många detaljer som möjligt. I stället för att säga ”Skapa en bild av en kvinna i en röd klänning” kan du säga ”Skapa en bild av en ung kvinna i en röd klänning som springer genom en park”. Ju fler detaljer du anger desto bättre kan Gemini följa dina anvisningar.
+
+Tänk på komposition, stil och bildkvalitet. Tänk på hur du vill att elementen i bilden ska arrangeras (komposition), vilken visuell stil du vill uppnå (stil), vilken bildkvalitet du vill ha (bildkvalitet) och bildformatet (storlek). Testa något som ”Generera en bild av ett suddigt, taggigt piggsvin som flyger i rymden i oljemålningsstil med bildformatet 2:3”.
+
+Kreativitet är din vän. Gemini är bra på att skapa surrealistiska objekt och unika scener. Låt fantasin flöda
+
+Om du inte gillar det du ser kan du bara be Gemini att ändra det. Med vår bildredigeringsmodell kan du ta kontroll över dina bilder genom att be Gemini att ändra bakgrunden, ersätta ett objekt eller lägga till ett element – samtidigt som detaljerna du gillar bevaras.
+
 
 ## Vecka 47   
 
@@ -353,4 +381,4 @@ Vi gör övning 7 två och två.
 
 ---     
 [![Creative Commons-licens](https://i.creativecommons.org/l/by-sa/4.0/80x15.png)](http://creativecommons.org/licenses/by-sa/4.0/) Detta dokument är licensierat under en [Creative Commons Erkännande-DelaLika 4.0 Internationell Licens](http://creativecommons.org/licenses/by-sa/4.0/).    
-Bilder och fotografier tillhör respektive upphovsman, och befinner sig inte nödvändigtsvis under en Creative Commons-licens.    
+Bilder och fotografier tillhör respektive upphovsman, och befinner sig inte nödvändigtsvis under en Creative Commons-licens.
