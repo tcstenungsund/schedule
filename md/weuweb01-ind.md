@@ -174,6 +174,7 @@ Testa dig själv med "[HTML Tags Memory](https://codepen.io/plfstr/full/zYqQeRw)
 
 ## Vecka 47   
 
+Idag var jag sjuk, ni har en uppgift att titta på ett antal videos som ligger i Teamet, samt att svara på inlämningsuppgiften.
 
 ## Vecka 48   
 
