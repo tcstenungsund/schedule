@@ -240,7 +240,7 @@ Prov CMS Grundkurs - Drupal 8 Beginner
 
 ### Fredag  
 
-Individuell uppgift  
+Fortsätt arbeta med uppgiften CMS subtheme  
 
 ## Vecka 48   
 
@@ -255,41 +255,41 @@ Individuell uppgift
 
 -->
 
-Individuell uppgift  
+Fortsätt arbeta med uppgiften CMS subtheme  
 
 ### Fredag  
 
-Individuell uppgift  
+Fortsätt arbeta med uppgiften CMS subtheme  
 
 ## Vecka 49   
 
 ### Måndag   
 
-Individuell uppgift  
+Fortsätt arbeta med uppgiften CMS subtheme  
 
 ### Fredag  
 
-Individuell uppgift  
+Fortsätt arbeta med uppgiften CMS subtheme  
 
 ## Vecka 50   
 
 ### Måndag   
 
-Individuell uppgift  
+Fortsätt arbeta med uppgiften CMS subtheme  
 
 ### Fredag  
 
-Individuell uppgift  
+Fortsätt arbeta med uppgiften CMS subtheme  
 
 ## Vecka 51   
 
 ### Måndag   
 
-Individuell uppgift  
+Fortsätt arbeta med uppgiften CMS subtheme  
 
 ### Fredag  
 
-Individuell uppgift  
+Fortsätt arbeta med uppgiften CMS subtheme  
 
 ## Vecka 52   
 
