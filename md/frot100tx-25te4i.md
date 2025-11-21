@@ -362,10 +362,11 @@ Arbeta vidare med projekten!
 
 ### Tisdag   
 
+Arbeta vidare med projekten!  
 
 ### Torsdag  
 
-*Sociala medier-genomgång*: 
+*Sociala medier-genomgång*: Kanske testa [Portmaster](https://www.howtogeek.com/this-is-my-favorite-network-security-app-on-linux/)? [Pure CSS Tabs With Details, Grid, and Subgrid](https://css-tricks.com/pure-css-tabs-with-details-grid-and-subgrid/), [Violentmonkey](https://violentmonkey.github.io/), [Firefox Profilemaker](https://ffprofile.com/) och slutligen [Polish to be the most effective language for prompting AI, new study reveals](https://www.euronews.com/next/2025/11/01/polish-to-be-the-most-effective-language-for-prompting-ai-new-study-reveals).  
 
 ## Vecka 48   
 
