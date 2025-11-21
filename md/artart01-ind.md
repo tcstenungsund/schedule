@@ -272,6 +272,11 @@ Vi tar till oss det bästa från följande artiklar:
 * [Best Stable Diffusion Prompts for Realistic Photos](https://www.aiarty.com/stable-diffusion-prompts/stable-diffusion-prompts-for-realistic-photos.htm)
 * [Civitai’s Prompt-Crafting Guide](https://education.civitai.com/civitais-prompt-crafting-guide-part-1-basics/)  
 
+###### Ta era prompter till nästa nivå!  
+
+1) Förbättra er Persona Skill, med info om kamera, vanor och ovanor. Lägg till ny underubrik.  
+2) Välj vem huvudkarakären i din personas bilder är och skapa en högupplöst originalbild av denne (håll ordning på den, för vi kommer använda den länge!).  
+3) Testa samma prompt med 3 olika generativa AI-modeller.  
 
 ## Vecka 48   
 
