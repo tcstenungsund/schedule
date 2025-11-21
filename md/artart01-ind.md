@@ -259,9 +259,19 @@ Om du inte gillar det du ser kan du bara be Gemini att ändra det. Med vår bild
 ## Vecka 47   
 
 ###### Nytt om AI  
-* 
-* 
-* 
+* [Googles modell Gemini 3 sopar banan med konkurenterna](https://vm.tiktok.com/ZNdoEr1xq/)  
+* [AI lever inte i molnet](https://vm.tiktok.com/ZNdoEkQa9/) och de nya termerna för stunden är [NPU och TPU](https://vm.tiktok.com/ZNdoEAnHf/)  
+* [Ny lag i EU - Jobbar du med AI så skall du utbildas!](https://vm.tiktok.com/ZNdoEja1K/)  
+
+###### Bildpromptande  
+
+Vi tar till oss det bästa från följande artiklar: 
+* [How To Write AI Image Prompts: Tips & Examples](https://leonardo.ai/news/ai-image-prompts/)
+* [How to Write Advanced AI Prompts for Image Generators](https://www.kapwing.com/resources/how-to-write-advanced-ai-prompts-for-image-generators/)
+* [How to Write Better AI Image Prompts](https://letsenhance.io/blog/article/ai-text-prompt-guide/)
+* [Best Stable Diffusion Prompts for Realistic Photos](https://www.aiarty.com/stable-diffusion-prompts/stable-diffusion-prompts-for-realistic-photos.htm)
+* [Civitai’s Prompt-Crafting Guide](https://education.civitai.com/civitais-prompt-crafting-guide-part-1-basics/)  
+
 
 ## Vecka 48   
 
