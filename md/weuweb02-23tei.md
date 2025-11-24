@@ -246,14 +246,7 @@ Fortsätt arbeta med uppgiften CMS subtheme
 
 ### Måndag   
 
-<!-- 
-[AI in Drupal: It's Coming, and it's Awesome](https://youtu.be/4S-HBFVE2lU) (6 min)  
-
-[My solar-powered and self-hosted website](https://dri.es/my-solar-powered-and-self-hosted-website)   
-
-[OSTips - Drupal](https://youtube.com/playlist?list=PLtaXuX0nEZk_R36-089QmM-OMTZ3APvuc&si=0pxyc81CkDZfHqZX)   
-
--->
+Vi börjar med en liveföreläsning (14:15 - 15:00) från [Internetdagarna](https://internetdagarna.se/) av [Anne Applebaum](https://invitepeople.com/events/internetdagarna2025/participants/2125313).  
 
 Fortsätt arbeta med uppgiften CMS subtheme  
 
@@ -266,6 +259,15 @@ Fortsätt arbeta med uppgiften CMS subtheme
 ### Måndag   
 
 Fortsätt arbeta med uppgiften CMS subtheme  
+
+<!-- 
+[AI in Drupal: It's Coming, and it's Awesome](https://youtu.be/4S-HBFVE2lU) (6 min)  
+
+[My solar-powered and self-hosted website](https://dri.es/my-solar-powered-and-self-hosted-website)   
+
+[OSTips - Drupal](https://youtube.com/playlist?list=PLtaXuX0nEZk_R36-089QmM-OMTZ3APvuc&si=0pxyc81CkDZfHqZX)   
+
+-->
 
 ### Fredag  
 
