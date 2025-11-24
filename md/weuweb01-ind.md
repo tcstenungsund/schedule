@@ -75,6 +75,8 @@ För att kunna genomföra kursen förväntas du:
 
 Först repeterar vi hur en HTML-tagg är uppbygd, sedan djupdyker vi hur man märker upp text på alla möjliga sätt och vis!  
 
+*[Flexbox Froggy](https://flexboxfroggy.com/#sv)
+
 * MDN [Basic HTML syntax](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Basic_HTML_syntax) (Överkurs: Attributes (allt utom ingressen), Character references)<br>(Anatomy of an HTML document spar vi till nästa vecka.)  
 * MDN [Headings and paragraphs](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Headings_and_paragraphs)  
 * MDN [Emphasis and importance](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Emphasis_and_importance)  
