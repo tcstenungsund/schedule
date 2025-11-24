@@ -182,6 +182,8 @@ Idag var jag sjuk, ni har en uppgift att titta på ett antal videos som ligger i
 
 [Layout modes](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_mode) är ett stort område i CSS. Se [exempel på layout modes](https://codepen.io/collection/PYJyGp) på Codepen. Se klippen "[Flexbox vs. CSS Grid — Which is Better?](https://youtu.be/hs3piaN4b5I)" (4:18) och "[The Lowdown on CSS Positioning](https://youtu.be/6o-J6We3hkQ)" (9:28). Pilla även på "[An Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)". Referera till de kompletta guiderna på CSS-Tricks till [Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) och [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/).  
 
+*[Flexbox Froggy](https://flexboxfroggy.com/#sv)
+
 * MDN [Introduction to CSS layout](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Introduction)  
 * MDN [Floats](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Floats) (Överkurs)  
 * MDN [Positioning](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Positioning) (Överkurs)  
