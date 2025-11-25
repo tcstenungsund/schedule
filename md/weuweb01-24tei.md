@@ -237,7 +237,9 @@ Quiz: Färgteori + Basic looks
 
 ###### CSS styling basics - Make it work!  
 * MDN [Debugging CSS](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Debugging_CSS)  
-* MDN [Organizing your CSS](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Organizing)  
+* MDN [Organizing your CSS](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Organizing) (Överkurs: "Other tools that can help")  
+
+"[Inspecting the CSS Cascade using Firefox DevTools](https://youtu.be/Sp9ZfSvpf7A)" (8 min)  
 
 ###### CSS text styling  
 * MDN [Fundamental text and font styling](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Text_styling/Fundamentals)   
