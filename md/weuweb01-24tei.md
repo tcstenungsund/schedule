@@ -236,11 +236,6 @@ Test your skills: [Images and form elements](https://developer.mozilla.org/en-US
 Quiz: Färgteori + Basic looks  
 
 ###### CSS styling basics - Make it work!  
-###### CSS text styling  
-
-<!--
-
-###### CSS styling basics - Make it work!  
 * MDN [Debugging CSS](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Debugging_CSS)  
 * MDN [Organizing your CSS](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Organizing)  
 
@@ -251,11 +246,6 @@ Quiz: Färgteori + Basic looks
 * MDN [Web fonts](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Text_styling/Web_fonts)  
 
 Vill du få en riktigt bra översikt av typografi så rekommenderas du Jason Santa Marias bok "[On Web Typography](https://jasonsantamaria.com/)". För att finna fonter som är fria att använda, besök sidor som [Open Foundry](https://open-foundry.com/) och [Fontesk's GPL-sida](https://fontesk.com/license/ofl-gpl/). En av de bästa sätten att göra text lättläst är att begränsa längden på rader, generellt [rekommenderas en line-length](https://legibility.info/text/line-length) på 80 tecken.  
-
-
--->
-
-
 
 ## Vecka 49   
 
