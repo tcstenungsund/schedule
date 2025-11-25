@@ -132,23 +132,20 @@ Genomgång av modul 5.
 
 ## Vecka 2   
 
-Inrikningsinfo
+
 
 ## Vecka 3   
-Inriktningsinfo
-Ni arbetar vidare med era labbar
+
 
 ## Vecka 4   
-Inlämning av labbar och genomgång på Netacad.
+
 
 ## Vecka 5   
 
-Inlämning av labbar efter feedbacken ni fått. Fortsatt arbete med Netacad.
+
 
 ## Vecka 6   
-CLT är sjuk.
 
-Ni pluggar inför checkpoint exam efter lovet.
 
 ## Vecka 7   
 
@@ -156,69 +153,52 @@ Ni pluggar inför checkpoint exam efter lovet.
 
 ## Vecka 8   
 
-Checkpoint exam
+
 
 ## Vecka 9   
-Inställd p.g.a UF-mässa
+
 
 ## Vecka 10   
-Börjar med kap 21 - kryptografi.
 
-Vi går igenom kap 21 gram till 21.2.4 och pratar om nycklar och hur dessa används tillsammans med hash-aloritmer.
-
-Efter det tittar vi på första avsnittet av SVT's serie "Hackad". 
 
 ## Vecka 11   
-Eftersom vi pratar kryptografi så ser vi första delen av "The Imitation Game". Filmen handlar om hur britterna arbetade för att knäcka tyskarnas kryptomaskin Enigma.
 
-Vi går igenom hur våren kommer att se ut och klassen är överens om att schemat ser bra ut.
-
-***Uppgift:*** 
-Övning: Krypto. I teamsrummet finns en inlämningsmapp med samma namn. Ni ska knäcka den krypterade texten och lämna in den rätta texten **SAMT** en förklaring av hur ni löste problemet. Sista inlämningsdag enligt inlämningsmappen.
 
 ## Vecka 12   
-Ser på Hackad avsnitt 1
+
 
 ## Vecka 13   
-Ser på Hackad avsnitt 2
+
 
 ## Vecka 14   
-Ser på Hackad avsnitt 3
+
   
 ## Vecka 15   
-Christoffer i Stockholm på finalen i Blixtlåset
+
 
 ## Vecka 16   
 **PÅSKLOV**
 
 ## Vecka 17   
-Modulprov
 
-Ser på Hackad avsnitt 4.
 
-Fortsätter med de två labbarna och labbrapporterna.
 
 ## Vecka 18   
 
-Ser på det sista avsnittet av Hackad (avsnitt 5).
-
-Fortsätter med de två labbarna och labbrapporterna.
+´
 
 ## Vecka 19   
-Fortsätter med de två labbarna och labbrapporterna.
+
 
 
 ## Vecka 20
-Fortsätter med de två labbarna och labbrapporterna.
 
-***Inlämning: Labbrapport 1***
-***Inlämning: Labbrapport 2***
 
 ## Vecka 21   
-Sista lektionen!
+
 
 ## Vecka 22   
-**LEDIGT**
+
 
 ## Vecka 23   
 **SOMMARLOV**  
