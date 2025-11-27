@@ -115,16 +115,19 @@ Se Teams för hemläxa.
 
 ## Vecka 48   
 
-Genomgång av modul 5.
+Läsa modul 5 och 6
 
 ## Vecka 49   
 
+Repetiontion modul 1-6
 
 ## Vecka 50   
 
+Ingen lektion då vi lärare är på föreläsning.
 
 ## Vecka 51   
 
+Prov modul 1-6.
 
 ## Vecka 52   
 
