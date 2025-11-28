@@ -316,7 +316,7 @@ Vi tar till oss det bästa från följande artiklar:
 
 ###### Ta era prompter till nästa nivå!  
 
-1) Förbättra er Persona Skill, med info om kamera, vanor och ovanor. Lägg till ny underubrik.  
+1) Skapa en ny Skill till er Persona Skill. Lägg till information enligt ovan.  
 2) Välj vem huvudkarakären i din personas bilder är och skapa en högupplöst originalbild av denne (håll ordning på den, för vi kommer använda den länge!).  
 3) Testa samma prompt med 3 olika generativa AI-modeller.  
 
