@@ -35,7 +35,7 @@ Installera temat [Barrio](https://www.drupal.org/project/bootstrap_barrio) samt 
 
 Logga in på GitHub.com och skapa ett nytt publikt repository med exakt ditt subtheme namn som repository-namn. Lägg till en README.md-fil och beskriv ditt projekt. 
 
-Använd git för att klona ned ditt nyskapade repocitory från GitHub till din utvecklingsmiljös theme-katalog.   
+Använd git för att klona ned ditt nyskapade repocitory från GitHub till din utvecklingsmiljös theme-katalog (den heter themes).   
 I slutet av varje lektion, eller efter att du arbetat klart för stunden, gör en add, commit och push.  
 
 ##### Skapa ditt sub-theme
