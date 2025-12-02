@@ -253,9 +253,11 @@ Vill du få en riktigt bra översikt av typografi så rekommenderas du Jason San
 
 ###### CSS layout  
 
-<!--
+[Layout modes](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_mode) är ett stort område i CSS. Se [exempel på layout modes](https://codepen.io/collection/PYJyGp) på Codepen, och gå igenom MDN's kapitel nedan. "[Stop the Flexbox for 1D, Grid for 2D layout nonsense](https://youtu.be/vO-1eseQ-kc)" (10 min)  
 
-[Layout modes](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_mode) är ett stort område i CSS. Se [exempel på layout modes](https://codepen.io/collection/PYJyGp) på Codepen. Se klippen "[Flexbox vs. CSS Grid — Which is Better?](https://youtu.be/hs3piaN4b5I)" (4:18) och "[The Lowdown on CSS Positioning](https://youtu.be/6o-J6We3hkQ)" (9:28). Pilla även på "[An Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)". Referera till de kompletta guiderna på CSS-Tricks till [Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) och [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/).  
+Med hjälp av layout modes så bygger vi webbutvecklare [every layout](https://every-layout.dev/layouts/) som existerar. Pilla på "[An Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)". Standardreferensverket i branschen är de kompletta guiderna på CSS-Tricks till [Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) och [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/).  
+
+"[The fastest way to center vertically & horizontally with CSS](https://www.youtube.com/shorts/epwoVzdCq_M)" (1 min)  
 
 * MDN [Introduction to CSS layout](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Introduction)  
 * MDN [Floats](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Floats) (Överkurs)  
@@ -263,11 +265,13 @@ Vill du få en riktigt bra översikt av typografi så rekommenderas du Jason San
 * MDN [Flexbox](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Flexbox)  
 * MDN [CSS grid layout](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Grids)  
 * MDN [Responsive design](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Responsive_Design)  
-* MDN [Media query fundamentals](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Media_queries) (Överkurs?)  
+* MDN [Media query fundamentals](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Media_queries) (För referens)  
 * MDN [CSS layout cookbook](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook)  
 
-
--->
+[Test your skills: Flexbox](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Test_your_skills/Flexbox)  
+[Test your skills: CSS grids](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Test_your_skills/Grid)  
+Uppgift: [Challenge: Fundamental layout comprehension](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Fundamental_Layout_Comprehension)  
+[Challenge: A mobile-first layout](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Mobile-first_challenge)  
 
 ## Vecka 50   
 
