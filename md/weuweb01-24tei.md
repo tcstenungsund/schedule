@@ -241,6 +241,8 @@ Quiz: Färgteori + Basic looks
 
 "[Inspecting the CSS Cascade using Firefox DevTools](https://youtu.be/Sp9ZfSvpf7A)" (8 min)  
 
+För en djupdykning i Firefox Developer Tools, se videon "[How to debug CSS with Firefox Developer Tools](https://youtu.be/AR9Em0X-N_8)" (42 min)  
+
 ###### CSS text styling  
 * MDN [Fundamental text and font styling](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Text_styling/Fundamentals)   
 * MDN [Styling lists](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Text_styling/Styling_lists)  
@@ -293,16 +295,19 @@ Tävling!
 
 ## Vecka 3   
 
-Vektorgrafik  
+Ramverk  
 
 ## Vecka 4   
 
+Ramverk  
 
 ## Vecka 5   
 
+Vektorgrafik  
 
 ## Vecka 6   
 
+Vektorgrafik  
 
 ## Vecka 7   
 
@@ -310,54 +315,70 @@ Vektorgrafik
 
 ## Vecka 8   
 
+Dokumentation
 
 ## Vecka 9   
 
+Dokumentation
 
 ## Vecka 10   
 
+Grupprojekt!  
 
 ## Vecka 11   
 
+Grupprojekt!  
 
 ## Vecka 12   
 
+Grupprojekt!  
 
 ## Vecka 13   
 
+Grupprojekt!  
 
 ## Vecka 14   
 
 **PÅSKLOV**   
 ## Vecka 15   
 
+Grupprojekt!  
 
 ## Vecka 16   
 
+Grupprojekt!  
 
 ## Vecka 17   
 
+Grupprojekt!  
 
 ## Vecka 18   
 
+Grupprojekt!  
 
 ## Vecka 19   
 
+Grupprojekt!  
 
 ## Vecka 20   
 
+Grupprojekt!  
 
 ## Vecka 21   
 
+Grupprojekt!  
 
 ## Vecka 22   
 
+Grupprojekt!  
 
 ## Vecka 23   
 
+Grupprojekt!  
 
 ## Vecka 24   
 
+Grupprojekt!  
 
 ## Vecka 25   
 **SOMMARLOV**   
