@@ -139,12 +139,35 @@ Läs och gör de interaktiva övningarna!
 Repetera inför slutprov.
 SLUTPROV: Operating Systems Support
 
+
+![kubuntu2510](https://github.com/user-attachments/assets/678e30c7-7994-4d29-bf08-0bbd9d4b3073)
+
+
+
 Installation av operativsystemet Kubuntu på laptop.
 Vi förbereder genom att skapa bootbara Linux USB minnen.
+
+Arbeta två och två.
+
+Vi ska installera Kubuntu, den senaste LTS versionen, 64 bitars:
+
+https://kubuntu.org/download/
+
+Gå till följande länk, scrolla ner till "On Windows" och följ instruktionerna.
+
+https://documentation.ubuntu.com/desktop/en/latest/how-to/create-a-bootable-usb-stick/
+
+En genomgång av Kubundu 25.10 finns här (installation börjar efter ca 9 minuter):
+
+https://www.youtube.com/watch?v=rF1rf9BPMPg
 
 ## Vecka 50   
 
 Laboration: Installation av operativsystemet Kubuntu på laptop.
+
+En genomgång av Kubundu 25.10 finns här (installation börjar efter ca 9 minuter):
+
+https://www.youtube.com/watch?v=rF1rf9BPMPg
 
 
 ## Vecka 51   
