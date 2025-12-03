@@ -131,17 +131,25 @@ Genomgång av Modul 3 - Troubleshooting Mobile Devices and Applications. 3.7 - C
 
 ## Vecka 48   
 
+Repetition av Modul 1,2 och 3.
+Läs och gör de interaktiva övningarna!
 
 ## Vecka 49   
 
+Repetera inför slutprov.
 SLUTPROV: Operating Systems Support
 
+Installation av operativsystemet Kubuntu på laptop.
+Vi förbereder genom att skapa bootbara Linux USB minnen.
 
 ## Vecka 50   
+
+Laboration: Installation av operativsystemet Kubuntu på laptop.
 
 
 ## Vecka 51   
 
+Julavslutning!
 
 ## Vecka 52   
 
