@@ -157,17 +157,32 @@ Gå till följande länk, scrolla ner till "On Windows" och följ instruktionern
 
 https://documentation.ubuntu.com/desktop/en/latest/how-to/create-a-bootable-usb-stick/
 
+INSTALLATION PÅ LAPTOP (OBS INTE ER LAPTOP)
 En genomgång av Kubundu 25.10 finns här (installation börjar efter ca 9 minuter):
 
 https://www.youtube.com/watch?v=rF1rf9BPMPg
+
+Välj Engeskt språk, men svenskt tangentbord.
+Välj Normal installation.
+Välj Erase disk
+Användare: tcstenungsund
+Lösenord: tcstenungsund
 
 ## Vecka 50   
 
 Laboration: Installation av operativsystemet Kubuntu på laptop.
 
+INSTALLATION PÅ LAPTOP (OBS INTE ER LAPTOP)
+
 En genomgång av Kubundu 25.10 finns här (installation börjar efter ca 9 minuter):
 
 https://www.youtube.com/watch?v=rF1rf9BPMPg
+
+Välj Engeskt språk, men svenskt tangentbord.
+Välj Normal installation.
+Välj Erase disk
+Användare: tcstenungsund
+Lösenord: tcstenungsund
 
 
 ## Vecka 51   
