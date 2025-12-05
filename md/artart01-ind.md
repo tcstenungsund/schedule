@@ -297,9 +297,7 @@ Uppgift: Skill för bilder
 Uppgift: Kanoniskt persona porträtt  
 Uppgift: Foton till tidigare berättelser  
 
-<!--  
 Vi ser ett avsnitt av [Generation AI](https://www.svtplay.se/generation-ai), närmare bestämt avsnitt 1 om "[Kreativa maskiner](https://www.svtplay.se/video/jBwEALL/generation-ai/3-jobb-3-0)" (17 min) och kör en EPA (Enskilt, Par, Alla)!  
--->
 
 ## Vecka 50   
 
@@ -308,14 +306,25 @@ Vi ser ett avsnitt av [Generation AI](https://www.svtplay.se/generation-ai), nä
 * 
 * 
 
-###### Elements of AI - AI i praktiken  
-<img width="1324" height="609" alt="image" src="https://github.com/user-attachments/assets/a6b48490-c843-441e-86be-58c78da651e8" />  
+
+
 
 -->
 
 ## Vecka 51   
 
+
+
+## Vecka 52   
+
+**VINTERLOV**   
+
+## Vecka 2   
+
 <!-- 
+
+###### Elements of AI - AI i praktiken  
+<img width="1324" height="609" alt="image" src="https://github.com/user-attachments/assets/a6b48490-c843-441e-86be-58c78da651e8" />  
 
 ###### Elements of AI - Maskininlärning  
 <img width="1324" height="565" alt="image" src="https://github.com/user-attachments/assets/ebc30200-6c8c-4c4d-afec-5443adeb3e82" />
@@ -326,13 +335,6 @@ Vi ser ett avsnitt av [Generation AI](https://www.svtplay.se/generation-ai), nä
 ###### Elements of AI - Konsekvenser  
 <img width="1324" height="547" alt="image" src="https://github.com/user-attachments/assets/7cc3b812-64cc-48f0-9321-c54982c9154d" />
 -->
-
-## Vecka 52   
-
-**VINTERLOV**   
-
-## Vecka 2   
-
 
 ## Vecka 3   
 
