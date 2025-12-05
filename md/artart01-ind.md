@@ -272,48 +272,6 @@ Vi tar till oss det bästa från följande artiklar:
 * [Best Stable Diffusion Prompts for Realistic Photos](https://www.aiarty.com/stable-diffusion-prompts/stable-diffusion-prompts-for-realistic-photos.htm)
 * [Civitai’s Prompt-Crafting Guide](https://education.civitai.com/civitais-prompt-crafting-guide-part-1-basics/)  
 
-1. **Vad du vill se**  
-   - Specificera exakt vad du vill se – gå bortom enkla substantiv.  
-   - “a majestic oak tree” i stället för bara “tree”.  
-   - “a silver dragon with glowing eyes” snarare än “dragon”.  
-
-2. **Stil & medium**  
-   - Ange konststil/genre (oil painting, watercolor, pixel art, 3D render, anime, cinematic, illustration).  
-   - Lägg till referenser till kända konstnärer eller fotografer (t.ex. “in the style of Hayao Miyazaki”).  
-
-3. **Komposition & perspektiv**  
-   - Kamera‑/vy‑vinkel: wide‑angle, close‑up, bird’s‑eye view, portrait orientation, rule of thirds.  
-   - Placering av huvudobjekt: slightly off‑center, centered, foreground/background emphasis.  
-
-4. **Färg, ljus & atmosfär**  
-   - Beskriv färgschema och stämning: vibrant neon colors, muted pastel tones, high‑contrast black‑and‑white, warm golden hour lighting.  
-
-5. **Detaljgrad & textur**  
-   - Hyper‑realistic details eller minimalist line work beroende på mål.
-   - Specifika textur‑ord: detailed skin texture, visible pores, freckles, rough bark, metallic sheen.
-
-6. **Bakgrund & miljö**  
-   - Kontextuell plats eller scen (futuristic city at night, misty forest, stormy sky).
-   - Ljuskälla och effekt: soft rim lighting, dramatic chiaroscuro, catchlight in eyes, ambient glow, stormy sky with lightning.
-   - Atmosfäriska element: mist, fog, rain, dust, lens flare.
-
-7. **Negativa element**  
-   - Vad du *inte* vill ha (no text, no watermark, no blur, exclude cartoonish style).
-
-8. **Tekniska parametrar**  
-   - Upplösning / aspect‑ratio: 1024×1024, 16:9.  
-   - Seed för reproducerbarhet: seed 42.  
-   - Medium‑specifika ord: photo, digital painting, illustration, tilt‑shift, low‑poly, volumetric lighting.  
-   - Använd kommatecken för att separera varje term så AI:n kan “smälta” dem individuellt.  
-
-9. **Iterativ förfining**  
-   - Börja med en kort prompt (ämne + stil), utvärdera, lägg sedan till lager från punkterna ovan och repetera tills resultatet känns rätt.
-
-10. **Etik & säkerhet**
-  - Uteslut förbjudet eller upphovsrättsskyddat material.  
-  - Använd fria referenser (Creative‑Commons‑bilder, public domain).  
-  - Negativa promptar hjälper till att undvika oönskat NSFW‑ eller upphovsrättsinnehåll.  
-
 ###### Ta era prompter till nästa nivå!  
 
 1) Skapa en ny Skill till er Persona Skill. Lägg till information enligt ovan.  
@@ -324,18 +282,25 @@ Vi tar till oss det bästa från följande artiklar:
 
 ###### Gästföreläsare från Chalmers  
 
-*TBA*  
-
-
 ## Vecka 49   
 
-<!--
 ###### Nytt om AI  
+* [Mistral AI släpper ny toppmodell – och den är öppen](https://computersweden.se/article/4100207/mistral-ai-slapper-ny-toppmodell-och-den-ar-oppen.html)  
 * 
 * 
-* 
+
+###### Skill för bilder  
+
+[7 tips to get the most out of Nano Banana Pro](https://blog.google/products/gemini/prompting-tips-nano-banana-pro/)  
+
+Uppgift: Skill för bilder  
+Uppgift: Kanoniskt persona porträtt  
+Uppgift: Foton till tidigare berättelser  
+
+<!--  
+Vi ser ett avsnitt av [Generation AI](https://www.svtplay.se/generation-ai), närmare bestämt avsnitt 1 om "[Kreativa maskiner](https://www.svtplay.se/video/jBwEALL/generation-ai/3-jobb-3-0)" (17 min) och kör en EPA (Enskilt, Par, Alla)!  
 -->
-  
+
 ## Vecka 50   
 
 <!--
