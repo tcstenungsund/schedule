@@ -297,7 +297,7 @@ Uppgift: Skill för bilder
 Uppgift: Kanoniskt persona porträtt  
 Uppgift: Foton till tidigare berättelser  
 
-Vi ser ett avsnitt av [Generation AI](https://www.svtplay.se/generation-ai), närmare bestämt avsnitt 1 om "[Kreativa maskiner](https://www.svtplay.se/video/jBwEALL/generation-ai/3-jobb-3-0)" (17 min) och kör en EPA (Enskilt, Par, Alla)!  
+Vi ser ett avsnitt av [Generation AI](https://www.svtplay.se/generation-ai), närmare bestämt avsnitt 3 om "[Jobb 3.0](https://www.svtplay.se/video/jBwEALL/generation-ai/3-jobb-3-0)" (17 min) och kör en EPA (Enskilt, Par, Alla)!  
 
 ## Vecka 50   
 
