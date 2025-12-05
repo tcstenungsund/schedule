@@ -372,49 +372,45 @@ Arbeta vidare med projekten!
 
 ### Måndag   
 
-<!-- 
-
-###### Projekt Del 3:
-
-https://raw.githubusercontent.com/tcstenungsund/schedule/refs/tags/ay2425/md/assignments/weuweb33-pwa.md
-
-    Github Project som Kanban-bräde
-    Arbeta efter SCRUM
-    Node.js
-    Någon form av API
-    Dokumentation av projekt
-
-
---> 
+Arbeta vidare med projekten!  
 
 ### Tisdag   
 
+Arbeta vidare med projekten!  
 
 ### Torsdag  
 
-*Sociala medier-genomgång*: 
+KFN är på TC Riks, så Kevin och Ronnie kommer slåss om tiden med er!  
 
 ## Vecka 49   
 
 ### Måndag   
 
+Arbeta vidare med projekten!  
 
 ### Tisdag   
 
+Arbeta vidare med projekten!  
 
 ### Torsdag  
 
-*Sociala medier-genomgång*: 
+Arbeta vidare med projekten!  
+
+*Sociala medier-genomgång*: [The Component Gallery](https://component.gallery/), [Använd inte AI i din webbläsare!](https://www.tiktok.com/@davidbombal/video/7565996524488920342), [är studier av slitage UX?](https://www.tiktok.com/@jasonkpargin/video/7579480164636151070), [Do you know what all these icons mean?](https://www.tiktok.com/@sean.ux.design/video/7569241236645612822), [EU-lag om att lära sig AI](https://www.tiktok.com/@laila.med.ai/video/7561858247813106966), AI körs inte på CPU och GPU utan [NPU och TPU](https://www.tiktok.com/@tiffintech/video/7571486245025631495).  
 
 ## Vecka 50   
 
 ### Måndag   
 
+Arbeta vidare med projekten!  
 
 ### Tisdag   
 
+Arbeta vidare med projekten!  
 
 ### Torsdag  
+
+Arbeta vidare med projekten!  
 
 *Sociala medier-genomgång*: 
 
@@ -422,13 +418,11 @@ https://raw.githubusercontent.com/tcstenungsund/schedule/refs/tags/ay2425/md/ass
 
 ### Måndag   
 
+Arbeta vidare med projekten!  
 
 ### Tisdag   
 
-
-### Torsdag  
-
-*Sociala medier-genomgång*: 
+Arbeta vidare med projekten!  
 
 ## Vecka 52   
 
@@ -447,6 +441,22 @@ Med avstamp i artikeln "[10 Projects everyone should try at least once](https://
 [<img alt="Alternatives to Adobe products" src="https://i.imgur.com/ieDaMzO.png" width="20%">](https://i.imgur.com/ieDaMzO.png)
 
 -->
+
+
+<!-- 
+
+###### Projekt Del 3:
+
+https://raw.githubusercontent.com/tcstenungsund/schedule/refs/tags/ay2425/md/assignments/weuweb33-pwa.md
+
+    Github Project som Kanban-bräde
+    Arbeta efter SCRUM
+    Node.js
+    Någon form av API
+    Dokumentation av projekt
+
+
+--> 
 
 ## Vecka 3   
 
