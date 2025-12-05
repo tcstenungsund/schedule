@@ -286,12 +286,12 @@ Vi tar till oss det bästa från följande artiklar:
 
 ###### Nytt om AI  
 * [Mistral AI släpper ny toppmodell – och den är öppen](https://computersweden.se/article/4100207/mistral-ai-slapper-ny-toppmodell-och-den-ar-oppen.html)  
-* 
-* 
+* [OpenAI Garlic är svaret på Gemini 3](https://vm.tiktok.com/ZNRRaw8eJ/)  
+* [Wikipedia Stochastic parrot](https://en.wikipedia.org/wiki/Stochastic_parrot )  
 
 ###### Skill för bilder  
 
-[7 tips to get the most out of Nano Banana Pro](https://blog.google/products/gemini/prompting-tips-nano-banana-pro/)  
+Utgå ifrån [7 tips to get the most out of Nano Banana Pro](https://blog.google/products/gemini/prompting-tips-nano-banana-pro/) och [denna skill](https://github.com/DaRubberDuckieee/chatgpt-google-doc-prompt) för att bygga er egen!  
 
 Uppgift: Skill för bilder  
 Uppgift: Kanoniskt persona porträtt  
