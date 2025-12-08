@@ -355,7 +355,6 @@ Läs igenom artikeln [How to Build a Simple MVC App From Scratch in JavaScript](
 
 ###### Gästföreläsare: En alumn  
 
-
 Planera sprint #1!  
 
 Arbeta vidare med projekten!  
@@ -401,6 +400,8 @@ Arbeta vidare med projekten!
 ## Vecka 50   
 
 ### Måndag   
+
+KFN ligger hemma förkyld, men det förändrar inte planeringen. Ni vet hur er deadline för apparna ser ut, det är inte mycket tid kvar. Genomför er daily scrum och kör hårt!  
 
 Arbeta vidare med projekten!  
 
