@@ -260,15 +260,6 @@ Fortsätt arbeta med uppgiften CMS subtheme
 
 Fortsätt arbeta med uppgiften CMS subtheme  
 
-<!-- 
-[AI in Drupal: It's Coming, and it's Awesome](https://youtu.be/4S-HBFVE2lU) (6 min)  
-
-[My solar-powered and self-hosted website](https://dri.es/my-solar-powered-and-self-hosted-website)   
-
-[OSTips - Drupal](https://youtube.com/playlist?list=PLtaXuX0nEZk_R36-089QmM-OMTZ3APvuc&si=0pxyc81CkDZfHqZX)   
-
--->
-
 ### Fredag  
 
 Fortsätt arbeta med uppgiften CMS subtheme  
@@ -289,9 +280,14 @@ Fortsätt arbeta med uppgiften CMS subtheme
 
 Fortsätt arbeta med uppgiften CMS subtheme  
 
-### Fredag  
+<!-- 
+[AI in Drupal: It's Coming, and it's Awesome](https://youtu.be/4S-HBFVE2lU) (6 min)  
 
-Fortsätt arbeta med uppgiften CMS subtheme  
+[My solar-powered and self-hosted website](https://dri.es/my-solar-powered-and-self-hosted-website)   
+
+[OSTips - Drupal](https://youtube.com/playlist?list=PLtaXuX0nEZk_R36-089QmM-OMTZ3APvuc&si=0pxyc81CkDZfHqZX)   
+
+-->
 
 ## Vecka 52   
 
@@ -299,11 +295,11 @@ Fortsätt arbeta med uppgiften CMS subtheme
 
 ## Vecka 2   
 
-Gruppuppgift  
+Kursöversikt    
 
 ## Vecka 3   
 
-Gruppuppgift  
+Tävling  
 
 ## Vecka 4   
 
@@ -323,53 +319,70 @@ Gruppuppgift
 
 ## Vecka 8   
 
+Gruppuppgift  
 
 ## Vecka 9   
 
+Gruppuppgift  
 
 ## Vecka 10   
 
+Gruppuppgift  
 
 ## Vecka 11   
 
+Gruppuppgift  
 
 ## Vecka 12   
 
+Gruppuppgift  
 
 ## Vecka 13   
 
+Gruppuppgift  
 
 ## Vecka 14   
 
 **PÅSKLOV**   
 ## Vecka 15   
 
+Gruppuppgift  
 
 ## Vecka 16   
 
+Gruppuppgift  
 
 ## Vecka 17   
 
+Gruppuppgift  
 
 ## Vecka 18   
 
+Gruppuppgift  
 
 ## Vecka 19   
 
+Gruppuppgift  
 
 ## Vecka 20   
 
+Gruppuppgift  
 
 ## Vecka 21   
 
+Gruppuppgift  
 
 ## Vecka 22   
 
+Gruppuppgift  
 
 ## Vecka 23   
 
+Gruppuppgift  
 
 ## Vecka 24   
+
+Gruppuppgift  
 
 <!-- 
 "[Jeffrey Zeldman 20 years of Web Design and Community](https://vimeo.com/219302853)" (40 min)        
