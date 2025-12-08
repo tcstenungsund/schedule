@@ -193,10 +193,10 @@ Idag var jag sjuk, ni har en uppgift att titta på ett antal videos som ligger i
 * MDN [CSS layout cookbook](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook)  
 
 ## Vecka 49   
-
+Vabbat idag, ni tittade på videos 16-35 på [HTML och CSS Basics:](https://www.youtube.com/watch?v=z_5F2fopvlA&list=PL4-IK0AVhVjOJs_UjdQeyEZ_cmEV3uJvx&index=36)
 
 ## Vecka 50   
-
+Idag fortsätter vi med videos 36-50 om [HTML och CSS Basics](https://www.youtube.com/watch?v=z_5F2fopvlA&list=PL4-IK0AVhVjOJs_UjdQeyEZ_cmEV3uJvx&index=36)
 
 ## Vecka 51   
 
