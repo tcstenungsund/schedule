@@ -301,19 +301,23 @@ Vi ser ett avsnitt av [Generation AI](https://www.svtplay.se/generation-ai), nä
 
 ## Vecka 50   
 
-<!--
+
 ###### Nytt om AI  
-* 
-* 
+* [Ai fusk blan svenska studenter ökar](https://computersweden.se/article/4104883/ai-fusket-bland-svenska-studenter-okar-kraftigt.html)  
+
+* [Google Deepmind bygger ”automatiserat forskningslaboratorium” i Storbritannien](https://computersweden.se/article/4104912/google-deepmind-bygger-automatiserat-forskningslaboratorium-i-storbritannien.html)
+
+* [Disney + OpenAi = Sant](https://openai.com/index/disney-sora-agreement/)
+
+* [Disney investerar i OpenAi](https://youtube.com/shorts/lrEI0CV26Jc)
+
+###### Julmusik!
 
 
-
-
--->
 
 ## Vecka 51   
 
-
+Julavslutning
 
 ## Vecka 52   
 
