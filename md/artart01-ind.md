@@ -313,6 +313,20 @@ Vi ser ett avsnitt av [Generation AI](https://www.svtplay.se/generation-ai), nä
 
 ###### Julmusik!
 
+<img width="1024" height="1024" alt="Gemini_Generated_Image_17fzz417fzz417fz" src="https://github.com/user-attachments/assets/edb9f3fa-4433-448a-96c8-64901fcb0e96" />
+
+Idag ska vi skapa julmusik för vår lokala jullåtstävling på värdshuset. Det går alldeles utmärkt att skapa julmusik på svenska. Försök att göra musik som er karaktär skulle kunna lyssna på, eller ännu hellre kanske är det er karaktär som framför låten?
+
+Använd verktyg från Futurepedia:
+
+https://www.futurepedia.io/ai-tools/music-generator
+
+Guide här:
+
+https://moderskeppet.se/live/skapa-musik-med-ai/
+
+
+
 
 
 ## Vecka 51   
