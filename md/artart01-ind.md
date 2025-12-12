@@ -315,15 +315,24 @@ Vi ser ett avsnitt av [Generation AI](https://www.svtplay.se/generation-ai), nä
 
 <img width="1024" height="1024" alt="Gemini_Generated_Image_17fzz417fzz417fz" src="https://github.com/user-attachments/assets/edb9f3fa-4433-448a-96c8-64901fcb0e96" />
 
-Idag ska vi skapa julmusik för vår lokala jullåtstävling på värdshuset. Det går alldeles utmärkt att skapa julmusik på svenska. Försök att göra musik som er karaktär skulle kunna lyssna på, eller ännu hellre kanske är det er karaktär som framför låten?
+Idag ska vi skapa julmusik för vår lokala jullåtstävling på värdshuset. Det går alldeles utmärkt att skapa julmusik på svenska. Försök att göra musik som er karaktär skulle kunna lyssna på, eller ännu hellre kanske är det er karaktär som framför låten? Försök att få det att låta som om att julmusiken framförs live, se Sound Effects Meta taggar nedan.
+
+Hinner vi så skapar vi även bilder på när er artist framför sin jullåt på värdshusets scen (se bild ovan).
 
 Använd verktyg från Futurepedia:
 
 https://www.futurepedia.io/ai-tools/music-generator
 
-Guide här:
+Fler verktyg:
 
 https://moderskeppet.se/live/skapa-musik-med-ai/
+
+
+Guide här:
+
+https://learnprompting.org/blog/guide-suno?srsltid=AfmBOorzJWMS_codmaIGRY7kE6WlP7i__0bnSFtRay4Zll3sL1MyCYJF
+
+<img width="413" height="259" alt="metatags suno" src="https://github.com/user-attachments/assets/b3ac7eb1-f0ea-4cf5-8955-4c9bd634ac22" />
 
 
 
