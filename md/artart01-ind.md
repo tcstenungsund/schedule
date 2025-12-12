@@ -335,7 +335,9 @@ https://learnprompting.org/blog/guide-suno?srsltid=AfmBOorzJWMS_codmaIGRY7kE6WlP
 <img width="413" height="259" alt="metatags suno" src="https://github.com/user-attachments/assets/b3ac7eb1-f0ea-4cf5-8955-4c9bd634ac22" />
 
 
+Exempel på låt med Meta taggar:
 
+https://suno.com/song/de7e76f6-a53c-416c-9b7d-7d4e81abf426
 
 
 ## Vecka 51   
