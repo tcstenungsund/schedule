@@ -278,16 +278,7 @@ Fortsätt arbeta med uppgiften CMS subtheme
 
 ### Måndag   
 
-Fortsätt arbeta med uppgiften CMS subtheme  
-
-<!-- 
-[AI in Drupal: It's Coming, and it's Awesome](https://youtu.be/4S-HBFVE2lU) (6 min)  
-
-[My solar-powered and self-hosted website](https://dri.es/my-solar-powered-and-self-hosted-website)   
-
-[OSTips - Drupal](https://youtube.com/playlist?list=PLtaXuX0nEZk_R36-089QmM-OMTZ3APvuc&si=0pxyc81CkDZfHqZX)   
-
--->
+Terminsavslutning  
 
 ## Vecka 52   
 
@@ -297,21 +288,31 @@ Fortsätt arbeta med uppgiften CMS subtheme
 
 Kursöversikt    
 
+Fortsätt arbeta med uppgiften CMS subtheme  
+
 ## Vecka 3   
 
 Tävling  
 
 ## Vecka 4   
 
-Gruppuppgift  
+<!-- 
+[AI in Drupal: It's Coming, and it's Awesome](https://youtu.be/4S-HBFVE2lU) (6 min)  
+
+[My solar-powered and self-hosted website](https://dri.es/my-solar-powered-and-self-hosted-website)   
+
+[OSTips - Drupal](https://youtube.com/playlist?list=PLtaXuX0nEZk_R36-089QmM-OMTZ3APvuc&si=0pxyc81CkDZfHqZX)   
+
+-->
+Fortsätt arbeta med uppgiften CMS subtheme  
 
 ## Vecka 5   
 
-Gruppuppgift  
+Fortsätt arbeta med uppgiften CMS subtheme  
 
 ## Vecka 6   
 
-Gruppuppgift  
+Fortsätt arbeta med uppgiften CMS subtheme  
 
 ## Vecka 7   
 
