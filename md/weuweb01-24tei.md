@@ -292,7 +292,7 @@ Prov: CSS
 
 ## Vecka 51   
 
-Praktisk labb på planeringsverktyg  
+Dagens uppgift är att på valfri plats se föreläsningen "[Start over-engineering your CSS](https://youtu.be/k_3pRxdv-cI)" av Kevin Powell från "[CSS Day 2024](https://cssday.nl/2024/)", en riktigt stor konferens i Nederländerna.  
 
 ## Vecka 52   
 
