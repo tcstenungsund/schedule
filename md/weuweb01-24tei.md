@@ -99,7 +99,7 @@ Vi måste ha lite koll på "[how URLs work](https://gdevops.frama.io/web/tuto-ht
 * Undvik_mellanslag_     
 * Undvik STORA bokstäver       
 
-Vid all namngivning (filer, kataloger, etc) så gäller ovanstående grundregler. En av anledningarna till dessa är "[character encoding](https://developer.mozilla.org/en-US/docs/Glossary/character_encoding)". Idag förlitar vi oss på "[Unicode](https://youtu.be/2r6OZD5n-wc)" (3:01).  
+Vid all namngivning (filer, kataloger, etc) så gäller ovanstående grundregler. "[Naming Files and Directories the Right Way](https://youtu.be/pjnSE99-cz0)" (8 min) En av anledningarna till dessa är "[character encoding](https://developer.mozilla.org/en-US/docs/Glossary/character_encoding)". Idag förlitar vi oss på "[Unicode](https://youtu.be/2r6OZD5n-wc)" (3:01).  
 
 ###### HTML - Struktur  
 
