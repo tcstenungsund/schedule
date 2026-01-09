@@ -4,7 +4,7 @@
 
 ### Fredag  
 
-Kursplanering, Skolverkets [mål för kursen](https://www.skolverket.se/undervisning/gymnasieskolan/program-och-amnen-i-gymnasieskolan/hitta-program-amnen-och-kurser-i-gymnasieskolan-gy11/amne?url=907561864%2Fsyllabuscw%2Fjsp%2Fsubject.htm%3FsubjectCode%3DWEU%26courseCode%3DWEUWEB02%26version%3D2%26tos%3Dgy&sv.url=12.5dfee44715d35a5cdfa92a3#anchor_WEUWEB02) samt en introduktion till ämnet.   
+Kursplanering, Skolverkets [mål för kursen](https://www.skolverket.se/undervisning/gymnasieskolan/program-och-amnen-i-gymnasieskolan/hitta-program-amnen-och-kurser-i-gymnasieskolan-gy11/hitta-program-och-amnesplaner-i-gymnasieskolan-gy11#/search/subjects/WEU#WEUWEB02) samt en introduktion till ämnet.   
 
 Även i denna kursen är det verktygen [Firefox Developer Edition](https://www.firefox.com/en-US/channel/desktop/developer/) och [VScodium](https://vscodium.com/) som gäller! Har du tappat bort dem installerar du dem bara igen!  
 
@@ -286,7 +286,13 @@ Terminsavslutning
 
 ## Vecka 2   
 
-Kursöversikt    
+Kursöversikt  
+
+* HTML och CSS (25% av kursen)
+* CSS preprocessing, ECMA-script och grafik (10% av kursen)
+* CMS-projekt (50% av kursen)
+* Tester (13% av kursen)
+* Lagar och säkerhet (2% av kursen)
 
 Fortsätt arbeta med uppgiften CMS subtheme  
 
