@@ -194,20 +194,21 @@ Bedömning
 
 
 ## Vecka 46
-
+### Fortsätt med mastermind
 ## Vecka 47
-
+### Fortsätt med mastermind
 ## Vecka 48
-
+### Fortsätt med mastermind
 ## Vecka 49
-
+### Fortsätt med mastermind
 **VINTERLOV**   
 
 ## Vecka 2   
-
+### Introduktion till JavaScript Framworkes, framförallt till Vue.js
 
 ## Vecka 3   
-
+### Vue.js
+Denna veckan ska vi göra [tutorialen ifrån vues hemsida](https://scrimba.com/learn-vuejs-c09q9jrprp). Förra veckan kollade vi gemensamt på den som heter "Quick start". På måndagen ska ni kolla på dem som heter "Templet Syntax" och den som heter "Component Basics". På fredag kör vi "Component v-model" och "TypeScript with Composition API"
 
 ## Vecka 4   
 
