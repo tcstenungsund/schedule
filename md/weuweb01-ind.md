@@ -208,6 +208,7 @@ Planeringsverktyg - Moodboards
 
 ## Vecka 2   
 
+[CSS Zen Garden](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/md/assignments/weuweb01-ind_css_zengarden)
 
 ## Vecka 3   
 
