@@ -363,7 +363,7 @@ Grupprojekt!
 
 ## Vecka 18   
 
-Grupprojekt!  
+**Gymnasiearbetsdag**  
 
 ## Vecka 19   
 
@@ -379,15 +379,15 @@ Grupprojekt!
 
 ## Vecka 22   
 
-Grupprojekt!  
+Presentation av grupprojekt!  
 
 ## Vecka 23   
 
-Grupprojekt!  
+**Brännbollsturnering**  
 
 ## Vecka 24   
 
-Grupprojekt!  
+Uppgift  
 
 ## Vecka 25   
 **SOMMARLOV**   
