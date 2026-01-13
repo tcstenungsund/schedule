@@ -298,6 +298,15 @@ Fortsätt arbeta med uppgiften CMS subtheme
 
 ## Vecka 3   
 
+
+### Måndag   
+
+Fortsätt arbeta med uppgiften CMS subtheme  
+
+### Fredag  
+
+Fortsätt arbeta med uppgiften CMS subtheme  
+
 Tävling  
 
 ## Vecka 4   
@@ -310,13 +319,31 @@ Tävling
 [OSTips - Drupal](https://youtube.com/playlist?list=PLtaXuX0nEZk_R36-089QmM-OMTZ3APvuc&si=0pxyc81CkDZfHqZX)   
 
 -->
+
+### Måndag   
+
+Fortsätt arbeta med uppgiften CMS subtheme  
+
+### Fredag  
+
 Fortsätt arbeta med uppgiften CMS subtheme  
 
 ## Vecka 5   
 
+### Måndag   
+
 Fortsätt arbeta med uppgiften CMS subtheme  
 
+### Fredag  
+
+Fortsätt arbeta med uppgiften CMS subtheme  
 ## Vecka 6   
+
+### Måndag   
+
+Fortsätt arbeta med uppgiften CMS subtheme  
+
+### Fredag  
 
 Fortsätt arbeta med uppgiften CMS subtheme  
 
@@ -326,70 +353,138 @@ Fortsätt arbeta med uppgiften CMS subtheme
 
 ## Vecka 8   
 
+### Måndag   
+
+Gruppuppgift  
+
+### Fredag  
+
 Gruppuppgift  
 
 ## Vecka 9   
+
+### Måndag   
+
+Gruppuppgift  
+
+### Fredag  
 
 Gruppuppgift  
 
 ## Vecka 10   
 
+### Måndag   
+
+Gruppuppgift  
+
+### Fredag  
+
 Gruppuppgift  
 
 ## Vecka 11   
+
+### Måndag   
+
+Gruppuppgift  
+
+### Fredag  
 
 Gruppuppgift  
 
 ## Vecka 12   
 
+### Måndag   
+
+Gruppuppgift  
+
+### Fredag  
+
 Gruppuppgift  
 
 ## Vecka 13   
+
+### Fredag  
 
 Gruppuppgift  
 
 ## Vecka 14   
 
-**PÅSKLOV**   
-## Vecka 15   
+### Måndag   
 
 Gruppuppgift  
 
+## Vecka 15   
+
+**PÅSKLOV**   
+
 ## Vecka 16   
+
+### Måndag   
+
+Gruppuppgift  
+
+### Fredag  
 
 Gruppuppgift  
 
 ## Vecka 17   
 
+### Måndag   
+
+Gruppuppgift  
+
+### Fredag  
+
 Gruppuppgift  
 
 ## Vecka 18   
+
+### Måndag   
 
 Gruppuppgift  
 
 ## Vecka 19   
 
+### Måndag   
+
+Gruppuppgift  
+
+### Fredag  
+
 Gruppuppgift  
 
 ## Vecka 20   
+
+### Måndag   
 
 Gruppuppgift  
 
 ## Vecka 21   
 
+### Måndag   
+
+Gruppuppgift  
+
+### Fredag  
+
 Gruppuppgift  
 
 ## Vecka 22   
 
+### Måndag   
+
 Gruppuppgift  
+
+### Fredag  
+
+Presentation av gruppuppgift  
 
 ## Vecka 23   
 
-Gruppuppgift  
+### Måndag   
 
-## Vecka 24   
+### Fredag  
 
-Gruppuppgift  
 
 <!-- 
 "[Jeffrey Zeldman 20 years of Web Design and Community](https://vimeo.com/219302853)" (40 min)        
@@ -398,7 +493,7 @@ Jeffrey Zeldman är en legend i webbutvecklingsbranschen av samma dignitet som T
 -->
 
 
-## Vecka 25   
+## Vecka 24   
 **SOMMARLOV**   
 
 ---     
