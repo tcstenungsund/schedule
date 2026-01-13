@@ -431,18 +431,25 @@ Arbeta vidare med projekten!
 
 ## Vecka 2   
 
+### Torsdag  
 
-<!-- 
+Översikt av projekten  
 
-https://penpot.app/ 
+## Vecka 3   
 
+### Måndag   
 
-Med avstamp i artikeln "[10 Projects everyone should try at least once](https://www.webdesignerdepot.com/2017/11/design-bucket-list-10-projects-everyone-should-try-at-least-once/)" talar vi om mjukvara för UX-design, som [Scribus](https://www.scribus.net/) och [Inkscape](https://inkscape.org/). Vi ser "[What Is Figma?](https://youtu.be/PaPIsyO1t3Q)" och "[Is Figma Dead?](https://youtu.be/pj7D0tSNmEg)". I kursen kommer vi använda [Penpot](https://penpot.app/) för detta ändamål. 
+[@tcstenungsunds årliga tävling i webbdesign](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb_css-zen-garden)  
 
-[<img alt="Alternatives to Adobe products" src="https://i.imgur.com/ieDaMzO.png" width="20%">](https://i.imgur.com/ieDaMzO.png)
+### Tisdag  
 
--->
+Arbeta vidare med projekten!  
 
+### Torsdag  
+
+Genomgång av @tcstenungsunds årliga tävling i webbdesign  
+
+Översikt av sista delen av projekten  
 
 <!-- 
 
@@ -459,17 +466,67 @@ https://raw.githubusercontent.com/tcstenungsund/schedule/refs/tags/ay2425/md/ass
 
 --> 
 
-## Vecka 3   
-
+*Sociala medier-genomgång*:  
 
 ## Vecka 4   
 
+### Måndag   
+
+###### Mockups  
+
+<!-- 
+
+https://penpot.app/ 
+
+Med avstamp i artikeln "[10 Projects everyone should try at least once](https://www.webdesignerdepot.com/2017/11/design-bucket-list-10-projects-everyone-should-try-at-least-once/)" talar vi om mjukvara för UX-design, som [Scribus](https://www.scribus.net/) och [Inkscape](https://inkscape.org/). Vi ser "[What Is Figma?](https://youtu.be/PaPIsyO1t3Q)" och "[Is Figma Dead?](https://youtu.be/pj7D0tSNmEg)". I kursen kommer vi använda [Penpot](https://penpot.app/) för detta ändamål. 
+
+[<img alt="Alternatives to Adobe products" src="https://i.imgur.com/ieDaMzO.png" width="20%">](https://i.imgur.com/ieDaMzO.png)
+
+-->
+
+Arbeta vidare med projekten!  
+
+### Tisdag   
+
+Arbeta vidare med projekten!  
+
+### Torsdag  
+
+Arbeta vidare med projekten!  
+
+*Sociala medier-genomgång*:  
 
 ## Vecka 5   
 
+### Måndag   
+
+Arbeta vidare med projekten!  
+
+### Tisdag   
+
+Arbeta vidare med projekten!  
+
+### Torsdag  
+
+Arbeta vidare med projekten!  
+
+*Sociala medier-genomgång*:  
 
 ## Vecka 6   
 
+### Måndag   
+
+Arbeta vidare med projekten!  
+
+### Tisdag   
+
+Arbeta vidare med projekten!  
+
+### Torsdag  
+
+Presentation av projekten!  
+
+*Sociala medier-genomgång*: 
 
 ## Vecka 7   
 
@@ -477,56 +534,105 @@ https://raw.githubusercontent.com/tcstenungsund/schedule/refs/tags/ay2425/md/ass
 
 ## Vecka 8   
 
+APL  
 
 ## Vecka 9   
 
+APL  
 
 ## Vecka 10   
 
+APL  
 
 ## Vecka 11   
 
+APL  
 
 ## Vecka 12   
 
+APL  
 
 ## Vecka 13   
 
+APL  
 
 ## Vecka 14   
 
 **PÅSKLOV**   
+
 ## Vecka 15   
 
+APL  
 
 ## Vecka 16   
 
+APL  
 
 ## Vecka 17   
 
+APL  
 
 ## Vecka 18   
 
+APL  
 
 ## Vecka 19   
 
+APL  
 
 ## Vecka 20   
 
+APL  
 
 ## Vecka 21   
 
+### Måndag   
+
+Nytt projekt!  
+
+### Tisdag   
+
+Arbeta vidare med projektet!  
+
+### Torsdag  
+
+Arbeta vidare med projektet!  
+
+*Sociala medier-genomgång*:  
 
 ## Vecka 22   
 
+### Måndag   
+
+Arbeta vidare med projektet!  
+
+### Tisdag   
+
+Arbeta vidare med projektet!  
+
+### Torsdag  
+
+Arbeta vidare med projektet!  
+
+*Sociala medier-genomgång*:  
 
 ## Vecka 23   
 
+### Måndag   
 
-## Vecka 24   
+Arbeta vidare med projektet!  
 
+### Tisdag   
 
-## Vecka 25   
+Arbeta vidare med projektet!  
+
+### Torsdag  
+
+Arbeta vidare med projektet!  
+
+*Sociala medier-genomgång*:  
+
+## Vecka 24  
 **SOMMARLOV**   
 
 ---     
