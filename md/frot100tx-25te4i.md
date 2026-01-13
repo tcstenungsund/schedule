@@ -612,7 +612,7 @@ Arbeta vidare med projektet!
 
 ### Torsdag  
 
-Arbeta vidare med projektet!  
+Presentera projektet!  
 
 *Sociala medier-genomgång*:  
 
@@ -620,17 +620,11 @@ Arbeta vidare med projektet!
 
 ### Måndag   
 
-Arbeta vidare med projektet!  
+?  
 
 ### Tisdag   
 
-Arbeta vidare med projektet!  
-
-### Torsdag  
-
-Arbeta vidare med projektet!  
-
-*Sociala medier-genomgång*:  
+?  
 
 ## Vecka 24  
 **SOMMARLOV**   
