@@ -332,7 +332,7 @@ Dokumentation
 
 ## Vecka 10   
 
-Grupprojekt!  
+**Utvecklingssamtal**  
 
 ## Vecka 11   
 
