@@ -1,4 +1,4 @@
-# Webbutveckling: CSS Zen Garden
+# @tcstenungsunds årliga tävling i webbdesign  
 
 _Dags att ta allt du hitills lärt dig och utmana dina klasskamrater! Vem är bäst designer?_  
 
