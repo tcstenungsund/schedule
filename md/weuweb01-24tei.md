@@ -300,7 +300,7 @@ Dagens uppgift är att på valfri plats se föreläsningen "[Start over-engineer
 
 ## Vecka 2   
 
-Tävling!  
+[@tcstenungsunds årliga tävling i webbdesign](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb_css-zen-garden)  
 
 ## Vecka 3   
 
