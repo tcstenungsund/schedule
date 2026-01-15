@@ -466,7 +466,7 @@ https://raw.githubusercontent.com/tcstenungsund/schedule/refs/tags/ay2425/md/ass
 
 --> 
 
-*Sociala medier-genomgång*:  
+*Sociala medier-genomgång*: [Ny cybersäkerhetslag](https://www.inuit.se/blogg/cybersakerhetslagen-darfor-racker-det-inte-att-vara-compliant), [vettig början på ett CSS-dokument](https://youtube.com/shorts/ydGti7sLVOc) av Kevin Powell, [alternativa CLI-verktyg skrivna i Rust](https://itsfoss.com/rust-alternative-cli-tools/) och ett äldre som heter [FUCK](https://vm.tiktok.com/ZNRhgJ5kS/)!  
 
 ## Vecka 4   
 
