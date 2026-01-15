@@ -140,13 +140,17 @@ Uppstartsvecka!
 Då det är extremt mycket snö på vägarna är det försåligt om ni inte kan dyka upp pga bussar som är inställda osv.
 
 Vi ska titta på en dokumentär som heter [Zero Days](https://www.cineasterna.com/sv/library/108/title/346)
-För er som inte är i skolan, gör ni detta hemma. klicka på länken och så lånar man filmen från biblioteket på hemsidan. Simplet!
+För er som inte är i skolan, gör ni detta hemma. Klicka på länken och så lånar man filmen från biblioteket på hemsidan. Simplet!
 
 Sedan ska ni svara på frågorna som ligger i en uppgift i Teamsrummet som vanligt. :)
 
 
 ## Vecka 3   
 
+Nu är det dags att börja förbereda oss inför nästa CTF tävling [Säkerhets SM](https://sakerhetssm.se/)
+
+Resurser för övning:
+[Läroresurser från Säkerhet SM](https://sakerhetssm.se/learn)
 
 ## Vecka 4   
 
