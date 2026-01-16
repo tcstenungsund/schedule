@@ -350,6 +350,27 @@ Julavslutning
 
 ## Vecka 2   
 
+Se "The Shocking AI Reveals That Stunned CES 2026" (13 min) på valfri ort!  
+
+## Vecka 3   
+
+###### Nytt om AI  
+* 
+* 
+* 
+
+###### Halvvägs genom kursen-utvärdering  
+
+[Skolverket](https://www.skolverket.se/undervisning/gymnasieskolan/program-och-amnen-i-gymnasieskolan/hitta-program-och-amnen-i-gymnasieskolan-gy25/hitta-program-och-amnen-i-gymnasieskolan-gy25#/search/subjects/ARTI#ARTI)  
+
+
+###### Övning: Skill för publicering  
+
+
+
+## Vecka 4   
+
+
 <!-- 
 
 ###### Elements of AI - AI i praktiken  
@@ -364,12 +385,6 @@ Julavslutning
 ###### Elements of AI - Konsekvenser  
 <img width="1324" height="547" alt="image" src="https://github.com/user-attachments/assets/7cc3b812-64cc-48f0-9321-c54982c9154d" />
 -->
-
-## Vecka 3   
-
-
-## Vecka 4   
-
 
 ## Vecka 5   
 
