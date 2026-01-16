@@ -350,7 +350,7 @@ Julavslutning
 
 ## Vecka 2   
 
-Se "The Shocking AI Reveals That Stunned CES 2026" (13 min) på valfri ort!  
+Se "[The Shocking AI Reveals That Stunned CES 2026](https://youtu.be/zEYIcaQwn6s)" (13 min) på valfri ort!  
 
 ## Vecka 3   
 
