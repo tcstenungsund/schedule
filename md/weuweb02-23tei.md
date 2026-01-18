@@ -294,22 +294,19 @@ Kursöversikt
 * Tester (13% av kursen)
 * Lagar och säkerhet (2% av kursen)
 
-Fortsätt arbeta med uppgiften CMS subtheme  
-
 ## Vecka 3   
-
 
 ### Måndag   
 
-Fortsätt arbeta med uppgiften CMS subtheme  
+[@tcstenungsunds årliga tävling i webbdesign](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb_css-zen-garden)  
 
 ### Fredag  
 
-Fortsätt arbeta med uppgiften CMS subtheme  
-
-Tävling  
+Omröstning i tävlingen  
 
 ## Vecka 4   
+
+Genomgång av uppgiften "[CMS subtheme](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-cms_subhteme)". Öppna [Kenneths stream](https://asciinema.org/s/2q0H4wPWwqQJECyz) i din webbläsare, där kan du se vad han skriver i terminalen, övrig information dyker upp på den stora skärmen.  
 
 <!-- 
 [AI in Drupal: It's Coming, and it's Awesome](https://youtu.be/4S-HBFVE2lU) (6 min)  
@@ -317,7 +314,6 @@ Tävling
 [My solar-powered and self-hosted website](https://dri.es/my-solar-powered-and-self-hosted-website)   
 
 [OSTips - Drupal](https://youtube.com/playlist?list=PLtaXuX0nEZk_R36-089QmM-OMTZ3APvuc&si=0pxyc81CkDZfHqZX)   
-
 -->
 
 ### Måndag   
