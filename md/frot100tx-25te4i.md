@@ -472,17 +472,18 @@ https://raw.githubusercontent.com/tcstenungsund/schedule/refs/tags/ay2425/md/ass
 
 ### Måndag   
 
-###### Mockups  
+###### Mjukvara för UI/UX-design  
 
-<!-- 
+Med avstamp i artikeln "[10 Projects everyone should try at least once](https://www.webdesignerdepot.com/2017/11/design-bucket-list-10-projects-everyone-should-try-at-least-once/)" talar vi om mjukvara för UX-design, som [Inkscape](https://inkscape.org/) ("[Inkscape Demo](https://youtu.be/nw0jS-Z27yY)" (1 min)) och [Scribus](https://www.scribus.net/) ("[Scribus Demo](https://youtu.be/d8kOET_zxJM)" (1 min)).  
 
-https://penpot.app/ 
+Vi ser "[What is Figma?](https://youtu.be/ai3uP7QzrPQ)" (1 min) och "[Is Figma Dead?](https://youtu.be/pj7D0tSNmEg)" (7 min). I kursen kommer vi använda [Penpot](https://penpot.app/) för detta ändamål.  
 
-Med avstamp i artikeln "[10 Projects everyone should try at least once](https://www.webdesignerdepot.com/2017/11/design-bucket-list-10-projects-everyone-should-try-at-least-once/)" talar vi om mjukvara för UX-design, som [Scribus](https://www.scribus.net/) och [Inkscape](https://inkscape.org/). Vi ser "[What Is Figma?](https://youtu.be/PaPIsyO1t3Q)" och "[Is Figma Dead?](https://youtu.be/pj7D0tSNmEg)". I kursen kommer vi använda [Penpot](https://penpot.app/) för detta ändamål. 
+* [World's Simplest Penpot Crash Course ](https://youtu.be/ak5eQKxprB4) (29 min)  
+* [Prototyping | Penpot Hands-On Demo](https://peertube.kaleidos.net/w/b9d30801-c473-46ff-b07b-3e9bedd7baeb) (60 min)  
+* [UI design with Penpot | Penpot Hands-On Demo](https://peertube.kaleidos.net/w/00ae1b25-7350-4424-9818-fca7dede77d5) (60 min)  
+* [Learn Penpot](https://youtube.com/playlist?list=PLqazFFzUAPc7g3Yw_0O3LqookKRnnfdZj&si=fIhsB0lScKmPSkpy) (~90 min)  
 
-[<img alt="Alternatives to Adobe products" src="https://i.imgur.com/ieDaMzO.png" width="20%">](https://i.imgur.com/ieDaMzO.png)
-
--->
+[<img alt="Alternatives to Adobe products" src="https://i.imgur.com/ieDaMzO.png" width="20%">](https://i.imgur.com/ieDaMzO.png)  
 
 Arbeta vidare med projekten!  
 
