@@ -294,33 +294,31 @@ Prov: CSS
 
 Dagens uppgift är att på valfri plats se föreläsningen "[Start over-engineering your CSS](https://youtu.be/k_3pRxdv-cI)" av Kevin Powell från "[CSS Day 2024](https://cssday.nl/2024/)", en riktigt stor konferens i Nederländerna.  
 
-## Vecka 52   
+## Vecka 52  
 
-**VINTERLOV**   
+**VINTERLOV**  
 
-## Vecka 2   
+## Vecka 3  
 
 [@tcstenungsunds årliga tävling i webbdesign](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb_css-zen-garden)  
 
-## Vecka 3   
+## Vecka 4  
+
+Genomgång av provet från vecka 50  
+
+Genomgång av tävlingen från vecka 3  
+
+## Vecka 5  
 
 Ramverk  
 
-## Vecka 4   
+## Vecka 6  
 
 Ramverk  
-
-## Vecka 5   
-
-Vektorgrafik  
-
-## Vecka 6   
-
-Vektorgrafik  
 
 ## Vecka 7   
 
-**SPORTLOV**   
+**SPORTLOV**  
 
 ## Vecka 8   
 
