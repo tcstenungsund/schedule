@@ -208,12 +208,31 @@ Planeringsverktyg - Moodboards
 
 ## Vecka 2   
 
-[CSS Zen Garden](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/md/assignments/weuweb01-ind_css_zengarden)
+**VINTERLOV**
 
 ## Vecka 3   
 
+[CSS Zen Garden](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/md/assignments/weuweb01-ind_css_zengarden)
 
 ## Vecka 4   
+
+Vi tittar på utvecklingen av loggor på kända företag: [Loggor](https://www.reddit.com/r/coolguides/comments/1fo7mrh/a_cool_guide_to_how_30_brand_logos_evolved_over/#lightbox)
+
+Vi pratar lite repetion om färger: 
+
+Färger har också olika betydelser på olika platser, enligt "[Colours In Culture](https://informationisbeautiful.net/visualizations/colours-in-cultures/)".      
+
+
+Personligt varumärke!
+
+Idag ska vi börja med nästa uppgift, ditt personliga varumärke.
+
+[Installera Inkscape](https://apps.microsoft.com/detail/9pd9bhglfc7h?ocid=webpdpshare)
+
+[Inkscape Tutorial 1](https://www.youtube.com/watch?v=OT97oRXZiVY)
+
+[Inkscape Tutorial 2](https://www.youtube.com/watch?v=EX4T9sw6zIM)
+
 
 
 ## Vecka 5   
