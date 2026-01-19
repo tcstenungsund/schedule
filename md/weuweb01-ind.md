@@ -218,12 +218,12 @@ Planeringsverktyg - Moodboards
 
 Vi tittar på utvecklingen av loggor på kända företag: [Loggor](https://www.reddit.com/r/coolguides/comments/1fo7mrh/a_cool_guide_to_how_30_brand_logos_evolved_over/#lightbox)
 
-Vi pratar lite repetion om färger: 
+##### Vi pratar lite repetion om färger
 
 Färger har också olika betydelser på olika platser, enligt "[Colours In Culture](https://informationisbeautiful.net/visualizations/colours-in-cultures/)".      
 
 
-Personligt varumärke!
+##### Personligt varumärke!
 
 Idag ska vi börja med nästa uppgift, ditt personliga varumärke.
 
