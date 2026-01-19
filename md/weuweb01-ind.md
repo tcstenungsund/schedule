@@ -236,6 +236,12 @@ Idag ska vi börja med nästa uppgift, ditt personliga varumärke.
 Uppgift: Skapa ditt peronliga varumörke i Inkscape!
 OBS! Ett krav är att ditt namn ska finnas med i loggan.
 
+##### Färgprogram
+
+* [Coolors]([https://coolors.co/)
+* [Colours In Culture](https://informationisbeautiful.net/visualizations/colours-in-cultures/)
+  
+
 
 ## Vecka 5   
 
