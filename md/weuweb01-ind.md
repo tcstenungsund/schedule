@@ -233,6 +233,8 @@ Idag ska vi börja med nästa uppgift, ditt personliga varumärke.
 
 [Inkscape Tutorial 2](https://www.youtube.com/watch?v=EX4T9sw6zIM)
 
+Uppgift: Skapa ditt peronliga varumörke i Inkscape!
+OBS! Ett krav är att ditt namn ska finnas med i loggan.
 
 
 ## Vecka 5   
