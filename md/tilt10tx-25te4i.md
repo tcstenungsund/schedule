@@ -169,55 +169,138 @@ Microservice arkitektur - https://learn.microsoft.com/sv-se/azure/architecture/g
 
 LinQ i c# - används för att ställa queries mot databas och för att hantera in-memory listor
 
+Fredag:
+
+Genomgång av kapitel 2 - Servicemötet.
 
 ## Vecka 5   
 
+Tisdag:
+
+Ni behöver förbereda er inför APL.
+
+Jag tänker att vi delar upp er i grupper beroende på vilken roll ni ska göra er praktik som:
+
+IT-Support:
+
+Färdigställ instruktionsvideos till Soltak AB.
+
+Gör Cisco kursen - 
+IT Customer Support Basics (CCST IT-Support 1/4) - Finns 3 delar till.
+
+Active Directory - https://itlararen.se/videos/windows/win40.html
+
+Mjukvaruutvecklare:
+
+Ni kan arbeta med det projekt som startats i programmeringen.
+
+Kika lite på Powershell - https://learn.microsoft.com/en-us/powershell/scripting/install/install-ubuntu?view=powershell-7.5
+
+Resurser för Powershell finns även på ITläraren.se - https://itlararen.se/videos.html
+
+Kika lite på tekniker som Hogia sitter med, det här bubblar enligt Axel:
+
+API design i c# - restful API design
+
+Microservice arkitektur - https://learn.microsoft.com/sv-se/azure/architecture/guide/architecture-styles/microservices
+
+LinQ i c# - används för att ställa queries mot databas och för att hantera in-memory listor
+
+Fredag:
+
+Genomgång kapitel 9 - Skapa hållbar arbetsmiljö
 
 ## Vecka 6   
 
+Tisdag:
 
+Ni behöver förbereda er inför APL.
+
+Jag tänker att vi delar upp er i grupper beroende på vilken roll ni ska göra er praktik som:
+
+IT-Support:
+
+Färdigställ instruktionsvideos till Soltak AB.
+
+Gör Cisco kursen - 
+IT Customer Support Basics (CCST IT-Support 1/4) - Finns 3 delar till.
+
+Active Directory - https://itlararen.se/videos/windows/win40.html
+
+Mjukvaruutvecklare:
+
+Ni kan arbeta med det projekt som startats i programmeringen.
+
+Kika lite på Powershell - https://learn.microsoft.com/en-us/powershell/scripting/install/install-ubuntu?view=powershell-7.5
+
+Resurser för Powershell finns även på ITläraren.se - https://itlararen.se/videos.html
+
+Kika lite på tekniker som Hogia sitter med, det här bubblar enligt Axel:
+
+API design i c# - restful API design
+
+Microservice arkitektur - https://learn.microsoft.com/sv-se/azure/architecture/guide/architecture-styles/microservices
+
+LinQ i c# - används för att ställa queries mot databas och för att hantera in-memory listor
+
+Fredag:
+
+Presentation av APL uppgift - ni ska undersöka arbetsmiljön på er APL plats.
+
+PROV - Servicekunskap
 ## Vecka 7   
 
 **SPORTLOV**   
 
 ## Vecka 8   
 
+APL
 
 ## Vecka 9   
 
+APL
 
 ## Vecka 10   
 
+APL
 
 ## Vecka 11   
 
-
+APL
 ## Vecka 12   
 
+APL
 
 ## Vecka 13   
 
+APL
 
 ## Vecka 14   
 
 **PÅSKLOV**   
 ## Vecka 15   
 
+APL
 
 ## Vecka 16   
 
+APL
 
 ## Vecka 17   
 
+APL
 
 ## Vecka 18   
 
+APL
 
 ## Vecka 19   
 
+APL
 
 ## Vecka 20   
 
+APL
 
 ## Vecka 21   
 
