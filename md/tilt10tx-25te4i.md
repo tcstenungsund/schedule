@@ -103,9 +103,15 @@ Tid och plats: Torsdag 27/11 kl. 14 i Bohuslän. Hogia bjuder på fika.
  
 ## Vecka 49   
 
+Arbeta med att slutföra höstens projekt.
+
+Färdigställ instruktionsvideo till Soltak.
 
 ## Vecka 50   
 
+Arbeta med att slutföra höstens projekt.
+
+Färdigställ instruktionsvideo till Soltak.
 
 ## Vecka 51   
 
@@ -115,12 +121,51 @@ Tid och plats: Torsdag 27/11 kl. 14 i Bohuslän. Hogia bjuder på fika.
 **VINTERLOV**   
 
 ## Vecka 2   
-
+LOV
 
 ## Vecka 3   
 
+RJO sjuk - arbeta med projekt
+
+Fredag:
+Uppstart av Servicekunskapsmomentet.
+
+Registrering av licenser till Servicekunskapsboken.
+
+Genomgång och diskussion kring första delen - Vad är Service.
 
 ## Vecka 4   
+
+Tisdag:
+
+Vi har tre veckor till APL startar.
+
+Ni behöver förbereda er inför APL.
+
+Jag tänker att vi delar upp er i grupper beroende på vilken roll ni ska göra er praktik som:
+
+IT-Support:
+
+Färdigställ instruktionsvideos till Soltak AB.
+
+Gör Cisco kursen - 
+IT Customer Support Basics (CCST IT-Support 1/4)
+
+Mjukvaruutvecklare:
+
+Ni kan arbeta med det projekt som startats i programmeringen.
+
+Kika lite på Powershell - https://learn.microsoft.com/en-us/powershell/scripting/install/install-ubuntu?view=powershell-7.5
+
+Resurser för Powershell finns även på ITläraren.se - https://itlararen.se/videos.html
+
+Kika lite på tekniker som Hogia sitter med, det här bubblar enligt Axel:
+
+API design i c# - restful API design
+
+Microservice arkitektur - https://learn.microsoft.com/sv-se/azure/architecture/guide/architecture-styles/microservices
+
+LinQ i c# - används för att ställa queries mot databas och för att hantera in-memory listor
 
 
 ## Vecka 5   
