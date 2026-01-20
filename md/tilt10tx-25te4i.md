@@ -149,7 +149,9 @@ IT-Support:
 Färdigställ instruktionsvideos till Soltak AB.
 
 Gör Cisco kursen - 
-IT Customer Support Basics (CCST IT-Support 1/4)
+IT Customer Support Basics (CCST IT-Support 1/4) - Finns 3 delar till.
+
+Active Directory - https://itlararen.se/videos/windows/win40.html
 
 Mjukvaruutvecklare:
 
