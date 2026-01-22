@@ -366,15 +366,22 @@ Se "[The Shocking AI Reveals That Stunned CES 2026](https://youtu.be/zEYIcaQwn6s
 
 ###### Övning: Skill för publicering  
 
-
+Skapa en skill som genererar en bild som ser ut som ett screenshot av ett inlägg i sociala media. En grupp per plattform: facebook, instagram, 𝕏, snapchat, ST-tidningen.  
 
 ## Vecka 4   
 
-
-<!-- 
+###### Nytt om AI  
+* 
 
 ###### Elements of AI - AI i praktiken  
 <img width="1324" height="609" alt="image" src="https://github.com/user-attachments/assets/a6b48490-c843-441e-86be-58c78da651e8" />  
+
+###### Övning: Skill för publicering  
+
+RJO ger feedback på ert första utkast från förra veckan, ta till er det och förbättra er skill. Testa den med flera olika texter, och säkerställ att er skill fungerar!  
+
+## Vecka 5   
+<!-- 
 
 ###### Elements of AI - Maskininlärning  
 <img width="1324" height="565" alt="image" src="https://github.com/user-attachments/assets/ebc30200-6c8c-4c4d-afec-5443adeb3e82" />
@@ -385,8 +392,6 @@ Se "[The Shocking AI Reveals That Stunned CES 2026](https://youtu.be/zEYIcaQwn6s
 ###### Elements of AI - Konsekvenser  
 <img width="1324" height="547" alt="image" src="https://github.com/user-attachments/assets/7cc3b812-64cc-48f0-9321-c54982c9154d" />
 -->
-
-## Vecka 5   
 
 
 ## Vecka 6   
