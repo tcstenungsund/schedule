@@ -154,6 +154,10 @@ Resurser för övning:
 
 ## Vecka 4   
 
+[Säkerhets SM](https://sakerhetssm.se/)
+
+Resurser för övning:
+[Läroresurser från Säkerhet SM](https://sakerhetssm.se/learn)
 
 ## Vecka 5   
 
