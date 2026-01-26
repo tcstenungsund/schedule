@@ -245,9 +245,14 @@ OBS! Ett krav är att ditt namn ska finnas med i loggan.
 
 ## Vecka 5   
 
+Idag fortsätter vi med uppgiften: Personligt varumärke från förra veckan.
+
 
 ## Vecka 6   
 
+Idag fortsätter vi med uppgiften: Personligt varumärke från förra veckan.
+
+* OBS! Idag ska ni lämna in svg filen med loggan på i Teams, samt en liten kort text med förklaring om hur ni har tänkt.
 
 ## Vecka 7   
 
