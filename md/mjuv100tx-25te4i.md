@@ -1,4 +1,4 @@
-# Mjukvarudesigne Nivå 1 - 25TE4I
+# Mjukvarudesign Nivå 1 - 25TE4I
 
 ## Vecka 36
 Introduktion till kursen. [Länk till ämnesplanen](https://www.skolverket.se/undervisning/gymnasieskolan/program-och-amnen-i-gymnasieskolan/hitta-program-och-amnen-i-gymnasieskolan-gy25/amne-gy2025?url=907561864%2Fsyllabuscw%2Fjsp%2Fsubject.htm%3FsubjectCode%3DMJUV%26courseCode%3DMJUV100TX%26version%3D1%26tos%3Dgy%26origin%3Dgy2025&sv.url=12.467ba038192d14ade318a#anchor_MJUV100TX)
