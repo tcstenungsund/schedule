@@ -310,6 +310,8 @@ Genomgång av tävlingen från vecka 3
 
 ## Vecka 5  
 
+En titt på [Examensmål för Teknikprogrammet](https://www.skolverket.se/undervisning/gymnasieskolan/program-och-amnen-i-gymnasieskolan/gymnasieprogrammen-gy25/nationella-program#/programs/TE25#degreeObjectives) och samt [Skolverkets riktlinjer](https://www.skolverket.se/undervisning/gymnasieskolan/program-och-amnen-i-gymnasieskolan/hitta-program-och-amnen-i-gymnasieskolan-gy25/hitta-program-och-amnen-i-gymnasieskolan-gy25#/search/subjects/WEBB?version=1#WEBB1000X) för kursen. Dessutom, hur utvärderas det du gör och [Hur sätter lärare betyg?](https://youtu.be/Zef4M5J94Wk) (6 min)  
+
 ###### CSS-ramverk  
 
 Hur använder man andras kod? Det största CSS-ramverket i världen heter "[Bootstrap](https://getbootstrap.com/)". Bootstrap är ett gäng CSS-filer du länkar in på din sida, och sedan lägger du till ett tema med hjälp av "[Bootstrap Build](https://bootstrap.build/)".   
