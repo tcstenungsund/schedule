@@ -505,6 +505,8 @@ Arbeta vidare med projekten!
 
 ### Tisdag   
 
+Vi talar om Passkeys. Med sin grund hos [Yubico](https://www.yubico.com/) och tekniker som [SQRL](https://www.grc.com/sqrl/sqrl.htm) förklaras på djupet hur Passkeys fungerar i podcastavsnittet "[WTF is a passkey with William Brown](https://opensourcesecurity.io/2026/2026-01-passkey-william-brown/)" (69 min). William Brown jobbar för [SUSE](https://www.suse.com/) och har skrivit delar av deras authentication system i [rust](https://rust-lang.org/).  
+
 Arbeta vidare med projekten!  
 
 ### Torsdag  
