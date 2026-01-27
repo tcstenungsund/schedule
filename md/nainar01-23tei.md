@@ -181,19 +181,35 @@ PROV - Modul 1-3.
 **VINTERLOV**   
 
 ## Vecka 2   
+Måndag:
 
+Tisdag:
 
 ## Vecka 3   
+Måndag:
 
+Tisdag:
 
-## Vecka 4   
+## Vecka 4  
+
+Måndag:
+
+Tisdag:
 
 
 ## Vecka 5   
 
+Måndag:
+Genomgång av Modul 1,2 och 3 i CCST 3/4 kursen. Arbeta med interaktiva övningar och gör Quiz.
+
+Tisdag:
+Laboration CCNA2 6.4.2 - Implement Etherchannel.
 
 ## Vecka 6   
 
+Måndag:
+
+Tisdag:
 
 ## Vecka 7   
 
@@ -201,6 +217,9 @@ PROV - Modul 1-3.
 
 ## Vecka 8   
 
+Måndag:
+
+Tisdag:
 
 ## Vecka 9   
 
