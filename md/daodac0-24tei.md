@@ -199,14 +199,30 @@ Julavslutning!
 
 ## Vecka 3
 
+Ny Cisco kurs: Security and Connectivity Support (CCST IT-Support 3/4) 
+
+Genomgång av Modul 1 - Troubleshooting Common Services and Peripheral Connectivity Issues
 
 ## Vecka 4  
+
+Genomgång av Modul 2 - Troubleshooting Common Network Connectivity Issues
+
+2.1, 2.2, 2.3 och 2.4.
 
 
 ## Vecka 5   
 
+Genomgång av Modul 2 - Troubleshooting Common Network Connectivity Issues
+
+2.4, 2.5, 2.6 och 2.7
+
+Gör Modul Quiz och interaktiva övningar.
+
 
 ## Vecka 6   
+
+Genomgång av Modul 3 - Troubleshooting Common Security Issues
+
 
 
 ## Vecka 7   
