@@ -161,6 +161,10 @@ Resurser för övning:
 
 ## Vecka 5   
 
+Idag ska vi börja sätta upp lite labb miljöer med lite olika saker.
+
+[Resource Hub](https://www.netacad.com/resources/lab-downloads?courseLang=en-US)
+
 
 
 ## Vecka 6   
