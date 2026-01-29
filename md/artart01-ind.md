@@ -371,10 +371,19 @@ Skapa en skill som genererar en bild som ser ut som ett screenshot av ett inläg
 ## Vecka 4   
 
 ###### Nytt om AI  
-* 
+
+<img width="337" height="264" alt="Pi Hat+ 2" src="https://github.com/user-attachments/assets/cda8e870-71d8-4909-8154-0ddb1f1dba4b" />
+
+* [Pi Hat+ 2](https://www.electrokit.com/raspberry-pi-ai-hat2)   
+* [OpenWork](https://openwork.software/)  
+  
+* <img width="322" height="374" alt="DeGoogling" src="https://github.com/user-attachments/assets/f58e8489-d2a8-4b7d-b9a4-823205d7a6d8" />
+
 
 ###### Elements of AI - AI i praktiken  
 <img width="1324" height="609" alt="image" src="https://github.com/user-attachments/assets/a6b48490-c843-441e-86be-58c78da651e8" />  
+
+Genomgång av Kapitel 3, avsnitt 1 och 2, fram till och med övning 10.
 
 ###### Övning: Skill för publicering  
 
