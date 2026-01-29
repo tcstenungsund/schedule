@@ -165,7 +165,9 @@ Idag ska vi börja sätta upp lite labb miljöer med lite olika saker.
 
 [Resource Hub](https://www.netacad.com/resources/lab-downloads?courseLang=en-US)
 
-Det ligger en inlämningsuppgift i Teams med nämnet "Kali Linux Labb", man ska göra båda labbarna och svara på frågorna och lämna in.
+Ni ska ladda ner Ethical hackings ova fil för virtualbox.
+
+* OBS! Det ligger en inlämningsuppgift i Teams med nämnet "Kali Linux Labb", man ska göra båda labbarna och svara på frågorna och lämna in.
 
 ## Vecka 6   
 
