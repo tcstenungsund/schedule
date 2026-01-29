@@ -513,7 +513,7 @@ Arbeta vidare med projekten!
 
 Arbeta vidare med projekten!  
 
-*Sociala medier-genomgång*:  
+*Sociala medier-genomgång*: "I Designed Your Goofiest UI Ideas" (20 min), [50 design styles](https://www.tiktok.com/@denny.kurien/video/7597408116967345416), "[What if vibe coders are just learning](https://www.youtube.com/shorts/QZCHax14ImA)" och [AI-browser Puma](https://www.zdnet.com/article/puma-browser-hands-on/).  
 
 ## Vecka 6   
 
