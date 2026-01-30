@@ -375,21 +375,36 @@ Skapa en skill som genererar en bild som ser ut som ett screenshot av ett inläg
 <img width="337" height="264" alt="Pi Hat+ 2" src="https://github.com/user-attachments/assets/cda8e870-71d8-4909-8154-0ddb1f1dba4b" />
 
 * [Pi Hat+ 2](https://www.electrokit.com/raspberry-pi-ai-hat2)   
-* [OpenWork](https://openwork.software/)  
-  
+* [OpenWork](https://openwork.software/)   
 * <img width="322" height="374" alt="DeGoogling" src="https://github.com/user-attachments/assets/f58e8489-d2a8-4b7d-b9a4-823205d7a6d8" />
-
 
 ###### Elements of AI - AI i praktiken  
 <img width="1324" height="609" alt="image" src="https://github.com/user-attachments/assets/a6b48490-c843-441e-86be-58c78da651e8" />  
 
-Genomgång av Kapitel 3, avsnitt 1 och 2, fram till och med övning 10.
+Genomgång av Kapitel 3, avsnitt 1 och 2, fram till och med övning 10.  
 
 ###### Övning: Skill för publicering  
 
 RJO ger feedback på ert första utkast från förra veckan, ta till er det och förbättra er skill. Testa den med flera olika texter, och säkerställ att er skill fungerar!  
 
 ## Vecka 5   
+
+###### Nytt om AI  
+* 
+
+Vi ser ett avsnitt av [Generation AI](https://www.svtplay.se/generation-ai), närmare bestämt avsnitt 4 om "[Undergången](https://www.svtplay.se/video/8rQLm57/generation-ai/4-undergangen)" (25 min)!  
+
+###### Ny uppgift!!!!!!!!!  
+
+## Vecka 6   
+
+
+## Vecka 7   
+
+**SPORTLOV**   
+
+## Vecka 8   
+
 <!-- 
 
 ###### Elements of AI - Maskininlärning  
@@ -401,17 +416,6 @@ RJO ger feedback på ert första utkast från förra veckan, ta till er det och 
 ###### Elements of AI - Konsekvenser  
 <img width="1324" height="547" alt="image" src="https://github.com/user-attachments/assets/7cc3b812-64cc-48f0-9321-c54982c9154d" />
 -->
-
-
-## Vecka 6   
-
-
-## Vecka 7   
-
-**SPORTLOV**   
-
-## Vecka 8   
-
 
 ## Vecka 9   
 
