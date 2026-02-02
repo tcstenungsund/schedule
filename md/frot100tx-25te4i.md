@@ -529,6 +529,10 @@ Arbeta vidare med projekten!
 
 Presentation av projekten!  
 
+Ett repository med koden för en PWA. 
+
+[Deliverables](https://en.wikipedia.org/wiki/Deliverable) skall även inkludera testresultat.   
+
 *Sociala medier-genomgång*: 
 
 ## Vecka 7   
