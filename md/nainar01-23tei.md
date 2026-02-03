@@ -208,8 +208,15 @@ Laboration CCNA2 6.4.2 - Implement Etherchannel.
 ## Vecka 6   
 
 Måndag:
+Läs inför Modulprov imorgon. Föreläsning av FRA.
 
 Tisdag:
+PROV - Modul 1,2 och 3.- Checkpoint Exam: Physical, Data Link, and Network Layers
+
+Laboration - 15.6.2 i CCNA: Switching, Routing, and Wireless Essentials kursen.
+
+IP Static Routing - gör i första hand IPV4 momenten i labben, hinner ni gör ni även IPV6.
+
 
 ## Vecka 7   
 
