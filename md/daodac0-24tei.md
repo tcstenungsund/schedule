@@ -224,11 +224,20 @@ Gör Modul Quiz och interaktiva övningar.
 
 ## Vecka 6   
 
-Genomgång av Modul 3 - Troubleshooting Common Security Issues
+Genomgång av hela Modul 3 - Troubleshooting Common Security Issues
 
 [Så lätt kan någon ta sig in i myndigheters IT-system - 2016](https://www.youtube.com/watch?v=PfaLtOjSyww)
 
 [Aisuru botnet sets new record with 31.4 Tbps DDoS attack](https://www.bleepingcomputer.com/news/security/aisuru-botnet-sets-new-record-with-314-tbps-ddos-attack/)
+
+Vi avslutar med att se: 
+
+<img width="1320" height="669" alt="Screenshot_20260204_161605" src="https://github.com/user-attachments/assets/e90fa573-0aa1-460f-968c-c6aa8acf28a4" />
+
+
+[ DEFCON 19: Steal Everything, Kill Everyone, Cause Total Financial Ruin!](https://www.youtube.com/watch?v=JsVtHqICeKE)
+
+Efter lovet har vi prov på Modul 1,2 och 3!
 
 ## Vecka 7   
 
