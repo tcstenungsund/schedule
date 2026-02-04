@@ -226,7 +226,9 @@ Gör Modul Quiz och interaktiva övningar.
 
 Genomgång av Modul 3 - Troubleshooting Common Security Issues
 
+[Så lätt kan någon ta sig in i myndigheters IT-system - 2016](https://www.youtube.com/watch?v=PfaLtOjSyww)
 
+[Aisuru botnet sets new record with 31.4 Tbps DDoS attack](https://www.bleepingcomputer.com/news/security/aisuru-botnet-sets-new-record-with-314-tbps-ddos-attack/)
 
 ## Vecka 7   
 
