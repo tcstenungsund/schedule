@@ -171,6 +171,7 @@ Ni ska ladda ner Ethical hackings ova fil för virtualbox.
 
 ## Vecka 6   
 
+Fortsätta med förra veckans labb.
 
 ## Vecka 7   
 
