@@ -247,7 +247,12 @@ Fredag:
 
 Presentation av APL uppgift - ni ska undersöka arbetsmiljön på er APL plats.
 
+Loggbok - Ni ska skriva en loggbok under er APL.
+
+Kontaktuppgifter - skicka in era mobilnummer till Ronnie.
+
 PROV - Servicekunskap
+
 ## Vecka 7   
 
 **SPORTLOV**   
