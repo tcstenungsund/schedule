@@ -355,9 +355,8 @@ Se "[The Shocking AI Reveals That Stunned CES 2026](https://youtu.be/zEYIcaQwn6s
 ## Vecka 3   
 
 ###### Nytt om AI  
-* 
-* 
-* 
+* "[I ditched Google Chrome for a free local browser on my Pixel, and I'd happily pay a premium for it](https://www.zdnet.com/article/puma-browser-hands-on/)"  
+* [OpenWork](https://openwork.software/)  
 
 ###### Halvvägs genom kursen-utvärdering  
 
@@ -390,11 +389,15 @@ RJO ger feedback på ert första utkast från förra veckan, ta till er det och 
 ## Vecka 5   
 
 ###### Nytt om AI  
-* 
+* Utvärdering av [Puma](https://www.zdnet.com/article/puma-browser-hands-on/) och [OpenWork](https://openwork.software/) efter ett par veckor med dem, slutsats: USE THEM!
+* "[An open standard for agent skills](https://www.mintlify.com/blog/skill-md)" samt pakethanterare för skills
+* "[A timeline of Earth's average temperature](https://xkcd.com/1732/)"  
 
 Vi ser ett avsnitt av [Generation AI](https://www.svtplay.se/generation-ai), närmare bestämt avsnitt 4 om "[Undergången](https://www.svtplay.se/video/8rQLm57/generation-ai/4-undergangen)" (25 min)!  
 
-###### Ny uppgift!!!!!!!!!  
+###### Västkustfestivalen  
+
+Använd en LLM för att ta fram en text till en schlagerlåt, gärna med västkustkoppling. Hitta en annan generativ AI-tjänst som skapar musik och sjunger din text. Komplettera med en omslagsbild av din artist.  
 
 ## Vecka 6   
 
