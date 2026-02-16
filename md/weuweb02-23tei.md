@@ -351,17 +351,19 @@ Fortsätt arbeta med uppgiften CMS subtheme
 
 ### Måndag   
 
-Gruppuppgift  
+###### Versionshantering för stora projekt  
 
 ### Fredag  
 
-Gruppuppgift  
+###### Arbetsflöde  
 
 ## Vecka 9   
 
 ### Måndag   
 
-Gruppuppgift  
+###### Projektplanering  
+
+Test: Versionshantering för stora projekt  
 
 ### Fredag  
 
