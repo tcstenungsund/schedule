@@ -326,6 +326,8 @@ Vi ser "[Intro & Setup](https://youtu.be/O_9u1P5YjVc)" (7 min), "[Colours & Typo
 
 En titt på [Examensmål för Teknikprogrammet](https://www.skolverket.se/undervisning/gymnasieskolan/program-och-amnen-i-gymnasieskolan/gymnasieprogrammen-gy25/nationella-program#/programs/TE25#degreeObjectives) och samt [Skolverkets riktlinjer](https://www.skolverket.se/undervisning/gymnasieskolan/program-och-amnen-i-gymnasieskolan/hitta-program-och-amnen-i-gymnasieskolan-gy25/hitta-program-och-amnen-i-gymnasieskolan-gy25#/search/subjects/WEBB?version=1#WEBB1000X) för kursen. Dessutom, hur utvärderas det du gör och [Hur sätter lärare betyg?](https://youtu.be/Zef4M5J94Wk) (6 min)  
 
+Hur lär man sig nya saker? Genom att följa the [Tech Support Cheat Sheet](https://xkcd.com/627/)!  
+
 Fortsätt arbeta med uppgift CSS-ramverk  
 
 ## Vecka 7   
@@ -334,9 +336,82 @@ Fortsätt arbeta med uppgift CSS-ramverk
 
 ## Vecka 8   
 
-Dokumentation
+<!-- 
+###### Mjukvara och versionshantering  
+
+Inför våren kommer vi introducera några nya mjukvaror. Vi kommer tala mer om dessa längre fram, men innan vi installerar dem tittar vi lite snabbt på vad de är och gör.  
+
+Vad är en [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment)? Vi talar om den nya generationens lightweight-IDEer som Brackets, Atom, [neovim](https://neovim.io/) och Visual Studio Code, men nämner även traditionella IDEer som Dreamweaver, Eclipse och PHPStorm. "[5 reasons you should switch from VS Code to VSCodium](https://thedeveloperspace.com/5-reasons-you-should-switch-from-vs-code-to-vscodium/)". Slutsats: vi installerar och använder [VScodium](https://vscodium.com/). "[Visual Studio Code Web Dev Setup In 6 Minutes](https://youtu.be/4NfFFsQC77M)" (4 min).  
+
+Ladda ned och installera VSCodium, GitHub Desktop och Inkscape.  
+
+
+
+###### Design systems  
+
+Ett [designsystem](https://en.wikipedia.org/wiki/Design_system) innehåller riktlinjer och exempel på hur en organisation skall visa upp och uttrycka sig. Oavsett om du skall skapa en ny mall för brevpapper och visitkort, skriva en blogpost för er webbplats eller programmera en ny app, så går du först till ert designsystem för att se hur du skall designa den. De tre största delarna av ett designsystem är en style guide (också kallad grafisk profil), ett pattern library och ett component library.  
+
+[Design Systems vs. Style Guides](https://youtu.be/5BgKwkpJQdE) (2 min)  
+
+Annat som du hittar i ett designsystem (antingen som en del av de tre största delarna som nämns ovan, eller enskillt) är Colour paletts, Typography, Logotype use, Tone of copy, User storys, Calls To Action, Sitemap, Iconography, Grid, Templates, A11y.  
+
+Hur skapar man ett designsystem? "[What is a Design System? A simple guide to get started](https://uxdesign.cc/what-is-a-design-system-a-simple-guide-to-get-started-529fb4b38f9b)". Se exempel på "[Design Systems Database](https://designsystems.surf/)" och i videon "[5 Best Design Systems and How to Learn (and Steal) From Them](https://youtu.be//BISC15OPeGA)" (12 min).  
+
+Style guide  
+* "[How To Create Brand Style Guides Like A Pro](https://youtu.be/AjgQBC_XyS4)" (5 min)     
+* "[How to Create a Website Style Guide](https://whitepeak.io/blog/website-style-guide-template/)"
+* "[Building Your Color Palette](https://www.refactoringui.com/previews/building-your-color-palette)"   
+
+Pattern library  
+* "[How to Create a Pattern Library and Why You Should Bother](https://boagworld.com/design/pattern-library/)"
+
+Component library  
+* "[Component Name Matrix](https://open-ui.org/research/component-matrix/)"    
+* "[Bootstrap Pattern Library](https://getbootstrap.com/docs/5.3/components/accordion/)"    
+
+-->
+
+
+
+**Veckans läxa:** Lyssna på avsnittet ”[001 The Box-model](https://thecsspodcast.libsyn.com/-the-css-podcast-box-model-episode-1)” (12 min) av podcasten “The CSS Podcast”. (Finns också på [Spotify](https://open.spotify.com/episode/1j2EhMoMkbiuC9LkrLG1gX).)  
 
 ## Vecka 9   
+
+<!-- 
+
+###### Versionshantering  
+Vad är versionshantering, och vad använder vi det till? "[What is Git](https://youtu.be/sHoZuyl5hws)" (4 min)  
+
+
+###### Markdown   
+
+Vad är [Markdown](https://en.wikipedia.org/wiki/Markdown)? Vi lär oss med "[Markdown Guide](https://www.markdownguide.org/getting-started/)" och genom att göra övningen på "[Markdown Tutorial](https://www.markdowntutorial.com/)".   
+
+Vad kan man använda markdown till? "[How to set up a GitHub Profile README](https://youtu.be/-otyb0ngsa4)" (2 min)   
+
+Skapa en profil med hjälp av [ProfileMe.dev](https://www.profileme.dev/). Logga in på GitHub och lägg till din profil. 
+
+
+###### Publicering av webbplats   
+
+Protokollet [FTP](https://en.wikipedia.org/wiki/File_Transfer_Protocol) har nästan helt ersatts av verktyget [Git](https://sv.wikipedia.org/wiki/Git_(datorprogram)) för publicering av filer på webben. Du laddar upp dina filer till platser som [GitHub](https://github.com/) eller ett [webbhotell](https://www.loopia.se/webbhotell/). För att hitta dem registrerar du en [domänadress](https://www.loopia.se/domannamn/) och konfigurerar [DNS](https://sv.wikipedia.org/wiki/Dom%C3%A4nnamnssystemet). Nämnas kan även dynamiska DNS-tjänster som [DuckDNS](https://www.duckdns.org/).   
+
+* [MDN: How do you upload your files to a web server?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Tools_and_setup/Upload_files_to_a_web_server)
+* [MDN: How do I use GitHub Pages?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Tools_and_setup/Using_GitHub_pages)
+* [GitHub Pages - Websites for you and your projects.](https://pages.github.com/)
+* [Host Website on Github for Free| Github Pages Tutorial 2024 (Simple Guide)](https://youtu.be/DUwbWiy7-3c) (2 min) 
+
+
+**Veckans läxa:** Lyssna på avsnittet ”[002 Selectors](http://thecsspodcast.googledevelopers.libsynpro.com/002-selectors)” (15 min) av podcasten “The CSS Podcast”. (Finns också på [Spotify](https://open.spotify.com/episode/4hv6ogNtJZtvxKcQ67Ctpn).)   
+
+**Veckans läxa:** Lyssna på avsnittet ”[003 Specificity](http://thecsspodcast.googledevelopers.libsynpro.com/003-specificity)” (13 min) av podcasten “The CSS Podcast”. (Finns också på [Spotify](https://open.spotify.com/episode/2I3gJ9AFUi08Sm9CV7wydO).)
+
+**Veckans läxa:** Lyssna på avsnittet ”[004 The Cascade](http://thecsspodcast.googledevelopers.libsynpro.com/004-the-cascade)” (12 min) av podcasten “The CSS Podcast”. (Finns också på [Spotify](https://open.spotify.com/episode/698XEvD2VUmg4iVZEZqL7I).)
+
+**Veckans läxa:** Lyssna på avsnittet ”[005 Inheritance](http://thecsspodcast.googledevelopers.libsynpro.com/005-inheritance)” (8 min) av podcasten “The CSS Podcast”. (Finns också på [Spotify](https://open.spotify.com/episode/7q4lpdJOIYaUTNMwjUvRxP).) 
+
+**Test:** The CSS Podcast avsnitt 1 – 5
+-->
 
 Dokumentation
 
