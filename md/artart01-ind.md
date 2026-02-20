@@ -431,6 +431,16 @@ På andra plats kom:
 
 ###### Nytt om AI
 
+* [Seedance 2 video](https://youtu.be/fbVv0ZPk0fw?si=S_6n6vKnyHbyN3qW)   
+* [ByteDance - Seedance 2](https://seed.bytedance.com/en/seedance2_0)   
+
+* [Svensk Ai webbläsare - Strawberry](https://computersweden.se/article/4133151/svenska-ai-webblasaren-strawberry-nu-tillganglig-for-alla.html
+)   
+* [Ansiktsigenkänning på Meta glasögon](https://www.m3.se/article/3061444/metas-smarta-glasogon-kan-utrustas-med-ansiktsigenkanning.html
+) 
+* [Microsofts Ai chep varnar om att jobb försvinner](https://www.tomshardware.com/tech-industry/artificial-intelligence/microsofts-ai-boss-says-ai-can-replace-every-white-collar-job-in-18-months-were-going-to-have-a-human-level-performance-on-most-if-not-all-professional-tasks
+)   
+* [AI-ersättningsoro](https://computersweden.se/article/4134613/radd-att-forlora-jobbet-till-ai-da-kan-du-ha-ai-ersattningsoro.html)   
 
 
 ###### Elements of AI - Maskininlärning  
@@ -448,6 +458,11 @@ Vi har varit inne och berör rörlig bild förut, men nu ska vi testa att göra 
 [Verktyg att testa finns här:](https://www.futurepedia.io/ai-tools/video-generators)  
 
 
+###### Lämna in
+
+Lämna in den bästa videon som ni skapat, glöm ej att nämna vilket verktyg ni använt. Ha gärna med promten också.
+
+Gör Uppgift 15 - Filterbubblor i ElementsOfAi kursen. Lämna in online men även i TEAMs. Hemuppgift som ska vara färdig innan nästa fredag.
 
 
 
