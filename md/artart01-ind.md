@@ -438,6 +438,8 @@ På andra plats kom:
 
 Vi påbörjat kapitlet om Maskininlärning.
 
+[Timeline of Machine learning:](https://en.wikipedia.org/wiki/Timeline_of_machine_learning)  
+
 
 ###### Video
 
