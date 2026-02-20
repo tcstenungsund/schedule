@@ -401,12 +401,51 @@ Använd en LLM för att ta fram en text till en schlagerlåt, gärna med västku
 
 ## Vecka 6   
 
+###### Nytt om AI
+
+
+###### Elements of AI - AI i praktiken  
+
+Vi går gemensamt igenom den sista delen av Kapitel 3.
+
+###### Västkustfestivalen  
+
+Final dags! Vi spelar upp och poängsätter både bild på artister och det musikaliska bidraget!
+
+Vinnare är:
+
+EN CHANS TILL
+
+På andra plats kom:
+
+MANNEN DÄR I SPEGELN
+
 
 ## Vecka 7   
 
 **SPORTLOV**   
 
 ## Vecka 8   
+
+###### Nytt om AI
+
+
+
+###### Elements of AI - Maskininlärning  
+<img width="1324" height="565" alt="image" src="https://github.com/user-attachments/assets/ebc30200-6c8c-4c4d-afec-5443adeb3e82" />
+
+Vi påbörjat kapitlet om Maskininlärning.
+
+
+###### Video
+
+Vi har varit inne och berör rörlig bild förut, men nu ska vi testa att göra video snuttar till våra tidigare nyheter.
+
+[Verktyg att testa finns här:](https://www.futurepedia.io/ai-tools/video-generators)  
+
+
+
+
 
 <!-- 
 
