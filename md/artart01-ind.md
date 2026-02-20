@@ -414,11 +414,13 @@ Final dags! Vi spelar upp och poängsätter både bild på artister och det musi
 
 Vinnare är:
 
-EN CHANS TILL
+[EN CHANS TILL](https://github.com/user-attachments/files/25439648/EN.CHANS.TILL.mp3)
 
 På andra plats kom:
 
-MANNEN DÄR I SPEGELN
+[MANNEN DÄR I SPEGELN](https://suno.com/s/BARBeY73PNNMCPc3)  
+
+
 
 
 ## Vecka 7   
