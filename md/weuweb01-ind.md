@@ -293,10 +293,11 @@ Vi forstätter med designsystem.
 
 ## Vecka 12   
 
- <-- Nu tar vi oss an [Webflow](https://webflow.com/)! Skapa ett konto, logga in och bekanta dig med verktyget.    
+ /* Nu tar vi oss an [Webflow](https://webflow.com/)! Skapa ett konto, logga in och bekanta dig med verktyget.    
 
  [Webflow For Beginners](https://youtu.be/wEukKqXj4fc) (9 min)   
- [Top 5 Webflow mistakes beginners make](https://youtu.be/2hOQlab-Cy4) (10 min)  --!>
+ [Top 5 Webflow mistakes beginners make](https://youtu.be/2hOQlab-Cy4) (10 min) *\
+ 
 
 ## Vecka 13   
 
