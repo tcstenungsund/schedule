@@ -372,8 +372,6 @@ Uppgift: "[Learn Git Branching](https://learngitbranching.js.org/)"
 
 ###### Projektplanering  
 
-Test: Versionshantering för stora projekt  
-
 ### Fredag  
 
 Gruppuppgift  
@@ -383,6 +381,8 @@ Gruppuppgift
 ### Måndag   
 
 Gruppuppgift  
+
+Test: Versionshantering för stora projekt  
 
 ### Fredag  
 
