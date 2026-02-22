@@ -266,7 +266,7 @@ Mooadboards :)
 
 Vi påbörjar vårens projekt!
 
-** Teman att välja välja mellan **
+**Teman att välja välja mellan**
 * Stenungsunds biodlarförening
 * Stenungsunds bräd och rollspelsklubb
 * Göteborgs astronomiska klubb
