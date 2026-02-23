@@ -363,6 +363,8 @@ Style guide
 
 ###### Versionshantering  
 Vad är versionshantering, och vad använder vi det till? "[What is Git](https://youtu.be/sHoZuyl5hws)" (4 min)  
+[Version control in a nutshell](https://youtube.com/shorts/5fncGe_L1wk)  
+[What exactly is Git?](https://youtube.com/shorts/_Bhc-Jrj8nM)  
 
 
 ###### Markdown   
@@ -373,6 +375,21 @@ Vad kan man använda markdown till? "[How to set up a GitHub Profile README](htt
 
 Skapa en profil med hjälp av [ProfileMe.dev](https://www.profileme.dev/). Logga in på GitHub och lägg till din profil. 
 
+-->
+
+Dokumentation
+
+**Veckans läxa:** Lyssna på avsnittet ”[002 Selectors](http://thecsspodcast.googledevelopers.libsynpro.com/002-selectors)” (15 min) av podcasten “The CSS Podcast”. (Finns också på [Spotify](https://open.spotify.com/episode/4hv6ogNtJZtvxKcQ67Ctpn).)   
+
+## Vecka 10   
+
+**Utvecklingssamtal**  
+
+**Veckans läxa:** Lyssna på avsnittet ”[003 Specificity](http://thecsspodcast.googledevelopers.libsynpro.com/003-specificity)” (13 min) av podcasten “The CSS Podcast”. (Finns också på [Spotify](https://open.spotify.com/episode/2I3gJ9AFUi08Sm9CV7wydO).)
+
+## Vecka 11   
+
+<!-- 
 
 ###### Publicering av webbplats   
 
@@ -383,35 +400,23 @@ Protokollet [FTP](https://en.wikipedia.org/wiki/File_Transfer_Protocol) har näs
 * [GitHub Pages - Websites for you and your projects.](https://pages.github.com/)
 * [Host Website on Github for Free| Github Pages Tutorial 2024 (Simple Guide)](https://youtu.be/DUwbWiy7-3c) (2 min) 
 
-
-**Veckans läxa:** Lyssna på avsnittet ”[002 Selectors](http://thecsspodcast.googledevelopers.libsynpro.com/002-selectors)” (15 min) av podcasten “The CSS Podcast”. (Finns också på [Spotify](https://open.spotify.com/episode/4hv6ogNtJZtvxKcQ67Ctpn).)   
-
-**Veckans läxa:** Lyssna på avsnittet ”[003 Specificity](http://thecsspodcast.googledevelopers.libsynpro.com/003-specificity)” (13 min) av podcasten “The CSS Podcast”. (Finns också på [Spotify](https://open.spotify.com/episode/2I3gJ9AFUi08Sm9CV7wydO).)
-
-**Veckans läxa:** Lyssna på avsnittet ”[004 The Cascade](http://thecsspodcast.googledevelopers.libsynpro.com/004-the-cascade)” (12 min) av podcasten “The CSS Podcast”. (Finns också på [Spotify](https://open.spotify.com/episode/698XEvD2VUmg4iVZEZqL7I).)
-
-**Veckans läxa:** Lyssna på avsnittet ”[005 Inheritance](http://thecsspodcast.googledevelopers.libsynpro.com/005-inheritance)” (8 min) av podcasten “The CSS Podcast”. (Finns också på [Spotify](https://open.spotify.com/episode/7q4lpdJOIYaUTNMwjUvRxP).) 
-
-**Test:** The CSS Podcast avsnitt 1 – 5
 -->
 
-Dokumentation
-
-## Vecka 10   
-
-**Utvecklingssamtal**  
-
-## Vecka 11   
-
 Grupprojekt!  
+
+**Veckans läxa:** Lyssna på avsnittet ”[004 The Cascade](http://thecsspodcast.googledevelopers.libsynpro.com/004-the-cascade)” (12 min) av podcasten “The CSS Podcast”. (Finns också på [Spotify](https://open.spotify.com/episode/698XEvD2VUmg4iVZEZqL7I).)
 
 ## Vecka 12   
 
 Grupprojekt!  
 
+**Veckans läxa:** Lyssna på avsnittet ”[005 Inheritance](http://thecsspodcast.googledevelopers.libsynpro.com/005-inheritance)” (8 min) av podcasten “The CSS Podcast”. (Finns också på [Spotify](https://open.spotify.com/episode/7q4lpdJOIYaUTNMwjUvRxP).) 
+
 ## Vecka 13   
 
 Grupprojekt!  
+
+**Test:** The CSS Podcast avsnitt 1 – 5
 
 ## Vecka 14   
 
