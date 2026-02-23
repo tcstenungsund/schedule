@@ -9,11 +9,11 @@ Gruppuppgift.
 ### Resurser   
 
 * [Drupal](https://www.drupal.org/) och [Bootstrap 5 Barrio](https://www.drupal.org/project/bootstrap_barrio) med [Bootstrap Build](https://bootstrap.build/)       
-* [Docker](https://www.docker.com/) tillsammans med filen [docker-compose.yml v.2.0](https://github.com/seetee/docker/tree/version2.0/drupal) eller Lando   
+* [Docker](https://www.docker.com/) tillsammans med filen [docker-compose.yml](https://github.com/tcstenungsund/docker/blob/main/drupal/docker-compose.yml) eller motsvarande, som t.ex Lando eller VirtualBox  
 * [GitHub](https://github.com/)   
-* [HTTrack](https://www.httrack.com/)   
 * [VSCodium](https://vscodium.com/)
-* [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)     
+* [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
+* [HTTrack](https://www.httrack.com/)?   
 
 ## Uppgiftsbeskrivning   
 
@@ -31,19 +31,19 @@ Eftersom dokumentationen och rapportering av ert arbete är väldigt viktigt, b�
 
 De gamla webbplatserna innehåller mycket information. Denna informationen är ofta dåligt sorterad och svår för besökare att hitta. Det krävs att de som är ansvariga för _Data_ sätter sig in i hur man kan strukturera upp informationen och sortera den på ett logiskt och lättförståeligt sätt, både för kommande besökare samt användare av er webbplats. Den största uppgiften är dock att migrera data från den gamla webbplatsen till den nya.   
 
-Ett _Designsystem_ kan börja livet som ett pattern library, men skall växa bortom det med både standarder för utseende och det "tänk" man skall ha när man bygger just er webbplats. "Your product is more than just a pile of reusable UI elements. It has structure and meaning. It’s not a generic web page, it’s the embodiment of a system of concepts." skrev Emmet Connoly, director of product design på Intercom. Vidare skrev Diana Mounter, design systems manager på GitHub, "Design systems are always evolving, and the way you share and encourage adoption of new iterations will evolve along the way as well."   
+Ett _Designsystem_ kan börja livet som ett pattern library, men skall växa bortom det med både standarder för utseende och det "tänk" man skall ha när man bygger just er webbplats. "Your product is more than just a pile of reusable UI elements. It has structure and meaning. It’s not a generic web page, it’s the embodiment of a system of concepts." skrev Emmet Connoly, director of product design på Intercom. Vidare skrev Diana Mounter, design systems manager på GitHub, "Design systems are always evolving, and the way you share and encourage adoption of new iterations will evolve along the way as well." Ni skall bygga den viktigaste delen av ett design system, nämligen en Style Guide.  
 
-Det förekommer inte direkt något backend-jobb i detta projekt, men det finns en del _Infrastruktur_ som behöver underhållas. Till exempel installation och konfiguration av moduler samt både testning och sanering av content types och exempeldata i Drupal.   
+Det förekommer inte direkt något backend-jobb i detta projekt, men det finns en del _Infrastruktur_ som behöver underhållas. Till exempel installation och konfiguration av moduler samt både testning och sanering av content types och exempeldata i Drupal.  
 
 ##### Regelbundna uppgifter   
 
-Börja varje lektion med en 5-10 minuter lång snabbgenomgång av hur arbetsläget ser ut. Låt var och en i gruppen svara kort (c:a 1 mening) på frågorna "Vad gjorde jag förra gången?", "Vad skall jag göra idag?" och "Vad hindrar mig?".   
+Börja varje lektion med en 5-10 minuter lång snabbgenomgång av hur arbetsläget ser ut. Låt var och en i gruppen svara kort (c:a 1 mening) på frågorna "Vad gjorde jag förra gången?", "Vad skall jag göra idag?" och "Vad hindrar mig?".  
 
-Varannan vecka skickar Dokumentationsansvariga in en rapport i markdown-format i docs-katalogen i ert repocitory där de kort redogör för vilka uppgifter som slutförts under de senaste fjorton dagarna, samt om det finns några problem som hindrar att gruppens arbete går vidare. Rapporten skall innehålla en översikt över de commits som gjorts på GitHub, och fokusera på vad gruppen som helhet åstakommit i projektet, inte individuella insatser.      
+Varannan vecka skickar Dokumentationsansvariga in en rapport i markdown-format i docs-katalogen i ert repocitory där de kort redogör för vilka uppgifter som slutförts under de senaste fjorton dagarna, samt om det finns några problem som hindrar att gruppens arbete går vidare. Rapporten skall innehålla en översikt över de commits som gjorts på GitHub, och fokusera på vad gruppen som helhet åstakommit i projektet, aldrig individuella insatser.  
 
-##### Större moment   
+##### Några större moment  
 
-Uppdatera (eventuellt gör om) logotypen.   
+Uppdatera (eventuellt gör om) logotypen.  
 
 Bestäm färgschema, typografi och liknande.   
 
@@ -73,19 +73,19 @@ Migrera data från den gamla webbplatsen till er nya.
 
 ## Förväntat resultat   
 
-Ett designsystem i form av en layoutmässigt och grafiskt tilltalande dokumentation som beskriver färger, typsnitt, logotyper och andra grundkomponenter ni använder till sidan.   
+En styleguide i form av en layoutmässigt och grafiskt tilltalande dokumentation som beskriver färger, typsnitt, logotyper och andra grundkomponenter ni använder till sidan.   
 
-Ett installeringsbart subtheme.   
+Ett installeringsbart subtheme.  
 
 Alla skall ha bidragit till ert repocitory med vettiga commits, samt hanterat minst en innehållsrik issue på GitHub Projects i veckan.   
 
 ### Vilka filer?   
 
-En länk till ert repocitoiry som innehåller ett komplett subtheme så som det sett ut om det tankats ned från drupal.org.      
+En länk till ert repocitoiry som innehåller ett komplett subtheme så som det sett ut om det tankats ned från drupal.org.   
 
-En designsystem bestående av en PDF med style guide och ett pattern library, samt ett separat component library.      
+En designsystem bestående av en PDF med style guide och ett pattern library, samt ett separat component library.  
 
-En komplett webbplats.    
+En komplett webbplats.  
 
 ### Var skall de lämnas in?   
 
