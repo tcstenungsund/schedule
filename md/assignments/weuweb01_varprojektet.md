@@ -23,10 +23,10 @@ Alla i gruppen skall vara delaktiga i alla moment.
 > * Processen för ett webbutvecklingsprojekt med målsättningar, planering, specifikation av struktur och design, kodning, optimering, testning, dokumentation och uppföljning.    
 > * Applikationer som fungerar oberoende av val av användaragent, operativsystem eller hårdvaruplattform och hur tillgänglighet uppnås även för användare med funktionsnedsättning.    
 > * Kvalitetssäkring av applikationens funktion och validering av kodens kvalitet."     
-
+weuweb01_varprojektet.md
 Loggbok     
 
-Logga in på GitHub, skapa ett nytt publikt "repocitory" med namnet "varprojektet", kryssa i "Create README.md". Fyll dokumentet med en huvudrubrik med temat "Vårprojektet", och sedan en underrubrik med namnen "Vecka XX" och under den en beskrivning av vad du ägnat lektionen åt. Notera också vilka du samarbetar med i projektet.     
+Logga in på GitHub, skapa ett nytt publikt "repository" med namnet "varprojektet", kryssa i "Create README.md". Fyll dokumentet med en huvudrubrik med temat "Vårprojektet", och sedan en underrubrik med namnen "Vecka XX" och under den en beskrivning av vad du ägnat lektionen åt. Notera också vilka du samarbetar med i projektet.     
 
 Länken till era loggböcker kommer ni få ange i en inlämning i Teams.  
 
