@@ -371,13 +371,9 @@ Vad är [Markdown](https://en.wikipedia.org/wiki/Markdown)? Vi lär oss med "[Ma
 
 Vad kan man använda markdown till? "[How to set up a GitHub Profile README](https://youtu.be/-otyb0ngsa4)" (2 min)  
 
-Skapa en profil med hjälp av [ProfileMe.dev](https://www.profileme.dev/). Logga in på GitHub och lägg till din profil.  
+Skapa en profil med hjälp av [ProfileMe.dev](https://www.profileme.dev/). Logga in på GitHub och lägg till din profil enligt videon ovan.  
 
-<!--  
-
-[Uppgift: HTML & CSS Basics](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb01_varprojektet.md)   
-
--->
+[Uppgift: HTML & CSS Basics](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb01_varprojektet)   
 
 Dokumentation
 
