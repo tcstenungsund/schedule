@@ -359,21 +359,23 @@ Style guide
 
 ## Vecka 9   
 
-<!-- 
-
 ###### Versionshantering  
+
 Vad är versionshantering, och vad använder vi det till? "[What is Git](https://youtu.be/sHoZuyl5hws)" (4 min)  
 [Version control in a nutshell](https://youtube.com/shorts/5fncGe_L1wk)  
 [What exactly is Git?](https://youtube.com/shorts/_Bhc-Jrj8nM)  
 
+###### Markdown  
 
-###### Markdown   
+Vad är [Markdown](https://en.wikipedia.org/wiki/Markdown)? Vi lär oss med "[Markdown Guide](https://www.markdownguide.org/getting-started/)" och genom att göra övningen på "[Markdown Tutorial](https://www.markdowntutorial.com/)".  
 
-Vad är [Markdown](https://en.wikipedia.org/wiki/Markdown)? Vi lär oss med "[Markdown Guide](https://www.markdownguide.org/getting-started/)" och genom att göra övningen på "[Markdown Tutorial](https://www.markdowntutorial.com/)".   
+Vad kan man använda markdown till? "[How to set up a GitHub Profile README](https://youtu.be/-otyb0ngsa4)" (2 min)  
 
-Vad kan man använda markdown till? "[How to set up a GitHub Profile README](https://youtu.be/-otyb0ngsa4)" (2 min)   
+Skapa en profil med hjälp av [ProfileMe.dev](https://www.profileme.dev/). Logga in på GitHub och lägg till din profil.  
 
-Skapa en profil med hjälp av [ProfileMe.dev](https://www.profileme.dev/). Logga in på GitHub och lägg till din profil. 
+<!--  
+
+[Uppgift: HTML & CSS Basics](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb01_varprojektet.md)   
 
 -->
 
