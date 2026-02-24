@@ -373,7 +373,7 @@ Vad kan man använda markdown till? "[How to set up a GitHub Profile README](htt
 
 Skapa en profil med hjälp av [ProfileMe.dev](https://www.profileme.dev/). Logga in på GitHub och lägg till din profil enligt videon ovan.  
 
-[Uppgift: HTML & CSS Basics](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb01_varprojektet)   
+[Uppgift: Vårprojektet](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb01_varprojektet)   
 
 Dokumentation
 
