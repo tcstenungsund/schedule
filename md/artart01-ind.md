@@ -365,7 +365,7 @@ Se "[The Shocking AI Reveals That Stunned CES 2026](https://youtu.be/zEYIcaQwn6s
 
 ###### Övning: Skill för publicering  
 
-Skapa en skill som genererar en bild som ser ut som ett screenshot av ett inlägg i sociala media. En grupp per plattform: facebook, instagram, 𝕏, snapchat, ST-tidningen.  
+Skapa en skill som genererar en bild som ser ut som ett screenshot av ett inlägg i sociala media. En grupp per plattform: facebook, instagram, 𝕏, snapchat, och en lokaltidning.  
 
 ## Vecka 4   
 
