@@ -475,9 +475,9 @@ Gör Uppgift 15 - Filterbubblor i ElementsOfAi kursen. Lämna in online men äve
 
 Vi ser ett avsnitt av [Generation AI](https://www.svtplay.se/generation-ai), närmare bestämt avsnitt 5 om "[Paradiset](https://www.svtplay.se/video/8PB95RJ/generation-ai/5-paradiset)" (23 min)!  
 
-#####¤# Uppgift: Skapa en skill för video på olika plattformar  
+####### Uppgift: Skapa en skill för video på olika plattformar  
 
-Instagram är taget med filter, vattenstämpel och handhållna rörelser. En lokaltidning har bättre kamera, inga filter och kamerastabiliserare. Gör skills för våra valda medier som vi jobbat med och testa på de videoklipp ni gjorde förra veckan!  
+Instagram är taget med filter, vattenstämpel och handhållna rörelser. En lokaltidning har bättre kamera, inga filter och kamerastabiliserare. Och så vidare. Gör skills för våra valda medier som vi jobbat med och testa på de videoklipp ni gjorde förra veckan!  
 
 Lämna in er video samt er skill på Teams!  
 
