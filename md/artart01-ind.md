@@ -466,6 +466,30 @@ Gör Uppgift 15 - Filterbubblor i ElementsOfAi kursen. Lämna in online men äve
 
 
 
+## Vecka 9   
+
+###### Nytt om AI
+* [SR: Unik studie visar länk mellan AI-chattar och psykisk ohälsa](https://www.sverigesradio.se/artikel/unik-studie-visar-lank-mellan-ai-chattar-och-psykisk-ohalsa)  
+* [ERROR 406i: AI_SLOP_DETECTED](https://406.fail/)  
+*   
+
+Vi ser ett avsnitt av [Generation AI](https://www.svtplay.se/generation-ai), närmare bestämt avsnitt 5 om "[Paradiset](https://www.svtplay.se/video/8PB95RJ/generation-ai/5-paradiset)" (23 min)!  
+
+#####¤# Uppgift: Skapa en skill för video på olika plattformar  
+
+Instagram är taget med filter, vattenstämpel och handhållna rörelser. En lokaltidning har bättre kamera, inga filter och kamerastabiliserare. Gör skills för våra valda medier som vi jobbat med och testa på de videoklipp ni gjorde förra veckan!  
+
+Lämna in er video samt er skill på Teams!  
+
+## Vecka 10   
+
+###### Nytt om AI
+*  
+*  
+*  
+
+
+
 <!-- 
 
 ###### Elements of AI - Maskininlärning  
@@ -478,53 +502,99 @@ Gör Uppgift 15 - Filterbubblor i ElementsOfAi kursen. Lämna in online men äve
 <img width="1324" height="547" alt="image" src="https://github.com/user-attachments/assets/7cc3b812-64cc-48f0-9321-c54982c9154d" />
 -->
 
-## Vecka 9   
-
-
-## Vecka 10   
-
-
 ## Vecka 11   
 
+###### Nytt om AI
+*  
+*  
+*  
 
 ## Vecka 12   
 
+###### Nytt om AI
+*  
+*  
+*  
 
 ## Vecka 13   
 
+###### Nytt om AI
+*  
+*  
+*  
 
 ## Vecka 14   
 
 **PÅSKLOV**   
 ## Vecka 15   
 
+###### Nytt om AI
+*  
+*  
+*  
 
 ## Vecka 16   
 
+###### Nytt om AI
+*  
+*  
+*  
 
 ## Vecka 17   
 
+###### Nytt om AI
+*  
+*  
+*  
 
 ## Vecka 18   
 
+###### Nytt om AI
+*  
+*  
+*  
 
 ## Vecka 19   
 
+###### Nytt om AI
+*  
+*  
+*  
 
 ## Vecka 20   
 
+###### Nytt om AI
+*  
+*  
+*  
 
 ## Vecka 21   
 
+###### Nytt om AI
+*  
+*  
+*  
 
 ## Vecka 22   
 
+###### Nytt om AI
+*  
+*  
+*  
 
 ## Vecka 23   
 
+###### Nytt om AI
+*  
+*  
+*  
 
 ## Vecka 24   
 
+###### Nytt om AI
+*  
+*  
+*  
 
 ## Vecka 25   
 **SOMMARLOV**   
