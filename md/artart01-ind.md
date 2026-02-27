@@ -470,8 +470,8 @@ Gör Uppgift 15 - Filterbubblor i ElementsOfAi kursen. Lämna in online men äve
 
 ###### Nytt om AI
 * [SR: Unik studie visar länk mellan AI-chattar och psykisk ohälsa](https://www.sverigesradio.se/artikel/unik-studie-visar-lank-mellan-ai-chattar-och-psykisk-ohalsa)  
-* [ERROR 406i: AI_SLOP_DETECTED](https://406.fail/)  
-*   
+* [ERROR 406i: AI_SLOP_DETECTED](https://406.fail/)
+* ["Prompt repetition" gör att alla LLM:er blir bättre!](https://www.tiktok.com/@agenticamit/video/7598929715772099852)  
 
 Vi ser ett avsnitt av [Generation AI](https://www.svtplay.se/generation-ai), närmare bestämt avsnitt 5 om "[Paradiset](https://www.svtplay.se/video/8PB95RJ/generation-ai/5-paradiset)" (23 min)!  
 
