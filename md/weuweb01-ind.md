@@ -278,9 +278,16 @@ Det är en enskild uppgift. Första delen: Ni har tre veckor på er att göra kl
 * Wireframe  
 * Moodboard  
 * Färgschema  
-* Typografi  
-* Style guide  
+* Typografi
+* Style guide
+* Logga (Antingen en helt ny, eller en omgjord version av den aktuella)
 
+**Resurser**
+* För logga rekommenderas [Inkscape](https://apps.microsoft.com/detail/9pd9bhglfc7h?ocid=webpdpshare)
+* För wirefames [wireframe.cc](https://wireframe.cc/), Rekommenderar att göra det på papper.
+* Annan design [Penpot](https://penpot.app/).
+* Exempel på Style Guide finns i Teams.
+* Färgschema [Coolors](https://coolors.co/)
 
 ## Vecka 10   
 
