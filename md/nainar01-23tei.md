@@ -224,30 +224,48 @@ IP Static Routing - gör i första hand IPV4 momenten i labben, hinner ni gör n
 
 ## Vecka 8   
 
+Måndag: Genomgång - Module 4: IPv6 Addressing
+
+Tisdag: Laboration - 4.4.6 Packet Tracer - Configure IPv6 Addressing
+
+## Vecka 9   
+
+Måndag: Genomgång - Module 5: IPv6 Neighbor Discovery
+
+Tisdag: Laboration - IPV6 Lab (ligger i inlägg under Allmänt)
+
+## Vecka 10   
+
+Måndag: PROV - Checkpoint Exam: IP Addressing
+
+Tisdag: UTVECKLINGSSAMTAL
+
+## Vecka 11   
+
 Måndag:
 
 Tisdag:
 
-## Vecka 9   
-
-
-## Vecka 10   
-
-
-## Vecka 11   
-
-
 ## Vecka 12   
 
+Måndag:
+
+Tisdag:
 
 ## Vecka 13   
 
+Måndag:
+
+Tisdag:
 
 ## Vecka 14   
 
 **PÅSKLOV**   
 ## Vecka 15   
 
+Måndag:
+
+Tisdag:
 
 ## Vecka 16   
 
