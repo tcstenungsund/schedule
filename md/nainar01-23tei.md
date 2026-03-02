@@ -224,11 +224,16 @@ IP Static Routing - gör i första hand IPV4 momenten i labben, hinner ni gör n
 
 ## Vecka 8   
 
+<img width="455" height="396" alt="PT 446" src="https://github.com/user-attachments/assets/3e069eea-916e-4589-bb68-2ef26c2f9a8c" />
+
+
 Måndag: Genomgång - Module 4: IPv6 Addressing
 
 Tisdag: Laboration - 4.4.6 Packet Tracer - Configure IPv6 Addressing
 
 ## Vecka 9   
+
+<img width="483" height="408" alt="Cisco IP lab" src="https://github.com/user-attachments/assets/33932b45-ee3e-44de-9a45-79c840e169b3" />
 
 Måndag: Genomgång - Module 5: IPv6 Neighbor Discovery
 
