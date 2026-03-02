@@ -260,7 +260,11 @@ Idag fortsätter vi med uppgiften: Personligt varumärke från förra veckan.
 
 ## Vecka 8   
 
-Mooadboards :)
+[Mooadboards](https://www.youtube.com/watch?v=1A-tepzfhJw&t=1s)
+
+Vad är en [Wireframe?](https://www.youtube.com/watch?v=T0vt3nLZKks)
+Hur gör man en [Wireframe?](https://www.youtube.com/watch?v=PmmQjLqJQlY)
+
 
 ## Vecka 9   
 
