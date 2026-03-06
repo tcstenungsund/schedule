@@ -249,8 +249,58 @@ PROV på kursen - Security and Connectivity Support (CCST IT-Support 3/4)
 
 ## Vecka 9   
 
+Laboration 1 - Tillverka nätverkskabel
+
+Laboration 2 - Packet Tracer
+
+Gör Getting Started with Cisco Packet Tracer, ladda ner PT. Bekanta er med miljön.
+
 
 ## Vecka 10   
+
+Laboration 1 - Tillverka nätverkskabel
+
+Laboration 2 - Packet Tracer
+
+Gör Getting Started with Cisco Packet Tracer, ladda ner PT. Bekanta er med miljön.
+
+På eftermiddagen introducerar vi uppgiften Hemmanätverk.
+
+Ni ska dokumentera ert hemmanätverk i Pracket Tracer, lämna in senast söndag.
+
+Använd Packet Tracer för att dokumentera ditt hemmanätverk.
+
+Spara PT som dittnamn_24TEi_hemmanät.pkt
+
+CMD - ipconfig
+
+whatsmyip
+
+Mobiler - IP adress
+
+Datorer - Benämning - IPAdress
+
+Laptops - Benämning - IPadress
+
+Plattor - Benämning - IPadress
+
+TV
+
+INTERNET - bredbandsleverantör, IPadress - whatsmyip
+
+Hemmarouter - SSID - IPadress
+
+Webkamera
+
+Brandvägg
+
+IoT
+
+Solceller
+
+Batteri
+
+osv.....
 
 
 ## Vecka 11   
