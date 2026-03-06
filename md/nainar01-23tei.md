@@ -243,13 +243,22 @@ Tisdag: Laboration - IPV6 Lab (ligger i inlägg under Allmänt)
 
 Måndag: PROV - Checkpoint Exam: IP Addressing
 
+Genomgång av Module 6: Cisco Switches and Routers, 6.1, 6.2 och 6.3.
+
 Tisdag: UTVECKLINGSSAMTAL
 
 ## Vecka 11   
 
 Måndag:
 
+Genomgång av Module 6: Cisco Switches and Routers, 6.4, 6.5 och 6.6.
+
+
 Tisdag:
+
+Arvid Päärt, alumn som arbetar för Hogia besöker oss och pratar om sin resa.
+
+SYV kommer för att prata Chatbot med A och E.
 
 ## Vecka 12   
 
