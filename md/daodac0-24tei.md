@@ -305,6 +305,22 @@ osv.....
 
 ## Vecka 11   
 
+Kursstart!
+
+Dags för den sista delen av CCST IT-Support sviten: Hardware and Upgrade Support.
+
+Vi går gemensamt igenom hela Modul 1 och första delen av Modul 2, 2.1.
+
+Gör Lab 1.2 14 och de interaktiva övningarna. Se videosarna.
+
+Kika gärna på datorkomponenter och tester:
+
+https://www.tomshardware.com/
+
+https://www.inet.se/
+
+
+
 
 ## Vecka 12   
 
