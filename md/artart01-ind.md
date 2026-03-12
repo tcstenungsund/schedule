@@ -484,9 +484,30 @@ Lämna in er video samt er skill på Teams!
 ## Vecka 10   
 
 ###### Nytt om AI
-*  
-*  
-*  
+
+* [Lenovo visar upp AI-roboten AI Workmate](https://www.m3.se/article/3075277/lenovo-visar-upp-ai-roboten-ai-workmate.html)  
+* [Jolla Mind2 Personal AI Assistant](https://www.jollamind2.com/)
+* [Kan Palmemordet lösas med Ai?](https://www.tv4play.se/video/ebc6ec2d70c0ff6ae523/avsnitt-1-kan-mordgatan-losas-med-hjalp-av-ai)  
+
+
+###### Elements of AI - Maskininlärning  
+
+Vi stänger den sista delen av Kapitel 4!
+
+###### Uppgift: Skapa en skill för Powerpoint för Nösnäs, Stenungsundskommun och TCStenungsund
+
+Under fliken DELADE/Kursmaterial/Powerpoint_uppgift i vårt TEAMs rum ligger filer som beskriver Design-guider för respektive organisation.
+
+Ni ska med utgångpunkt i dessa ta fram en SKILL per organisation. Exempel på en SKILL ligger där med.
+
+Börja med att hitta en Ai tjänst som är bra på att skapa Powerpoints, finns på FUTURPEDIA, men kanske ska vi tänka GROK...
+
+Tanken med SKILLen är att jag som användare inte ska behöva bry mig om färg, form, loggor, typsnitt, värdeord osv för respektive organisation.
+
+Jag ska bara mata in text och bilder i Ai tjänsten, hänvisa till respektive SKILL och ut ska det komma en Powerpoint som är anpassad till vald organisation. 
+
+Nästa vecka kommer Kenneth att visa hur man skapar en SKILL.
+
 
 
 
