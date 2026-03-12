@@ -186,12 +186,15 @@ Fortsätta med förra veckans labb.
 
 ## Vecka 10   
 
+År 8 dagar
 
 ## Vecka 11   
 
+Vi pratar på och läser om brandväggar i Module 15: Firewall Technologies
 
 ## Vecka 12   
 
+Prov på  Modul 15 Firewall Technologies :)
 
 ## Vecka 13   
 
