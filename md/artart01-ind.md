@@ -1,4 +1,4 @@
-[SKILL-example1.md](https://github.com/user-attachments/files/25974642/SKILL-example1.md)# Artificiell Intelligens - INDval 2025/2026  
+# Artificiell Intelligens - INDval 2025/2026  
 
 ## Vecka 36   
 
@@ -523,8 +523,8 @@ Vi ser ett avsnitt av [Generation AI](https://www.svtplay.se/generation-ai), nä
 2. Skapa ett frontmatter-avsnitt enligt [specifiaktionen](https://agentskills.io/specification) först i filen  
 3. Resten är en prompt som är markdown-formaterad  
 
-[SKILL-exempel1.md](../assets/SKILL-exempel1.md)  
-[SKILL-exempel2.md](../assets/SKILL-exempel2.md)  
+[SKILL-exempel1.md](./assets/SKILL-exempel1.md)  
+[SKILL-exempel2.md](./assets/SKILL-exempel2.md)  
 
 Uppgift: Gör [Markdown Tutorial](https://www.markdowntutorial.com/) och lämna in på Teams  
 
@@ -534,7 +534,6 @@ Uppgift: Gör [Markdown Tutorial](https://www.markdowntutorial.com/) och lämna 
 *  
 *  
 *  
-
 
 <!-- 
 
