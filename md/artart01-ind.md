@@ -512,12 +512,15 @@ Nästa vecka kommer Kenneth att visa hur man skapar en SKILL.
 * [visual-explainer](https://github.com/nicobailon/visual-explainer) - skill för att göra AI-output lättläst  
 * [llmfit](https://github.com/AlexsJones/llmfit) - Vilken AI orkar din dator med?  
 
-Vi ser ett avsnitt av [Generation AI](https://www.svtplay.se/generation-ai), närmare bestämt avsnitt 6 om "[Avatar](https://www.svtplay.se/video/KMy3AoZ/generation-ai/6-avatar)" (19 min)!  
+Vi ser det sista avsnittet av [Generation AI](https://www.svtplay.se/generation-ai), närmare bestämt avsnitt 6 "[Avatar](https://www.svtplay.se/video/KMy3AoZ/generation-ai/6-avatar)" (19 min)!  
 
 ###### Markdown och Skills  
 
 * [Markdown Guide Getting Started](https://www.markdownguide.org/getting-started/)  
-* Online Markdown Editor: [JotBird](https://www.jotbird.com/app)   
+* Online Markdown Editor: [JotBird](https://www.jotbird.com/app)
+* [Agent Skills: Why Agent Skills?](https://agentskills.io/home)
+* Undersök andras skills i [the open agent skills ecosystem](https://vercel.com/changelog/introducing-skills-the-open-agent-skills-ecosystem)  
+
 
 1. [Skapa en ny textfil](https://www.wikihow.com/Make-a-New-File-in-Windows) och döp den till SKILL.md  
 2. Skapa ett frontmatter-avsnitt enligt [specifiaktionen](https://agentskills.io/specification) först i filen  
