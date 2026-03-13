@@ -509,6 +509,25 @@ Jag ska bara mata in text och bilder i Ai tjänsten, hänvisa till respektive SK
 Nästa vecka kommer Kenneth att visa hur man skapar en SKILL.
 
 
+## Vecka 11   
+
+###### Nytt om AI
+*  
+*  
+*  
+
+Vi ser ett avsnitt av [Generation AI](https://www.svtplay.se/generation-ai), närmare bestämt avsnitt 6 om "[Avatar](https://www.svtplay.se/video/KMy3AoZ/generation-ai/6-avatar)" (19 min)!  
+
+###### Markdown och Skills  
+
+
+
+## Vecka 12  
+
+###### Nytt om AI
+*  
+*  
+*  
 
 
 <!-- 
@@ -523,20 +542,6 @@ Nästa vecka kommer Kenneth att visa hur man skapar en SKILL.
 <img width="1324" height="547" alt="image" src="https://github.com/user-attachments/assets/7cc3b812-64cc-48f0-9321-c54982c9154d" />
 -->
 
-## Vecka 11   
-
-###### Nytt om AI
-*  
-*  
-*  
-
-## Vecka 12   
-
-###### Nytt om AI
-*  
-*  
-*  
-
 ## Vecka 13   
 
 ###### Nytt om AI
@@ -546,13 +551,14 @@ Nästa vecka kommer Kenneth att visa hur man skapar en SKILL.
 
 ## Vecka 14   
 
-**PÅSKLOV**   
-## Vecka 15   
-
 ###### Nytt om AI
 *  
 *  
 *  
+
+## Vecka 15   
+
+**PÅSKLOV**   
 
 ## Vecka 16   
 
