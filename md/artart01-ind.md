@@ -520,6 +520,10 @@ Vi ser ett avsnitt av [Generation AI](https://www.svtplay.se/generation-ai), nä
 
 ###### Markdown och Skills  
 
+* [Markdown Guide Getting Started](https://www.markdownguide.org/getting-started/)  
+* [JotBird](https://www.jotbird.com/app)  
+* [Markdown Tutorial](https://www.markdowntutorial.com/)  
+
 
 
 ## Vecka 12  
