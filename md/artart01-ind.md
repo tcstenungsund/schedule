@@ -1,4 +1,4 @@
-# Artificiell Intelligens - INDval 2025/2026  
+[SKILL-example1.md](https://github.com/user-attachments/files/25974642/SKILL-example1.md)# Artificiell Intelligens - INDval 2025/2026  
 
 ## Vecka 36   
 
@@ -457,14 +457,11 @@ Vi har varit inne och berör rörlig bild förut, men nu ska vi testa att göra 
 
 [Verktyg att testa finns här:](https://www.futurepedia.io/ai-tools/video-generators)  
 
-
 ###### Lämna in
 
 Lämna in den bästa videon som ni skapat, glöm ej att nämna vilket verktyg ni använt. Ha gärna med promten också.
 
 Gör Uppgift 15 - Filterbubblor i ElementsOfAi kursen. Lämna in online men även i TEAMs. Hemuppgift som ska vara färdig innan nästa fredag.
-
-
 
 ## Vecka 9   
 
@@ -508,23 +505,28 @@ Jag ska bara mata in text och bilder i Ai tjänsten, hänvisa till respektive SK
 
 Nästa vecka kommer Kenneth att visa hur man skapar en SKILL.
 
-
 ## Vecka 11   
 
 ###### Nytt om AI
-*  
-*  
-*  
+* [I built an AI-powered learning system, and it's the best thing I've ever done for my productivity](https://www.xda-developers.com/built-ai-powered-learning-system-best-thing-ive-ever-done-for-my-productivity/)  
+* [visual-explainer](https://github.com/nicobailon/visual-explainer) - skill för att göra AI-output lättläst  
+* [llmfit](https://github.com/AlexsJones/llmfit) - Vilken AI orkar din dator med?  
 
 Vi ser ett avsnitt av [Generation AI](https://www.svtplay.se/generation-ai), närmare bestämt avsnitt 6 om "[Avatar](https://www.svtplay.se/video/KMy3AoZ/generation-ai/6-avatar)" (19 min)!  
 
 ###### Markdown och Skills  
 
 * [Markdown Guide Getting Started](https://www.markdownguide.org/getting-started/)  
-* [JotBird](https://www.jotbird.com/app)  
-* [Markdown Tutorial](https://www.markdowntutorial.com/)  
+* Online Markdown Editor: [JotBird](https://www.jotbird.com/app)   
 
+1. [Skapa en ny textfil](https://www.wikihow.com/Make-a-New-File-in-Windows) och döp den till SKILL.md  
+2. Skapa ett frontmatter-avsnitt enligt [specifiaktionen](https://agentskills.io/specification) först i filen  
+3. Resten är en prompt som är markdown-formaterad  
 
+[SKILL-exempel1.md](../assets/SKILL-exempel1.md)  
+[SKILL-exempel2.md](../assets/SKILL-exempel2.md)  
+
+Uppgift: Gör [Markdown Tutorial](https://www.markdowntutorial.com/) och lämna in på Teams  
 
 ## Vecka 12  
 
@@ -552,6 +554,8 @@ Vi ser ett avsnitt av [Generation AI](https://www.svtplay.se/generation-ai), nä
 *  
 *  
 *  
+
+PROV: [Generation AI](https://www.svtplay.se/generation-ai)  
 
 ## Vecka 14   
 
