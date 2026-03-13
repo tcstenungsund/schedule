@@ -537,9 +537,6 @@ Uppgift: Gör [Markdown Tutorial](https://www.markdowntutorial.com/) och lämna 
 
 <!-- 
 
-###### Elements of AI - Maskininlärning  
-<img width="1324" height="565" alt="image" src="https://github.com/user-attachments/assets/ebc30200-6c8c-4c4d-afec-5443adeb3e82" />
-
 ###### Elements of AI - Neuronnät  
 <img width="1324" height="550" alt="image" src="https://github.com/user-attachments/assets/8fc2a5eb-ea40-479b-9617-b8ba924ee755" />
 
@@ -554,7 +551,7 @@ Uppgift: Gör [Markdown Tutorial](https://www.markdowntutorial.com/) och lämna 
 *  
 *  
 
-PROV: [Generation AI](https://www.svtplay.se/generation-ai)  
+PROV: SVT Dokumentär [Generation AI](https://www.svtplay.se/generation-ai)  
 
 ## Vecka 14   
 
