@@ -523,8 +523,7 @@ Vi ser ett avsnitt av [Generation AI](https://www.svtplay.se/generation-ai), nä
 2. Skapa ett frontmatter-avsnitt enligt [specifiaktionen](https://agentskills.io/specification) först i filen  
 3. Resten är en prompt som är markdown-formaterad  
 
-[SKILL-exempel1.md](./assets/SKILL-exempel1.md)  
-[SKILL-exempel2.md](./assets/SKILL-exempel2.md)  
+Exempel: [SKILL.md](https://github.com/user-attachments/files/25974642/SKILL-example1.md)  
 
 Uppgift: Gör [Markdown Tutorial](https://www.markdowntutorial.com/) och lämna in på Teams  
 
@@ -536,12 +535,8 @@ Uppgift: Gör [Markdown Tutorial](https://www.markdowntutorial.com/) och lämna 
 *  
 
 <!-- 
-
 ###### Elements of AI - Neuronnät  
 <img width="1324" height="550" alt="image" src="https://github.com/user-attachments/assets/8fc2a5eb-ea40-479b-9617-b8ba924ee755" />
-
-###### Elements of AI - Konsekvenser  
-<img width="1324" height="547" alt="image" src="https://github.com/user-attachments/assets/7cc3b812-64cc-48f0-9321-c54982c9154d" />
 -->
 
 ## Vecka 13   
@@ -559,6 +554,11 @@ PROV: SVT Dokumentär [Generation AI](https://www.svtplay.se/generation-ai)
 *  
 *  
 *  
+
+<!-- 
+###### Elements of AI - Konsekvenser  
+<img width="1324" height="547" alt="image" src="https://github.com/user-attachments/assets/7cc3b812-64cc-48f0-9321-c54982c9154d" />
+-->
 
 ## Vecka 15   
 
