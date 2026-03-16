@@ -304,6 +304,14 @@ Vi forstätter med designsystem.
 
 ## Vecka 12   
 
+Vi forstätter med designsystem.
+ 
+
+## Vecka 13   
+
+**Studiedag** 
+
+## Vecka 14   
 <!---
   Nu tar vi oss an [Webflow](https://webflow.com/)! Skapa ett konto, logga in och bekanta dig med verktyget.    
 
@@ -311,13 +319,6 @@ Vi forstätter med designsystem.
  [Top 5 Webflow mistakes beginners make](https://youtu.be/2hOQlab-Cy4) (10 min) 
 
  --->
- 
-
-## Vecka 13   
-
-
-## Vecka 14   
-
 
 ## Vecka 15   
 
