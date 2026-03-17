@@ -256,7 +256,7 @@ Genomgång av Module 6: Cisco Switches and Routers, 6.4, 6.5 och 6.6.
 
 Tisdag:
 
-Arvid Päärt, alumn som arbetar för Hogia besöker oss och pratar om sin resa.
+MODULPROV för kapitl 6 och 7 öppet. Repetera hela kusen.
 
 SYV kommer för att prata Chatbot med A och E.
 
@@ -264,7 +264,13 @@ SYV kommer för att prata Chatbot med A och E.
 
 Måndag:
 
+Repetition inför SLUTPROV imorgon. Gör interaktiva övningar och quizar.
+
 Tisdag:
+
+Arvid Päärt, alumn som arbetar för Hogia besöker oss och pratar om sin resa.
+
+PROV - Slutprov i CCST 3/4 kursen.
 
 ## Vecka 13   
 
