@@ -328,7 +328,7 @@ Genomgång av Kapiteö 2 färdig.
 
 ## Vecka 13 
 
-PROV 
+Förberedelse inför PROV nästa vecka.
 
 Besök på UF-mässa, buss från rondell kl 11.15, åter från World of Volvo 14.15.
 
@@ -336,6 +336,10 @@ Besök på UF-mässa, buss från rondell kl 11.15, åter från World of Volvo 14
 
 
 ## Vecka 14   
+
+PROV på den sista delen av CCST IT-Support sviten: Hardware and Upgrade Support.
+
+Övning - Tre datorpaket.
 
 ## Vecka 15  
 
