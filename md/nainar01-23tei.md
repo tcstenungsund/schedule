@@ -276,16 +276,21 @@ PROV - Slutprov i CCST 3/4 kursen.
 
 Måndag:
 
+Studiedag.
+
 Tisdag:
 
-## Vecka 14   
+Förberedelse inför CCST slutprov.
 
-**PÅSKLOV**   
-## Vecka 15   
+## Vecka 14   
 
 Måndag:
 
 Tisdag:
+
+## Vecka 15   
+
+**PÅSKLOV**   
 
 ## Vecka 16   
 
