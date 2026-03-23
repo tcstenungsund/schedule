@@ -324,14 +324,22 @@ https://www.inet.se/
 
 ## Vecka 12   
 
+Genomgång av Kapiteö 2 färdig.
 
-## Vecka 13   
+## Vecka 13 
+
+PROV 
+
+Besök på UF-mässa, buss från rondell kl 11.15, åter från World of Volvo 14.15.
+
+
 
 
 ## Vecka 14   
 
+## Vecka 15  
+
 **PÅSKLOV**   
-## Vecka 15   
 
 
 ## Vecka 16   
