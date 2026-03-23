@@ -533,14 +533,16 @@ Uppgift: Gör [Markdown Tutorial](https://www.markdowntutorial.com/) och lämna 
 ## Vecka 12  
 
 ###### Nytt om AI
-*  
+*  [Ai Gothenburg](https://www.businessregiongoteborg.se/etablera-investera/gothenburg-tech/aigothenburg) 
 *  
 *  
 
-<!-- 
 ###### Elements of AI - Neuronnät  
 <img width="1324" height="550" alt="image" src="https://github.com/user-attachments/assets/8fc2a5eb-ea40-479b-9617-b8ba924ee755" />
--->
+
+Introduktion till Kapitel 5 - Neuronnät i ElementsofAi kursen.
+
+Genomgång av avsnitt 1 - Principerna för Neuronnät.
 
 ## Vecka 13   
 
