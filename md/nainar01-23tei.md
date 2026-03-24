@@ -280,7 +280,9 @@ Studiedag.
 
 Tisdag:
 
-Förberedelse inför CCST slutprov.
+Kursstart av sista delen i CCST Networking sviten - Network Support and Security (CCST Networking 4/4)
+
+Genomgång av Modul 1 - Network Support.
 
 ## Vecka 14   
 
