@@ -516,7 +516,8 @@ Vi ser det sista avsnittet av [Generation AI](https://www.svtplay.se/generation-
 
 ###### Markdown och Skills  
 
-* [Markdown Guide Getting Started](https://www.markdownguide.org/getting-started/)  
+* [Markdown Guide Getting Started](https://www.markdownguide.org/getting-started/)
+* [CommonMark Tutorial](https://commonmark.org/help/tutorial/)  
 * Online Markdown Editor: [JotBird](https://www.jotbird.com/app)
 * [Agent Skills: Why Agent Skills?](https://agentskills.io/home)
 * Undersök andras skills i [the open agent skills ecosystem](https://vercel.com/changelog/introducing-skills-the-open-agent-skills-ecosystem)  
@@ -534,8 +535,6 @@ Uppgift: Gör [Markdown Tutorial](https://www.markdowntutorial.com/) och lämna 
 
 ###### Nytt om AI
 *  [Ai Gothenburg](https://www.businessregiongoteborg.se/etablera-investera/gothenburg-tech/aigothenburg) 
-*  
-*  
 
 ###### Elements of AI - Neuronnät  
 <img width="1324" height="550" alt="image" src="https://github.com/user-attachments/assets/8fc2a5eb-ea40-479b-9617-b8ba924ee755" />
