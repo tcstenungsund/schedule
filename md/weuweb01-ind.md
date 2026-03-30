@@ -312,6 +312,9 @@ Vi forstätter med designsystem.
 **Studiedag** 
 
 ## Vecka 14   
+
+Sista lektionen idag för Designsystemet, Moadboard och Wireframes.
+
 <!---
   Nu tar vi oss an [Webflow](https://webflow.com/)! Skapa ett konto, logga in och bekanta dig med verktyget.    
 
