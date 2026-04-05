@@ -348,6 +348,7 @@ PROV på den sista delen av CCST IT-Support sviten: Hardware and Upgrade Support
 
 ## Vecka 16   
 
+Laboration - Tre datorpaket.
 
 ## Vecka 17   
 
