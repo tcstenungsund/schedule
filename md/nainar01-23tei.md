@@ -286,9 +286,10 @@ Genomgång av Modul 1 - Network Support.
 
 ## Vecka 14   
 
-Måndag:
+Måndag:Genomgång av sista Modulerna på - Network Support and Security (CCST Networking 4/4) 
 
 Tisdag:
+PROV -  Network Support and Security (CCST Networking 4/4)
 
 ## Vecka 15   
 
@@ -296,30 +297,79 @@ Tisdag:
 
 ## Vecka 16   
 
+Måndag:
+Webbutveckling med KFN.
+
+
+Tisdag:
+
+Läs på inför CCST slutprovet. CBN tar lektionen.
+
+Förbered er inför det kommande slutprovet i CCST, provet omfattar följande:
+
+Networking Basics (CCST 1/4)
+
+Networking Devices and Initial Configuration (CCST Networking 2/4)
+
+Network Addressing and Basic Troubleshooting (CCST Networking 3/4)
+
+Network Support and Security (CCST Networking 4/4)
 
 ## Vecka 17   
+
+Måndag:
+
+
+Tisdag:
 
 
 ## Vecka 18   
 
+Måndag:
+
+
+Tisdag:
 
 ## Vecka 19   
 
+Måndag:
+
+
+Tisdag:
 
 ## Vecka 20   
 
+Måndag:
 
+
+Tisdag:
 ## Vecka 21   
 
+Måndag:
+
+
+Tisdag:
 
 ## Vecka 22   
 
+Måndag:
+
+
+Tisdag:
 
 ## Vecka 23   
 
+Måndag:
+
+
+Tisdag:
 
 ## Vecka 24   
 
+Måndag:
+
+
+Tisdag:
 
 ## Vecka 25   
 **SOMMARLOV**   
