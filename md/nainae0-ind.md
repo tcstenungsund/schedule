@@ -198,9 +198,12 @@ Prov på  Modul 15 Firewall Technologies :)
 
 ## Vecka 13   
 
+Kapitel 18 Cryptography i CCST cybersecurity
 
 ## Vecka 14   
 
+
+Kapitel 18 Cryptography i CCST cybersecurity
   
 ## Vecka 15   
 
@@ -208,6 +211,7 @@ Prov på  Modul 15 Firewall Technologies :)
 
 ## Vecka 16   
 
+Kapitel 18 prov :)
 
 ## Vecka 17   
 
