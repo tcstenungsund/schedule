@@ -543,12 +543,13 @@ Introduktion till Kapitel 5 - Neuronnät i ElementsofAi kursen.
 
 Genomgång av avsnitt 1 - Principerna för Neuronnät.
 
-## Vecka 13   
+## Vecka 13  
 
-###### Nytt om AI
-*  
-*  
-*  
+###### Nytt om AI  
+* "[Why is everybody coding in Chinese?](https://www.youtube.com/shorts/tbfCOa3XRFc)"  
+* "[Meta glasses spying scandal explained](https://www.tiktok.com/@scrolldeep/video/7614197810740710678)"  
+* "[Chatbot delusions not a new problem](https://www.tiktok.com/@professorcasey/video/7614890527711825183)"  
+* "[We studied over a thousand people's relation to AI](https://www.tiktok.com/@stay_human25/video/7620873359831649549)"  
 
 PROV: SVT Dokumentär [Generation AI](https://www.svtplay.se/generation-ai)  
 
