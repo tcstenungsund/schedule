@@ -552,28 +552,20 @@ Genomgång av avsnitt 1 - Principerna för Neuronnät.
 
 PROV: SVT Dokumentär [Generation AI](https://www.svtplay.se/generation-ai)  
 
-## Vecka 14   
-
-###### Nytt om AI
-*  
-*  
-*  
-
-<!-- 
-###### Elements of AI - Konsekvenser  
-<img width="1324" height="547" alt="image" src="https://github.com/user-attachments/assets/7cc3b812-64cc-48f0-9321-c54982c9154d" />
--->
-
-## Vecka 15   
+## Vecka 14 - 15   
 
 **PÅSKLOV**   
 
 ## Vecka 16   
 
 ###### Nytt om AI
-*  
-*  
-*  
+* "[Even Microsoft knows Copilot shouldn't be trusted with anything important](https://www.theregister.com/2026/04/02/copilot_terms_of_service/)"  
+* "[How to spot AI writing](https://www.tiktok.com/@stay_human25/video/7608608421927030030)"  
+* "[An economic pattern ... central to the AI and jobs](https://www.tiktok.com/@stay_human25/video/7608608421927030030)"  
+
+Vi ser och diskuterar förra veckans Dokument utifrån, en tysk dokumentär från i år med titeln "[AI-skräpet som dödar internet](https://www.svtplay.se/video/KVk4Zxy/ai-skrapet-som-dodar-internet)" (51 min), och diskuterar den. Hur skall vi lösa problemet med AI-slop? Hur kommer internet att se ut om tio år om vi inte gör något?  
+
+Genomgång av provet från vecka 13.  
 
 ## Vecka 17   
 
@@ -588,6 +580,11 @@ PROV: SVT Dokumentär [Generation AI](https://www.svtplay.se/generation-ai)
 *  
 *  
 *  
+
+<!-- 
+###### Elements of AI - Konsekvenser  
+<img width="1324" height="547" alt="image" src="https://github.com/user-attachments/assets/7cc3b812-64cc-48f0-9321-c54982c9154d" />
+-->
 
 ## Vecka 19   
 
