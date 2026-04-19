@@ -319,6 +319,8 @@ Network Support and Security (CCST Networking 4/4)
 
 Måndag:
 
+Studiebesök på Soltak i Kungälv kl 13. Ni tar er ner själva med buss. Vi samlas i köpcentret Kongahälla Center 12.50.
+
 
 Tisdag:
 
@@ -375,5 +377,5 @@ Tisdag:
 **SOMMARLOV**   
 
 ---     
-[![Creative Commons-licens](https://i.creativecommons.org/l/by-sa/4.0/80x15.png)](http://creativecommons.org/licenses/by-sa/4.0/) Detta dokument är licensierat under en [Creative Commons Erkännande-DelaLika 4.0 Internationell Licens](http://creativecommons.org/licenses/by-sa/4.0/).    
+9[![Creative Commons-licens](https://i.creativecommons.org/l/by-sa/4.0/80x15.png)](http://creativecommons.org/licenses/by-sa/4.0/) Detta dokument är licensierat under en [Creative Commons Erkännande-DelaLika 4.0 Internationell Licens](http://creativecommons.org/licenses/by-sa/4.0/).    
 Bilder och fotografier tillhör respektive upphovsman, och befinner sig inte nödvändigtsvis under en Creative Commons-licens.
