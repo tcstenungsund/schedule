@@ -446,11 +446,11 @@ Grupprojekt!
 
 ## Vecka 22   
 
-Presentation av grupprojekt!  
+Grupprojekt!  
 
 ## Vecka 23   
 
-**Brännbollsturnering**  
+Presentation av grupprojekt!  
 
 ## Vecka 24   
 
