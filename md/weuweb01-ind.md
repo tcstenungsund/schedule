@@ -332,6 +332,8 @@ Sista lektionen idag för Designsystemet, Moadboard och Wireframes.
 
 ## Vecka 17   
 
+Jag vabbar tyvärr idag, ni forsätter att jobba med era hemsidor i Webflow.
+
 
 ## Vecka 18   
 
