@@ -215,7 +215,7 @@ Kapitel 18 prov :)
 
 ## Vecka 17   
 
-
+Vi tittade på en dokumentär vid namn We Are Legion: The story of the Hacktivists (2012)
 
 ## Vecka 18   
 
