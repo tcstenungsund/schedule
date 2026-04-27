@@ -337,6 +337,7 @@ Jag vabbar tyvärr idag, ni forsätter att jobba med era hemsidor i Webflow.
 
 ## Vecka 18   
 
+Fortsätta med hemsidan på Webflow.
 
 ## Vecka 19   
 
