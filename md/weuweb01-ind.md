@@ -341,7 +341,7 @@ Fortsätta med hemsidan på Webflow.
 
 ## Vecka 19   
 
-[Hur sätter lärare betyg?](Fortsätta med hemsidan på Webflow.)
+[Hur sätter lärare betyg?](https://www.youtube.com/watch?v=Zef4M5J94Wk)
 Fortsätta med hemsidan på Webflow.
 
 ## Vecka 20   
