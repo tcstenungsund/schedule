@@ -341,21 +341,28 @@ Fortsätta med hemsidan på Webflow.
 
 ## Vecka 19   
 
+[Hur sätter lärare betyg?](Fortsätta med hemsidan på Webflow.)
+Fortsätta med hemsidan på Webflow.
 
 ## Vecka 20   
 
+Fortsätta med hemsidan på Webflow.
 
 ## Vecka 21   
 
+Fortsätta med hemsidan på Webflow.
 
 ## Vecka 22   
 
+Inlämning: Hemsida
 
 ## Vecka 23   
 
+Utvärdering/Koplettering
 
 ## Vecka 24   
 
+Jag är ledig :).
 
 ## Vecka 25   
 **SOMMARLOV**   
