@@ -442,7 +442,7 @@ En webbplats bör byggas och utveckla med fakta som bas. För att få fakta om j
 
 _Usability testing_    
 * "[Usability testing](https://en.wikipedia.org/wiki/Usability_testing)"   
-* "[Usability Testing: Don’t Guess, Test.](https://www.uxbooth.com/articles/usability-testing-dont-guess-test/)"   
+* "[Usability Testing: Don’t Guess, Test.](https://web.archive.org/web/20250201083012/https://uxbooth.com/articles/usability-testing-dont-guess-test/)"   
 * "[How To Run Live User Testing](https://techcrunch.com/2014/02/18/how-to-run-live-user-testing-part-1-setup/)"   
 * "[What goes into a user testing script](https://boagworld.com/usability/what-goes-into-a-user-testing-script/)"   
 * "[Testing design: How do you test a design comp?](https://boagworld.com/design/testing-design/)"   
