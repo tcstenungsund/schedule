@@ -579,10 +579,7 @@ Genomgång av provet från vecka 13.
 
 FÖRSTA MAJ
 
-###### Nytt om AI
-*  
-*  
-*  
+
 
 <!-- 
 ###### Elements of AI - Konsekvenser  
@@ -591,19 +588,18 @@ FÖRSTA MAJ
 
 ## Vecka 19   
 
-KRISTI HIMMELSFÄRD
-
 ###### Nytt om AI
 *  
 *  
 *  
+
 
 ## Vecka 20   
 
-###### Nytt om AI
-*  
-*  
-*  
+KRISTI HIMMELSFÄRD
+
+
+
 
 ## Vecka 21   
 
@@ -621,17 +617,11 @@ KRISTI HIMMELSFÄRD
 
 ## Vecka 23   
 
-###### Nytt om AI
-*  
-*  
-*  
+STUDENT
 
 ## Vecka 24   
 
-###### Nytt om AI
-*  
-*  
-*  
+SKOLAVSLUTNING 
 
 ## Vecka 25   
 **SOMMARLOV**   
