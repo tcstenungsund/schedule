@@ -329,15 +329,25 @@ Tisdag:
 
 Måndag:
 
+Förbered inför slutprov CCST.
+
 
 Tisdag:
+Gymnasiearbetsredovisning.
 
 ## Vecka 19   
 
 Måndag:
 
+PROV - CCST Networking.
+
+
 
 Tisdag:
+
+Genomgång av CCNA2 - Routing
+
+Gör 14.3.5 Packet Tracer.
 
 ## Vecka 20   
 
