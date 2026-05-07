@@ -571,9 +571,36 @@ Genomgång av provet från vecka 13.
 ## Vecka 17   
 
 ###### Nytt om AI
-*  
-*  
-*  
+* "[Claude Mythos lyckades hitta 271 sårbarheter i Firefox](https://swedroid.se/claude-mythos-lyckades-hitta-271-sarbarheter-i-firefox-gav-mozilla-svindel/)"  
+* "[AI-forskaren: ”Vår framtid kan bli bländande bra”](https://www.sverigesradio.se/artikel/forskare-om-ai-kan-bli-battre-an-manniskan-och-skapa-utopi)"  
+* "[AI-kompetens är inte det du tror](https://computersweden.se/article/4161281/kompetenser-inom-ai-ar-inte-vad-du-tror.html)"
+
+###### Elements of AI - Neuronnät  
+
+Genomgång av Kapitel 5 färdig. 
+
+Vi gör övningarna gemensamt.
+
+<img width="451" height="411" alt="image" src="https://github.com/user-attachments/assets/9e7acc4d-1148-44a4-86d3-42ed15154073" />
+
+###### Övning - PUMA Browser
+
+Vi ska testa att installera Ai modeller lokalt. Som ett första steg ska vi installera Puma Browser på våra mobiltelefoner.
+
+
+"[PUMA Browser](https://www.pumabrowser.com/)"  
+"[Self-Hosted LLM Leaderboard](https://onyx.app/self-hosted-llm-leaderboard)"
+
+Testa att installera ett par små LLMer. Vad klarar de av?
+
+###### Överkurs - Google CoLab
+
+Som överkurs finns Google CoLab, här kan du testa Ai modeller och träna upp dem med maskininlärning.
+
+"[Google CoLab](https://colab.research.google.com/#scrollTo=P-H6Lw1vyNNd)"  
+
+<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/6043a0f3-61e6-4817-a681-52a2e4ec3429" />
+
 
 ## Vecka 18   
 
@@ -593,6 +620,10 @@ FÖRSTA MAJ
 *  
 *  
 
+###### Övning - Installera lokala LLMer
+
+Vi installerar och testar LLMer på en lokal dator.
+
 
 ## Vecka 20   
 
@@ -602,6 +633,8 @@ KRISTI HIMMELSFÄRD
 
 
 ## Vecka 21   
+
+PROV - ElementsOfAi - Kapitel 1 - 5.
 
 ###### Nytt om AI
 *  
