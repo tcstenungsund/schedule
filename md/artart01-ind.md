@@ -1,3 +1,4 @@
+<img width="836" height="566" alt="Screenshot_20260508_150442-1" src="https://github.com/user-attachments/assets/622cc745-6a87-4bdf-a19c-628e9023381e" />
 # Artificiell Intelligens - INDval 2025/2026  
 
 ## Vecka 36   
@@ -618,11 +619,13 @@ FÖRSTA MAJ
 ###### Nytt om AI
 *  
 *  
-*  
+* "[Picking your first local LLM is easier than the internet makes it sound](https://www.makeuseof.com/picking-your-first-local-llm-easier-than-internet-makes-it-sound/)"    
+
+<img width="836" height="566" alt="Screenshot_20260508_150442-1" src="https://github.com/user-attachments/assets/0d39394a-cbf5-430a-ab00-ab1bb7a7fa8c" />
 
 ###### Övning - Installera lokala LLMer
 
-Vi installerar och testar LLMer på en lokal dator.  
+Vi installerar och testar LLMer på en lokal dator med hjälp av [LM-Studio](https://lmstudio.ai/).  
 
 Jämförelsetestet — Samma prompt, två modeller  
 
