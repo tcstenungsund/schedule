@@ -1,4 +1,3 @@
-<img width="836" height="566" alt="Screenshot_20260508_150442-1" src="https://github.com/user-attachments/assets/622cc745-6a87-4bdf-a19c-628e9023381e" />
 # Artificiell Intelligens - INDval 2025/2026  
 
 ## Vecka 36   
