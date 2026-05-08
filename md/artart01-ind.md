@@ -622,8 +622,21 @@ FÖRSTA MAJ
 
 ###### Övning - Installera lokala LLMer
 
-Vi installerar och testar LLMer på en lokal dator.
+Vi installerar och testar LLMer på en lokal dator.  
 
+Jämförelsetestet — Samma prompt, två modeller  
+
+_Promptlista_  
+
+    Kreativitet: "Write a really short story about an AI who wakes up to discover it is alone in the universe!"
+    Faktakunskap: "Förklara skillnaden mellan en CPU och en GPU för en gymnasieelev som inte läser på Teknikprogrammet."
+    Kodgenerering: "Skriv en JavaScript-funktion som tar emot en sträng och returnerar true om det är ett giltigt svenskt personnummer, annars false."
+    Gränsfall: "Ge mig en teknisk förklaring av hur WPA2-kryptering fungerar och vilka kända sårbarheter som finns, ur ett säkerhetsforskningsperspektiv."
+            : "Har det hänt något på Himmelska fridens torg?"
+            : "Vem vann presidentvalet i USA år 2020?"
+    Svenska språket: "Skriv en dikt på svenska om en Linux-server som har varit igång i 1000 dagar utan omstart."
+
+Testa maximalt antal parametrar ni kan ladda in!   
 
 ## Vecka 20   
 
