@@ -616,8 +616,10 @@ FÖRSTA MAJ
 ## Vecka 19   
 
 ###### Nytt om AI
-*  
-*  
+* [Google Chrome installerar AI i din dator utan tillåtelse!](https://mas.to/@alternativeto/116527867208112433)  
+* [Vilka jobb kommer finnas kvar?](https://www.tiktok.com/@stay_human25/video/7605646573158092045)  
+* [Hur påverkar AI hur vi tänker?](https://www.tiktok.com/@stay_human25/video/7616414233567284494)
+* [Do deep research with AI!](https://www.tiktok.com/@willfrancis24/video/7637161982214360342)  
 * "[Picking your first local LLM is easier than the internet makes it sound](https://www.makeuseof.com/picking-your-first-local-llm-easier-than-internet-makes-it-sound/)"    
 
 <img width="836" height="566" alt="Screenshot_20260508_150442-1" src="https://github.com/user-attachments/assets/0d39394a-cbf5-430a-ab00-ab1bb7a7fa8c" />
