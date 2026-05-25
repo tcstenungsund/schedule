@@ -474,6 +474,8 @@ Grupprojekt!
 
 Konfigurera GitHub Pages på det repocitory ni blivit tilldelat, och ladda upp er webbplats där.  
 
+|   |   |   |
+|---|---|---|
 | [Grupp 1](https://tcstenungsund.github.io/24tei-grupp1) 	| [Grupp 2](https://tcstenungsund.github.io/24tei-grupp2) 	| [Grupp 3](https://tcstenungsund.github.io/24tei-grupp3) 	|
 | [Grupp 4](https://tcstenungsund.github.io/24tei-grupp4) 	| [Grupp 5](https://tcstenungsund.github.io/24tei-grupp5) 	| [Grupp 6](https://tcstenungsund.github.io/24tei-grupp6) 	|
 | [Grupp 7](https://tcstenungsund.github.io/24tei-grupp7) 	| [Grupp 8](https://tcstenungsund.github.io/24tei-grupp8) 	|         	|
