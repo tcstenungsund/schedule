@@ -1,4 +1,4 @@
-# KURSNAMN - ELEVGRUPP    
+# Programmering 1 - 24TEI    
 
 ## Vecka 35   
 
