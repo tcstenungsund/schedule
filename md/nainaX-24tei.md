@@ -1,4 +1,4 @@
-# Nätverksteknik - 24TEI
+# Nätverksteknik och Nätverksadministration - 24TEI
 
 ## Vecka 35   
 
