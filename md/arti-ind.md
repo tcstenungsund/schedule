@@ -1,4 +1,4 @@
-# KURSNAMN - ELEVGRUPP    
+# Artificiell intelligens Nivå 1 - INDval
 
 ## Vecka 35   
 

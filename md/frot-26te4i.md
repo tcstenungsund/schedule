@@ -1,4 +1,4 @@
-# KURSNAMN - ELEVGRUPP    
+# Frontendutveckling Nivå 1 och 2, Digital design Nivå 1 - 26TE4I
 
 ## Vecka 35   
 

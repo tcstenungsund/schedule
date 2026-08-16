@@ -1,4 +1,4 @@
-# KURSNAMN - ELEVGRUPP    
+# Informationsteknik Nivå 1 - 25TEI
 
 ## Vecka 35   
 

@@ -1,4 +1,4 @@
-# KURSNAMN - ELEVGRUPP    
+# Teknik Nivå 1 - 26TEc
 
 ## Vecka 35   
 

@@ -1,4 +1,4 @@
-# KURSNAMN - ELEVGRUPP    
+# Entreprenörskap och företagande - INDval
 
 ## Vecka 35   
 
