@@ -6,9 +6,10 @@
 **INGEN LEKTION** (Klassdag)
 
 ### Fredag
-Kursintroduktion
+Kursintroduktion + Vad är programmering?
 
 ## Vecka 36   
+Introduktion till datatyper, variabler och operatorer
 
 ### Tisdag
 Python Essentials 1: Modul 1.0 Welcome to Python Essentials 1
@@ -22,12 +23,14 @@ Python Essentials 1: Modul 2.1 Python literals
 
 Python Essentials 1: Operators - data manipulation tools
 
+Python Essentials 1:Variables
+
 ## Vecka 37   
 
 ### Tisdag
 
 
-Python Essentials 1:Variables
+
 
 ### Fredag
 Python Essentials 1:
