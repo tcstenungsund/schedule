@@ -15,6 +15,7 @@ Python Essentials 1: Modul 1.0 Welcome to Python Essentials 1
 
 ### Fredag
 Python Essentials 1: Modul 2.1 The "Hello, World!" Program
+
 Python Essentials 1: Modul 2.1 Python literals
 
 ## Vecka 37   
