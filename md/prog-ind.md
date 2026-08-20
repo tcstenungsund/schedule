@@ -2,33 +2,65 @@
 
 ## Vecka 35   
 
-Måndag:
+Måndag: Introduktion!
+
+Vi pratar om följande:
+* Skolverkets riktlinjer
+* Vad är programmering? 
+* Hur kursen kommer se ut
+* Vad jag har för förväntningar på resultatet i slutet av kursen. 
 
 Fredag:
 
 ## Vecka 36   
 
+Måndag:
+
+Fredag:
 
 ## Vecka 37   
 
+Måndag:
+
+Fredag:
 
 ## Vecka 38   
+
+Måndag:
+
+Fredag:
 
 
 ## Vecka 39   
 
+Måndag:
+
+Fredag:
 
 ## Vecka 40   
+
+Måndag:
+
+Fredag:
 
 
 ## Vecka 41   
 
+Måndag:
+
+Fredag:
 
 ## Vecka 42   
 
+Måndag:
+
+Fredag:
 
 ## Vecka 43   
 
+Måndag:
+
+Fredag:
 
 ## Vecka 44   
 
