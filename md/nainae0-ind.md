@@ -2,8 +2,18 @@
 
 ## Vecka 35   
 
+Introduktion!
+
+Vi kommer prata om följande:
+* Skolverkets riktlinjer.
+* Vad är Nätverkssäkerhet? Och varför är det relevant?
+* Hur kommer kursen se ut?
+* Vi börjar med att titta på en dokumentär. :)
 
 ## Vecka 36   
+
+ <!-- Vi fortsätter med dokumentären och ni ska svara på lite analyserande frågor. -->
+
 
 
 ## Vecka 37   
