@@ -8,7 +8,7 @@ Introduktion!
 
 Vi pratar om följande:
 
-* Skolverkets riktlinjer.
+* [Skolverkets riktlinjer](https://www.skolverket.se/undervisning/gymnasieskolan/program-och-amnen-i-gymnasieskolan/hitta-program-och-amnen-i-gymnasieskolan-gy25/hitta-program-och-amnen-i-gymnasieskolan-gy25/search/subjects/PROG?v=1#PROG1000X).
 * Vad är programmering? 
 * Hur kommer kursen se ut?
 * Vad ska resultat av eran kunskap ge i slutet av året? 
