@@ -2,7 +2,9 @@
 
 ## Vecka 35   
 
-Måndag: Introduktion!
+Fredag: 
+
+Introduktion!
 
 Vi pratar om följande:
 
@@ -11,11 +13,11 @@ Vi pratar om följande:
 * Hur kommer kursen se ut?
 * Vad ska resultat av eran kunskap ge i slutet av året? 
 
-Fredag:
-
 ## Vecka 36   
 
 Måndag:
+
+Dags att installera rätt saker!
 
 Fredag:
 
