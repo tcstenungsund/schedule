@@ -5,10 +5,11 @@
 Måndag: Introduktion!
 
 Vi pratar om följande:
-* Skolverkets riktlinjer
+
+* Skolverkets riktlinjer.
 * Vad är programmering? 
-* Hur kursen kommer se ut
-* Vad jag har för förväntningar på resultatet i slutet av kursen. 
+* Hur kommer kursen se ut?
+* Vad ska resultat av eran kunskap ge i slutet av året? 
 
 Fredag:
 
