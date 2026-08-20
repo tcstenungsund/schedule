@@ -5,7 +5,7 @@
 Introduktion!
 
 Vi kommer prata om följande:
-* Skolverkets riktlinjer.
+* [Skolverkets riktlinjer](https://www.skolverket.se/undervisning/gymnasieskolan/program-och-amnen-i-gymnasieskolan/hitta-program-amnen-och-kurser-i-gymnasieskolan-gy11/hitta-program-och-amnesplaner-i-gymnasieskolan-gy11/search/subjects/NAI?v=2#NAINAE0).
 * Vad är Nätverkssäkerhet? Och varför är det relevant?
 * Hur kommer kursen se ut?
 * Vi börjar med att titta på en dokumentär. :)
