@@ -17,7 +17,7 @@ Vi pratar om följande:
 
 Måndag:
 
-Dags att installera rätt saker!
+<!-- Dags att installera rätt saker! -->
 
 Fredag:
 
