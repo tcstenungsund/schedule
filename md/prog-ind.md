@@ -2,9 +2,9 @@
 
 ## Vecka 35   
 
-*Måndag:
+Måndag:
 
-*Fredag:
+Fredag:
 
 ## Vecka 36   
 
