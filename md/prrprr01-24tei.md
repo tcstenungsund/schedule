@@ -71,14 +71,20 @@ Python Essentials 1: 3.4
 ## Vecka 41   
 
 ### Tisdag
+**Att sortera en Lista**
+Python Essentials 1: 3.4
 
 ### Fredag
+**Att arbeta med listor**
+Python Essentials 1: 3.5
 
 ## Vecka 42   
 
 ### Tisdag
 **INGEN LEKTION** (Utvecklingsamtal)
 ### Fredag
+**Listor i Listor**
+Python Essentials 1: 3.5
 
 ## Vecka 43   
 
@@ -92,6 +98,9 @@ Python Essentials 1: 3.4
 
 ## Vecka 45   
 
+### Tisdag
+
+### Fredag
 
 ## Vecka 46   
 
