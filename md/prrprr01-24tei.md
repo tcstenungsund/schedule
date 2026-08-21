@@ -89,8 +89,12 @@ Python Essentials 1: 3.5
 ## Vecka 43   
 
 ### Tisdag
+Python Essentials 1: **Module Test 3**
+
 
 ### Fredag
+**Newton-Raphsons metod**
+
 
 ## Vecka 44   
 
@@ -99,30 +103,61 @@ Python Essentials 1: 3.5
 ## Vecka 45   
 
 ### Tisdag
+**Introduktion till funktioner**
+Python Essentials 1: 4.1 och 4.2
 
 ### Fredag
+**Att använda funktioner**
+Python Essentials 1: 4.3
 
 ## Vecka 46   
+### Tisdag
+**Att använda funktioner och lokala vs globala variabler**
+Python Essentials 1: 4.4
 
+### Fredag
+**Rekursion och funktioner med mer än ett argument**
+Python Essentials 1: 4.5
 
 ## Vecka 47   
+### Tisdag
+**uples och dictionaries; när listor inte är optimala**
+Python Essentials 1: 4.6
+
+### Fredag
+**Exceptions**
+Python Essentials 1: 4.57
 
 
 ## Vecka 48   
+### Tisdag
+**Introduktion till Final Project i Python Essentials 1**
+Python Essentials 1: **Module Test 4**
+Python Essentials 1: **Final Project**
 
+### Fredag
+**Arbeta med Final Project i Python Essentials 1**
 
 ## Vecka 49   
+### Tisdag
+**Redovisa Final Project i Python Essentials 1**
 
+### Fredag
+**Repetera Python Essentials 1**
 
 ## Vecka 50   
+### Tisdag
+**Repetera Python Essentials 1**
+### Fredag
+**Final Test Python Essentials 1**
 
+## Vecka 51  
 
-## Vecka 51   
-
+**Jul och sånt**  
 
 ## Vecka 53   
 
-**VINTERLOV**   
+**Nyår och sånt**   
 
 ## Vecka 1
 
