@@ -12,58 +12,79 @@ Kursintroduktion + Vad är programmering?
 Introduktion till datatyper, variabler och operatorer
 
 ### Tisdag
-Python Essentials 1: Modul 1.0 Welcome to Python Essentials 1
+**Välkommen till Python**
 
-Python Essentials 1: Modul 2.1 The "Hello, World!" Program
+Python Essentials 1: 1.0-1.3 och 2.1
+
 
 ### Fredag
+**Variabler och grundläggande operatore och modultest**
+
 Python Essentials 1: **Module Test 1** 
 
-Python Essentials 1: Python literals
+Python Essentials 1: 2.2-2.5
 
-Python Essentials 1: Operators - data manipulation tools
-
-Python Essentials 1:Variables
-
-Python Essentials 1: Kommentarer
 
 ## Vecka 37   
 
 ### Tisdag
+**Komunikation med användaren OCH med dig själv**
 
-Python Essentials 1: Interaction with the user
+Python Essentials 1: 2.5 och 2.6
 
 
 
 ### Fredag
-Python Essentials 1:
+Python Essentials 1: **Module Test 2*
 
-Python Essentials 1:
 
 ## Vecka 38   
 
 ### Tisdag
-Python Essentials 1:
-
-Python Essentials 1:
+**Jämförelser och beslut => jämförelse operatorer och if-satser**
+Python Essentials 1: 3.1
 
 ### Fredag
+**Introduktion till loppar och while-loppen**
+Python Essentials 1: 3.2
 
+## Vecka 39  
 
-## Vecka 39   
+### Tisdag
+**for-loppen**
+Python Essentials 1: 3.2
 
+### Fredag
+**break och continue**
+Python Essentials 1: 3.2
 
 ## Vecka 40   
 
+### Tisdag
+**Logiska utryck**
+Python Essentials 1: 3.3
+
+### Fredag
+**Listor**
+Python Essentials 1: 3.4
 
 ## Vecka 41   
 
+### Tisdag
+
+### Fredag
 
 ## Vecka 42   
 
+### Tisdag
+**INGEN LEKTION** (Utvecklingsamtal)
+### Fredag
 
 ## Vecka 43   
 
+### Tisdag
+
+### Fredag
 
 ## Vecka 44   
 
