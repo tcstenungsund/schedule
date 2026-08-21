@@ -19,16 +19,19 @@ Python Essentials 1: Modul 2.1 The "Hello, World!" Program
 ### Fredag
 Python Essentials 1: **Module Test 1** 
 
-Python Essentials 1: Modul 2.1 Python literals
+Python Essentials 1: Python literals
 
 Python Essentials 1: Operators - data manipulation tools
 
 Python Essentials 1:Variables
 
+Python Essentials 1: Kommentarer
+
 ## Vecka 37   
 
 ### Tisdag
 
+Python Essentials 1: Interaction with the user
 
 
 
