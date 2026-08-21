@@ -35,7 +35,7 @@ Python Essentials 1: 2.5 och 2.6
 
 
 ### Fredag
-Python Essentials 1: **Module Test 2*
+Python Essentials 1: **Module Test 2**
 
 
 ## Vecka 38   
