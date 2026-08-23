@@ -6,10 +6,12 @@
 **INGEN LEKTION** (Klassdag)
 
 ### Fredag
-Kursintroduktion + Vad är programmering?
+**Kursintroduktion + Vad är programmering?**
+
+Introduktion till datatyper, variabler och operatorer
 
 ## Vecka 36   
-Introduktion till datatyper, variabler och operatorer
+
 
 ### Tisdag
 **Välkommen till Python**
@@ -42,40 +44,48 @@ Python Essentials 1: **Module Test 2**
 
 ### Tisdag
 **Jämförelser och beslut => jämförelse operatorer och if-satser**
+
 Python Essentials 1: 3.1
 
 ### Fredag
 **Introduktion till loppar och while-loppen**
+
 Python Essentials 1: 3.2
 
 ## Vecka 39  
 
 ### Tisdag
 **for-loppen**
+
 Python Essentials 1: 3.2
 
 ### Fredag
 **break och continue**
+
 Python Essentials 1: 3.2
 
 ## Vecka 40   
 
 ### Tisdag
 **Logiska utryck**
+
 Python Essentials 1: 3.3
 
 ### Fredag
 **Listor**
+
 Python Essentials 1: 3.4
 
 ## Vecka 41   
 
 ### Tisdag
 **Att sortera en Lista**
+
 Python Essentials 1: 3.4
 
 ### Fredag
 **Att arbeta med listor**
+
 Python Essentials 1: 3.5
 
 ## Vecka 42   
@@ -84,6 +94,7 @@ Python Essentials 1: 3.5
 **INGEN LEKTION** (Utvecklingsamtal)
 ### Fredag
 **Listor i Listor**
+
 Python Essentials 1: 3.5
 
 ## Vecka 43   
@@ -104,35 +115,43 @@ Python Essentials 1: **Module Test 3**
 
 ### Tisdag
 **Introduktion till funktioner**
+
 Python Essentials 1: 4.1 och 4.2
 
 ### Fredag
 **Att använda funktioner**
+
 Python Essentials 1: 4.3
 
 ## Vecka 46   
 ### Tisdag
 **Att använda funktioner och lokala vs globala variabler**
+
 Python Essentials 1: 4.4
 
 ### Fredag
 **Rekursion och funktioner med mer än ett argument**
+
 Python Essentials 1: 4.5
 
 ## Vecka 47   
 ### Tisdag
 **uples och dictionaries; när listor inte är optimala**
+
 Python Essentials 1: 4.6
 
 ### Fredag
 **Exceptions**
+
 Python Essentials 1: 4.57
 
 
 ## Vecka 48   
 ### Tisdag
 **Introduktion till Final Project i Python Essentials 1**
+
 Python Essentials 1: **Module Test 4**
+
 Python Essentials 1: **Final Project**
 
 ### Fredag
