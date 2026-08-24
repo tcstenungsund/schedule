@@ -2,77 +2,166 @@
 
 ## Vecka 35   
 
+**Sommar**
 
 ## Vecka 36   
 
+### Tisdag
+
+### Onsdag
+
+### Fredag
 
 ## Vecka 37   
 
+### Tisdag
+
+### Onsdag
+
+### Fredag
 
 ## Vecka 38   
 
+### Tisdag
+
+### Onsdag
+
+### Fredag
 
 ## Vecka 39   
 
+### Tisdag
+
+### Onsdag
+
+### Fredag
 
 ## Vecka 40   
 
+### Tisdag
+
+### Onsdag
+
+### Fredag
 
 ## Vecka 41   
 
+### Tisdag
+
+### Onsdag
+
+### Fredag
 
 ## Vecka 42   
 
+### Tisdag
+
+### Onsdag
+
+### Fredag
 
 ## Vecka 43   
 
+### Tisdag
 
-## Vecka 44   
+### Onsdag
+
+### Fredag
+
+## Vecka 44
 
 **HÖSTLOV**   
 
 ## Vecka 45   
 
+### Tisdag
+
+### Onsdag
+
+### Fredag
 
 ## Vecka 46   
 
+### Tisdag
+
+### Onsdag
+
+### Fredag
 
 ## Vecka 47   
 
+### Tisdag
+
+### Onsdag
+
+### Fredag
 
 ## Vecka 48   
 
+### Tisdag
+
+### Onsdag
+
+### Fredag
 
 ## Vecka 49   
 
+### Tisdag
+
+### Onsdag
+
+### Fredag
 
 ## Vecka 50   
 
+### Tisdag
+
+### Onsdag
+
+### Fredag
 
 ## Vecka 51   
 
+### Tisdag
 
-## Vecka 53   
+### Onsdag
 
+### Fredag
+
+## Vecka 52   
+
+### Tisdag
+
+### Onsdag
+
+### Fredag
+
+## Vecka 53
 **VINTERLOV**   
 
 ## Vecka 1
 
+### Onsdag
 
 ## Vecka 2   
 
+### Onsdag
 
 ## Vecka 3   
 
+### Onsdag
 
 ## Vecka 4   
 
+### Onsdag
 
 ## Vecka 5   
 
+### Onsdag
 
 ## Vecka 6   
 
+### Onsdag
 
 ## Vecka 7   
 
@@ -80,43 +169,56 @@
 
 ## Vecka 8   
 
+**Praktik**
 
 ## Vecka 9   
 
+**Praktik**
 
 ## Vecka 10   
 
+**Praktik**
 
 ## Vecka 11   
 
+**Praktik**
 
 ## Vecka 12   
 
+**Praktik**
 
 ## Vecka 13   
 
+**Praktik**
 **PÅSKLOV**  
 
 ## Vecka 14   
 
+**Praktik**
 
 ## Vecka 15   
 
+**Praktik**
 
 ## Vecka 16   
 
+**Praktik**
 
 ## Vecka 17   
 
+**Praktik**
 
 ## Vecka 18   
 
+**Praktik**
 
 ## Vecka 19   
 
+**Praktik**
 
 ## Vecka 20   
 
+**Praktik**
 
 ## Vecka 21   
 
