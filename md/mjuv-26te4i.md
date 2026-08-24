@@ -3,6 +3,7 @@
 ## Kursdelar
 
 ### Programmerings intro v. 36-39
+Göra en introduktionskurs i antingen Python eller Javascript ifrån Cisco. Du gör i det språket du inte kan sen innan. Om du redan behärskar båda språken kommer du få en annan uppgift av mig dessa veckor.
 
 ### Projekt 1: Tower of Hanoi/Master mind v. 40-43 
 
