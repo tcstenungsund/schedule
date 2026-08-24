@@ -1,5 +1,21 @@
 # Mjukvarudesign Nivå 1 och Programmering för tekniska tillämpningar Nivå 1
 
+## Kursdelar
+
+### Programmerings intro v. 36-39
+
+### Projekt 1: Tower of Hanoi/Master mind v. 40-43 
+
+### JavaScript och Frameworkes v. 45-46
+
+### Project 2.1: Kalender app frontend v.47-49
+
+### Introduktion till C# v. 50, 51 
+
+### API v. 2-3
+
+### Project 2.1: Kalender app backend v.4-6, 20-23
+
 ## Vecka 35   
 
 **Sommar**
