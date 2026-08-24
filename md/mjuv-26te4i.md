@@ -7,8 +7,14 @@
 ## Vecka 36   
 
 ### Tisdag
+**Ingen lektion** Uppsatarts dag
 
 ### Onsdag
+**Kursintroduktion och uppstart av Netacad**
+
+Python Essentials 1: Modul 1
+
+JavaScript Essentials 1: Modul 1
 
 ### Fredag
 
@@ -189,8 +195,7 @@
 
 ## Vecka 13   
 
-**Praktik**
-**PÅSKLOV**  
+**Praktik/PÅSKLOV**  
 
 ## Vecka 14   
 
