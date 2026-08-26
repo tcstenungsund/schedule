@@ -2,6 +2,20 @@
 
 ## Vecka 35   
 
+Uppstart med en titt på [Skolverkets dokumentation](https://www.skolverket.se/undervisning/gymnasieskolan/program-och-amnen-i-gymnasieskolan/hitta-program-amnen-och-kurser-i-gymnasieskolan-gy11/amne?url=907561864%2Fsyllabuscw%2Fjsp%2Fsubject.htm%3FsubjectCode%3DART%26courseCode%3DARTART01%26version%3D1%26tos%3Dgy&sv.url=12.5dfee44715d35a5cdfa92a3#anchor_ARTART01) för kursen!  
+
+Kursmaterial som vi ska utgå ifrån:
+https://www.elementsofai.se/
+
+Online Ai verktyg som vi ska testa:
+https://www.futurepedia.io/
+
+Ett krypterat, säkert och europeiskt alternativ för generativ AI för text är [Proton Lumo](https://lumo.proton.me/). Testa gärna den!  
+
+"[Vad är AI, eller artificiell intelligens? | Fredrik Heintz, Linköpings universitet](https://youtu.be/PJJryrfvlnw?)" (10 min)
+
+[Uppgift: Sedeslärande saga med tema jul!](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/artart01-seseslarande_saga_med_tema_jul)  
+
 
 ## Vecka 36   
 
