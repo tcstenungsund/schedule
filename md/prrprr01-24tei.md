@@ -14,7 +14,7 @@ Introduktion till datatyper, variabler och operatorer
 
 
 ### Tisdag
-**Välkommen till Python**
+**Välkommen till Python och (debatt i aulan)**
 
 Python Essentials 1: 1.0-1.3 och 2.1
 
