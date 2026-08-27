@@ -15,6 +15,8 @@ Spåret består av 4 stycken kurser.
 
 Vi skapar Netacad konton och anmäler oss till den första kursen - IT Customer Support Basics
 
+Vi anmäler oss även till kursen IT Essentials, som vi kommer att använda som överkurs material för er som blir färdiga fort.
+
 
 
 ## Vecka 36   
