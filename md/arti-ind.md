@@ -2,7 +2,7 @@
 
 ## Vecka 35   
 
-Uppstart med en titt på [Skolverkets dokumentation](https://www.skolverket.se/undervisning/gymnasieskolan/program-och-amnen-i-gymnasieskolan/hitta-program-amnen-och-kurser-i-gymnasieskolan-gy11/amne?url=907561864%2Fsyllabuscw%2Fjsp%2Fsubject.htm%3FsubjectCode%3DART%26courseCode%3DARTART01%26version%3D1%26tos%3Dgy&sv.url=12.5dfee44715d35a5cdfa92a3#anchor_ARTART01) för kursen!  
+Uppstart med en titt på [Skolverkets dokumentation](https://www.skolverket.se/undervisning/gymnasieskolan/program-och-amnen-i-gymnasieskolan/hitta-program-och-amnen-i-gymnasieskolan-gy25/hitta-program-och-amnen-i-gymnasieskolan-gy25/search/subjects/ARTI?v=2#ARTI) för kursen!  
 
 Kursmaterial som vi ska utgå ifrån:
 https://www.elementsofai.se/
