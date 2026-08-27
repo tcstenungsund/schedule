@@ -37,32 +37,34 @@ Python Essentials 1: 2.5 och 2.6
 
 
 ### Fredag
+**Jämförelser och beslut => jämförelse operatorer, if-satser och modultest**
+
 Python Essentials 1: **Module Test 2**
 
+Python Essentials 1: 3.1
 
 ## Vecka 38   
 
 ### Tisdag
-**Jämförelser och beslut => jämförelse operatorer och if-satser**
+**Introduktion till loppar och while-loppen**
 
-Python Essentials 1: 3.1
+Python Essentials 1: 3.2
+
 
 ### Fredag
-**Introduktion till loppar och while-loppen**
+**for-loppen**
 
 Python Essentials 1: 3.2
 
 ## Vecka 39  
 
 ### Tisdag
-**for-loppen**
+**break och continue**
 
 Python Essentials 1: 3.2
 
 ### Fredag
-**break och continue**
 
-Python Essentials 1: 3.2
 
 ## Vecka 40   
 
