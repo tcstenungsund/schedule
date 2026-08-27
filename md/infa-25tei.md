@@ -2,6 +2,20 @@
 
 ## Vecka 35   
 
+<img width="881" height="362" alt="487650458-a7c30874-f47c-47a5-bcdc-55f55064918d" src="https://github.com/user-attachments/assets/f427b974-919f-45f4-b3d2-6df7b173dbb8" />
+
+
+Välkomna till Informationsteknik ämnet!
+
+Vi kommer att arbeta med Cisco Networking Academy - CCST IT Support spår.
+
+[CCST IT Support](https://www.netacad.com/articles/news/prepare-for-ccst-it-support?courseLang=en-US)  
+
+Spåret består av 4 stycken kurser.
+
+Vi skapar Netacad konton och anmäler oss till den första kursen - IT Customer Support Basics
+
+
 
 ## Vecka 36   
 
