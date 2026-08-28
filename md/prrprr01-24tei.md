@@ -20,7 +20,7 @@ Python Essentials 1: 1.0-1.3 och 2.1
 
 
 ### Fredag
-**Variabler och grundläggande operatore och modultest**
+**Variabler och grundläggande operatorer och modultest**
 
 Python Essentials 1: **Module Test 1** 
 
