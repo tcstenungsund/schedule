@@ -17,7 +17,7 @@ Att göra idag:
   * [Installera VSCodium](https://vscodium.com/#install)
   * [Kursen vi ska göra](https://www.netacad.com/courses/python-essentials-1?courseLang=en-US&instance_id=67885ada-1134-47ae-8f1b-69489d5826e1)
 
-Överigt :)
+Övrigt :)
 
 ## Vecka 36   
 
