@@ -12,7 +12,7 @@ Uppstart med en titt på [Skolverkets dokumentation](https://www.skolverket.se/u
 * [Futurepedia](https://www.futurepedia.io/) - Lista med de Ai verktyg som vi kommer testa  
 * [Proton Lumo](https://lumo.proton.me/) - Ett krypterat, säkert och europeiskt alternativ för generativ AI för text och bild, som vi kommer använda i kursen  
 
-[Uppgift: Sedeslärande saga med tema jul!](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/arti-sommardeckare)  
+[Uppgift: Sommardeckare!](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/arti-sommardeckare)  
 
 ## Vecka 36   
 
