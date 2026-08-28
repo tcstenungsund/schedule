@@ -2,9 +2,23 @@
 
 ## Vecka 35   
 
+Kursplanering, Skolverkets [mål för kursen](https://www.skolverket.se/undervisning/gymnasieskolan/program-och-amnen-i-gymnasieskolan/hitta-program-amnen-och-kurser-i-gymnasieskolan-gy11/hitta-program-och-amnesplaner-i-gymnasieskolan-gy11#/search/subjects/WEU#WEUWEB02) samt en introduktion till ämnet.   
+
+Repetition av kursen Webbutveckling 1.  
+
+----  
+
+[Uppgift: Accounts and Software](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/accounts_and_software) — kontrollera att konton, lösenordshanterare, webbläsare, extensions och bokmärken finns på plats. Även i denna kursen är det verktygen [Firefox Developer Edition](https://www.firefox.com/en-US/channel/desktop/developer/) och [VScodium](https://vscodium.com/) som gäller! Har du tappat bort dem installerar du dem bara igen!  
+
+När du är klar med uppgiften så repeterar du förra kursen inför provet nästa vecka!  
 
 ## Vecka 36   
 
+### Virtualisering  
+
+----  
+
+Prov: Repetitionsprov  
 
 ## Vecka 37   
 
