@@ -18,7 +18,7 @@ Dagens uppgift har tre faser.
 
 Med hjälp av Lumo skall ni generera en novell på ungefär 1 A4. Det skall vara en deckare, med ett tydligt mysterium som avslöjas i slutet.  
 
-När ni är nöjda med er berättelse så kommer ni få en papperslapp med en författares namn på. Nu skall ni generera om er berättelse i den författarens still!  
+När ni är nöjda med er berättelse så kommer ni få en författares namn. Nu skall ni generera om er berättelse i den författarens still!  
 
 Slutligen genererar ni en omslagsbild som på ett bra sätt illustrerar er novell!  
 
