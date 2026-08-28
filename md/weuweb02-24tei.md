@@ -22,24 +22,31 @@ Prov: Repetitionsprov
 
 ## Vecka 37   
 
+### Felsökningsmetodik  
 
 ## Vecka 38   
 
+### Modern CSS  
 
 ## Vecka 39   
 
+### Utvecklingsmiljö för webbutvecklare  
 
 ## Vecka 40   
 
+### Introduktion till CMS  
 
 ## Vecka 41   
 
+### Grundkurs i CMS  
 
 ## Vecka 42   
 
+### Grundkurs i CMS  
 
 ## Vecka 43   
 
+### Grundkurs i CMS  
 
 ## Vecka 44   
 
@@ -47,24 +54,31 @@ Prov: Repetitionsprov
 
 ## Vecka 45   
 
+### Grundkurs i CMS  
 
 ## Vecka 46   
 
+### Grundkurs i CMS  
 
 ## Vecka 47   
 
+### Grundkurs i CMS  
 
 ## Vecka 48   
 
+Prov: Grundkurs i CMS  
 
 ## Vecka 49   
 
+### Bygga teman i en CMS  
 
 ## Vecka 50   
 
+### Bygga teman i en CMS  
 
 ## Vecka 51   
 
+### Bygga teman i en CMS  
 
 ## Vecka 53   
 
