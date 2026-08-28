@@ -11,7 +11,13 @@ Vi pratar om följande:
 * [Skolverkets riktlinjer](https://www.skolverket.se/undervisning/gymnasieskolan/program-och-amnen-i-gymnasieskolan/hitta-program-och-amnen-i-gymnasieskolan-gy25/hitta-program-och-amnen-i-gymnasieskolan-gy25/search/subjects/PROG?v=1#PROG1000X).
 * Vad är programmering? 
 * Hur kommer kursen se ut?
-* Vad ska resultat av eran kunskap ge i slutet av året? 
+
+Att göra idag:
+  * [Installera Python](https://www.python.org/)
+  * [Installera VSCodium](https://vscodium.com/#install)
+  * [Kursen vi ska göra](https://www.netacad.com/courses/python-essentials-1?courseLang=en-US&instance_id=67885ada-1134-47ae-8f1b-69489d5826e1)
+
+Överigt :)
 
 ## Vecka 36   
 
