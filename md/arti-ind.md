@@ -2,20 +2,17 @@
 
 ## Vecka 35   
 
+### VÄLKOMNA TILL OSS PÅ HOGIA!  
+
 Uppstart med en titt på [Skolverkets dokumentation](https://www.skolverket.se/undervisning/gymnasieskolan/program-och-amnen-i-gymnasieskolan/hitta-program-och-amnen-i-gymnasieskolan-gy25/hitta-program-och-amnen-i-gymnasieskolan-gy25/search/subjects/ARTI?v=2#ARTI) för kursen!  
-
-Kursmaterial som vi ska utgå ifrån:
-https://www.elementsofai.se/
-
-Online Ai verktyg som vi ska testa:
-https://www.futurepedia.io/
-
-Ett krypterat, säkert och europeiskt alternativ för generativ AI för text är [Proton Lumo](https://lumo.proton.me/). Testa gärna den!  
 
 "[Vad är AI, eller artificiell intelligens? | Fredrik Heintz, Linköpings universitet](https://youtu.be/PJJryrfvlnw?)" (10 min)
 
-[Uppgift: Sedeslärande saga med tema jul!](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/artart01-seseslarande_saga_med_tema_jul)  
+* [Elements of AI](https://www.elementsofai.se/) - Kursmaterial som vi kommer utgå ifrån  
+* [Futurepedia](https://www.futurepedia.io/) - Lista med de Ai verktyg som vi kommer testa  
+* [Proton Lumo](https://lumo.proton.me/) - Ett krypterat, säkert och europeiskt alternativ för generativ AI för text och bild, som vi kommer använda i kursen  
 
+[Uppgift: Sedeslärande saga med tema jul!](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/arti-sommardeckare)  
 
 ## Vecka 36   
 
