@@ -2,6 +2,27 @@
 
 ## Vecka 35   
 
+<img width="1663" height="262" alt="101" src="https://github.com/user-attachments/assets/3b629371-0538-4c45-beed-a767aa51c505" />
+
+
+
+Välkomna till Nätverksteknik ämnet och Cisco Networking Academy!
+
+[Cisco Networking Academy katalog](https://www.netacad.com/catalogs/learn)  
+
+
+
+Vi kommer att börja arbeta med Cisco Networking Academy - CCST Networking spår.
+
+[CCST Networking](https://www.netacad.com/articles/news/prepare-for-ccst-networking?courseLang=en-US)  
+
+Spåret består av 4 stycken kurser.
+
+Vi startar med den första kursen - Networking Basics
+
+
+
+
 
 ## Vecka 36   
 
