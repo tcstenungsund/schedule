@@ -23,7 +23,10 @@ Att göra idag:
 
 Måndag:
 
-<!-- Dags att installera rätt saker! -->
+Vi pratar lätt igenom 1.1 - 1.2 samt att ni läser igenom det själva.
+
+Vi dubbelkollar att allting har installerats och fungerar som det ska från i fredags.
+
 
 Fredag:
 
@@ -31,9 +34,6 @@ Fredag:
 
 Måndag: 
 
-Vi pratar lätt igenom 1.1 - 1.2 samt att ni läser igenom det själva.
-
-Vi dubbelkollar att allting har installerats och fungerar som det ska från i fredags.
 
 Fredag:
 
