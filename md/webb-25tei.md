@@ -1,10 +1,10 @@
 # Webbutveckling Nivå 1 - 25TEI
 
-## Vecka 35   
-
-
 ## Vecka 36   
 
+Kursplanering, presentation och introduktion till ämnet. Tittar på [Skolverkets riktlinjer](https://www.skolverket.se/undervisning/gymnasieskolan/laroplan-program-och-amnen-i-gymnasieskolan/gymnasieprogrammen/amne?url=1530314731%2Fsyllabuscw%2Fjsp%2Fsubject.htm%3FsubjectCode%3DWEU%26lang%3Dsv%26tos%3Dgy%26p%3Dp).  
+
+###### Upphovsrätt och mjukvarulicenser  
 
 ## Vecka 37   
 
