@@ -35,29 +35,71 @@ JavaScript Essentials 1: Modul 1
 
 ### Fredag
 
+Python Essentials 1: Modul 2 och modul test 1
+
+JavaScript Essentials 1: Modul 2 och modul test 1
+
 ## Vecka 37   
 
 ### Tisdag
 
+Python Essentials 1: Modul 2 
+
+JavaScript Essentials 1: Modul 3 
+
 ### Onsdag
 
+Python Essentials 1: Modul 2 och modul test 2
+
+JavaScript Essentials 1: Modul 3 och  modul test 2 och 3
+
 ### Fredag
+
+Python Essentials 1: Modul 3 
+
+JavaScript Essentials 1: Modul 4 
+
 
 ## Vecka 38   
 
 ### Tisdag
 
+Python Essentials 1: Modul 4 och modul test 3
+
+JavaScript Essentials 1: Modul 5 och modul test 4
+
 ### Onsdag
+
+Python Essentials 1: Modul 4
+
+JavaScript Essentials 1: modul 5 och 6
 
 ### Fredag
 
+Python Essentials 1: Final project och modul test 4
+
+JavaScript Essentials 1: Ett liknande projekt som i pythonkursen (Denna kurs saknar bra projekt) och modul test 5 och 6
 ## Vecka 39   
 
 ### Tisdag
 
+Python Essentials 1: Final project
+
+
 ### Onsdag
 
+
+Python Essentials 1: Final project, Redovisning
+
+JavaScript Essentials 1: Projekt, Redovisning
+
 ### Fredag
+**Final test båda kurserna**
+
+Python Essentials 1: Final test
+
+JavaScript Essentials 1: Final test
+
 
 ## Vecka 40   
 
