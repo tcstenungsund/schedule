@@ -27,6 +27,9 @@ Vi går igenom Modul 1.1 - Help Desk Concepts.
 
 ## Vecka 36   
 
+<img width="889" height="625" alt="proton" src="https://github.com/user-attachments/assets/1dc641d2-b590-49b6-a510-1220c1e45ea2" />
+
+
 Kenneth håller i lektionen.
 
 Ni kommer att installera och bekanta er med program och tjänster som vi kommer att använda under utbildningen.
