@@ -5,6 +5,38 @@
 
 ## Vecka 36   
 
+Upprop tisdagen den 1/9 kl 10.
+
+Onsdag:
+
+<img width="1666" height="968" alt="ai cisco" src="https://github.com/user-attachments/assets/62c6b35d-f232-49e8-a20d-55b5cc1f99e0" />
+
+
+
+Genomgång av ämnesplan på [Skolverket Tillämpad Teknik](https://www.skolverket.se/undervisning/gymnasieskolan/program-och-amnen-i-gymnasieskolan/gymnasieprogrammen-gy25/vidareutbildning-i-form-av-ett-fjarde-tekniskt-ar/programs/VI25/TILT?schoolType=GY&timespan=LATEST&tosHeading=%C3%84mnesplaner&v=1#course-plan)  
+
+Tre obligatoriska moment:
+
+1 - LinkedIn, CV och personligt brev. Vi ska skriva APL ansökningar.
+
+2 - Ai fortbildning.
+
+3 - Servicekunskap.
+
+Stor frihet för eleven att själv påverka vad han vill fördjupa sig i.
+
+Vi kikar på: [Cisco Networking Academy katalog](https://www.netacad.com/catalogs/learn)  
+
+Rekommenderar att elever tar CCST - IT Support och Ai spåret. 4 plus 4 kurser. Jag öppnar i Netacad.
+
+Vi har gott om praktiska/skarpa projekt om man vill arbeta med det.
+
+Idag packar vi upp den nya 3D-skrivaren och startar upp den. Undersök hur man kan kommunicera med den och ta fram en best practise.
+
+Vi tar även fram Raspberry Pi 4 och 5. För projekt kring lokal Ai och Pi-hole.
+
+
+
 
 ## Vecka 37   
 
