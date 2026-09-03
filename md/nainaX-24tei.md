@@ -2,9 +2,20 @@
 
 ## Vecka 35   
 
+
+Uppstartsvecka.
+
+
+
+
+## Vecka 36   
+
 <img width="1663" height="262" alt="101" src="https://github.com/user-attachments/assets/3b629371-0538-4c45-beed-a767aa51c505" />
 
 
+
+
+Måndag:
 
 Välkomna till Nätverksteknik ämnet och Cisco Networking Academy!
 
@@ -18,16 +29,25 @@ Vi kommer att börja arbeta med Cisco Networking Academy - CCST Networking spår
 
 Spåret består av 4 stycken kurser.
 
-Vi startar med den första kursen - Networking Basics
+Vi startar med den första kursen - Networking Basics.
 
+Genomgång av Modul 1,2,3 och 4. Mycket är repetition sedan årskurs 2.
 
+Tisdag:
 
+Politiskdebatt i aulan.
 
-
-## Vecka 36   
+Innan dess arbetar ni med Modul 1,2,3 och 4.
 
 
 ## Vecka 37   
+
+Måndag:
+
+
+Tisdag:
+
+PROV Modul 1-4.
 
 
 ## Vecka 38   
