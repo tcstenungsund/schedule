@@ -12,7 +12,9 @@ Vi kommer prata om följande:
 
 ## Vecka 36   
 
- <!-- Vi fortsätter med dokumentären och ni ska svara på lite analyserande frågor. -->
+ Vi fortsätter med dokumentären och ni ska svara på lite analyserande frågor.
+
+ Uppgiften The Great Hack ligger i Haldor.
 
 
 
