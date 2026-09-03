@@ -16,6 +16,20 @@ När du är klar med uppgiften så repeterar du förra kursen inför provet näs
 
 ### Virtualisering  
 
+Vi skall nu lära oss att bygga stora webbplatser. För detta måste vi förstå [LAMP](https://en.wikipedia.org/wiki/LAMP_%28software_bundle%29), som webben bygger på. Men det är mycket arbete om alla skall installera en full LAMP-stack för att samarbeta om kod. (Vill du lära mer om MySQL/MariaDB, börja med att lyssna på avsnittet "[Monty - The man behind your databases](https://www.hackerpublicradio.org/eps/hpr1423/)" på Hacker Public Radio)  
+
+Därför använder vi virtualisering! Vad är virtualisering?  
+
+"[What is Virtualization](https://youtu.be/i1tEsMCZoWA?si=6LDvKj_qwfJvjSE-)" (3 min) 
+
+Vad skiljer full maskinvirtualisering från container-virtualisering? "[Containerization vs. Virtualization : understand the differences](https://ubuntu.com/blog/containerization-vs-virtualization)"  
+
+![Container virtualisering vs full machine](https://pawseysc.github.io/container-workflows/fig/container_vs_vm.png)      
+
+"[Virtual Machines vs Containers](https://youtu.be/eyNBf1sqdBQ?feature=shared)" (8 min)  
+
+Vi nämner också de vanligaste systemen, Docker, VMware, Proxmox, Kubernetes, Vagrant.  
+
 ----  
 
 Prov: Repetitionsprov  
