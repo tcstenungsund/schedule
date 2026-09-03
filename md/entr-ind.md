@@ -2,14 +2,53 @@
 
 ## Vecka 35   
 
+Upprop i klassrum.
+
+Sedan gemensam uppstart med övriga UF elever, Anders, Bella, Louise och Ronnie.
+
+Presentation av oss lärare.
+
+Visa årets UF film.
+
+PPT om UF året, exempel på vad entreprenörskap är.
+
+Eleverna gör en snabb kartläggning om vem de är i en grupp.
+
+Rast 20 minuter.
+
+Speedating, vi möblerar om och eleverna får 45 sekunder per möte. Bella har frågor att använda vid mötet.
+
+Formulär, eleverna får önska 4 kamrater och fylla i vilken roll de fick tidigare (de flesta hade glömt av..). Bella gjorde en sammanställning.
+
+Målsättning att vi har grupperna färdiga till nästa gång.
+
+Svårt dock då alla inte var närvarande eller inte fyllde i formulär...
+
+
+
 
 ## Vecka 36   
+
+Grupper färdiga.
+
+Brainstorming - hur går det till.
+
+Varje grupp ska få fram ett antal idéer/problem.
+
+Ai tips om hur man bollar med en chat.
 
 
 ## Vecka 37   
 
+Bestämma vilken idé/problem grupperna ska arbeta vidare med.
+
+Fundera på vem som är målgruppen.
+
+Vad finns det för olika lösningar för olika målgrupper?
 
 ## Vecka 38   
+
+Bestämma målgrupp och bestämma vilken idé som är prio 1.
 
 
 ## Vecka 39   
