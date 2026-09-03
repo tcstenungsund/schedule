@@ -21,9 +21,20 @@ Vi skapar Netacad konton och anmäler oss till den första kursen - IT Customer 
 
 Vi anmäler oss även till kursen IT Essentials, som vi kommer att använda som överkurs material för er som blir färdiga fort.
 
+Vi går igenom Modul 1.1 - Help Desk Concepts.
+
 
 
 ## Vecka 36   
+
+Kenneth håller i lektionen.
+
+Ni kommer att installera och bekanta er med program och tjänster som vi kommer att använda under utbildningen.
+
+[Uppgift: Accounts and Software](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/accounts_and_software)  
+
+Resterande tid arbetar ni vidare med IT Customer Support Basic kursen, modul 1.
+
 
 
 ## Vecka 37   
