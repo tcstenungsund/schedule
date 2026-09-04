@@ -34,7 +34,13 @@ Kenneth håller i lektionen.
 
 Ni kommer att installera och bekanta er med program och tjänster som vi kommer att använda under utbildningen.
 
+Ni är säkert redan bekanta med uttryck som "googla" och att något ser "photoshopat" ut. Vissa tjänster och mjukvaror har blivit default. Men det finns alternativ! Använd [AlternativeTo.net](https://alternativeto.net/) och [European Alternatives](https://european-alternatives.eu/categories) för att söka upp säkrare tjänster och mjukvaror med sina rötter i Free och Open Source Software. 
+
 [Uppgift: Accounts and Software](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/accounts_and_software)  
+
+[<img width="740" height="601" alt="740px-password_strength_2x" src="https://github.com/user-attachments/assets/6ac8d6e0-aa08-48f1-89fc-f01a72ca9710" />](https://www.explainxkcd.com/wiki/index.php/936:_Password_Strength)  
+
+Snälla, tänk till kring era lösenord!  
 
 Resterande tid arbetar ni vidare med IT Customer Support Basic kursen, modul 1.
 
