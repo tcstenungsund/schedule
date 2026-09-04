@@ -16,12 +16,31 @@ Uppstart med en titt på [Skolverkets dokumentation](https://www.skolverket.se/u
 
 ## Vecka 36   
 
+###### Nytt om AI  
+* [Forskaren: Universiteten måste rusta studenterna för AI-eran](https://www.sverigesradio.se/artikel/forskaren-universiteten-maste-rusta-studenterna-for-ai-eran)  
+* [Simon Caine: Why is AI free?](https://vm.tiktok.com/ZNRsgJqAw/)  
+* [Cory Doctorow: AI will not become consciuous](https://www.tiktok.com/@versobooks/video/7665338016537546007)  
+* [The ELIZA Effect: Chatbots and Delusions Through History](https://www.tiktok.com/@professorcasey/video/7614890527711825183)  
+
+###### Ursprunget till Artificiell intelligens  
+* Wikipedia: [History of artificial intelligence](https://en.wikipedia.org/wiki/History_of_artificial_intelligence)
+* [What is the history of artificial intelligence (AI)?](https://www.tableau.com/data-insights/ai/history)  
+
+###### Att styra AIs röst  
+
+Genomgång och feedback på förra veckans uppgift!  
+
+[Uppgift: Persona](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/artart01-skapa_persona)  
 
 ## Vecka 37   
 
 
 ## Vecka 38   
 
+<!-- 
+[Dokument utifrån: AI-skräpet som dödar internet](https://www.svtplay.se/video/KVk4Zxy/ai-skrapet-som-dodar-internet) (51 min)  
+
+-->
 
 ## Vecka 39   
 
