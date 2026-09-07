@@ -21,7 +21,7 @@ Hur kommer det här året att se ut? Vad har vi att se fram emot?
 ### Måndag  
 
 ##### Mjukvaruhistorik  
-<!--
+
 Vi lyssnar till låtarna "[Eternal Flame](https://www.gnu.org/fun/jokes/eternal-flame.html)" och "[Write in Go](https://youtu.be/LJvEIjRBSDA)", för att få chansen att tala lite om olika programmeringsspråk. 
   
 * Vad är skillnaden mellan kompilerade språk och scriptspråk?
@@ -35,7 +35,7 @@ Vi lyssnar till låtarna "[Eternal Flame](https://www.gnu.org/fun/jokes/eternal-
 Vad hände med COBOL? Det förklarar "[The World Depends on 60-Year-Old Code No One Knows Anymore](https://youtu.be/LWYmGhIFy-A)" (10 min) för oss.  
 
 "[35 Things Every Programmer Should Know](https://youtu.be/ODp-yivAUnY)" (18 min)  
--->
+
 ### Tisdag  
 
 ### Fredag  
