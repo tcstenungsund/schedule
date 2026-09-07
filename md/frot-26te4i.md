@@ -21,7 +21,21 @@ Hur kommer det här året att se ut? Vad har vi att se fram emot?
 ### Måndag  
 
 ##### Mjukvaruhistorik  
+<!--
+Vi lyssnar till låtarna "[Eternal Flame](https://www.gnu.org/fun/jokes/eternal-flame.html)" och "[Write in Go](https://youtu.be/LJvEIjRBSDA)", för att få chansen att tala lite om olika programmeringsspråk. 
+  
+* Vad är skillnaden mellan kompilerade språk och scriptspråk?
+* Vad är skillnaden på hög-nivåiga och låg-nivåiga språk?  
+* Vilka språk körs på server och vilka på klient?  
+* Hur populära är olika språk genom tiderna?  
+* Vilka språk är inspirerade av varandra?  
 
+"[The seven programming ur-languages](https://madhadron.com/programming/seven_ur_languages.html)", "[Most Popular Programming Languages | 1965-2026](https://youtu.be/XXzTnGPT8B4)" (4 min) "[Generational list of programming languages](https://en.wikipedia.org/wiki/Generational_list_of_programming_languages)"  
+
+Vad hände med COBOL? Det förklarar "[The World Depends on 60-Year-Old Code No One Knows Anymore](https://youtu.be/LWYmGhIFy-A)" (10 min) för oss.  
+
+"[35 Things Every Programmer Should Know](https://youtu.be/ODp-yivAUnY)" (18 min)  
+-->
 ### Tisdag  
 
 ### Fredag  
