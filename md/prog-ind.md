@@ -30,10 +30,13 @@ Vi dubbelkollar att allting har installerats och fungerar som det ska från i fr
 
 Fredag:
 
+Jag vabbar, ni får läxa att läsa kapitel 2.1 - 2.3 på Netacad.
+
 ## Vecka 37   
 
 Måndag: 
 
+Jag vabbar igen, ni får läxa att läsa kapitel 2.4 - 2.5 på Netacad.
 
 Fredag:
 
