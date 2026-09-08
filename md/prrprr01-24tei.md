@@ -22,23 +22,53 @@ Python Essentials 1: 1.0-1.3 och 2.1
 ### Fredag
 **Variabler och grundläggande operatorer och modultest**
 
-Python Essentials 1: **Module Test 1** 
 
 Python Essentials 1: 2.2-2.5
 
+*Uppgifter och laborationer att göra:*
+- 2.1.5
+- 2.1.12
+- 2.1.13
+- 2.1.15
+- 2.1.6
+- 2.2.8
+- 2.3.5
+- 2.4.7
+- 2.4.9
+- 2.4.10
+- 1.4.12
 
 ## Vecka 37   
 
 ### Tisdag
 **Komunikation med användaren och med dig själv**
 
+Python Essentials 1: **Module Test 1** 
+
 Python Essentials 1: 2.5 och 2.6
+
+*Uppgifter och laborationer att göra:*
+- 2.5.3
+- 2.5.5
+- 2.6.9
+- 2.6.10
+- 2.6.11
+- 2.6.13
 
 **Jämförelser och beslut => jämförelse operatorer, if-satser och modultest**
 
 Python Essentials 1: 3.1
 
+*Uppgifter och laborationer att göra:*
+- 3.1.6
+- 3.1.10
+- 3.1.11
+- 3.1.12
+- 3.1.14
+
 ### Fredag
+
+
 **Introduktion till loppar och while-loppen + moudultest**
 
 Python Essentials 1: 3.2
