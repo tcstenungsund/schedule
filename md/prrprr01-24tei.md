@@ -20,7 +20,7 @@ Python Essentials 1: 1.0-1.3 och 2.1
 
 
 ### Fredag
-**Variabler och grundläggande operatorer och modultest**
+**Variabler och grundläggande operatorer**
 
 
 Python Essentials 1: 2.2-2.5
@@ -41,9 +41,9 @@ Python Essentials 1: 2.2-2.5
 ## Vecka 37   
 
 ### Tisdag
-**Komunikation med användaren och med dig själv**
+**Python Essentials 1: Module Test 1** 
 
-Python Essentials 1: **Module Test 1** 
+**Komunikation med användaren och med dig själv**
 
 Python Essentials 1: 2.5 och 2.6
 
@@ -55,7 +55,12 @@ Python Essentials 1: 2.5 och 2.6
 - 2.6.11
 - 2.6.13
 
-**Jämförelser och beslut => jämförelse operatorer, if-satser och modultest**
+
+
+### Fredag
+**Python Essentials 1: Module Test 2**
+
+**Jämförelser och beslut => jämförelse operatorer, if-satser**
 
 Python Essentials 1: 3.1
 
@@ -66,14 +71,9 @@ Python Essentials 1: 3.1
 - 3.1.12
 - 3.1.14
 
-### Fredag
-
-
 **Introduktion till loppar och while-loppen + moudultest**
 
 Python Essentials 1: 3.2
-
-Python Essentials 1: **Module Test 2**
 
 
 
