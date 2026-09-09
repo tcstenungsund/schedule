@@ -75,7 +75,9 @@ Python Essentials 1: 3.1
 
 Python Essentials 1: 3.2
 
-
+*Uppgifter och laborationer att göra:*
+- 3.2.4
+- 3.2.7
 
 ## Vecka 38   
 
@@ -84,10 +86,22 @@ Python Essentials 1: 3.2
 
 Python Essentials 1: 3.2
 
+*Uppgifter och laborationer att göra:*
+- 3.2.9
+- 3.2.10
+- 3.2.11
+- 3.2.14
+- 3.2.15 *Viktig*
+- 3.2.17
+
+
 ### Fredag
 **Logiska utryck**
 
 Python Essentials 1: 3.3
+
+*Uppgifter och laborationer att göra:*
+- 3.3.8
 
 ## Vecka 39  
 
