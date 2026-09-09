@@ -20,6 +20,10 @@ Vi kommer prata om följande:
 
 ## Vecka 37   
 
+Denna veckan har ni installerat Linux på era datorer och nu är det dags att börja bli bekanta med det :)
+
+Det ligger en uppgift i Haldor Linux Command Line Lab. Där finns instruktioner på vad som ska göras och vad som ska lämnas in.
+
 
 ## Vecka 38   
 
