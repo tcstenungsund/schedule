@@ -32,8 +32,18 @@ Genomgång och feedback på förra veckans uppgift!
 
 [Uppgift: Persona](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/artart01-skapa_persona)  
 
-## Vecka 37   
+## Vecka 37  
 
+<img width="900" height="300" alt="ai" src="https://github.com/user-attachments/assets/f958133a-6117-4c72-84a2-35aa7ff72ae9" />  
+
+###### Nytt om AI  
+* 
+
+###### Elements of AI - Vad är artificiell intelligens?  
+Genomgång av kapitel 1 del 2 - [Andra ämnesområden](https://course.elementsofai.com/se/1/2)  
+"Utöver artificiell intelligens finns det några andra ämnesområden som är bra att känna till, åtminstone till namnet. Till dessa hör maskininlärning, datavetenskap, data science och djupinlärning (också djup maskininlärning)."  
+
+###### Arbeta vidare med Uppgift: Persona från förra veckan  
 
 ## Vecka 38   
 
