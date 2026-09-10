@@ -59,7 +59,7 @@ Genomgång av provet från förra veckan
 
 ----
 
-###### Linux för webbutvecklare  
+###### KDE Plasma: GUI och CLI för webbutvecklare  
 
 Mjukvaruutvecklare föredrar att arbeta i Unix-liknande operativsystem. De kräver inte den nivå av förståelse av kommandoraden som [xkcd: tar](https://xkcd.com/1168/) ger sken av, men du bör i alla fall förstå vad en [pakethanterare](https://sv.wikipedia.org/wiki/Pakethanterare) är och överblickar av din arbetsmiljö som [KDE Plasma in 180 Seconds](https://youtu.be/dZ6bojRSIw0) (4 min) är inte dum att se.   
 
@@ -67,11 +67,11 @@ Uppgift: Gör er desktop mer personlig! Installera ett par Widgets och byt tema!
 
 ## Vecka 38   
 
-### Modern CSS  
+### Utvecklingsmiljö för webbutvecklare  
 
 ## Vecka 39   
 
-### Utvecklingsmiljö för webbutvecklare  
+### Modern CSS  
 
 ## Vecka 40   
 
