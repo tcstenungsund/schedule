@@ -34,17 +34,19 @@ Vi lyssnar till låtarna "[Eternal Flame](https://www.gnu.org/fun/jokes/eternal-
 
 Vad hände med COBOL? Det förklarar "[The World Depends on 60-Year-Old Code No One Knows Anymore](https://youtu.be/LWYmGhIFy-A)" (10 min) för oss.  
 
-"[35 Things Every Programmer Should Know](https://youtu.be/ODp-yivAUnY)" (18 min)  
-
 ### Tisdag  
 
+"[35 Things Every Programmer Should Know](https://youtu.be/ODp-yivAUnY)" (18 min)  
+
 ### Fredag  
+
+Ronnie tar över då vi prioriterar att ni gör framsteg med hans uppgifter denna veckan!  
 
 ## Vecka 38   
 
 ### Måndag  
 
-##### Yrkesroller inom Design  
+##### Native Android Apps  
 
 ### Tisdag  
 
@@ -54,7 +56,7 @@ Vad hände med COBOL? Det förklarar "[The World Depends on 60-Year-Old Code No 
 
 ### Måndag  
 
-##### Native Android Apps  
+##### Yrkesroller inom Design  
 
 ### Tisdag  
 
