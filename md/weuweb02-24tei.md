@@ -14,7 +14,7 @@ När du är klar med uppgiften så repeterar du förra kursen inför provet näs
 
 ## Vecka 36   
 
-### Virtualisering  
+#### Virtualisering  
 
 Vi skall nu lära oss att bygga stora webbplatser. För detta måste vi förstå [LAMP](https://en.wikipedia.org/wiki/LAMP_%28software_bundle%29), som webben bygger på. Men det är mycket arbete om alla skall installera en full LAMP-stack för att samarbeta om kod. (Vill du lära mer om MySQL/MariaDB, börja med att lyssna på avsnittet "[Monty - The man behind your databases](https://www.hackerpublicradio.org/eps/hpr1423/)" på Hacker Public Radio)  
 
@@ -36,7 +36,34 @@ Prov: Repetitionsprov
 
 ## Vecka 37   
 
-### Felsökningsmetodik  
+Genomgång av provet från förra veckan  
+
+#### Felsökningsmetodik  
+
+[![XKCD: Tech Support Cheat Sheet](https://www.explainxkcd.com/wiki/images/3/38/tech_support_cheat_sheet.png)](https://www.explainxkcd.com/wiki/index.php/627:_Tech_Support_Cheat_Sheet)  
+
+1) Identify the Problem  
+2) Establish a Theory of Probable Cause  
+3) Test the Theory to Determine the Cause  
+4) Establish a Plan of Action  
+5) Implement the Solution or Escalate as Necessary  
+6) Verify Full System Functionality  
+7) Document Findings, Actions, and Outcomes  
+
+"[A CompTIA Troubleshooting Guide](https://www.thetechedvocate.org/438497-2/)" by the Tech Edvocate.  
+"[Troubleshooting Steps: Your Friendly Guide to Problem Solving](https://onlinetoolguides.com/troubleshooting-steps/)" by Online Tool Guides.  
+
+"[The 6 Steps of IT Troubleshooting](https://youtu.be/fh7oYoEQb2E)" (2 min)  
+"[6 Step Troubleshooting Process by compTIA](https://youtu.be/5N56Na0iEfk)" (3 min)  
+"[The 6 Crucial Steps of IT Troubleshooting You Must Know](https://youtu.be/mIdxo_ymzno)" (40 min)  
+
+----
+
+###### Linux för webbutvecklare  
+
+Mjukvaruutvecklare föredrar att arbeta i Unix-liknande operativsystem. De kräver inte den nivå av förståelse av kommandoraden som [xkcd: tar](https://xkcd.com/1168/) ger sken av, men du bör i alla fall förstå vad en [pakethanterare](https://sv.wikipedia.org/wiki/Pakethanterare) är och överblickar av din arbetsmiljö som [KDE Plasma in 180 Seconds](https://youtu.be/dZ6bojRSIw0) (4 min) är inte dum att se.   
+
+Uppgift: Gör er desktop mer personlig! Installera ett par Widgets och byt tema! Vill du anpassa utseendet ännu mer finns [How to Customize KDE Plasma 6 | Guide for beginners](https://youtu.be/4OuaCXWSXFE) (24 min) till din hjälp. Fixa också till er prompt! [Starship](https://starship.rs/) rekommenderas!  
 
 ## Vecka 38   
 
