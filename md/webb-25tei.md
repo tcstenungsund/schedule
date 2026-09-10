@@ -43,6 +43,9 @@ För att genomföra uppgiften nedan måste du veta hur du [tar ett screenshot](h
 
 ## Vecka 38   
 
+**Quiz**: Vad är webben egentligen?  
+
+Dags att påbörja vår grundkurs i HTML & CSS. Först lägger vi några veckor på HTML, för att se hur man märker upp innehåll så en webbläsare förstår det. Vi kommer att använda många verktyg under kursens gång, men de som är aktuella under höstterminen är [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/) och [Anteckningar](https://en.wikipedia.org/wiki/Windows_Notepad), inget annat.  
 
 ## Vecka 39   
 
