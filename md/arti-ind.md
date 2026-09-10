@@ -37,7 +37,7 @@ Genomgång och feedback på förra veckans uppgift!
 <img width="900" height="300" alt="ai" src="https://github.com/user-attachments/assets/f958133a-6117-4c72-84a2-35aa7ff72ae9" />  
 
 ###### Nytt om AI  
-* 
+
 
 * [Har Open AI skapat en artificiell intelligens på mänsklig nivå?](https://www.dn.se/varlden/har-open-ai-skapat-en-artificiell-intelligens-pa-mansklig-niva/)  
 * [Nu rullar Xpeng-robotarna av bandet](https://www.m3.se/article/3231375/xpeng-iron.html)  
