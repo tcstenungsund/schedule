@@ -43,7 +43,9 @@ Genomgång och feedback på förra veckans uppgift!
 Genomgång av kapitel 1 del 2 - [Andra ämnesområden](https://course.elementsofai.com/se/1/2)  
 "Utöver artificiell intelligens finns det några andra ämnesområden som är bra att känna till, åtminstone till namnet. Till dessa hör maskininlärning, datavetenskap, data science och djupinlärning (också djup maskininlärning)."  
 
-###### Arbeta vidare med Uppgift: Persona från förra veckan  
+###### Praktisk uppgift "Att styra AIs röst"  
+
+Arbeta vidare med Uppgift: Persona från förra veckan  
 
 ## Vecka 38   
 
