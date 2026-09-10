@@ -38,11 +38,9 @@ Genomgång och feedback på förra veckans uppgift!
 
 ###### Nytt om AI  
 
-
 * [Har Open AI skapat en artificiell intelligens på mänsklig nivå?](https://www.dn.se/varlden/har-open-ai-skapat-en-artificiell-intelligens-pa-mansklig-niva/)  
 * [Nu rullar Xpeng-robotarna av bandet](https://www.m3.se/article/3231375/xpeng-iron.html)  
 * [Avhoppande AI-forskarens varning: Den kan utplåna mänskligheten](https://www.dn.se/varlden/avhoppande-ai-forskarens-varning-den-kan-utplana-manskligheten/)  
-
 
 ###### Elements of AI - Vad är artificiell intelligens?  
 Registrera dig på kursen [Elements of AI](https://www.elementsofai.se/).  
@@ -57,6 +55,10 @@ Arbeta vidare med Uppgift: Persona från förra veckan
 
 <!-- 
 [Dokument utifrån: AI-skräpet som dödar internet](https://www.svtplay.se/video/KVk4Zxy/ai-skrapet-som-dodar-internet) (51 min)  
+
+#### Prompt engineering  
+
+Tutorial  
 
 -->
 
