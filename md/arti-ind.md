@@ -40,8 +40,9 @@ Genomgång och feedback på förra veckans uppgift!
 * 
 
 ###### Elements of AI - Vad är artificiell intelligens?  
-Genomgång av kapitel 1 del 2 - [Andra ämnesområden](https://course.elementsofai.com/se/1/2)  
-"Utöver artificiell intelligens finns det några andra ämnesområden som är bra att känna till, åtminstone till namnet. Till dessa hör maskininlärning, datavetenskap, data science och djupinlärning (också djup maskininlärning)."  
+Registrera dig på kursen [Elements of AI](https://www.elementsofai.se/).  
+Genomgång av Kapitel 1 del 1 - [Hur definieras artificiell intelligens?](https://course.elementsofai.com/se/1/1)  
+"I det här kapitlet bekantar vi oss med artificiell intelligens som begrepp och tar upp några exempel."  
 
 ###### Praktisk uppgift "Att styra AIs röst"  
 
@@ -56,6 +57,12 @@ Arbeta vidare med Uppgift: Persona från förra veckan
 
 ## Vecka 39   
 
+<!-- 
+###### Elements of AI - Vad är artificiell intelligens?  
+Genomgång av kapitel 1 del 2 - [Andra ämnesområden](https://course.elementsofai.com/se/1/2)  
+"Utöver artificiell intelligens finns det några andra ämnesområden som är bra att känna till, åtminstone till namnet. Till dessa hör maskininlärning, datavetenskap, data science och djupinlärning (också djup maskininlärning)."  
+
+-->
 
 ## Vecka 40   
 
