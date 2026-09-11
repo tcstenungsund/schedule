@@ -24,6 +24,9 @@ Alla personas har en gemnsam relation till restaurang Hagadösen Wärdshus och �
 
 Varje grupp väljer en av följande personas:
 
+<img width="842" height="384" alt="image" src="https://github.com/user-attachments/assets/a7e21645-48e1-4222-beb6-791f7f71a53f" />
+
+<!--
 | Roll                    | Ålder   	| Kön     	| Typ 	|
 |---------	              |---------	|---------	|--------------	        |
 | VD Hagadösens Wärdshus 	| 43 år   	| ♀         | Strikt, traditionell 	|
@@ -33,6 +36,7 @@ Varje grupp väljer en av följande personas:
 | EPA-raggare 	          | 14 år   	| ♀         | Vejpar. Tänk Ucklum. 	|
 | Lokal bonde           	| 58 år   	| ♂         | Släkten har ägt gården i generationer	|
 | Konstnär/Pensionär     	| 68 år   	| ♂         | "All bestående konst är borgerlig" 	|
+-->
 
 Varje grupp får en persona att utveckla enligt mall 
 - https://svid.se/wp-content/uploads/2019/12/designprocessguiden-persona.pdf
