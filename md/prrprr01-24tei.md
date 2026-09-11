@@ -71,6 +71,11 @@ Python Essentials 1: 3.1
 - 3.1.12
 - 3.1.14
 
+
+
+## Vecka 38   
+
+### Tisdag
 **Introduktion till loppar och while-loppen**
 
 Python Essentials 1: 3.2
@@ -79,9 +84,6 @@ Python Essentials 1: 3.2
 - 3.2.4
 - 3.2.7
 
-## Vecka 38   
-
-### Tisdag
 **for-loppen + (break och continue)**
 
 Python Essentials 1: 3.2
