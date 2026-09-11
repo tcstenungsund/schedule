@@ -40,10 +40,16 @@ Vi tar även fram Raspberry Pi 4 och 5. För projekt kring lokal Ai och Pi-hole.
 
 ## Vecka 37   
 
+<img width="817" height="455" alt="minecrafteducation" src="https://github.com/user-attachments/assets/02e0e95d-c62c-4a0e-83d6-6db7dddb5830" />
+
+
 PROJEKT Minecraft Education - Stora Höga.
-Vår samverkan med årskurs 5 och 6 i Stora Höga fortsätter även deta år.
-Vi vill ta fram en lösning dör lärare och elever kan bygga prototyper i Minecraf Education miljö.
-Ta fram en lösning.
+
+Vår samverkan med årskurs 5 och 6 i Stora Höga fortsätter även detta år.
+
+Vi vill ta fram en lösning där lärare och elever kan bygga prototyper i Minecraf Education miljö.
+
+Ta fram en lösning som uppfyller deras krav.
 
 Fredag:
 Förbered nästa veckas besök på Stora Högaskolan.
