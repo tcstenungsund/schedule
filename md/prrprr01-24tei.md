@@ -71,7 +71,7 @@ Python Essentials 1: 3.1
 - 3.1.12
 - 3.1.14
 
-**Introduktion till loppar och while-loppen + moudultest**
+**Introduktion till loppar och while-loppen**
 
 Python Essentials 1: 3.2
 
