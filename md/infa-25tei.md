@@ -49,7 +49,18 @@ Resterande tid arbetar ni vidare med IT Customer Support Basic kursen, modul 1.
 ## Vecka 37   
 
 
+Genomgång av Modul 1 i IT Customer Support Basics färdig.
+
+God service och kundkontakt kan upplevas som sjävklarheter, men är kanske det svåraste ändå.
+
+Vi kör Prov på Modul 1 nästa fredag. Då kommer även Tobias, en alumn som numera arbetar med IT support, att prata med om yrkesrollen.
+
+
 ## Vecka 38   
+
+PROV Modul 1 i IT Customer Support Basics kursen.
+
+Träff med IT supporttekniker - Tobias Johansen Hogia.
 
 
 ## Vecka 39   
