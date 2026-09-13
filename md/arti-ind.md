@@ -53,14 +53,19 @@ Arbeta vidare med Uppgift: Persona från förra veckan
 
 ## Vecka 38   
 
-<!-- 
+###### Nytt om AI  
+* 
+
+<!--
+#### Är AI ett så stort problem som folk påstår?  
+
 [Dokument utifrån: AI-skräpet som dödar internet](https://www.svtplay.se/video/KVk4Zxy/ai-skrapet-som-dodar-internet) (51 min)  
 
-#### Prompt engineering  
-
-Tutorial  
-
 -->
+
+###### Att styra AIs röst  
+
+Nu avslutar vi uppgiften Persona från vecka 36.
 
 ## Vecka 39   
 
@@ -73,6 +78,13 @@ Genomgång av kapitel 1 del 2 - [Andra ämnesområden](https://course.elementsof
 
 ## Vecka 40   
 
+<!-- 
+
+#### Prompt engineering  
+
+Tutorial  
+
+-->
 
 ## Vecka 41   
 
