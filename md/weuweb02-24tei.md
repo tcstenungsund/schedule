@@ -67,11 +67,58 @@ Uppgift: Gör er desktop mer personlig! Installera ett par Widgets och byt tema!
 
 ## Vecka 38   
 
+<!-- 
+
+### Modern CSS  
+
+Michelle Barker är en kreativ och designmedveten entusiast för CSS som gärna sprider nya och spännande sätt att bygga webbplatser på! Denna föreläsning gavs 2022 på konferensen "[beyond tellerrand](https://beyondtellerrand.com/)" Düsseldorf.
+
+"[Michelle Barker – Modern CSS Layout is Awesome!](https://youtu.be/6O0KBNslevQ)" (44 min)
+
+----
+
+Gör följande övningar. Inlämning skall bestå av ett screenshot av slutskärmen tillsammans med din dators klocka, samt en reflektion om en mening där du besvarar frågan "Vilken nivå ställde till med mest problem för dig, och varför?"
+
+Inlämningen skall alltså bestå av fem screenshots och fem svar på frågan.
+
+1) [Flexbox Froggy](https://flexboxfroggy.com/)
+2) [Flexbox Adventure](https://codingfantasy.com/games/flexboxadventure)
+3) [Grid Garden](https://cssgridgarden.com/)
+4) [Flexbox Defense](http://www.flexboxdefense.com/)
+5) [CSS Diner](https://flukeout.github.io/)
+
+Läxa/valfritt: "[My top 5 most popular front-end tips](https://youtu.be/DGOeyJjq80g)" (22 min) med Kevin Powell.
+
+
+-->
+
+<!-- 
+
 ### Utvecklingsmiljö för webbutvecklare  
+
+Webbutvecklare behöver tillgång till LAMP-stacken och för det använder vi Docker. Därför skall vi nu installera och lära oss använda Docker!  
+
+"[Docker Tutorial For Beginners](https://youtu.be/RrTbOvqlEic)" (13 min), "[Docker for Web Development: A Brief Guide](https://medium.com/@vithusha.ravirajan/docker-for-web-development-a-brief-guide-5c0656319dcd)".  
+
+[Uppgift: Workspace setup](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-workspace_setup)  
+[Uppgift: Docker Basics](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-docker_basics)  
+-->
 
 ## Vecka 39   
 
-### Modern CSS  
+<!-- 
+
+### Introduktion till Content Management Systems  
+
+Det finns [många CMS:er](https://en.wikipedia.org/wiki/List_of_content_management_systems). Vi kommer använda en av de största, Drupal. Drupal är känd för att den har en aktiv utvecklarcommunity, många moduler och är både stabil att bygga komplexa lösningar på, men också enkel att arbeta med. Youtube-kursen vi skall se baseras på version 8, så under kursens gång är det den versionen vi kör. Men när vi sedan arbetar med systemet kommer vi köra version 11.  
+
+[![Drupal End-Of-Life table](https://www.prometsource.com/system/files/2023-11/drupal_versions.jpg)](https://www.prometsource.com/blog/faqs-drupal-9-end-of-life)  
+
+[Uppgift: CMS Install](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-cms_install)   
+
+-->
+
+
 
 ## Vecka 40   
 
