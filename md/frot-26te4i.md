@@ -71,7 +71,32 @@ Om du vill go all in på att utveckla appar för Android så rekommenderas du id
 -->
 ### Tisdag  
 
+<!--
+
+##### Att välja programmeringsspråk  
+
+* "[“Hello World” In 30 Different Languages](https://www.geeksforgeeks.org/hello-world-in-30-different-languages/)"  
+* "[Hello World in 50 Programming Languages (in 1 min)](https://youtu.be/dFvgUjXKsLU)" (1 min)   
+* "[Will PHP make YOU Rich in 2025?](https://youtu.be/AJiv09SWUNc)" (17 min)  
+* "[Choosing the Right Programming Language: A Comprehensive Guide](https://dev.to/idurar/choosing-the-right-programming-language-a-comprehensive-guide-50b6)"  
+
+[Uppgift: MIT App Inventor](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/frot-mitappinventor) 
+
+-->
+
+Uppgift: MIT App Inventor  
+
 ### Fredag  
+
+<!-- 
+
+Fortsätt arbeta med MIT App Inventor  
+
+##### Veckans Sociala medier  
+* 
+* 
+
+-->
 
 ## Vecka 39   
 
