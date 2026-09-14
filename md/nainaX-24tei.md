@@ -43,6 +43,10 @@ Innan dess arbetar ni med Modul 1,2,3 och 4.
 ## Vecka 37   
 
 Måndag:
+Installation av Linux på era laptops. Dualboot med Kubuntu rekommenderas.
+
+Instruktioner här: 
+
 
 
 Tisdag:
