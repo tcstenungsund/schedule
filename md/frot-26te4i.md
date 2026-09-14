@@ -66,6 +66,8 @@ Om du vill go all in på att utveckla appar för Android så rekommenderas du id
 5) Besök [@MITAppInventor](https://www.youtube.com/@MITAppInventor/) och se hur andra använt MIT App Inventor för att lösa riktiga problem!  
 6) Installera valfri Android-emulator så du kan köra APK-filer i din dator  
 
+[Uppgift: MIT App Inventor](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/frot-mitappinventor)  
+
 ### Tisdag  
 
 <!--
@@ -73,15 +75,11 @@ Om du vill go all in på att utveckla appar för Android så rekommenderas du id
 ##### Att välja programmeringsspråk  
 
 * "[“Hello World” In 30 Different Languages](https://www.geeksforgeeks.org/hello-world-in-30-different-languages/)"  
-* "[Hello World in 50 Programming Languages (in 1 min)](https://youtu.be/dFvgUjXKsLU)" (1 min)   
+* "[Hello World in 50 Programming Languages (in 1 min)](https://youtu.be/dFvgUjXKsLU)" (1 min)  
 * "[Will PHP make YOU Rich in 2025?](https://youtu.be/AJiv09SWUNc)" (17 min)  
 * "[Choosing the Right Programming Language: A Comprehensive Guide](https://dev.to/idurar/choosing-the-right-programming-language-a-comprehensive-guide-50b6)"  
 
-[Uppgift: MIT App Inventor](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/frot-mitappinventor) 
-
 -->
-
-Uppgift: MIT App Inventor  
 
 ### Fredag  
 
