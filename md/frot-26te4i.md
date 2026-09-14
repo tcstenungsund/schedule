@@ -47,7 +47,6 @@ Ronnie tar över då vi prioriterar att ni gör framsteg med hans uppgifter denn
 ### Måndag  
 
 ##### Native Android Apps  
-<!--
 
 Vi börjar med att titta på "[What Is an APK File on Android?](https://youtu.be/_iLLcRjhsPQ)" (3 min), "[What Is an APK, and Are They Safe to Download?](https://www.howtogeek.com/what-is-an-apk-and-are-they-safe-to-download/)" och [F-Droid](https://f-droid.org/).  
 
@@ -67,8 +66,6 @@ Om du vill go all in på att utveckla appar för Android så rekommenderas du id
 5) Besök [@MITAppInventor](https://www.youtube.com/@MITAppInventor/) och se hur andra använt MIT App Inventor för att lösa riktiga problem!  
 6) Installera valfri Android-emulator så du kan köra APK-filer i din dator  
 
-
--->
 ### Tisdag  
 
 <!--
