@@ -40,9 +40,13 @@ Jag vabbar igen, ni får läxa att läsa kapitel 2.4 - 2.5 på Netacad.
 
 Fredag:
 
+Vi går igenom 2.1-2.6 för repetition.
+
 ## Vecka 38   
 
 Måndag:
+
+Vi börjar prata kapitel 3 i Netacad.
 
 Fredag:
 
