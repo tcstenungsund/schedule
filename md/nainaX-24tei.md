@@ -47,6 +47,8 @@ Installation av Linux på era laptops. Dualboot med Kubuntu rekommenderas.
 
 Instruktioner här: 
 
+[DualBoot](https://tcstenungsund.github.io/dualboot/)  
+
 
 
 Tisdag:
