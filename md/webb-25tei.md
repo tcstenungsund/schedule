@@ -41,7 +41,7 @@ För att genomföra uppgiften nedan måste du veta hur du [tar ett screenshot](h
 
 [Uppgift: HTML & CSS Basics](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/webb1-html_css_basics)  
 
-## Vecka 38   
+## Vecka 38  
 
 **Quiz**: Vad är webben egentligen?  
 
@@ -52,30 +52,29 @@ Det första vi ger oss på är MDN [Core module "Structuring content with HTML"]
 MDN [Research and learning](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Soft_skills/Research_and_learning), eftersom hur man tar reda på saker är en färdighet i sig.  
 
 > För att kunna genomföra kursen förväntas du:  
-> * **Läsa kursmaterialet** och göra interaktiva övningar med målsättningen att kunna omsätta det i praktiken 
-> * Lyssna på **föreläsningar** och eventuellt ta anteckningar
-> * Göra **praktiska övningar** varje vecka och lämna in några av dem
-> * Varje vecka gör du ett **test** på föregående veckas material
-> * I slutet av varje större moment gör du ett **prov** på det
+> * **Läsa kursmaterialet** och göra interaktiva övningar med målsättningen att kunna omsätta det i praktiken  
+> * Lyssna på **föreläsningar** och eventuellt ta anteckningar  
+> * Göra **praktiska övningar** varje vecka och lämna in några av dem  
+> * Varje vecka gör du ett **test** på föregående veckas material  
+> * I slutet av varje större moment gör du ett **prov** på det  
 
-###### HTML - Att märka upp text
+###### HTML - Att märka upp text  
 
-Först går vi igenom hur en HTML-tagg är uppbyggd, sedan djupdyker vi i hur man
-märker upp text på alla möjliga sätt och vis.
+Först går vi igenom hur en HTML-tagg är uppbyggd, sedan djupdyker vi i hur man märker upp text på alla möjliga sätt och vis.  
 
-* MDN [Basic HTML syntax](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Basic_HTML_syntax)
+* MDN [Basic HTML syntax](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Basic_HTML_syntax)  
   (Överkurs: Attributes utom ingressen, Character references. *Anatomy of an HTML
-  document* sparar vi till nästa vecka.)
-* MDN [Headings and paragraphs](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Headings_and_paragraphs)
-* MDN [Emphasis and importance](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Emphasis_and_importance)
-* MDN [Lists](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Lists)
+  document* sparar vi till nästa vecka.)  
+* MDN [Headings and paragraphs](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Headings_and_paragraphs)  
+* MDN [Emphasis and importance](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Emphasis_and_importance)  
+* MDN [Lists](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Lists)  
 
-----
+----  
 
 Läs igenom materialet ovan och gör **alla** interaktiva moment på sidorna. Gör sedan
 Test your skills för texthantering:
 
-* MDN [Test your skills: HTML](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Test_your_skills)
+* MDN [Test your skills: HTML text basics](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Test_your_skills/HTML_text_basics)
 
 Blir du klar: MDN [Advanced text features](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Advanced_text_features) (överkurs) och utmaningen [Marking up a letter](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Marking_up_a_letter) (överkurs).
 
