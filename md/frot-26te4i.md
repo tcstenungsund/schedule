@@ -68,22 +68,21 @@ Om du vill go all in på att utveckla appar för Android så rekommenderas du id
 
 [Uppgift: MIT App Inventor](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/frot-mitappinventor)  
 
-### Tisdag  
+Veckans Dry Meme: [Yatta!](https://youtu.be/-pr-WUa8eEs) ([Know Your Meme](https://knowyourmeme.com/memes/yatta))  
 
-<!--
+### Tisdag  
 
 ##### Att välja programmeringsspråk  
 
 * "[“Hello World” In 30 Different Languages](https://www.geeksforgeeks.org/hello-world-in-30-different-languages/)"  
 * "[Hello World in 50 Programming Languages (in 1 min)](https://youtu.be/dFvgUjXKsLU)" (1 min)  
+* "[Programming museum](https://mastodon.social/@justbits/117263853851041318)"  
 * "[Will PHP make YOU Rich in 2025?](https://youtu.be/AJiv09SWUNc)" (17 min)  
 * "[Choosing the Right Programming Language: A Comprehensive Guide](https://dev.to/idurar/choosing-the-right-programming-language-a-comprehensive-guide-50b6)"  
 
--->
+Fortsätt arbeta med MIT App Inventor  
 
 ### Fredag  
-
-<!-- 
 
 Fortsätt arbeta med MIT App Inventor  
 
@@ -91,14 +90,15 @@ Fortsätt arbeta med MIT App Inventor
 * 
 * 
 
--->
-
 ## Vecka 39   
 
 ### Måndag  
 
 ##### Yrkesroller inom Design  
 
+<!--
+Veckans Dry Meme: [Badger Badger Badger](https://youtu.be/I-h-kdscGH8) ([Know Your Meme](https://knowyourmeme.com/memes/badger-badger-badger))  
+-->
 ### Tisdag  
 
 ### Fredag   
@@ -109,6 +109,9 @@ Fortsätt arbeta med MIT App Inventor
 
 ##### Ethical Hacking  
 
+<!--
+Veckans Dry Meme: [Badger Badger Badger](https://youtu.be/I-h-kdscGH8) ([Know Your Meme](https://knowyourmeme.com/memes/badger-badger-badger))  
+-->
 ### Tisdag  
 
 ### Fredag   
