@@ -67,30 +67,26 @@ Uppgift: Gör er desktop mer personlig! Installera ett par Widgets och byt tema!
 
 ## Vecka 38   
 
-<!-- 
-
 ### Modern CSS  
 
-Michelle Barker är en kreativ och designmedveten entusiast för CSS som gärna sprider nya och spännande sätt att bygga webbplatser på! Denna föreläsning gavs 2022 på konferensen "[beyond tellerrand](https://beyondtellerrand.com/)" Düsseldorf.
+Michelle Barker är en kreativ och designmedveten entusiast för CSS som gärna sprider nya och spännande sätt att bygga webbplatser på! Denna föreläsning gavs 2022 på konferensen "[beyond tellerrand](https://beyondtellerrand.com/)" Düsseldorf.  
 
-"[Michelle Barker – Modern CSS Layout is Awesome!](https://youtu.be/6O0KBNslevQ)" (44 min)
+"[Michelle Barker – Modern CSS Layout is Awesome!](https://youtu.be/6O0KBNslevQ)" (44 min)  
 
 ----
 
-Gör följande övningar. Inlämning skall bestå av ett screenshot av slutskärmen tillsammans med din dators klocka, samt en reflektion om en mening där du besvarar frågan "Vilken nivå ställde till med mest problem för dig, och varför?"
+Gör följande övningar. Inlämning skall bestå av ett screenshot av slutskärmen tillsammans med din dators klocka, samt en reflektion om en mening där du besvarar frågan "Vilken nivå ställde till med mest problem för dig, och varför?"  
 
-Inlämningen skall alltså bestå av fem screenshots och fem svar på frågan.
+Inlämningen skall alltså bestå av fem screenshots och fem svar på frågan.  
 
-1) [Flexbox Froggy](https://flexboxfroggy.com/)
-2) [Flexbox Adventure](https://codingfantasy.com/games/flexboxadventure)
-3) [Grid Garden](https://cssgridgarden.com/)
-4) [Flexbox Defense](http://www.flexboxdefense.com/)
-5) [CSS Diner](https://flukeout.github.io/)
+1) [Flexbox Froggy](https://flexboxfroggy.com/)  
+2) [Flexbox Adventure](https://codingfantasy.com/games/flexboxadventure)  
+3) [Grid Garden](https://cssgridgarden.com/)  
+4) [Flexbox Defense](http://www.flexboxdefense.com/)  
+5) [CSS Diner](https://flukeout.github.io/)  
 
-Läxa/valfritt: "[My top 5 most popular front-end tips](https://youtu.be/DGOeyJjq80g)" (22 min) med Kevin Powell.
+Läxa till nästa vecka: "[My top 5 most popular front-end tips](https://youtu.be/DGOeyJjq80g)" (22 min) med Kevin Powell.  
 
-
--->
 
 <!-- 
 
