@@ -53,15 +53,14 @@ Arbeta vidare med Uppgift: Persona från förra veckan
 
 ## Vecka 38   
 
-###### Nytt om AI  
-* 
-
-<!--
 #### Är AI ett så stort problem som folk påstår?  
 
 [Dokument utifrån: AI-skräpet som dödar internet](https://www.svtplay.se/video/KVk4Zxy/ai-skrapet-som-dodar-internet) (51 min)  
 
--->
+
+###### Nytt om AI  
+* 
+
 
 ###### Att styra AIs röst  
 
