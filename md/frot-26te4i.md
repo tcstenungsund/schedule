@@ -94,7 +94,28 @@ Fortsätt arbeta med MIT App Inventor
 
 ### Måndag  
 
-##### Yrkesroller inom Design  
+###### Progressive Web Apps
+
+Dagens föreläsning bygger på "[Vad är PWA eller Progressive Web Apps?](https://whitespace.se/blogg/vad-ar-pwa-eller-progressive-web-apps/)", hur skapar man en "[Progressive Web App](https://web.dev/progressive-web-apps/)", och "[What PWA Can Do Today](https://whatpwacando.today/)".  
+
+De tre kraven för en PWA är följande: 
+
+1) HTTPS/SSL (som löses med [GitHub Pages](https://pages.github.com/) eller [Let's Encrypt](https://letsencrypt.org/))  
+2) En service worker (vilket bara är någon rad JavaScript)
+3) Ett Webb App Manifest (vilket kan lösas med "[Web App Manifest Generator](https://app-manifest.firebaseapp.com/)")   
+
+"[Progressive Web Apps: Where Do I Begin?](https://youtu.be/e8R-34uTtU8)" (58 min)      
+
+I videon talar Aaron bland annat om [Responsive images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images) och [Microsoft Design Guidelines](https://inclusive.microsoft.design/) (som sedan dess bytt namn).  
+
+Resurser  
+
+* [web.dev Learn PWA](https://web.dev/learn/pwa)
+* [Awesome list of progressive web apps!](https://github.com/hemanth/awesome-pwa)
+* [Badging for PWA app icons, Like Native Apps](https://github.com/ali-master/pwa-badge)
+* [PWA asset generation and image declaration](https://github.com/elegantapp/pwa-asset-generator)  
+
+Dagens uppgift är att skapa er första PWA. Den behöver inte ha något innehåll eller funktionalitet, men den skall kännas igen som en PWA av verktyg som [PWA Testing Tool](https://www.seoreviewtools.com/pwa-testing-tool/).  
 
 <!--
 Veckans Dry Meme: [Badger Badger Badger](https://youtu.be/I-h-kdscGH8) ([Know Your Meme](https://knowyourmeme.com/memes/badger-badger-badger))  
@@ -130,7 +151,7 @@ Veckans Dry Meme: [Badger Badger Badger](https://youtu.be/I-h-kdscGH8) ([Know Yo
 
 ### Måndag  
 
-##### Progressive Web Apps  
+##### Yrkesroller inom Design  
 
 ### Tisdag  
 
