@@ -50,10 +50,35 @@ Vi börjar prata kapitel 3 i Netacad.
 
 Fredag:
 
+Jag är borta och Kevin tar hand om er istället :)
+
+Python Essentials 1: 3.2
+
+Uppgifter och laborationer att göra:
+
+ * 3.2.4
+ * 3.2.7
+
+for-loppen + (break och continue)
+
+Python Essentials 1: 3.2
+
+Uppgifter och laborationer att göra:
+
+ *  3.2.9
+ *  3.2.10
+ *  3.2.11
+ *  3.2.14
+ *  3.2.15 Viktig
+ *  3.2.17
+
+
 
 ## Vecka 39   
 
 Måndag:
+
+Vi ska fortsätta med uppgifterna från i fredags, om man är färdig läser man vidare på Netacad kursen.
 
 Fredag:
 
