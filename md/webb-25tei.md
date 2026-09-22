@@ -103,9 +103,59 @@ en bra resurs.
   — avsnittet om länkar
 * MDN Challenge: [Structuring a page of content](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Structuring_a_page_of_content)
 
-## Vecka 40   
+## Vecka 40  
 
-###### Att hitta sin fil  
+**Quiz: HTML - Struktur**
+
+###### Att hitta sin fil
+
+<!-- 
+Var är din webbsida? Är den i din dator? Var i din dator, vet du det? Borde den vara
+på webben, och i så fall var? Det finns många regler för hur vi hanterar våra
+webbsidor och hur vi får upp dem på nätet. Det är enormt mycket lättare att publicera
+en webbplats om du är medveten om reglerna och följer dem redan i din egen dator.
+
+* MDN [Dealing with files](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Environment_setup/Dealing_with_files)  
+
+**Termer ni behöver kunna**
+* [fil](https://sv.wikipedia.org/wiki/Fil_(data))
+* [katalog](https://sv.wikipedia.org/wiki/Katalog_(datorteknik))
+* [filsystemet](https://sv.wikipedia.org/wiki/Filsystem)
+* [filträd](https://sv.wikipedia.org/wiki/Filtr%C3%A4d)
+* [folder metaphor](https://en.wikipedia.org/wiki/Directory_%28computing%29#Folder_metaphor)
+
+**Saker ni behöver kunna göra**  
+
+Ni måste veta hur man [skapar en textfil](https://www.wikihow.com/Make-a-New-File-in-Windows) hur man [skapar en katalog](https://www.minitool.com/news/how-do-i-create-a-directory.html#how-to-create-a-directory-in-windows-10-7400), [Komprimera och packa upp filer](https://support.microsoft.com/sv-se/windows/komprimera-och-packa-upp-filer-f6dde0a7-0fec-8294-e1d3-703ed85e7ebc), ta ett screenshot av hela sidan ([Firefox](https://support.mozilla.org/en-US/kb/take-screenshots-firefox?redirectslug=firefox-screenshots&redirectlocale=en-US), [Edge](https://www.howtogeek.com/719285/how-to-take-full-page-screenshots-in-microsoft-edge/)) och hur man visar dolda filändelser ([Windows 10](https://windowsreport.com/show-file-extensions-windows-10/), [Windows 11](https://windowsreport.com/show-file-extension-windows-11/)).      
+
+Varför är det så här? Jo, för de val du gör i din egen dator återspeglas i hur och var filer dyker upp på webben. 
+
+* MDN [What is a URL?](https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/What_is_a_URL)  
+
+Vi måste ha lite koll på [how URLs work](https://gdevops.frama.io/web/tuto-http/_images/how_urls_work.jpeg)
+och [howurls.work](https://howurls.work/).
+
+**Regler för namngivning**
+* Undvik svenska tecken, åäö
+* Undvik_mellanslag_
+* Undvik STORA bokstäver
+
+Vid all namngivning (filer, kataloger, allt) gäller ovanstående grundregler.
+"[Naming Files and Directories the Right Way](https://youtu.be/pjnSE99-cz0)" (8 min).
+En av anledningarna är [character encoding](https://developer.mozilla.org/en-US/docs/Glossary/character_encoding).
+Idag förlitar vi oss på "[Unicode](https://youtu.be/2r6OZD5n-wc)" (3 min).
+
+----  
+
+**[Uppgift: Min egen webbplats — struktur](#uppgift-min-egen-webbplats)**
+
+Nu bygger ni något eget, lokalt på datorn, från ingenting. Det här är en webbplats ni
+kommer arbeta vidare med resten av höstterminen — först strukturen, senare
+utseendet. Se uppgiftsbeskrivningen längst ned i dokumentet.
+
+Inlämning v42.  
+
+-->
 
 ## Vecka 41   
 
