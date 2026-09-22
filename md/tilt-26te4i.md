@@ -60,8 +60,15 @@ Förbered nästa veckas besök på Stora Högaskolan.
 PROJEKT Minecraft Education - Stora Höga.
 Vi besöker Stora Högaskolan klockan 8-9 onsdagen den 16/9.
 
+Presenterar vårt upplägg.
+
 
 ## Vecka 39   
+
+PROJEKT Minecraft Education - Stora Höga.
+Vi besöker Stora Högaskolan klockan 9.30 - 11.30 onsdagen den 23/9.
+
+Utbildning av lärare och elever i Minecraft Education.
 
 
 ## Vecka 40   
