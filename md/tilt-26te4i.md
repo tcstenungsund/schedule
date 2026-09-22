@@ -73,6 +73,8 @@ Utbildning av lärare och elever i Minecraft Education.
 
 ## Vecka 40   
 
+Besök av Hogia. Var vill ni göra APL? Vilken roll önskar ni?
+
 
 ## Vecka 41   
 
