@@ -58,8 +58,22 @@ PROV Modul 1-4.
 
 ## Vecka 38   
 
+Måndag:
+
+Genomgång av Modul 8 och 9.
+
+Tisdag:
+
+Genomgång av Modul 10 och 11.
+Arbeta med förberedelser inför Religionsprovet nästa vecka.
+
 
 ## Vecka 39   
+
+Måndag:
+
+Packet Tracer - Basic Lab.
+Subnetting.
 
 
 ## Vecka 40   
