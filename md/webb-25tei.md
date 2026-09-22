@@ -86,9 +86,7 @@ Blir du klar: MDN [Advanced text features](https://developer.mozilla.org/en-US/d
 
 ###### HTML - Struktur 
 
-<!-- 
-
-* MDN [Basic HTML syntax / Anatomy of an HTML document](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Basic_HTML_syntax)
+* MDN [Basic HTML syntax / Anatomy of an HTML document](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Basic_HTML_syntax#anatomy_of_an_html_document)
 * MDN [What's in the head? Web page metadata](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Webpage_metadata)
 * MDN [Structuring documents](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Structuring_documents)
 * MDN [Creating links](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Creating_links)
@@ -104,23 +102,6 @@ en bra resurs.
 * MDN [Test your skills: HTML](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Test_your_skills)
   — avsnittet om länkar
 * MDN Challenge: [Structuring a page of content](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Structuring_a_page_of_content)
-
-
-
-
-###### HTML - Struktur  
-
-* MDN [Basic HTML syntax / Anatomy of an HTML document](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Basic_HTML_syntax#anatomy_of_an_html_document)
-* MDN [What's in the head? Web page metadata](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Webpage_metadata)  
-* MDN [Structuring documents](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Structuring_documents)
-* MDN [Creating links](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Creating_links)
-* MDN Test your skills: [Links](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Test_your_skills/Links)
-* MDN Challenge: [Structuring a page of content](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Structuring_a_page_of_content)
-
-Läs på om [The anchor element](https://heydonworks.com/article/the-anchor-element/), det är viktigt! Det går också att djupdyka i taggen [HEAD](https://htmlhead.dev/) och allt den kan innehålla. Om det är svårt att hålla ordning på den semantiska betydelsen hos taggar så är [HTML5 Doctor's flowchart](https://html5doctor.com/downloads/h5d-sectioning-flowchart.pdf) en bra resurs.  
-
-
--->
 
 ## Vecka 40   
 
