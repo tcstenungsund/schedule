@@ -87,11 +87,13 @@ Inlämningen skall alltså bestå av fem screenshots och fem svar på frågan.
 
 Läxa till nästa vecka: "[My top 5 most popular front-end tips](https://youtu.be/DGOeyJjq80g)" (22 min) med Kevin Powell.  
 
+## Vecka 39   
 
-<!-- 
+Fortsätt med CSS-övningarna. De flesta borde bli klara med Flexbox Froggy den här veckan.  
+
 
 ### Utvecklingsmiljö för webbutvecklare  
-
+<!-- 
 Webbutvecklare behöver tillgång till LAMP-stacken och för det använder vi Docker. Därför skall vi nu installera och lära oss använda Docker!  
 
 "[Docker Tutorial For Beginners](https://youtu.be/RrTbOvqlEic)" (13 min), "[Docker for Web Development: A Brief Guide](https://medium.com/@vithusha.ravirajan/docker-for-web-development-a-brief-guide-5c0656319dcd)".  
@@ -100,7 +102,9 @@ Webbutvecklare behöver tillgång till LAMP-stacken och för det använder vi Do
 [Uppgift: Docker Basics](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-docker_basics)  
 -->
 
-## Vecka 39   
+## Vecka 40   
+
+### Introduktion till CMS  
 
 <!-- 
 
@@ -113,12 +117,6 @@ Det finns [många CMS:er](https://en.wikipedia.org/wiki/List_of_content_manageme
 [Uppgift: CMS Install](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-cms_install)   
 
 -->
-
-
-
-## Vecka 40   
-
-### Introduktion till CMS  
 
 ## Vecka 41   
 
