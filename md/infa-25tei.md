@@ -60,10 +60,33 @@ Vi kör Prov på Modul 1 nästa fredag. Då kommer även Tobias, en alumn som nu
 
 PROV Modul 1 i IT Customer Support Basics kursen.
 
+Genomgång av Modul 2.
+
 Träff med IT supporttekniker - Tobias Johansen Hogia.
 
 
-## Vecka 39   
+## Vecka 39  
+
+<img width="1021" height="794" alt="teamviewer" src="https://github.com/user-attachments/assets/ec03a89d-7b86-47c3-882b-a6301bbc1683" />
+
+
+
+[Teamviewer instruktionsvideo](https://www.youtube.com/watch?v=QjjS1jD2ZwA&list=PLYvl6So5EtReNWI96ZHPgWojb2NwaY0vj)  
+
+
+
+
+Vi installerar och bekantar oss med TEAMVIEWER:
+
+[Teamviewer](https://www.teamviewer.com/en/campaign/free-download-and-licenses/?utm_source=google&utm_medium=cpc&utm_campaign=restofeurope-main%7Cb%7Cpr%7C26%7Capr%7Ctv-core-generic-sn%7Cnew%7Ct0%7C0&utm_content=Download&utm_term=teamviewer+free+download&gad_source=1&gad_campaignid=18262194865&gbraid=0AAAAApuX7CU0K2AN69VkY0PltIcJQH6rl&gclid=Cj0KCQjwlNPVBhCMARIsAPZ5RqiE6yllP0SLG5fBoQvPRjzZZg9XTRCuMu5SW-KLmG-AX8pn8vP3aGYaAnBnEALw_wcB
+)  
+
+
+Arbeta två och två, testa att installera Teamwiewer på den ena datorn, gå till Sessioner, välj Ny session. Skriv in din kompis mail och låt kompisen installera från mailet.
+
+Starta en fjärrsession.
+
+Testa även att fjärransluta från din mobiltelefon till din dator.
 
 
 ## Vecka 40   
@@ -76,7 +99,6 @@ Träff med IT supporttekniker - Tobias Johansen Hogia.
 
 
 ## Vecka 43   
-
 
 ## Vecka 44   
 
