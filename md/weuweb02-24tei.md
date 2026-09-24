@@ -99,9 +99,8 @@ Webbutvecklare behöver tillgång till LAMP-stacken och för det använder vi Do
 "[Docker Tutorial For Beginners](https://youtu.be/RrTbOvqlEic)" (13 min), "[Docker for Web Development: A Brief Guide](https://medium.com/@vithusha.ravirajan/docker-for-web-development-a-brief-guide-5c0656319dcd)" och "[Docker Cheat Sheet](https://www.saltycrane.com/cheat-sheets/docker/)".  
 
 [Uppgift: Workspace setup](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-workspace_setup)  
-<!-- 
+
 [Uppgift: Docker Basics](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-docker_basics)  
--->
 
 ## Vecka 40   
 
