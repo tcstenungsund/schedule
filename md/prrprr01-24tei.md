@@ -109,14 +109,17 @@ Python Essentials 1: 3.3
 
 ### Tisdag
 
-
+Ta ikapp uppgifter
 
 ### Fredag
 **Listor**
 
 Python Essentials 1: 3.4
 
-
+*Uppgifter och laborationer att göra:*
+- 3.4.6
+- 3.4.10
+- 3.4.13
 
 
 ## Vecka 40   
