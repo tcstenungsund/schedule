@@ -64,18 +64,26 @@ Arbeta vidare med Uppgift: Persona från förra veckan
 
 ###### Att styra AIs röst  
 
-Nu avslutar vi uppgiften Persona från vecka 36.
+Nu avslutar vi uppgiften Persona från vecka 36.  
 
-## Vecka 39   
+## Vecka 39  
+
+###### Nytt om AI  
+* 
 
 <!-- 
 ###### Elements of AI - Vad är artificiell intelligens?  
 Genomgång av kapitel 1 del 2 - [Andra ämnesområden](https://course.elementsofai.com/se/1/2)  
 "Utöver artificiell intelligens finns det några andra ämnesområden som är bra att känna till, åtminstone till namnet. Till dessa hör maskininlärning, datavetenskap, data science och djupinlärning (också djup maskininlärning)."  
-
 -->
 
-## Vecka 40   
+###### Att styra AIs röst  
+
+Fila lite på era valdrinkar, se till att ni har namn på drinken, en bild och ett recept. Se också till att ni skrivit in gruppmedlemmar i dokumentet.  
+
+RJO tar fram en text som beskriver drink-menyn, och kör den genom rätt persona!  
+
+## Vecka 40  
 
 <!-- 
 
