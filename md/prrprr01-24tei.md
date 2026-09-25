@@ -108,21 +108,21 @@ Python Essentials 1: 3.3
 ## Vecka 39  
 
 ### Tisdag
+
+
+
+### Fredag
 **Listor**
 
 Python Essentials 1: 3.4
 
 
 
-### Fredag
-**Att sortera en Lista**
-
-Python Essentials 1: 3.4, 3.5
-
 
 ## Vecka 40   
 
 ### Tisdag
+
 **Att arbeta med listor + listor i listor, varför då?**
 
 Python Essentials 1: 3.5
