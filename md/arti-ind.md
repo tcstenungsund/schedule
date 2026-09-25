@@ -68,12 +68,13 @@ Nu avslutar vi uppgiften Persona från vecka 36.
 
 ## Vecka 39  
 
-###### Nytt om AI  
+###### Nytt om AI 
 
-
-
-
-* 
+* [SVT: Ai hackade myndighet i Australien](https://www.svt.se/nyheter/utrikes/open-ai-hackade-myndighetssidor-i-australien)  
+* [Ny svensk AI-modell transkriberar en timmes ljud på en sekund](https://computersweden.se/article/4225541/ny-svensk-ai-modell-transkriberar-en-timmes-ljud-pa-en-sekund.html)  
+* [Trump kallar farorna nonsens – Bryssel gick före med AI-lag](https://www.dn.se/varlden/lina-lund-trump-kallar-farorna-nonsens-bryssel-gick-fore-med-ai-lag/)  
+* [Det enda sättet att göra AI säkert](https://www.aftonbladet.se/nyheter/kolumnister/a/WvPvpg/det-enda-sattet-att-gora-ai-sakert
+)  
 
 ###### Elements of AI - Vad är artificiell intelligens?  
 Genomgång av kapitel 1 del 2 - [Andra ämnesområden](https://course.elementsofai.com/se/1/2)  
