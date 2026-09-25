@@ -69,6 +69,10 @@ Nu avslutar vi uppgiften Persona från vecka 36.
 ## Vecka 39  
 
 ###### Nytt om AI  
+
+
+
+
 * 
 
 ###### Elements of AI - Vad är artificiell intelligens?  
@@ -78,6 +82,12 @@ Genomgång av kapitel 1 del 2 - [Andra ämnesområden](https://course.elementsof
 ###### Att styra AIs röst  
 
 Fila lite på era valdrinkar, se till att ni har namn på drinken, en bild och ett recept. Se också till att ni skrivit in gruppmedlemmar i dokumentet.  
+
+Lämna in valdrinkarna, de flesta har bild men saknar lista på ingredienser. MP och L saknas helt.
+
+Lämna även in de Personas som ni skapat, efter de 8 karaktärerna som finns runt HagaDösen.
+
+[Uppgift: Persona](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/artart01-skapa_persona)  
 
 RJO tar fram en text som beskriver drink-menyn, och kör den genom rätt persona!  
 
