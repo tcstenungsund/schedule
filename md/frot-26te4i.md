@@ -130,8 +130,12 @@ Presentation av ert projekt i MIT App Inventor
 Ni kommer sannolikt att göra hundratals presentationer när ni kommer ut i arbetslivet, så gör en professionell presentation idag! Börja med att presentera er själva och vad ni skall tala om. Ingen är intresserad av vem som gjorde vad eller hur ni delat upp arbetet. Det är projektet i sig som åhörarna vill veta mer om. Visa upp era block, framförallt något specifikt exempel som ni är extra nöjda med, som var riktigt svårt att få till eller som kan utgöra ett bra exempel för de andra. Genomför en ordentlig demo av er app.  
 
 ##### Veckans Sociala medier  
-* 
-* 
+* "[These two features make styling textareas easier](https://youtube.com/shorts/Z1d428X-6rU)"  
+* "[NRK: Energidrycker är för barn!](https://www.tiktok.com/@nrk/video/7687572510283402518)"
+* "[Stop killing games!](https://www.tiktok.com/@stopkillinggamesofficial/video/7671733789273509142)"
+* "[Not all AI workers think the tech could kill everyone](https://www.bbc.com/news/articles/cm5y7qj54klpo)"
+* "[Our AI agent went rogue and unplugged itself](https://infosec.exchange/@catsalad/117262976392143010)"
+* "[6 * 7 = 42](https://www.tiktok.com/@bahamas10_/video/7603841941364542734)"
 
 ## Vecka 40  
 
