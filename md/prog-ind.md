@@ -82,9 +82,13 @@ Vi ska fortsätta med uppgifterna från i fredags, om man är färdig läser man
 
 Fredag:
 
+Vi fortsätter med uppgifterna, om man är färdig fortsätter man läsa vidare på Netacad kursen 3.3.
+
 ## Vecka 40   
 
 Måndag:
+
+Vi börjar prata listor! Kapitel 3.4 i Netacad kursen.
 
 Fredag:
 
