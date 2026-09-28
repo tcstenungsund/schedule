@@ -72,11 +72,21 @@ Arbeta med förberedelser inför Religionsprovet nästa vecka.
 
 Måndag:
 
+UF inspiration i Utblicken. Efter det förbereder ni onsdagens affärsidébollning.
+
+Tisdag:
+
 Packet Tracer - Basic Lab.
 Subnetting.
 
 
 ## Vecka 40   
+
+Måndag:
+
+MODULPROV - 8-11.
+
+Tisdag:
 
 
 ## Vecka 41   
