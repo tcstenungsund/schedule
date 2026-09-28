@@ -128,17 +128,18 @@ Python Essentials 1: 3.4
 
 **Att arbeta med listor + listor i listor, varför då?**
 
-Python Essentials 1: 3.5
+Python Essentials 1: 3.5 och 3.6
 
 ### Fredag
-Python Essentials 1: **Module Test 3**
-
+Python Essentials 1: 3.7
 
 ## Vecka 41   
 
 ### Tisdag
-**Newton-Raphsons metod**
 
+**Python Essentials 1:Module Test 3**
+
+**Newton-Raphsons metod**
 
 ### Fredag
 **Introduktion till funktioner**
