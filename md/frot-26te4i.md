@@ -142,6 +142,9 @@ Ni kommer sannolikt att göra hundratals presentationer när ni kommer ut i arbe
 ### Måndag  
 
 ##### Ethical Hacking  
+Idag talar vi om ethical hacking, med [Kevin Mitnick](https://en.wikipedia.org/wiki/Kevin_Mitnick) som exempel. Vi ser en [interview with renowned hacker Kevin Mitnick](https://youtu.be/LaypU4qAuYw) (vill ni se mer kan jag rekommendera dokumentären "[A Hacker's Story](https://youtu.be/Qe73tRTksf0)") och påminner oss dokumentet [How To Become A Hacker](http://vadeker.net/articles/hacker-howto.html). Ett sätt att hålla koll på folk är genom deras digitala fingeravtryck, hur ditt ser ut ser du på [Am I Unique](https://www.amiunique.org/). Klassisk comic "[Exploits of a Mom](https://xkcd.com/327/)".  
+
+Dagens tips är [playCSS](https://www.amiunique.org/)s dagliga challange.  
 
 <!--
 Veckans Dry Meme: [Badger Badger Badger](https://youtu.be/I-h-kdscGH8) ([Know Your Meme](https://knowyourmeme.com/memes/badger-badger-badger))  
