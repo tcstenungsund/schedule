@@ -90,6 +90,14 @@ Måndag:
 
 Vi börjar prata listor! Kapitel 3.4 i Netacad kursen.
 
+Python Essentials 1: 3.4.1 till 3.4.6
+
+Uppgifter och laborationer att göra:
+
+ *  3.4.6
+
+ *  Färdig med uppgifterna? Läs igenom 3.3 eller fortsätt med med att läsa kapitel 3.4.7 och frammåt.
+
 Fredag:
 
 
