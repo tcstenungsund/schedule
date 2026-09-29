@@ -56,6 +56,10 @@ Bestämma målgrupp och bestämma vilken idé som är prio 1.
 
 ## Vecka 40   
 
+UF inspiratörer på besök! Dexter och Filippa informerar och pratar enskilt med alla grupper.
+
+Resterande tid används till att arbeta vidare med UF och förbereda inför onsdagen affärsidébollning.
+
 
 ## Vecka 41   
 
