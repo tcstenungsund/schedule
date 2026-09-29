@@ -53,6 +53,8 @@ Bestämma målgrupp och bestämma vilken idé som är prio 1.
 
 ## Vecka 39   
 
+Vi registrerar våra UF-företag och filar på affärsidé.
+
 
 ## Vecka 40   
 
