@@ -140,7 +140,9 @@ Vid all namngivning (filer, kataloger, allt) gäller ovanstående grundregler. "
 
 ----  
 
-**[Uppgift: Min egen webbplats — struktur](#uppgift-min-egen-webbplats)**
+Läs igenom ovanstående delar av MDN och gör de interaktiva momenten!  
+
+[Uppgift: Min första webbplats — struktur](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/webb1-min_forsta_webbplats)  
 
 Nu bygger ni något eget, lokalt på datorn, från ingenting. Det här är en webbplats ni
 kommer arbeta vidare med resten av höstterminen — först strukturen, senare
