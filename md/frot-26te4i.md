@@ -150,6 +150,8 @@ Veckans Dry Meme: [The End of the World ](https://youtu.be/kCpjgl2baLs) ([The En
 
 ### Tisdag  
 
+En gratis föreläsning om AI och UX med Vitaly Friedman: [The State of AI for 2027](https://maven.com/p/970d26/the-state-of-ai-for-2027).  
+
 ### Fredag   
 
 ## Vecka 41   
