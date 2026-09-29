@@ -75,6 +75,8 @@ Utbildning av lärare och elever i Minecraft Education.
 
 Besök av Hogia. Var vill ni göra APL? Vilken roll önskar ni?
 
+Maija från Hogia besöker oss kl 09.30. Fundera på om ni vill göra er APL på Hogia och i så fall vilken roll ni önskar. Utvecklare eller IT Support.
+
 
 ## Vecka 41   
 
