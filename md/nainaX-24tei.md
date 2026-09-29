@@ -79,6 +79,8 @@ Tisdag:
 Packet Tracer - Basic Lab.
 Subnetting.
 
+Genomgång av IPv4 och subnetting.
+
 
 ## Vecka 40   
 
@@ -86,7 +88,12 @@ Måndag:
 
 MODULPROV - 8-11.
 
+Packet Tracer - Basic Lab.
+Subnetting.
+
 Tisdag:
+
+
 
 
 ## Vecka 41   
