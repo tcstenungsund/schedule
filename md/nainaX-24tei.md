@@ -60,6 +60,16 @@ PROV Modul 1-4.
 
 Måndag:
 
+Genomgång av Modul 5 och 6.
+
+Tisdag:
+
+Genomgång av Modul 7. Arbeta med interaktiva övningar
+
+## Vecka 39   
+
+Måndag:
+
 Genomgång av Modul 8 och 9.
 
 Tisdag:
@@ -68,7 +78,8 @@ Genomgång av Modul 10 och 11.
 Arbeta med förberedelser inför Religionsprovet nästa vecka.
 
 
-## Vecka 39   
+
+## Vecka 40   
 
 Måndag:
 
@@ -82,21 +93,18 @@ Subnetting.
 Genomgång av IPv4 och subnetting.
 
 
-## Vecka 40   
+
+
+## Vecka 41   
 
 Måndag:
 
 MODULPROV - 8-11.
 
 Packet Tracer - Basic Lab.
-Subnetting.
+Subnetting. Fortsättning.
 
 Tisdag:
-
-
-
-
-## Vecka 41   
 
 
 ## Vecka 42   
