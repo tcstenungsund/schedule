@@ -103,16 +103,24 @@ RJO tar fram en text som beskriver drink-menyn, och kör den genom rätt persona
 
 Tutorial  
 
+Uppgift? 
+
 -->
 
 ## Vecka 41   
 
+###### Nytt om AI  
+* 
 
 ## Vecka 42   
 
+###### Nytt om AI  
+* 
 
 ## Vecka 43   
 
+###### Nytt om AI  
+* 
 
 ## Vecka 44   
 
