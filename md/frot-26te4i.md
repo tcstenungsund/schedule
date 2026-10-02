@@ -154,6 +154,11 @@ En gratis föreläsning om AI och UX med Vitaly Friedman: [The State of AI for 2
 
 ### Fredag   
 
+##### Veckans Sociala medier  
+* [Tillbaka till Tablån: SVT Mosquito](https://www.tiktok.com/@tillbakatilltablan/video/7688258899668946198)  
+* [our brainrot was so much better](https://www.tiktok.com/@smcropley/video/7689577074377379085)  
+* [Jerry Returns](https://www.youtube.com/shorts/pRw3U3AF8yI)  
+
 ## Vecka 41   
 
 ### Måndag  
