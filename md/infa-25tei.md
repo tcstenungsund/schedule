@@ -91,6 +91,16 @@ Testa även att fjärransluta från din mobiltelefon till din dator.
 
 ## Vecka 40   
 
+SLUTPROV för CCST - IT Customer Support Basics
+
+Öppnat kurs 2 av de 4 delarna i CCST - IT Support.
+
+25Tei - CCST 2/4 - Operating Systems Support 26/27
+
+Går igenom windows systemverktyg, testa själva!
+
+Gör första och andra Modulen i IT Customer Support Basics
+
 
 ## Vecka 41   
 
