@@ -95,17 +95,16 @@ RJO tar fram en text som beskriver drink-menyn, och kör den genom rätt persona
 ## Vecka 40  
 
 ###### Nytt om AI  
-* 
-
-<!-- 
+* ["Our AI commited a crime"](https://www.youtube.com/shorts/2u0wt9qqSKw)  
+* ["Rouge AI warnings are mostly 'marketing', top European AI CEO says"](https://eupolicy.social/@ilumium/117315272070960985)
+* ["Not all AI workers think the tech could kill everyone"](https://www.bbc.com/news/articles/cm5y7qj54klpo)
+* "[Låg mognad i svenskarnas AI-användning](https://computersweden.se/article/4228192/lag-mognad-i-svenskarnas-ai-anvandning.html)"    
 
 #### Prompt engineering  
 
-Tutorial  
+[Introduction to Prompt Engineering](https://academy.openai.com/public/videos/introduction-to-prompt-engineering-2025-02-13) (6 min) av OpenAI. [Claude HACK 2 - The Prompt Formula](https://www.youtube.com/shorts/RZtGQek5rVY) (2 min). [Google's 6 Hour Prompt Engineering Course in 10 Minutes](https://youtu.be/o3qfL2fcSx4) (11 min). 
 
-Uppgift? 
-
--->
+Fila på era personas, så drar vi igång med uppgiften på riktigt nästa vecka!  
 
 ## Vecka 41   
 
