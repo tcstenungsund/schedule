@@ -101,8 +101,11 @@ Går igenom windows systemverktyg, testa själva!
 
 Gör första och andra Modulen i IT Customer Support Basics
 
+LÄXA till nästa gång - gör Modul 1 Exam.
 
 ## Vecka 41   
+
+Laboration - installation av Linux.
 
 
 ## Vecka 42   
