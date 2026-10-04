@@ -163,21 +163,34 @@ En gratis föreläsning om AI och UX med Vitaly Friedman: [The State of AI for 2
 
 ### Måndag  
 
-##### The Fediverse  
-
-
 <!-- 
 Veckans Dry Meme: [Hatten Är Din.](https://youtu.be/fgdfcKtRQW8) ([Hatten är din]([https://knowyourmeme.com/memes/the-end-of-the-world](https://knowyourmeme.com/memes/hatten-ar-din-the-hat-is-yours)))  
 -->
+
+##### The Fediverse  
+
+Uppgift: UX-teorier  
+
 ### Tisdag  
 
+Arbeta vidare med UX-teorier  
+
 ### Fredag   
+
+Arbeta vidare med UX-teorier  
+
+##### Veckans Sociala medier  
+* 
 
 ## Vecka 42   
 
 ### Måndag  
 
 ##### Yrkesroller inom Design  
+
+Presentation av uppgift UX-teorier  
+
+Uppgift:  
 
 ### Tisdag  
 
