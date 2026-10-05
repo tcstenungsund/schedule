@@ -27,14 +27,22 @@ Det ligger en uppgift i Haldor Linux Command Line Lab. Där finns instruktioner 
 
 ## Vecka 38   
 
+Modul 1
+
 
 ## Vecka 39   
+
+Modul 1
 
 
 ## Vecka 40   
 
+Modul 2
+
 
 ## Vecka 41   
+
+Prov på modul 1 och 2
 
 
 ## Vecka 42   
