@@ -170,7 +170,7 @@ Centralisering av sociala media har skapat en hel del problem, bland annat demok
 
 För att använda sig av ett distribuerat socialt nätverk så måste du välja platform, server och klient. Det blir en hel del val, så nu behövs resurser som [A Hitchhiker's Guide to the Fediverse](https://gofoss.net/fediverse/)! För att hålla lite koll på vad som händer på the Fediverse kan du vända dig till [FediDB](https://fedidb.com/). Om du bestämmer dig för att skapa ett konto på den Twitter-liknande tjänsten Mastodon, så kan [Mastodon Instances](https://instances.social/) hjälpa dig att hitta en server med likasinnade att skapa ett konto på. Om du skaffar ett konto vill du utan tvekan installera en pluggin för din webbläsare vid namn [Graze for Mastodon](https://graze.jaredzimmerman.com/). Webbklienten ni sett mig använda heter [Panphy](https://phanpy.social/#/).
 
-[Uppgift: UX-teorier](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/frot-ux-teorier)  
+[Uppgift: UX-teorier](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/frot100tx-ux-teorier)  
 
 ### Tisdag  
 
