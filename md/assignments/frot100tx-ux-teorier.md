@@ -6,7 +6,7 @@ _Djupdyk i några ämnen och presentera sedan för varandra._
 
 ## Förutsättningar    
 
-Grupper om två. 
+Enskillt. 
 
 ## Resurser
 
