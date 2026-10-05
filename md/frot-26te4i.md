@@ -163,7 +163,7 @@ En gratis föreläsning om AI och UX med Vitaly Friedman: [The State of AI for 2
 
 ### Måndag  
 
-Veckans Dry Meme: [Hatten Är Din.](https://youtu.be/fgdfcKtRQW8) ([Hatten är din]([https://knowyourmeme.com/memes/the-end-of-the-world](https://knowyourmeme.com/memes/hatten-ar-din-the-hat-is-yours)))  
+Veckans Dry Meme: [Hatten Är Din.](https://youtu.be/fgdfcKtRQW8) ([Hatten är din](https://knowyourmeme.com/memes/hatten-ar-din-the-hat-is-yours))  
 
 ##### The Fediverse  
 Centralisering av sociala media har skapat en hel del problem, bland annat demokratiska. Ingen enskilld platform som ägs och drivs med vinstgivande intressen av ett företag kan ersätta att gå ned på det lokala torget och ropa ut sina åsikter. "[Scientists say X (formerly Twitter) has lost its professional edge — and Bluesky is taking its place](https://www.psypost.org/scientists-say-x-formerly-twitter-has-lost-its-professional-edge-and-bluesky-is-taking-its-place/)" Tim Berners-Lee ställer frågan "[is the web still free today?](https://expressional.social/@petersuber@fediscience.org/115282405819883420)" Ett socialt media som bygger på samma principer som internet självt, att det är bra att sprida ut de viktiga resurserna och koppla ihop dem på distans. Därmed skapades [The Fediverse](https://en.wikipedia.org/wiki/Fediverse), the federated universe, ett distribuerat socialt nätverk.  
