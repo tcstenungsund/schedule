@@ -100,18 +100,32 @@ Uppgifter och laborationer att göra:
 
 Fredag:
 
+Ni läser färdigt 3.4 och 3.5 och gör uppgifterna.
+
 
 ## Vecka 41   
 
 Måndag:
 
+Vi pratar om, kapitel 3.6
+
+Sedan gör vi uppgifter.
+
 Fredag:
+
+Vi pratar 3.7 
+
+Sedan gör vi uppgifterna.
 
 ## Vecka 42   
 
 Måndag:
 
+Repetition
+
 Fredag:
+
+Prov på Kapitel 3
 
 ## Vecka 43   
 
