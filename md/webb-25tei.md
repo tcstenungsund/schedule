@@ -169,10 +169,24 @@ grundhantverket.
 
 ## Vecka 42   
 
+###### Repetition och frågestund  
+
+Allt vi gjort sedan v38. Ta med era frågor. Testa er själva med
+"[HTML Tags Memory](https://codepen.io/plfstr/full/zYqQeRw)".  
+
+Var källkritiska när ni läser om HTML och CSS. Kom ihåg [W3Fools](https://www.w3fools.com/), och även om saker ändrats är frågan [Do we still hate w3schools or...](https://masto.ai/@teacherbuknoy/112890440326314007) berättigad.  
+
+> You should get used to searching for "mdn css-feature-name" in your favorite search
+> engine whenever you need to find out more information about a CSS feature.
+> — [MDN](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/What_is_CSS)
+
+---- 
+
 Prov: HTML  
 
 ## Vecka 43   
 
+Genomgång av HTML-provet  
 
 ## Vecka 44   
 
