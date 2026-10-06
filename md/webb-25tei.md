@@ -169,6 +169,10 @@ grundhantverket.
 
 ## Vecka 42   
 
+**Utvecklingssamtal**  
+
+## Vecka 43   
+
 ###### Repetition och frågestund  
 
 Allt vi gjort sedan v38. Ta med era frågor. Testa er själva med
@@ -184,16 +188,13 @@ Var källkritiska när ni läser om HTML och CSS. Kom ihåg [W3Fools](https://ww
 
 Prov: HTML  
 
-## Vecka 43   
-
-Genomgång av HTML-provet  
-
 ## Vecka 44   
 
 **HÖSTLOV**   
 
 ## Vecka 45   
 
+Genomgång av HTML-provet  
 
 ## Vecka 46   
 
