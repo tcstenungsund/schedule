@@ -153,6 +153,19 @@ Inlämning v43.
 ## Vecka 41   
 
 ###### HTML - Bilder och media (+ felsökning)  
+* MDN [HTML images](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/HTML_images)
+* MDN [HTML video and audio](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/HTML_video_and_audio) (Överkurs)
+* MDN [Debugging HTML](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Debugging_HTML)
+
+Bilder och media ska väljas i **lämpligt format för webben** och märkas upp så att de
+går att använda även av den som inte ser dem. Det är inte en extrauppgift, det är
+grundhantverket.
+
+----
+
+* MDN [Test your skills: HTML](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Test_your_skills)
+  — avsnittet om bilder
+* MDN Challenge: [Creepy-crawly splash page](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Splash_page)
 
 ## Vecka 42   
 
