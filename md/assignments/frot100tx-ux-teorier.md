@@ -14,6 +14,8 @@ Enskillt.
 * Hick's law
 * Fitt's law
 * Rule of thirds
+* Jakob's law
+* Doherty's threshold
 <!-- 
 Anticipatory Design
 Intrinsic Web Design
