@@ -80,6 +80,17 @@ Maija från Hogia besöker oss kl 09.30. Fundera på om ni vill göra er APL på
 
 ## Vecka 41   
 
+Besök av Axel och Kalle, alumner som arbetar på Hogia och har gjort sin APL som utvecklare.
+
+Vi påbörjar CV, personligt brev och LinkedIn, med målsättningen att skicka in en APL ansökan till Hogia nästa vecka.
+
+På fredag kommer Tobias, också alumn som arbetar som IT-tekniker och pratar med er om APL.
+
+Guider och mallar för CV och personligt brev:
+
+ [Cv, jobbansökan och intervju](https://arbetsformedlingen.se/for-arbetssokande/cv-ansokan-och-intervju)  
+
+
 
 ## Vecka 42   
 
