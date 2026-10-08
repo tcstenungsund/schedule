@@ -106,6 +106,36 @@ Subnetting. Fortsättning.
 
 Tisdag:
 
+Packet Tracer - Basic Lab.
+Subnetting. Fortsättning.
+
+Lämna in uppgift enligt:
+
+Utgå från Basic Lab.pdf - Skapa två identiska uppkopplingar.
+
+Använd följande IPadresser:
+
+Subnetta 192.168.63.0 /24 så att du skapar 4 nya nät.
+
+PCA nätet ska använda det andra av de 4 nya näten.
+
+PCB nätet ska använda det tredje.
+
+Datorerna ska ha den tionde användbara adressen i respektive nät, routern (default gateway) ska ha den första användbara adressen.
+
+I den andra uppkopplingen:
+
+Använd följande IPadresser:
+
+Subnetta 192.168.63.0 /24 så att du skapar 4 nya nät.
+
+PCA nätet ska använda det andra av de 4 nya näten.
+
+Subnetta sedan det fjärde nätet - 192.168.63.192 /26, så att du får två nya nät.
+
+PCB nätet ska använda det andra av de två nya näten.
+
+Datorerna ska ha den tionde användbara adressen i respektive nät, routern (default gateway) ska ha den första användbara adressen.
 
 ## Vecka 42   
 
