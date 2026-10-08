@@ -105,7 +105,17 @@ LÄXA till nästa gång - gör Modul 1 Exam.
 
 ## Vecka 41   
 
-Laboration - installation av Linux.
+<img width="1187" height="891" alt="Screenshot_20261008_150430" src="https://github.com/user-attachments/assets/a77328b7-3382-48be-87cf-a23248154495" />
+
+
+Laboration - installation av Linux på Raspberry Pi 4.
+
+Börja med att installera operativsystemet via Raspberry Pi Imager:
+
+
+[Raspberry Pi Imager](https://www.raspberrypi.com/software/
+)  
+
 
 
 ## Vecka 42   
