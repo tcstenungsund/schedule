@@ -112,6 +112,9 @@ Fila på era personas, så drar vi igång med uppgiften på riktigt nästa vecka
 
 ###### Nytt om AI  
 
+* [Googles nya sajt ska kunna identifiera AI-genererad media](https://computersweden.se/article/4232445/googles-nya-sajt-ska-kunna-identifiera-ai-genererad-media.html)
+* [Microsoft presenterar Surface Laptop Ultra – kör stora AI-modeller lokalt](https://www.pcforalla.se/article/3255565/microsoft-surface-laptop-ultra.html)
+* [Ny öppen USA-modell utmanar kinesiska AI-modellerna](https://computersweden.se/article/4231204/ny-oppen-usa-modell-utmanar-kinesiska-ai-modellerna.html)
 
 * 
 
