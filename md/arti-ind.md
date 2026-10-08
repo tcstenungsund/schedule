@@ -108,8 +108,30 @@ Fila på era personas, så drar vi igång med uppgiften på riktigt nästa vecka
 
 ## Vecka 41   
 
+
+
 ###### Nytt om AI  
+
+
 * 
+
+
+###### Elements of AI - Vad är artificiell intelligens?  
+
+<img width="500" height="390" alt="Screenshot_20261008_153057" src="https://github.com/user-attachments/assets/26d270e9-d9fa-46b8-8a9b-cc22ff51c8bd" />
+
+Genomgång av kapitel 1 del 3 - [Vad är artificiell intelligens?](https://course.elementsofai.com/se/1/3)  
+"Filosofin kring artificiell intelligens
+Begreppet artificiell intelligens väcker på egen hand ofrånkomligen mängder av filosofiska frågor. Vi kan bland annat fundera över huruvida intelligent beteende innebär eller förutsätter medvetande och i vilken mån medvetande kan återskapas med hjälp av beräkningar
+."  
+
+LÄMNA IN - Uppgift 4.
+
+
+###### Att styra AIs röst  
+
+Vi fortsätter att arbeta med att hitta respektive personas röst och uttryck.
+
 
 ## Vecka 42   
 
