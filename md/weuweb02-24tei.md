@@ -104,8 +104,6 @@ Webbutvecklare behöver tillgång till LAMP-stacken och för det använder vi Do
 
 ## Vecka 40   
 
-### Introduktion till CMS  
-
 ### Introduktion till Content Management Systems  
 
 Det finns [många CMS:er](https://en.wikipedia.org/wiki/List_of_content_management_systems). Vi kommer använda en av de största, Drupal. Drupal är känd för att den har en aktiv utvecklarcommunity, många moduler och är både stabil att bygga komplexa lösningar på, men också enkel att arbeta med. Youtube-kursen vi skall se baseras på version 8, så under kursens gång är det den versionen vi kör. Men när vi sedan arbetar med systemet kommer vi köra version 11.  
@@ -116,9 +114,27 @@ Det finns [många CMS:er](https://en.wikipedia.org/wiki/List_of_content_manageme
 
 ## Vecka 41   
 
+Slutför uppgifterna: 
+* [Workspace setup](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-workspace_setup)  
+* [Docker Basics](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-docker_basics)
+* [CMS Install](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-cms_install)   
+
+Gå sedan vidare med uppgiften nedan.  
+
+[Uppgift: Aktivera Utvecklarläge](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-aktivera_utvecklarlage)  
+
 ### Grundkurs i CMS  
 
+Vi ser avsnitten 1-3 (Introduktion, 15min) och 8-15 (Systemöverblick, 17min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".  
+
 ## Vecka 42   
+
+<!-- 
+
+
+Vi ser avsnitten 16-18, 22-26 (Content Type, 26min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".  
+
+-->
 
 ### Grundkurs i CMS  
 
