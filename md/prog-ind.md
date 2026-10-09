@@ -115,7 +115,7 @@ Fredag:
 
 Vi pratar 3.7 
 
-Sedan gör vi uppgifterna.
+Sedan gör vi uppgifterna för kapitel 3.
 
 ## Vecka 42   
 
