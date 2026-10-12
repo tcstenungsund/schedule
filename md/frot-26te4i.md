@@ -86,10 +86,6 @@ Fortsätt arbeta med MIT App Inventor
 
 Fortsätt arbeta med MIT App Inventor  
 
-##### Veckans Sociala medier  
-* 
-* 
-
 ## Vecka 39   
 
 ### Måndag  
@@ -180,28 +176,33 @@ Arbeta vidare med UX-teorier
 
 Arbeta vidare med UX-teorier  
 
-##### Veckans Sociala medier  
-* 
-
 ## Vecka 42   
 
 ### Måndag  
 
-##### Yrkesroller inom Design  
+Vår bransch förändrar sig ständigt! Ett sätt att hålla sig a jour med sitt yrke är att bevista konferenser. Här följer två föreläsningar vi sätter tänderna i denna veckan!  
 
-Presentation av uppgift UX-teorier  
-
-Uppgift:  
+AI Engineers Worlds Fair 2026: "[Why Software Factories Fail](https://youtu.be/Ib5GBkD555M)" (19min) by Dex Horthy (Humanlayer).  
+Lenny and Friends Summit 2026: "[How to scale intent, quality, and artistry with Al](https://youtu.be/GLvFTMtw4Jk)" (22min) by Katie Dill (Stripe).  
 
 ### Tisdag  
 
+**Stuidedag**  
+
 ### Fredag   
+
+Presentation av uppgift UX-teorier  
+
+##### Veckans Sociala medier  
+* 
 
 ## Vecka 43   
 
 ### Måndag  
 
 ##### Pre-processors och task runners  
+
+Uppgift:  
 
 ### Tisdag  
 
@@ -214,6 +215,8 @@ Uppgift:
 ## Vecka 45   
 
 ### Måndag  
+
+##### Yrkesroller inom Design  
 
 ### Tisdag  
 
