@@ -129,18 +129,38 @@ Vi ser avsnitten 1-3 (Introduktion, 15min) och 8-15 (Systemöverblick, 17min) i 
 
 ## Vecka 42   
 
+### Grundkurs i CMS  
+
 <!-- 
 
+Vi ser avsnitten 16-18, 22-26 (Content Type, 26min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)". 
 
-Vi ser avsnitten 16-18, 22-26 (Content Type, 26min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".  
+Uppgift: Bygg en egen Content Type för saker i "Lost & Found"!  
+  Date found — forced to realise Date isn't a text field
+  Location — is that plain text, a select list of buildings, or a Taxonomy? Three defensible answers, all with trade-offs
+  Image — Media reference, and the question of "what if there's no photo?" (optional field)
+  Status — boolean ("claimed") vs list ("found/claimed/disposed")? Sneaky little data-modelling fork
+  Description — long text with summary vs plain
+  Category — Taxonomy vocabulary: keys, electronics, clothing — and who decides the allowed values?
+
+----  
+
+Vi ser avsnitten 27-29 (Taxonomy, 10min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".    
+
+Uppgift: Lägg till minst ett fält som inte fanns i videon (t.ex. datum, bild eller en referens till er taxonomi). Fyll på med 5–10 noder. Diskutera i par: när är taxonomi rätt val och när räcker fritextfält?
+
+Blir det tid över: börja titta på strukturen i era egna installationer via Structure → Content types → Manage fields.
 
 -->
-
-### Grundkurs i CMS  
 
 ## Vecka 43   
 
 ### Grundkurs i CMS  
+
+<!--
+
+
+-->
 
 ## Vecka 44   
 
@@ -150,17 +170,80 @@ Vi ser avsnitten 16-18, 22-26 (Content Type, 26min) i serien "[Drupal 8 Beginner
 
 ### Grundkurs i CMS  
 
+<!--
+
+
+-->
+
 ## Vecka 46   
 
 ### Grundkurs i CMS  
+
+<!--
+
+
+-->
 
 ## Vecka 47   
 
 ### Grundkurs i CMS  
 
+<!--
+
+
+-->
+
 ## Vecka 48   
 
-Prov: Grundkurs i CMS  
+<!--
+
+Vi ser avsnitten 30-31 (Content, 10min), och 32 och 33 (Revisions och Devel, 9min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".    
+
+Vi ser avsnitten 34-36 (Displays, 15min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".  
+
+Uppgift: Ställ in Manage display för vår content type "Lost & Found". Jämför Teaser och Full content. Ställ in Teaser så att den visar bild plus ingress, men inte hela brödtexten.  
+
+
+
+Vi ser avsnitten 37-40 (Views, 20min) och 41-42 (Image Styles och Photo Gallery, 8min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".  
+
+Uppgift: Bygg en view som inte finns med i videon. Till exempel de senaste fem publicerade noderna i Lost & Found. Vad sorterar man på? Datum? Grupperat utifrån konferens? 
+
+
+
+Vi ser avsnitten 43-47 (Moduler, 23min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".  
+
+Uppgiften nedan har ni i läxa till vecka 46!  
+
+[Uppgift: Moduler i Drupal](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-moduler_i_drupal)  
+
+Vi ser avsnitten 48-51 (Block och Menyer, 13min) och 52-55 (Teman, 15min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".   
+
+Skapa ett block och en meny, lägg dessa i var sitt område på sidan.  
+
+Vi ser avsnitten 56-57 (Rättigheter, 8min), 58-60 (Rapporter och Uppdatering, 10min) och 61-62 (Drupals Community, 6min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".  
+-->
+
+###### Drupal 8 Beginner  
+| Avsnitt | Ämne                           | Tid    |
+| :---    | :----:                         | ---:   |
+| 1-3     | Introduktion                   | 15 min |
+| 8-15    | Systemöverblick                | 17 min |
+| 16-18,<br/>22-26 | Content Type          | 26 min |
+| 27-29   | Taxonomy                       | 10 min |
+| 30-31   | Content                        | 10 min |
+| 32-33   | Revisions <br />och Devel      | 9 min  |
+| 34-36   | Displays                       | 15 min |
+| 37-40   | Views                          | 20 min |
+| 41-42   | Image Styles och Photo Gallery | 8 min  |
+| 43-47   | Moduler                        | 23 min |
+| 48-51   | Block och Menyer               | 13 min |
+| 52-55   | Teman                          | 15 min |
+| 56-57   | Rättigheter                    | 8 min  |
+| 58-60   | Rapporter och uppdatering      | 10 min |
+| 61-62   | Drupals Community              | 6 min  |
+
+Prov: Grundkurs i CMS - Drupal 8 Beginner  
 
 ## Vecka 49   
 
