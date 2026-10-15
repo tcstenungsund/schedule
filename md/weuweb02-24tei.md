@@ -135,7 +135,6 @@ Vi ser avsnitten 16-18, 22-26 (Content Type, 26min) i serien "[Drupal 8 Beginner
 
 Uppgift: Bygg en egen Content Type för saker i "Lost & Found"! Lägg till de Fields du tror behövs.  
 
-Bensträckare...
 <!-- 
 
   Date found — forced to realise Date isn't a text field
@@ -148,7 +147,7 @@ Bensträckare...
 
 ----  
 
-Vi ser avsnitten 27-29 (Taxonomy, 10min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".    
+Vi ser avsnitten 27-28 (Taxonomy, 10min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".    
 
 Uppgift: Lägg till minst ett fält som inte fanns i videon (t.ex. datum, bild eller en referens till er taxonomi). Fyll på med 5–10 noder. Diskutera i par: när är taxonomi rätt val och när räcker fritextfält?
 
@@ -161,6 +160,7 @@ Blir det tid över: börja titta på strukturen i era egna installationer via St
 
 <!--
 
+29?! 
 
 -->
 
