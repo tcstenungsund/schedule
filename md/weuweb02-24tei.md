@@ -133,10 +133,11 @@ Vi ser avsnitten 1-3 (Introduktion, 15min) och 8-15 (Systemöverblick, 17min) i 
 
 Vi ser avsnitten 16-18, 22-26 (Content Type, 26min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)". 
 
+Uppgift: Bygg en egen Content Type för saker i "Lost & Found"!  
+
 Bensträckare...
 <!-- 
 
-Uppgift: Bygg en egen Content Type för saker i "Lost & Found"!  
   Date found — forced to realise Date isn't a text field
   Location — is that plain text, a select list of buildings, or a Taxonomy? Three defensible answers, all with trade-offs
   Image — Media reference, and the question of "what if there's no photo?" (optional field)
