@@ -131,9 +131,10 @@ Vi ser avsnitten 1-3 (Introduktion, 15min) och 8-15 (Systemöverblick, 17min) i 
 
 ### Grundkurs i CMS  
 
-<!-- 
-
 Vi ser avsnitten 16-18, 22-26 (Content Type, 26min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)". 
+
+Bensträckare...
+<!-- 
 
 Uppgift: Bygg en egen Content Type för saker i "Lost & Found"!  
   Date found — forced to realise Date isn't a text field
@@ -142,6 +143,7 @@ Uppgift: Bygg en egen Content Type för saker i "Lost & Found"!
   Status — boolean ("claimed") vs list ("found/claimed/disposed")? Sneaky little data-modelling fork
   Description — long text with summary vs plain
   Category — Taxonomy vocabulary: keys, electronics, clothing — and who decides the allowed values?
+-->
 
 ----  
 
@@ -151,7 +153,6 @@ Uppgift: Lägg till minst ett fält som inte fanns i videon (t.ex. datum, bild e
 
 Blir det tid över: börja titta på strukturen i era egna installationer via Structure → Content types → Manage fields.
 
--->
 
 ## Vecka 43   
 
