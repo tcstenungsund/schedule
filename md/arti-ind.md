@@ -139,12 +139,23 @@ Vi fortsätter att arbeta med att hitta respektive personas röst och uttryck.
 ## Vecka 42   
 
 ###### Nytt om AI  
-* 
+* [AI Red flags](https://www.youtube.com/shorts/xUrQVAFmdqs)
+* "[AI can be dangerous without being evil — why AI's increasingly helpful agents could be a problem](https://www.techradar.com/ai-platforms-assistants/ai-can-be-dangerous-without-being-evil-why-ais-increasingly-helpful-agents-could-be-a-problem)"
+* Study finds "[AI can act exactly like a human, but we still don't think it's conscious](https://www.sciencedaily.com/releases/2026/10/261012185017.htm)"
+
+Diskussion om medvetande, demokrati och vår relation till maskiner och varandra. KFN har byggt en skill för att lära AI att tala med honom, istället för tvärt om.  
+
+Vi ser första halvan av filmen ["Her" (2013)](https://www.imdb.com/title/tt1798709).  
+
+Svar och feedback på Mentimeterövningen.  
 
 ## Vecka 43   
 
 ###### Nytt om AI  
 * 
+
+
+Vi ser andra halvan av filmen ["Her" (2013)](https://www.imdb.com/title/tt1798709).  
 
 ## Vecka 44   
 
