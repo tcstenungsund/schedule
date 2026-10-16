@@ -136,7 +136,6 @@ Vi ser avsnitten 16-18, 22-26 (Content Type, 26min) i serien "[Drupal 8 Beginner
 Uppgift: Bygg en egen Content Type för saker i "Lost & Found"! Lägg till de Fields du tror behövs.  
 
 <!-- 
-
   Date found — forced to realise Date isn't a text field
   Location — is that plain text, a select list of buildings, or a Taxonomy? Three defensible answers, all with trade-offs
   Image — Media reference, and the question of "what if there's no photo?" (optional field)
@@ -153,16 +152,9 @@ Uppgift: Lägg till minst ett fält som inte fanns i videon (t.ex. datum, bild e
 
 Blir det tid över: börja titta på strukturen i era egna installationer via Structure → Content types → Manage fields.
 
-
 ## Vecka 43   
 
-### Grundkurs i CMS  
-
-<!--
-
-29?! 
-
--->
+**Går bort**
 
 ## Vecka 44   
 
@@ -174,6 +166,7 @@ Blir det tid över: börja titta på strukturen i era egna installationer via St
 
 <!--
 
+29?! 
 
 -->
 
