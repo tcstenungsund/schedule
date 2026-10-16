@@ -145,7 +145,7 @@ Vi fortsätter att arbeta med att hitta respektive personas röst och uttryck.
 
 Diskussion om medvetande, demokrati och vår relation till maskiner och varandra. KFN har byggt en skill för att lära AI att tala med honom, istället för tvärt om.  
 
-Vi ser första halvan av filmen ["Her" (2013)](https://www.imdb.com/title/tt1798709).  
+Vi ser första halvan av filmen ["Her"](https://www.imdb.com/title/tt1798709).  
 
 Svar och feedback på Mentimeterövningen.  
 
@@ -155,7 +155,7 @@ Svar och feedback på Mentimeterövningen.
 * 
 
 
-Vi ser andra halvan av filmen ["Her" (2013)](https://www.imdb.com/title/tt1798709).  
+Vi ser andra halvan av filmen ["Her"](https://www.imdb.com/title/tt1798709).  
 
 ## Vecka 44   
 
