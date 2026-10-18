@@ -139,8 +139,26 @@ Datorerna ska ha den tionde användbara adressen i respektive nät, routern (def
 
 ## Vecka 42   
 
+SYV genomför övning för att hitta det ni är intresserade av.
+
+Vi går igenom förra veckans subnetting övning.
+
+Gör en ny variant.
+
+Pratar även om supernetting, när man gör nät större.
+
+Visa exempel på Nösnässkolans nät.
+
+Genomgång av Modul 12, 13 och 14.
+
+Arbeta med de interaktiva övningarna.
+
 
 ## Vecka 43   
+
+Modulprov på 12,13 och 14.
+
+Vi ska även vika en del av tiden till UF Pitch.
 
 
 ## Vecka 44   
