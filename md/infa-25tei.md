@@ -140,6 +140,10 @@ Fler övningar finns här: [ITLäraren - Linux terminalen](https://itlararen.se/
 
 ## Vecka 43   
 
+Ni ska ha gjort Modul 2 provet till denna lektion!
+
+Genomgång av Modul 3.
+
 ## Vecka 44   
 
 **HÖSTLOV**   
