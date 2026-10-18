@@ -120,6 +120,23 @@ Börja med att installera operativsystemet via Raspberry Pi Imager:
 
 ## Vecka 42   
 
+Laboration - Linux systemverktyg och konsoll - Raspberry Pi 4.
+
+Vi fortsätter att arbeta med Linux på Raspberry Pi.
+
+Testa gärna att installera "kiosk" läge på Pi.
+
+Arbeta färdigt med Modul 2 och testa att hantera filer i Linux.
+
+Gör Modul 2 provet på valfri plats till nästa gång.
+
+Fler övningar finns här: [ITLäraren - Linux terminalen](https://itlararen.se/labbar.html)  
+
+
+
+<img width="540" height="577" alt="image" src="https://github.com/user-attachments/assets/3591ebc2-f79b-4871-9690-2abf8d7eadcd" />
+
+
 
 ## Vecka 43   
 
