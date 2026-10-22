@@ -1,10 +1,9 @@
-# Uppgift: *Her* (2013) – andra halvan
+# Uppgift: *Her* (2013)  
 
 **Kurs:** Artificiell intelligens 1 (ARTART01)
-**Typ:** Individuell uppgift, formativ (ger återkoppling, inget betyg)
+**Typ:** Individuell uppgift  
 **Arbetstid:** Lektionen efter filmen, resten hemma
 **Inlämning:** I skolplattformen senast **fredag 6 november 2026**
-**Omfattning:** Del 1 + Del 2 + självskattning
 
 ---
 
