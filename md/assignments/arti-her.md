@@ -11,7 +11,7 @@
 
 Förra veckan svarade klassen på frågor i Mentimeter. Några resultat:
 
-<img width="849" height="194" alt="image" src="https://github.com/user-attachments/assets/d16118b6-0f3d-479d-95ec-9765d84eea7a" />
+<img width="849" height="194" alt="image" src="https://github.com/user-attachments/assets/d16118b6-0f3d-479d-95ec-9765d84eea7a" />  
 <!--
 | Fråga | Klassens svar |
 |---|---|
@@ -19,7 +19,8 @@ Förra veckan svarade klassen på frågor i Mentimeter. Några resultat:
 | Är Samanthas känslor för Theodore äkta? (1–10) | **3,9** i snitt |
 | Skulle du kunna tänka dig en vänskap med en AI? | **11 av 14** svarade nej |
 | Vad skulle Samantha behöva för att vara medveten? | De flesta svarade: en kropp, en hjärna eller ett hjärta |
--->
+-->  
+
 Ni gav alltså Theodore och Samantha olika betyg, trots att ni bara har sett *vad de säger och gör*. Den här uppgiften handlar om att undersöka varför – och om filmens andra halva ändrar något.
 
 ---
@@ -84,6 +85,9 @@ Skriv **400–800 ord**.
 
 Markera det som stämmer bäst (1 = stämmer inte alls, 4 = stämmer helt).
 
+<img width="672" height="234" alt="image" src="https://github.com/user-attachments/assets/118b2696-4c59-4e60-bf78-d66900a75e30" />  
+
+<!-- 
 | Påstående | 1 | 2 | 3 | 4 |
 |---|---|---|---|---|
 | Jag har motiverat varför jag ändrade mig, eller inte ändrade mig. | | | | |
@@ -91,6 +95,7 @@ Markera det som stämmer bäst (1 = stämmer inte alls, 4 = stämmer helt).
 | Jag har jämfört människa och AI, inte bara beskrivit filmen. | | | | |
 | Jag har tagit upp både möjligheter och risker. | | | | |
 | Jag har övervägt ett argument som går emot min egen åsikt. | | | | |
+-->  
 
 **Det här är jag mest nöjd med:** …
 **Det här skulle jag göra bättre nästa gång:** …
