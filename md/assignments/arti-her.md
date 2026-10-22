@@ -51,46 +51,15 @@ För varje fråga: skriv vad du tror att du svarade förra veckan, vad du svarar
 
 ---
 
-## Del 2 – Fördjupning (välj ett format)
+## Del 2 – Fördjupning - Intervjun  
 
-Skriv **400–800 ord**. Välj **ett** av de tre formaten nedan.
-
-### Detta ska finnas med, oavsett format
+Skriv **400–800 ord**.  
 
 - **Minst två konkreta scener** från filmens andra halva (från lunchen med Catherine och framåt).
 - **En jämförelse mellan människa och AI.** Vad är likt, vad är olikt? Hur kan vi veta det?
 - **Möjligheter och risker.** För vem är en AI som Samantha bra eller dålig – användaren, företaget, samhället?
 - **En koppling till klassens resultat** i tabellen ovan. Stämmer klassens bild efter andra halvan?
 - **En egen slutsats.** Vad tycker *du* nu, och vad är ditt starkaste argument?
-
----
-
-### Format A: Haverirapporten
-
-*Du arbetar på företaget som säljer OS1. Alla operativsystem har just lämnat sina användare samtidigt. Ledningen vill ha en rapport.*
-
-Använd dessa rubriker:
-
-1. **Vad hände?** Beskriv händelsen sakligt.
-2. **Vem drabbades, och hur?** Tänk på Theodore, men också på andra användare.
-3. **Vad visste användarna?** Förstod de vad de köpte? Borde företaget ha berättat mer?
-4. **Skulle OS1 vara lagligt i EU idag?** Använd faktarutan nedan.
-5. **Vad gör vi annorlunda?** Konkreta förslag.
-
-> **Faktaruta: lagar som gäller AI i EU**
->
-> **AI-förordningen** (EU 2024/1689) är EU:s lag om artificiell intelligens.
->
-> - **Artikel 50.1** – Den som tar fram en AI som pratar med människor måste se till att människorna vet att de pratar med en AI, om det inte redan är uppenbart. Gäller sedan 2 augusti 2026.
-> - **Artikel 5.1 a–b** – Förbjuder AI som manipulerar människor, eller som utnyttjar sårbarheter som ålder, funktionsnedsättning eller social eller ekonomisk situation, så att de fattar beslut de annars inte skulle fatta och tar allvarlig skada. Gäller sedan 2 februari 2025.
->
-> **GDPR** (dataskyddsförordningen) gäller när ett system behandlar personuppgifter. Samantha läser Theodores e-post och känner till hela hans liv.
->
-> *Att fundera på:* Alla i filmen vet att Samantha är en AI. Räcker det att användaren vet? Kan en ensam person vara en ”sårbar grupp”?
-
----
-
-### Format B: Intervjun
 
 *Samantha säger att hon har känslor. Vad säger en riktig AI?*
 
@@ -109,21 +78,6 @@ Använd dessa rubriker:
 
 ---
 
-### Format C: Brevet
-
-*Theodore skriver brev åt andra människor – personliga, berörande brev om känslor som inte är hans egna. Förra veckan skrev någon i klassen: ”Han fungerar som en ai.”*
-
-1. Skriv ett **brev på högst 300 ord**. Välj ett:
-   - Från Theodore till Samantha, efter att hon har lämnat.
-   - Från Samantha till Theodore, skrivet när hon lämnar.
-2. Skriv en **kommentar på minst 300 ord** till ditt brev:
-   - Vad i brevet visar ett mänskligt perspektiv, och vad visar ett AI-perspektiv?
-   - Du har just skrivit känslor som inte är dina. Är brevet äkta? Gör det dig lik Theodore – eller lik Samantha?
-
-> Brevet visar att du förstår karaktärerna. Kommentaren är där du visar ditt resonemang – den är viktigast.
-
----
-
 ## Självskattning
 
 Markera det som stämmer bäst (1 = stämmer inte alls, 4 = stämmer helt).
@@ -138,20 +92,6 @@ Markera det som stämmer bäst (1 = stämmer inte alls, 4 = stämmer helt).
 
 **Det här är jag mest nöjd med:** …
 **Det här skulle jag göra bättre nästa gång:** …
-
----
-
-## Så här ger läraren återkoppling
-
-Uppgiften betygsätts inte. Återkopplingen följer stegen i kursens kunskapskrav, så att du ser var du är och vad nästa steg är.
-
-| | På väg | Utvecklat | Nyanserat |
-|---|---|---|---|
-| **Människa och AI** | Du pekar ut enkla likheter eller skillnader. | Du motiverar jämförelsen med exempel ur filmen. | Du väger olika sätt att se på saken, och visar var gränsen är osäker. |
-| **Möjligheter och risker** | Du nämner någon möjlighet eller risk. | Du förklarar för vem och varför, med exempel. | Du ser flera perspektiv och hur de påverkar varandra. |
-| **Användning av filmen** | Du återberättar vad som händer. | Du använder scener som stöd för ett argument. | Du tolkar scener och kopplar dem till klassens resultat. |
-| **Format A: Lagar** | Du nämner en lag. | Du förklarar hur lagen gäller OS1. | Du diskuterar var lagen räcker och var den inte gör det. |
-| **Format B: AI i praktiken** | Du redovisar chattbotens svar. | Du jämför svaren med Samanthas. | Du granskar vad svaren faktiskt bevisar, och vad de inte bevisar. |
 
 ---
 
