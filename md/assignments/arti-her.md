@@ -34,15 +34,18 @@ Svara kort. En eller två meningar räcker.
 För varje fråga: skriv vad du tror att du svarade förra veckan, vad du svarar nu och **varför**.  
 
 1. **Är Theodores känslor för Samantha äkta?** (1–10)  
-   Förra veckan (som du minns det): ___  Nu: ___  
+   Förra veckan (som du minns det): ___  
+   Nu: ___  
    Jag ändrade mig / ändrade mig inte eftersom …  
 
-2. **Är Samanthas känslor för Theodore äkta?** (1–10)  
-   Förra veckan (som du minns det): ___  Nu: ___  
+3. **Är Samanthas känslor för Theodore äkta?** (1–10)  
+   Förra veckan (som du minns det): ___  
+   Nu: ___  
    Jag ändrade mig / ändrade mig inte eftersom …  
 
-3. **Skulle du kunna tänka dig en vänskap med en AI?** (Ja / Kanske / Nej)  
-   Förra veckan (som du minns det): ___  Nu: ___  
+5. **Skulle du kunna tänka dig en vänskap med en AI?** (Ja / Kanske / Nej)  
+   Förra veckan (som du minns det): ___  
+   Nu: ___  
    Jag ändrade mig / ändrade mig inte eftersom …  
 
 ### B. Vad hände i filmen?  
