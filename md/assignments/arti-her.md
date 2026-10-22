@@ -11,13 +11,15 @@
 
 Förra veckan svarade klassen på frågor i Mentimeter. Några resultat:
 
+<img width="849" height="194" alt="image" src="https://github.com/user-attachments/assets/d16118b6-0f3d-479d-95ec-9765d84eea7a" />
+<!--
 | Fråga | Klassens svar |
 |---|---|
 | Är Theodores känslor för Samantha äkta? (1–10) | **6,8** i snitt |
 | Är Samanthas känslor för Theodore äkta? (1–10) | **3,9** i snitt |
 | Skulle du kunna tänka dig en vänskap med en AI? | **11 av 14** svarade nej |
 | Vad skulle Samantha behöva för att vara medveten? | De flesta svarade: en kropp, en hjärna eller ett hjärta |
-
+-->
 Ni gav alltså Theodore och Samantha olika betyg, trots att ni bara har sett *vad de säger och gör*. Den här uppgiften handlar om att undersöka varför – och om filmens andra halva ändrar något.
 
 ---
