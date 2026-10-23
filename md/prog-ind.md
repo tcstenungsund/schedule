@@ -131,7 +131,7 @@ Prov på Kapitel 3
 
 Måndag: [Project Euler](https://projecteuler.net/)
 
-Fredag:
+Fredag: Vi fortsätter med Project Euler
 
 ## Vecka 44   
 
