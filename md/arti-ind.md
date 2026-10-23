@@ -157,6 +157,9 @@ Svar och feedback på Mentimeterövningen.
 
 Vi ser andra halvan av filmen "[Her](https://www.imdb.com/title/tt1798709)".  
 
+
+[Uppgift: Her](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/arti-her)  
+
 ## Vecka 44   
 
 **HÖSTLOV**   
