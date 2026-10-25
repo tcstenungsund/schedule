@@ -151,8 +151,12 @@ Svar och feedback på Mentimeterövningen.
 
 ## Vecka 43   
 
+<img width="374" height="534" alt="her" src="https://github.com/user-attachments/assets/72d6b0be-ef46-4f60-bdb8-84f253546b3b" />
+
 ###### Nytt om AI  
-* 
+
+* [Cows of the future](https://vm.tiktok.com/ZN8AAcdpU/)
+* [Så kan AI gå i maskopi med din TV och ditt kylskåp](https://www.sverigesradio.se/avsnitt/sa-kan-ai-ga-i-maskopi-med-din-tv-och-ditt-kylskap)
 
 
 Vi ser andra halvan av filmen "[Her](https://www.imdb.com/title/tt1798709)".  
@@ -160,12 +164,15 @@ Vi ser andra halvan av filmen "[Her](https://www.imdb.com/title/tt1798709)".
 
 [Uppgift: Her](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/arti-her)  
 
+Lämna in uppgiften innan nästa lektion fredagen v 45.
+
 ## Vecka 44   
 
 **HÖSTLOV**   
 
 ## Vecka 45   
 
+Glöm inte att uppgiften knuten till filmen Her ska vara inlämnad innan lektionen denna vecka.
 
 ## Vecka 46   
 
