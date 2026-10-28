@@ -150,6 +150,8 @@ Genomgång av Modul 3.
 
 ## Vecka 45   
 
+SLUTPROV - 25Tei - CCST 2/4 - Operating Systems Support 26/27
+
 
 ## Vecka 46   
 
