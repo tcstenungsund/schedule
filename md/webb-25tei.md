@@ -148,7 +148,7 @@ Nu bygger ni något eget, lokalt på datorn, från ingenting. Det här är en we
 kommer arbeta vidare med resten av höstterminen — först strukturen, senare
 utseendet.  
 
-Inlämning v43.  
+Inlämning v44.  
 
 ## Vecka 41   
 
