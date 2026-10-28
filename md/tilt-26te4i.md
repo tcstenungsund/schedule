@@ -94,8 +94,12 @@ Guider och mallar för CV och personligt brev:
 
 ## Vecka 42   
 
+Skriv färdigt APL ansökan. Arbeta med era CCST och Ai kurser på Netacad.
+
 
 ## Vecka 43   
+
+Lämna in APL ansökan till Hogia.
 
 
 ## Vecka 44   
