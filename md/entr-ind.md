@@ -65,11 +65,70 @@ Resterande tid används till att arbeta vidare med UF och förbereda inför onsd
 
 ## Vecka 41   
 
+Ni som var med på affärsidébollningen behöver sortera intrycken därifrån.
+ 
+Vi behöver bestämma:
+ 
+Företagsnamn
+
+Målgrupp
+
+Affärsidé
+
+Kanaler att nå målgruppen
+
+Rådgivare
+
+Uppdatera företagets UF sida
+
+Sammarbetsavtal
+
 
 ## Vecka 42   
 
+Vi ser en pitch från Draknästet 2025 och går igenom vad en pitch ska innehålla.
+ 
+Som vanligt börjar ni sedan med ett möte för att fördela arbetsuppgifter.
+
+När lektionen är slut samlas ni igen och går igenom vad som blivit gjort.
+ 
+Uppdatera er loggbok och glöm inte att uppskatta hur mycket tid ni lagt på respektive uppgift.
+
 
 ## Vecka 43   
+
+Under era respektive UF kanaler ska ni börja lämna in det ni material ni tar fram:
+ 
+Marknadsundersökning
+
+Samarbetsavtal
+
+Logga - högupplöst, gärna vektorformat.
+
+Affärsidé
+
+Konstituerande styrelseprotokoll 
+
+Säljmaterial - bilder på produkt/tjänst
+
+Pitch manus
+ 
+På er företags sida på ungföretagsamhet.se ska ni uppdatera följande:
+ 
+Företagsnamn
+
+Affärsidé
+
+Företagsmedlemmar och roller
+
+Rådgivare
+
+UF-gallerian
+ 
+ 
+Jag har lagt in ett dokument om Pitch och ett dokument om UFmomenten under ALLMÄNT/DELADE/KURSMATERIEL här i vårt TEAMSrum.
+ 
+Glöm inte att varje lektion börjar och slutar med att VD leder ett morgonmöte och uppdaterar loggbok.
 
 
 ## Vecka 44   
@@ -77,6 +136,8 @@ Resterande tid används till att arbeta vidare med UF och förbereda inför onsd
 **HÖSTLOV**   
 
 ## Vecka 45   
+
+PITCH av era affärsidéer!
 
 
 ## Vecka 46   
