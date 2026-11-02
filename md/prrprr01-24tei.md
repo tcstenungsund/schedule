@@ -146,33 +146,25 @@ Python Essentials 1: 3.5, 3.6 och 3.7
 
 ### Tisdag
 
-**Newton-Raphsons metod**
+
 
 ### Fredag
-**Introduktion till funktioner**
 
-Python Essentials 1: 4.1 och 4.2
 
 ## Vecka 42   
 
 ### Tisdag
 **INGEN LEKTION** (Utvecklingsamtal)
 ### Fredag
-**Att använda funktioner**
 
-Python Essentials 1: 4.3, 4.4
 
 ## Vecka 43   
 
 ### Tisdag
-**Rekursion och funktioner med mer än ett argument**
 
-Python Essentials 1: 4.5
 
 ### Fredag
-**Tuples och dictionaries; när listor inte är optimala**
 
-Python Essentials 1: 4.6
 
 
 ## Vecka 44   
@@ -182,54 +174,66 @@ Python Essentials 1: 4.6
 ## Vecka 45   
 
 ### Tisdag
-**Exceptions**
 
-Python Essentials 1: 4.7
 
 
 ### Fredag
-**Introduktion till Final Project i Python Essentials 1**
 
-Python Essentials 1: **Module Test 4**
-
-Python Essentials 1: **Final Project**
 
 
 ## Vecka 46   
 ### Tisdag
-**Arbeta med Final Project i Python Essentials 1**
+**Introduktion till funktioner**
+
+Python Essentials 1: 4.1 och 4.2
+
+**Att använda funktioner**
+
+Python Essentials 1: 4.3, 4.4
 
 ### Fredag
-**Redovisa Final Project i Python Essentials 1**
 
 
 ## Vecka 47   
 ### Tisdag
-**Repetera Python Essentials 1**
+**Rekursion och funktioner med mer än ett argument**
+
+Python Essentials 1: 4.5
+**Tuples och dictionaries; när listor inte är optimala**
+
+Python Essentials 1: 4.6
+
+**Exceptions**
+
+Python Essentials 1: 4.7
 
 ### Fredag
-**Repetera Python Essentials 1**
+**Introduktion till Final Project i Python Essentials 1**
 
 
 ## Vecka 48   
 ### Tisdag
-**Final Test Python Essentials 1**
+Python Essentials 1: **Module Test 4**
+
+Python Essentials 1: **Final Project**
 
 ### Fredag
-
+**Arbeta med Final Project i Python Essentials 1**
 
 ## Vecka 49   
 ### Tisdag
-
+**Arbeta med Final Project i Python Essentials 1**
 
 ### Fredag
 
+**Redovisa Final Project i Python Essentials 1**
 
 ## Vecka 50   
 ### Tisdag
+**Final Test Python Essentials 1**
 
 ### Fredag
-
+**Praktiskt prov** *I exam som inför utvecklingsamtalet*
 
 ## Vecka 51  
 
@@ -240,7 +244,8 @@ Python Essentials 1: **Final Project**
 **Nyår och sånt**   
 
 ## Vecka 1
-
+### Fredag
+**Newton-Raphsons metod**
 
 ## Vecka 2   
 
