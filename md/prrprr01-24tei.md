@@ -145,11 +145,11 @@ Python Essentials 1: 3.5, 3.6 och 3.7
 ## Vecka 41   
 
 ### Tisdag
-
+Project Euler
 
 
 ### Fredag
-
+Project Euler
 
 ## Vecka 42   
 
@@ -157,15 +157,18 @@ Python Essentials 1: 3.5, 3.6 och 3.7
 **INGEN LEKTION** (Utvecklingsamtal)
 ### Fredag
 
+Project Euler
 
 ## Vecka 43   
 
 ### Tisdag
 
+Project Euler
 
 ### Fredag
 
 
+Project Euler
 
 ## Vecka 44   
 
@@ -176,36 +179,39 @@ Python Essentials 1: 3.5, 3.6 och 3.7
 ### Tisdag
 
 
+Project Euler
 
 ### Fredag
+
+
+Project Euler
 
 ## Vecka 45
 
 ### Tisdag
 
-
-
+**Redovisning Project Euler**
 ### Fredag
-
-
-## Vecka 47   
-### Tisdag
 **Introduktion till funktioner**
 
 Python Essentials 1: 4.1 och 4.2
+
+## Vecka 47   
+### Tisdag
+
 
 **Att använda funktioner**
 
 Python Essentials 1: 4.3, 4.4
 
 ### Fredag
-
-
-## Vecka 48   
-### Tisdag
 **Rekursion och funktioner med mer än ett argument**
 
 Python Essentials 1: 4.5
+
+## Vecka 48   
+### Tisdag
+
 
 **Tuples och dictionaries; när listor inte är optimala**
 
