@@ -137,8 +137,9 @@ Fredag: Vi fortsätter med Project Euler
 
 **HÖSTLOV**   
 
-## Vecka 45   
+## Vecka 45
 
+Måndag: Vi fortsätter med Project Euler
 
 ## Vecka 46   
 
