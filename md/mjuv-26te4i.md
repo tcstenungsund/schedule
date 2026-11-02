@@ -9,7 +9,7 @@ Göra en introduktionskurs i antingen Python eller Javascript ifrån Cisco. Du g
 
 ### JavaScript och Frameworkes v. 45-46
 
-### Project 2.1: Kalender app frontend v.47-49
+### Project 2.1: Recept app frontend v.47-49
 
 ### Introduktion till C# v. 50, 51 
 
