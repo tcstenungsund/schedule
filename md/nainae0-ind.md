@@ -50,6 +50,8 @@ Prov på modul 1 och 2
 
 ## Vecka 43   
 
+Läxa som ligger på Teams då vi inte har lektion denna veckan.
+
 
 ## Vecka 44   
 
@@ -57,6 +59,19 @@ Prov på modul 1 och 2
 
 ## Vecka 45   
 
+<!--
+Hoppas ni gjorde läxan till innan lovet!
+
+Vi ska börja öva inför Säkerhets-SM 2027
+[Säkerhets-SM](https://ctf.sakerhetssm.se/)
+
+Vi pratar om föjande:
+* Vad är en CFT?
+* Vad är Assembly?
+* Vad är pwd?
+* Vad är reverse engineering?
+
+-->
 
 ## Vecka 46   
 
