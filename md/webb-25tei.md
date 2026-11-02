@@ -194,7 +194,21 @@ Prov: HTML
 
 ## Vecka 45   
 
-Genomgång av HTML-provet  
+Genomgång av HTML-provet från vecka 43  
+
+###### CSS styling basics - Selectors  
+* MDN [Basic CSS selectors](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Basic_selectors)  
+* MDN [Attribute selectors](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Attribute_selectors) (Överkurs)  
+* MDN [Pseudo-classes and pseudo-elements](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Pseudo_classes_and_elements)  
+* MDN [Combinators](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Combinators)  
+
+> Har du svårt att hänga med? Testa att se relevanta avsnitt ur kursen "[HTML & CSS for Absolute Beginners](https://youtube.com/playlist?list=PL4-IK0AVhVjOJs_UjdQeyEZ_cmEV3uJvx&si=Y7XMysDkNh7IrPLi)".  
+
+> Känns det lätt och du vill ta det hela ett steg längre? Då rekommenderar jag "[CSS Selectors - Beyond the Very Basics](https://youtu.be/a69OMEJXaJo)".  
+
+----  
+
+Test your skills: [Selectors](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Test_your_skills/Selectors)  
 
 ## Vecka 46   
 
