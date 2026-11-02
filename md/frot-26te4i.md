@@ -200,10 +200,6 @@ Presentation av uppgift UX-teorier
 
 ### Måndag  
 
-##### Pre-processors och task runners  
-
-Uppgift:  
-
 ### Tisdag  
 
 ### Fredag   
@@ -216,7 +212,23 @@ Uppgift:
 
 ### Måndag  
 
-##### Yrkesroller inom Design  
+[HTML Tags Memory Test](https://codepen.io/plfstr/full/zYqQeRw)  
+
+##### Pre-processors och task runners  
+
+Hur kör man JavaScript serverside? Med hjälp av Node.js. Tillsammans med Node.js kommer också npm - Node Package Manager, och npm scripts.  
+
+Saker man kan göra med en taskrunner  
+* Livereload  
+* CSS minification  
+* Autoprefixer  
+* Compile Sass  
+* Lint the compiled css  
+
+"[Introduction to NPM scripts](https://www.geeksforgeeks.org/introduction-to-npm-scripts/)" och "[Using Npm Scripts as a Build Tool ](https://deliciousbrains.com/npm-build-script/)".  
+
+Uppgift: Min personliga PWA - del II  
+Arbeta vidare med er personliga PWA. Installera senaste versionen av Node.js, se till att npm och npm scripts är installerade. Lägg till en linter och se till att nom scripts kör igenom er kod.  
 
 ### Tisdag  
 
