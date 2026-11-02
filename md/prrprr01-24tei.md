@@ -179,9 +179,16 @@ Python Essentials 1: 3.5, 3.6 och 3.7
 
 ### Fredag
 
+## Vecka 45
+
+### Tisdag
 
 
-## Vecka 46   
+
+### Fredag
+
+
+## Vecka 47   
 ### Tisdag
 **Introduktion till funktioner**
 
@@ -194,7 +201,7 @@ Python Essentials 1: 4.3, 4.4
 ### Fredag
 
 
-## Vecka 47   
+## Vecka 48   
 ### Tisdag
 **Rekursion och funktioner med mer än ett argument**
 
@@ -212,7 +219,7 @@ Python Essentials 1: 4.7
 **Introduktion till Final Project i Python Essentials 1**
 
 
-## Vecka 48   
+## Vecka 49   
 ### Tisdag
 Python Essentials 1: **Module Test 4**
 
@@ -221,7 +228,7 @@ Python Essentials 1: **Final Project**
 ### Fredag
 **Arbeta med Final Project i Python Essentials 1**
 
-## Vecka 49   
+## Vecka 50   
 ### Tisdag
 **Arbeta med Final Project i Python Essentials 1**
 
@@ -229,14 +236,14 @@ Python Essentials 1: **Final Project**
 
 **Redovisa Final Project i Python Essentials 1**
 
-## Vecka 50   
+## Vecka 51   
 ### Tisdag
 **Final Test Python Essentials 1**
 
 ### Fredag
 **Praktiskt prov** *I exam som inför utvecklingsamtalet*
 
-## Vecka 51  
+## Vecka 52  
 
 **Jul och sånt**  
 
