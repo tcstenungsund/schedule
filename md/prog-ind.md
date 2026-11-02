@@ -141,22 +141,50 @@ Fredag: Vi fortsätter med Project Euler
 
 Måndag: Vi fortsätter med Project Euler
 
+Fredag:
+
 ## Vecka 46   
 
+Måndag:
+
+Fredag:
 
 ## Vecka 47   
 
+Måndag:
+
+Fredag:
 
 ## Vecka 48   
+
+Måndag: Studiedag
+
+Fredag:
 
 
 ## Vecka 49   
 
+Måndag:
+
+Fredag:
+
 
 ## Vecka 50   
 
+Måndag:
+
+Fredag:
+
 
 ## Vecka 51   
+
+Måndag:
+
+Fredag:
+
+## Vecka 52
+
+Måndag:
 
 
 ## Vecka 53   
