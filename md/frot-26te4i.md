@@ -228,7 +228,7 @@ Saker man kan göra med en taskrunner
 "[Introduction to NPM scripts](https://www.geeksforgeeks.org/introduction-to-npm-scripts/)" och "[Using Npm Scripts as a Build Tool ](https://deliciousbrains.com/npm-build-script/)".  
 
 Uppgift: Min personliga PWA - del II  
-Arbeta vidare med er personliga PWA. Installera senaste versionen av Node.js, se till att npm och npm scripts är installerade. Lägg till en linter och se till att nom scripts kör igenom er kod.  
+Arbeta vidare med er personliga PWA. Installera senaste versionen av Node.js, se till att npm och npm scripts är installerade. Lägg till en linter och se till att npm scripts kör igenom er kod.  
 
 ### Tisdag  
 
