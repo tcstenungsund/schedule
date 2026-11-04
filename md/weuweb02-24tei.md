@@ -164,11 +164,17 @@ Blir det tid över: börja titta på strukturen i era egna installationer via St
 
 ### Grundkurs i CMS  
 
-<!--
+Vi ser avsnitten 29 (URL-patterns, 7min), 30-31 (Content, 10min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".  
 
-29?! 
+Vi ser avsnitten 32 och 33 (Revisions och Devel, 9min) och 34-36 (Displays, 15min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".  
 
--->
+Uppgift: Ställ in Manage display för vår content type "Lost & Found". Jämför Teaser och Full content. Ställ in Teaser så att den visar bild plus ingress, men inte hela brödtexten.  
+
+---  
+
+Vi ser avsnitten 37-40 (Views, 20min) och 41-42 (Image Styles och Photo Gallery, 8min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".  
+
+Uppgift: Bygg en view som inte finns med i videon. Till exempel de senaste fem publicerade noderna i Lost & Found. Vad sorterar man på? Datum? Grupperat utifrån konferens? 
 
 ## Vecka 46   
 
@@ -191,18 +197,6 @@ Blir det tid över: börja titta på strukturen i era egna installationer via St
 ## Vecka 48   
 
 <!--
-
-Vi ser avsnitten 30-31 (Content, 10min), och 32 och 33 (Revisions och Devel, 9min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".    
-
-Vi ser avsnitten 34-36 (Displays, 15min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".  
-
-Uppgift: Ställ in Manage display för vår content type "Lost & Found". Jämför Teaser och Full content. Ställ in Teaser så att den visar bild plus ingress, men inte hela brödtexten.  
-
-
-
-Vi ser avsnitten 37-40 (Views, 20min) och 41-42 (Image Styles och Photo Gallery, 8min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".  
-
-Uppgift: Bygg en view som inte finns med i videon. Till exempel de senaste fem publicerade noderna i Lost & Found. Vad sorterar man på? Datum? Grupperat utifrån konferens? 
 
 
 
