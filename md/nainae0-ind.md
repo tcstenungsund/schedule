@@ -59,7 +59,7 @@ Läxa som ligger på Teams då vi inte har lektion denna veckan.
 
 ## Vecka 45   
 
-<!--
+
 Hoppas ni gjorde läxan till innan lovet!
 
 Vi ska börja öva inför Säkerhets-SM 2027
@@ -71,7 +71,7 @@ Vi pratar om föjande:
 * Vad är pwd?
 * Vad är reverse engineering?
 
--->
+
 
 ## Vecka 46   
 
