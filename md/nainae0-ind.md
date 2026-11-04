@@ -65,13 +65,6 @@ Hoppas ni gjorde läxan till innan lovet!
 Vi ska börja öva inför Säkerhets-SM 2027
 [Säkerhets-SM](https://ctf.sakerhetssm.se/)
 
-Vi pratar om föjande:
-* Vad är en CFT?
-* Vad är Assembly?
-* Vad är pwd?
-* Vad är reverse engineering?
-
-
 
 ## Vecka 46   
 
