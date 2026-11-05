@@ -191,11 +191,6 @@ Lenny and Friends Summit 2026: "[How to scale intent, quality, and artistry with
 
 ### Fredag   
 
-Presentation av uppgift UX-teorier  
-
-##### Veckans Sociala medier  
-* 
-
 ## Vecka 43   
 
 ### Måndag  
@@ -203,6 +198,8 @@ Presentation av uppgift UX-teorier
 ### Tisdag  
 
 ### Fredag   
+
+Presentation av uppgift UX-teorier  
 
 ## Vecka 44   
 
@@ -232,7 +229,12 @@ Arbeta vidare med er personliga PWA. Installera senaste versionen av Node.js, se
 
 ### Tisdag  
 
+Veckans Dry Meme: [Kyary Pamyu Pamyu - PONPONPON](https://youtu.be/yzC4hFK5P3g) ([PONPONPON](https://knowyourmeme.com/memes/ponponpon))
+
 ### Fredag   
+
+##### Veckans Sociala medier  
+* 
 
 ## Vecka 46   
 
