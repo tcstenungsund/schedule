@@ -172,25 +172,47 @@ Lämna in uppgiften innan nästa lektion fredagen v 45.
 
 ## Vecka 45   
 
+###### Nytt om AI  
+
+* 
+
 Glöm inte att uppgiften knuten till filmen Her ska vara inlämnad innan lektionen denna vecka.
 
 ## Vecka 46   
 
+###### Nytt om AI  
+
+* 
 
 ## Vecka 47   
 
+###### Nytt om AI  
+
+*
 
 ## Vecka 48   
 
+###### Nytt om AI  
+
+* 
 
 ## Vecka 49   
 
+###### Nytt om AI  
+
+* 
 
 ## Vecka 50   
 
+###### Nytt om AI  
+
+* 
 
 ## Vecka 51   
 
+###### Nytt om AI  
+
+* 
 
 ## Vecka 53   
 
