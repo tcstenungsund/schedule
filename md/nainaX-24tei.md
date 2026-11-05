@@ -167,9 +167,21 @@ Vi ska även vika en del av tiden till UF Pitch.
 
 ## Vecka 45   
 
+Pitch UF.
+
+Förbered inför slutprov nästa vecka.
+
 
 ## Vecka 46   
 
+Måndag:
+
+Jag har öppnat det sista delprovet - Checkpoint Exam: Protocols for Specific Tasks.
+
+
+Tisdag:
+
+SLUTPROV - 24TEi - Networking Basics (CCST 1/4) - 26/27
 
 ## Vecka 47   
 
