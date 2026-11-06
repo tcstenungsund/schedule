@@ -154,7 +154,9 @@ Eran presentaiton ska innehålla:
  * Koden som ni har skrivit för att klara uppgiften.
  * Ni ska förklara varför ni har gjort så som ni har gjort.
 
-Fredag:
+Fredag: 
+
+Idag börjar vi med presentationerna. Sedan börjar vi ge oss på Netacad Modul 4.
 
 ## Vecka 47   
 
