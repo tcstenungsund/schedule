@@ -145,7 +145,14 @@ Fredag: Vi fortsätter med Project Euler
 
 ## Vecka 46   
 
-Måndag: Jag är borta, men ni kommer ha en vikarie. :) Samt instruktioner på vad ni ska göra.
+Måndag: Jag är borta, men ni kommer ha en vikarie.
+
+Idag ska ni i era grupper välja ett problem som ni har löst och ni ska presentera det på fredagens lektion.
+
+Eran presentaiton ska innehålla:
+ * Vilken uppgift ni valt.
+ * Koden som ni har skrivit för att klara uppgiften.
+ * Ni ska förklara varför ni har gjort så som ni har gjort.
 
 Fredag:
 
