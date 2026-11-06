@@ -174,9 +174,38 @@ Lämna in uppgiften innan nästa lektion fredagen v 45.
 
 ###### Nytt om AI  
 
-* 
+* ["499 forskare går samman och varnar för allvarliga AI-attacker"](https://www.sverigesradio.se/artikel/forskare-varnar-for-ai-attacker-mot-kritisk-infrastruktur)  
+* [Ismo söker jobb](https://youtube.com/shorts/p4LtZ5AaccU)
+* [Who is AI making money for?](https://youtube.com/shorts/eYTNR4waM3w)
+* [Google gör Finland till kalhygge för datacentre](https://vm.tiktok.com/ZN8DNLUjf/)  
+* [Cybersecurity vs. AI Swarms](https://vm.tiktok.com/ZN8Aa43ty/)  
+* [Be more ambitious!](https://vm.tiktok.com/ZN8SnC27F/)  
 
-Glöm inte att uppgiften knuten till filmen Her ska vara inlämnad innan lektionen denna vecka.
+###### Markdown  
+
+Markdown är ett enkelt sätt att formatera text. Istället för att klicka på knappar som i Word använder du vanliga tecken i texten: `#`, `*`, `-`. En rad som börjar med `#` blir till en rubrik. Text omgiven av `**` blir **fetstil**.
+
+En fil, som till exempel `SKILL.md` är skriven i Markdown. Filändelsen `.md` betyder "Markdown". Att kunna dessa tecken gör att datorn, och andra människor, kan läsa din fil på rätt sätt.
+
+Uppgift: Markdown tutorial  
+
+Gå till [**www.markdowntutorial.com**](http://www.markdowntutorial.com) och jobba igenom lektionerna. Varje lektion tar 1–2 minuter. Du skriver själv i webbläsaren och ser direkt om du har rätt — inget konto behövs. Hela tutorialen tar ca 15–20 minuter.  
+
+Lektioner du behöver: **italics, headers, links, images, lists**. Hoppa över blockquotes och code om tiden är kort.  
+
+## De tecken du behöver  
+
+| Du skriver | Det blir | Används till |
+| - | - | - |
+| `# Rubrik` | Stor rubrik | Filens namn |
+| `## Underrubrik` | Mindre rubrik | Avsnitt i filen |
+| `**viktigt**` | **viktigt** | Betona något |
+| `*lutande*` | *lutande* | Mild betoning |
+| `- punkt` | Punktlista | Lista med moment |
+| `1. punkt` | Numrerad lista | Steg i ordning |
+| `[text](https://…)` | Länk | Länka till källor |  
+
+Glöm inte att uppgiften knuten till filmen Her ska vara inlämnad innan lektionen denna vecka.  
 
 ## Vecka 46   
 
