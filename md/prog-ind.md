@@ -141,11 +141,11 @@ Fredag: Vi fortsätter med Project Euler
 
 Måndag: Vi fortsätter med Project Euler
 
-Fredag:
+Fredag: Vi fortsätter med Project Euler
 
 ## Vecka 46   
 
-Måndag:
+Måndag: Jag är borta, men ni kommer ha en vikarie. :) Samt instruktioner på vad ni ska göra.
 
 Fredag:
 
