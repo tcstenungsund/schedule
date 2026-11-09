@@ -229,7 +229,7 @@ Arbeta vidare med er personliga PWA. Installera senaste versionen av Node.js, se
 
 ### Tisdag  
 
-Veckans Dry Meme: [Kyary Pamyu Pamyu - PONPONPON](https://youtu.be/yzC4hFK5P3g) ([PONPONPON](https://knowyourmeme.com/memes/ponponpon))
+Veckans Dry Meme: [Kyary Pamyu Pamyu - PONPONPON](https://youtu.be/yzC4hFK5P3g) ([PONPONPON](https://knowyourmeme.com/memes/ponponpon))  
 
 ### Fredag   
 
@@ -269,8 +269,13 @@ Notera att det finns olika standarder för vad man kallar tester på olika nivå
 Lägg till testning i er PWA. Konfigurera både axe-core och Cypress enligt ovan.  
 
 ### Tisdag  
-
+<!--
+Veckans Dry Meme: [Kyary Pamyu Pamyu - PONPONPON](https://youtu.be/yzC4hFK5P3g) ([PONPONPON](https://knowyourmeme.com/memes/ponponpon))  
+-->
 ### Fredag   
+
+##### Veckans Sociala medier  
+* 
 
 ## Vecka 47   
 
@@ -280,6 +285,9 @@ Lägg till testning i er PWA. Konfigurera både axe-core och Cypress enligt ovan
 
 ### Fredag   
 
+##### Veckans Sociala medier  
+* 
+
 ## Vecka 48   
 
 ### Måndag  
@@ -287,6 +295,9 @@ Lägg till testning i er PWA. Konfigurera både axe-core och Cypress enligt ovan
 ### Tisdag  
 
 ### Fredag   
+
+##### Veckans Sociala medier  
+* 
 
 ## Vecka 49   
 
@@ -296,6 +307,9 @@ Lägg till testning i er PWA. Konfigurera både axe-core och Cypress enligt ovan
 
 ### Fredag   
 
+##### Veckans Sociala medier  
+* 
+
 ## Vecka 50   
 
 ### Måndag  
@@ -304,6 +318,9 @@ Lägg till testning i er PWA. Konfigurera både axe-core och Cypress enligt ovan
 
 ### Fredag   
 
+##### Veckans Sociala medier  
+* 
+
 ## Vecka 51   
 
 ### Måndag  
@@ -311,6 +328,25 @@ Lägg till testning i er PWA. Konfigurera både axe-core och Cypress enligt ovan
 ### Tisdag  
 
 ### Fredag   
+
+##### Veckans Sociala medier  
+* 
+
+<!--
+Veckans Dry Meme: []() ([]())  
+Veckans Dry Meme: []() ([]())  
+Veckans Dry Meme: []() ([]())  
+Veckans Dry Meme: []() ([]())  
+Veckans Dry Meme: []() ([]())  
+Veckans Dry Meme: []() ([]())  
+Veckans Dry Meme: []() ([]())  
+Veckans Dry Meme: []() ([]())  
+Veckans Dry Meme: []() ([]())  
+
+Look at my horse 
+Duck Lemonade stand 
+
+-->
 
 ## Vecka 53   
 
