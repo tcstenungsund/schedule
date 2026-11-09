@@ -166,7 +166,13 @@ Blir det tid över: börja titta på strukturen i era egna installationer via St
 
 Vi ser avsnitten 29 (URL-patterns, 7min), 30-31 (Content, 10min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".  
 
-Vi ser avsnitten 32 och 33 (Revisions och Devel, 9min) och 34-36 (Displays, 15min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".  
+Vi ser avsnitten 32 och 33 (Revisions och Devel, 9min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".  
+
+## Vecka 46   
+
+### Grundkurs i CMS  
+
+Vi ser avsnitten 34-36 (Displays, 15min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".  
 
 Uppgift: Ställ in Manage display för vår content type "Lost & Found". Jämför Teaser och Full content. Ställ in Teaser så att den visar bild plus ingress, men inte hela brödtexten.  
 
@@ -174,16 +180,7 @@ Uppgift: Ställ in Manage display för vår content type "Lost & Found". Jämfö
 
 Vi ser avsnitten 37-40 (Views, 20min) och 41-42 (Image Styles och Photo Gallery, 8min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".  
 
-Uppgift: Bygg en view som inte finns med i videon. Till exempel de senaste fem publicerade noderna i Lost & Found. Vad sorterar man på? Datum? Grupperat utifrån konferens? 
-
-## Vecka 46   
-
-### Grundkurs i CMS  
-
-<!--
-
-
--->
+Uppgift: Bygg en view som inte finns med i videon. Till exempel de senaste fem publicerade noderna i Lost & Found. Vad sorterar man på? Datum? Grupperat utifrån konferens?  
 
 ## Vecka 47   
 
@@ -191,18 +188,7 @@ Uppgift: Bygg en view som inte finns med i videon. Till exempel de senaste fem p
 
 <!--
 
-
--->
-
-## Vecka 48   
-
-<!--
-
-
-
 Vi ser avsnitten 43-47 (Moduler, 23min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".  
-
-Uppgiften nedan har ni i läxa till vecka 46!  
 
 [Uppgift: Moduler i Drupal](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/weuweb02-moduler_i_drupal)  
 
@@ -210,8 +196,15 @@ Vi ser avsnitten 48-51 (Block och Menyer, 13min) och 52-55 (Teman, 15min) i seri
 
 Skapa ett block och en meny, lägg dessa i var sitt område på sidan.  
 
+-->
+
+## Vecka 48   
+
+<!--
 Vi ser avsnitten 56-57 (Rättigheter, 8min), 58-60 (Rapporter och Uppdatering, 10min) och 61-62 (Drupals Community, 6min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".  
 -->
+
+## Vecka 49   
 
 ###### Drupal 8 Beginner  
 | Avsnitt | Ämne                           | Tid    |
@@ -233,10 +226,6 @@ Vi ser avsnitten 56-57 (Rättigheter, 8min), 58-60 (Rapporter och Uppdatering, 1
 | 61-62   | Drupals Community              | 6 min  |
 
 Prov: Grundkurs i CMS - Drupal 8 Beginner  
-
-## Vecka 49   
-
-### Bygga teman i en CMS  
 
 ## Vecka 50   
 
