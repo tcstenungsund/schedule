@@ -212,6 +212,20 @@ Test your skills: [Selectors](https://developer.mozilla.org/en-US/docs/Learn_web
 
 ## Vecka 46   
 
+**Quiz: CSS - Selectors**
+
+###### CSS styling basics - The box model
+
+* MDN [The box model](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Box_model)
+
+"[The box model for beginners](https://youtu.be/MrAnu4zdjjY)" (2 min),
+"[Everything You Need To Know About CSS Margins](https://www.smashingmagazine.com/2019/07/margins-in-css/)".
+
+----  
+
+* MDN [Test your skills: The box model](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Test_your_skills/Box_model)  
+
+[Uppgift: Min första webbplats — utseende](https://tcstenungsund.github.io/schedule/assignment.html?link=assignments/webb1-min_forsta_webbplats). Ni börjar nu ge er egen webbplats från v40 ett utseende, och arbetar vidare med den varje vecka fram till inlämning v50.
 
 ## Vecka 47   
 
