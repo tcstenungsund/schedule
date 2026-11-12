@@ -193,58 +193,42 @@ Gå till [**www.markdowntutorial.com**](http://www.markdowntutorial.com) och job
 
 Lektioner du behöver: **italics, headers, links, images, lists**. Hoppa över blockquotes och code om tiden är kort.  
 
-*De tecken du behöver*  
-
-<img width="504" height="322" alt="image" src="https://github.com/user-attachments/assets/ce9ca69e-0d5f-4b1f-905f-34a34f8c5888" />
-
-<!--
-| Du skriver | Det blir | Används till |
-| - | - | - |
-| `# Rubrik` | Stor rubrik | Filens namn |
-| `## Underrubrik` | Mindre rubrik | Avsnitt i filen |
-| `**viktigt**` | **viktigt** | Betona något |
-| `*lutande*` | *lutande* | Mild betoning |
-| `- punkt` | Punktlista | Lista med moment |
-| `1. punkt` | Numrerad lista | Steg i ordning |
-| `[text](https://…)` | Länk | Länka till källor |  
--->
-
 Glöm inte att uppgiften knuten till filmen Her ska vara inlämnad innan lektionen denna vecka.  
 
 ## Vecka 46   
 
 ###### Nytt om AI  
-
 * 
+
+Alla har inte lämnat in tidigare uppgifter, som Her och Markdown-kursen. Gör det! 
+
+Nu tar vi våra nyfunna kunskaper i markdown och kombinerar dem med den Persona vi tidigare tog fram och skapar en SKILL.md av det hela.  
+
+Repetera med vår [Markdownkurs på svenska](https://tcstenungsund.github.io/markdownkurs/), och i sista uppgiften får ni hjälp att skapa er första skill!  
 
 ## Vecka 47   
 
 ###### Nytt om AI  
-
 *
 
 ## Vecka 48   
 
 ###### Nytt om AI  
-
 * 
 
 ## Vecka 49   
 
 ###### Nytt om AI  
-
 * 
 
 ## Vecka 50   
 
 ###### Nytt om AI  
-
 * 
 
 ## Vecka 51   
 
 ###### Nytt om AI  
-
 * 
 
 ## Vecka 53   
