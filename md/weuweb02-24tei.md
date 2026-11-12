@@ -178,13 +178,15 @@ Uppgift: Ställ in Manage display för vår content type "Lost & Found". Jämfö
 
 ---  
 
-Vi ser avsnitten 37-40 (Views, 20min) och 41-42 (Image Styles och Photo Gallery, 8min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".  
+Vi ser avsnitten 37-40 (Views, 20min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".  
 
 Uppgift: Bygg en view som inte finns med i videon. Till exempel de senaste fem publicerade noderna i Lost & Found. Vad sorterar man på? Datum? Grupperat utifrån konferens?  
 
+Läxa: Se avsnitten 41-42 (Image Styles och Photo Gallery, 8min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".  
+
 ## Vecka 47   
 
-### Grundkurs i CMS  
+Går bort  
 
 <!--
 
@@ -199,6 +201,8 @@ Skapa ett block och en meny, lägg dessa i var sitt område på sidan.
 -->
 
 ## Vecka 48   
+
+### Grundkurs i CMS  
 
 <!--
 Vi ser avsnitten 56-57 (Rättigheter, 8min), 58-60 (Rapporter och Uppdatering, 10min) och 61-62 (Drupals Community, 6min) i serien "[Drupal 8 Beginner](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9MKY_ClWcPkGtOEGyLTyCO)".  
