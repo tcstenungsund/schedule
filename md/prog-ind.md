@@ -156,7 +156,7 @@ Eran presentaiton ska innehålla:
 
 Fredag: 
 
-Idag börjar vi med presentationerna. Sedan börjar vi ge oss på Netacad Modul 4.
+Ni får sitta och förbereda er i era grupper. Sedan kör vi presentationerna.
 
 ## Vecka 47   
 
