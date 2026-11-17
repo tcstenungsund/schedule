@@ -229,6 +229,21 @@ Test your skills: [Selectors](https://developer.mozilla.org/en-US/docs/Learn_web
 
 ## Vecka 47   
 
+**Quiz: CSS - The box model**  
+
+###### CSS styling basics - Values and units  
+
+* MDN [Values and units](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Values_and_units) (färg sparar vi till nästa vecka; Strings and identifiers samt Functions är överkurs)  
+
+Det är lurigt att välja rätt enhet, det finns så många. Kevin Powell hjälper oss besvara frågan "[What length CSS unit should you use?](https://whatunit.com/)".  
+
+> Använd måttenheten **em**, om du inte vet att du specifikt behöver en annan enhet.  
+
+----  
+
+* MDN [Test your skills: Values and units(https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Test_your_skills/Values)  
+
+Har du tid över, arbeta vidare med Min egen webbplats — utseende.  
 
 ## Vecka 48   
 
