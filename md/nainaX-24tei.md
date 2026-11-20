@@ -185,8 +185,24 @@ SLUTPROV - 24TEi - Networking Basics (CCST 1/4) - 26/27
 
 ## Vecka 47   
 
+Måndag: FILM - Wargames
+
+Tisdag:
+
+Genomgång av CCNA2 - Modul 3:VLAN.
+
+Gör Packet Tracer labb - 3.3.12 
+
 
 ## Vecka 48   
+
+Måndag:
+
+STUDIEDAG
+
+Tisdag:
+
+Vi gör gemensamt 3.3.12.
 
 
 ## Vecka 49   
