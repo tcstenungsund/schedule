@@ -142,8 +142,18 @@ PITCH av era affärsidéer!
 
 ## Vecka 46   
 
+Affärsplan ska lämnas in nästa vecka, måndagen den 16/11.
+
+Ni kan använda mallarna som jag visade nu senast, men det går även bra att köra den digitala affärsplanen, som ligger under respektive företagssida på ungföretagsamhet.se.
+
+En mall för den digitala affärsplanen finns på ungföretagsamhet.se / Dokument och mallar / affärsplan genomgång..
+
 
 ## Vecka 47   
+
+Privatekonomiföreläsning i aulan...
+
+Arbeta med affärsplanen och lämna in på ungföretagsamhet.se eller TEAMs om ni inte använder den digitala.
 
 
 ## Vecka 48   
