@@ -198,7 +198,10 @@ Glöm inte att uppgiften knuten till filmen Her ska vara inlämnad innan lektion
 ## Vecka 46   
 
 ###### Nytt om AI  
-* 
+* [Australien överväger straffansvar för AI-bolag](https://computersweden.se/article/4246832/australien-overvager-straffansvar-for-ai-bolag.html)
+* [Asimov förutspådde superintelligensen – nu skiter vi i hans direktiv](https://www.gp.se/kultur/kulturdebatt/asimov-forutspadde-superintelligensen-nu-skiter-vi-i-hans-direktiv.ab1e1055-dc3f-5953-9cd8-496bca0b6f37)
+* [AI skapar 1,7 miljoner fler jobb än tekniken slår ut till 2030](https://computersweden.se/article/4247414/gartner-ai-skapar-17-miljoner-fler-jobb-an-tekniken-slar-ut-till-2030.html)
+* [Nvidias vd Jensen Huang avgår](https://computersweden.se/article/4247915/nvidias-vd-jensen-huang-avgar.html)
 
 Alla har inte lämnat in tidigare uppgifter, som Her och Markdown-kursen. Gör det! 
 
@@ -210,6 +213,10 @@ Repetera med vår [Markdownkurs på svenska](https://tcstenungsund.github.io/mar
 
 ###### Nytt om AI  
 *
+* [Claude Meetings, Sheets och Data: 5 nya verktyg](https://shattered.io/se/claude-meetings-sheets-whiteboards-data-kontorspaket-2026/)
+
+
+
 
 [Lumo AI från Proton](https://proton.me/lumo/download) finns nu som ett program du kan installera på datorn! Då Lumo också har fullt stöd för skills, så har vi ett perfekt verktyg att testa våra skills i. Installera Lumo, och bekanta dig med programmet. 
 
