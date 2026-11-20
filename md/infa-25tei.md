@@ -155,8 +155,15 @@ SLUTPROV - 25Tei - CCST 2/4 - Operating Systems Support 26/27
 
 ## Vecka 46   
 
+Uppstart av - 25Tei - CCST 3/4 - Security and Connectivity Support 26/27
+
+Genomgång av hela kursen.
+
+
 
 ## Vecka 47   
+
+SLUTPROV - 25Tei - CCST 3/4 - Security and Connectivity Support 26/27
 
 
 ## Vecka 48   
