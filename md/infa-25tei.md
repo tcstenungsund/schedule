@@ -165,6 +165,11 @@ Genomgång av hela kursen.
 
 SLUTPROV - 25Tei - CCST 3/4 - Security and Connectivity Support 26/27
 
+Genomgång av sista CCST IT Support kursen - 25Tei - CCST 4/4 - Hardware and Upgrade Support 26/27
+
+
+[Introduktion till en dator - Kjell](https://www.kjell.com/se/kunskap/hur-funkar-det/dator/introduktion-till-en-dator/datorn)
+
 
 ## Vecka 48   
 
