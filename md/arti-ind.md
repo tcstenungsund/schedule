@@ -211,6 +211,8 @@ Repetera med vår [Markdownkurs på svenska](https://tcstenungsund.github.io/mar
 ###### Nytt om AI  
 *
 
+[Lumo AI från Proton](https://proton.me/lumo/download) finns nu som ett program du kan installera på datorn! Då Lumo också har fullt stöd för skills, så har vi ett perfekt verktyg att testa våra skills i. Installera Lumo, och bekanta dig med programmet. 
+
 ## Vecka 48   
 
 ###### Nytt om AI  
