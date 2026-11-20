@@ -170,6 +170,9 @@ Genomgång av sista CCST IT Support kursen - 25Tei - CCST 4/4 - Hardware and Upg
 
 [Introduktion till en dator - Kjell](https://www.kjell.com/se/kunskap/hur-funkar-det/dator/introduktion-till-en-dator/datorn)
 
+<img width="750" height="574" alt="image" src="https://github.com/user-attachments/assets/abfc9ce7-111b-4e15-878d-c2f281c68541" />
+
+
 
 ## Vecka 48   
 
