@@ -212,13 +212,23 @@ Repetera med vår [Markdownkurs på svenska](https://tcstenungsund.github.io/mar
 ## Vecka 47   
 
 ###### Nytt om AI  
-*
 * [Claude Meetings, Sheets och Data: 5 nya verktyg](https://shattered.io/se/claude-meetings-sheets-whiteboards-data-kontorspaket-2026/)
+* [AI-modeller pekade ut civila som militära mål i tester](https://computersweden.se/article/4250211/ai-modeller-pekade-ut-civila-som-militara-mal-i-tester.html)
+* [Free courses on Claude and AI, from Anthropic.](https://academy.claude.com/)
 
 
 
+###### Lumo Desktop 
 
 [Lumo AI från Proton](https://proton.me/lumo/download) finns nu som ett program du kan installera på datorn! Då Lumo också har fullt stöd för skills, så har vi ett perfekt verktyg att testa våra skills i. Installera Lumo, och bekanta dig med programmet. 
+
+ - Testa att installera din SKILL.md som vi arbetade med förr gången.
+
+ - Testa att skapa en chat med hjälp av SKILLen.
+
+Ladda upp en egen skill – Gå till sidan för Skills (via Customize → Skills) och ladda upp en fil du skrivit själv eller laddat ner från någon annanstans. Godkända format är .md-filer, .zip-arkiv, .skill-filer och .plugin-filer – alla måste innehålla en SKILL.md. Gränserna är högst 200 filer per skill, max 5 MB per fil och max 25 MB totalt.
+
+I chatten använder du en skill genom att skriva / följt av skillens namn, t.ex. /weekly-status-report.
 
 ## Vecka 48   
 
