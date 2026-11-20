@@ -230,6 +230,10 @@ Ladda upp en egen skill – Gå till sidan för Skills (via Customize → Skills
 
 I chatten använder du en skill genom att skriva / följt av skillens namn, t.ex. /weekly-status-report.
 
+ - Testa att ladda in alla SKILLs som vi tillverkat, finns på TEAMs/Delat/Skills. Observera att ni kan bara ha en aktiv SKILL åt gången på ert gratiskonto på Proton. Så avaktivera alla SKILLar innan ni instalerar nästa.
+   
+ - Testa alla SKILLar med valfri nyhet från STO nyheter.
+
 ## Vecka 48   
 
 ###### Nytt om AI  
