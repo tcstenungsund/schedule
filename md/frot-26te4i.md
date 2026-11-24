@@ -292,7 +292,15 @@ Veckans Dry Meme: [Kyary Pamyu Pamyu - PONPONPON](https://youtu.be/yzC4hFK5P3g) 
 
 ### Måndag  
 
+**Studiedag** 
+
 ### Tisdag  
+
+Besvara enkäten "State of JS 2026". Markera allt du inte är bekant med och spara det till efter enkäten. När du är klar, gå tillbaka och läs in dig på de tekniker du inte kände till!  
+
+[Ladybird](https://ladybird.org/) har släppt sin första Alpha. Tanka ned och grovtesta den! Kör som standardbrowser några dagar.  
+
+Nästa applikation vi skall hårdtesta är [Argus](https://ladybird.org/). [Ladda ned](https://f-droid.org/packages/dev.argus/) och undersök vad programmet gör och hur det är uppbyggt. Lägg specifikt märke till hur LLM är inbyggt i gränssnittet utan att slutanvändaren talar direkt med den eller att LLM:en är backenden.  
 
 ### Fredag   
 
