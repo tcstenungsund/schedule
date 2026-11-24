@@ -260,7 +260,6 @@ konflikter.
 
 ----
 
-
 * MDN [Test your skills: CSS styling basics](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Test_your_skills/Cascade)  
 * MDN Challenge: [Fixing blog page styles](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Fixing_blog_styles)  
 
@@ -268,31 +267,41 @@ Den sista är en riktigt bra övning: en halvfärdig sida där ni ska hitta och 
 
 ## Vecka 49   
 
+**Quiz: CSS - Handling conflicts**  
+
+###### Färg, kontrast och typografi  
 
 ## Vecka 50   
 
+**Quiz: CSS - Färg, kontrast och typografi**  
+
+###### Basic looks och felsökning  
 
 ## Vecka 51   
 
+Terminsavslutning  
 
-## Vecka 53   
+## Vecka 52
 
 **VINTERLOV**   
 
-## Vecka 1
-
-
 ## Vecka 2   
 
+###### Tävling  
 
 ## Vecka 3   
 
+###### Repetition och frågestund  
 
 ## Vecka 4   
 
+Prov: CSS  
 
 ## Vecka 5   
 
+Rättning och genomgång av provet  
+
+###### Layout modes  
 
 ## Vecka 6   
 
