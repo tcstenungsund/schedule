@@ -247,6 +247,24 @@ Har du tid över, arbeta vidare med Min egen webbplats — utseende.
 
 ## Vecka 48   
 
+**Quiz: CSS - Values and units**  
+
+###### CSS styling basics - Handling conflicts
+
+Kaskaden, specificitet och arv — de tre mekanismerna CSS använder för att lösa
+konflikter.
+
+* MDN [Handling conflicts](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Handling_conflicts)  
+
+"[How CSS Specificity Is Calculated](https://youtu.be/ZBphodDntVc)" (4½ min), [Batficity](http://batificity.com/), [The CSS Selector Specificity Calculator](https://polypane.app/css-specificity-calculator/) och [The CSS Cascade](https://2019.wattenberger.com/blog/css-cascade).
+
+----
+
+
+* MDN [Test your skills: CSS styling basics](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Test_your_skills/Cascade)  
+* MDN Challenge: [Fixing blog page styles](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Fixing_blog_styles)  
+
+Den sista är en riktigt bra övning: en halvfärdig sida där ni ska hitta och rätta felen. Precis den sortens arbete ni kommer göra på riktigt.  
 
 ## Vecka 49   
 
