@@ -237,7 +237,26 @@ I chatten använder du en skill genom att skriva / följt av skillens namn, t.ex
 ## Vecka 48   
 
 ###### Nytt om AI  
-* 
+
+* [Free courses on Claude and AI, from Anthropic.](https://academy.claude.com/)
+
+* [SR.se - Så försöker Ryssland styra våra tankar.](https://www.sverigesradio.se/avsnitt/sa-forsoker-ryssland-styra-vara-tankar-grans))
+
+* [Pravda in the pipeline: Early evidence of state-adjacent propaganda in AI training data ](https://dfrlab.org/2026/04/08/pravda-in-the-pipeline/)
+
+
+###### Elements of AI - Problemlösning med hjälp av artificiell intelligens
+
+
+<img width="850" height="500" alt="image" src="https://github.com/user-attachments/assets/5969369c-3e15-490f-b710-95212f6948c3" />
+
+
+
+Vi går gemensam igenom Kapitel 2 av Elementsofai.se. 
+
+Sökalgoritmer kanske inte känns som särskilt glamorösa AI-metoder, men med dem kan vi lösa problem som kräver intelligens, som att ge vägbeskrivningar eller spela schack.
+
+
 
 ## Vecka 49   
 
