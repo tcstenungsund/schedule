@@ -176,7 +176,7 @@ Genomgång av sista CCST IT Support kursen - 25Tei - CCST 4/4 - Hardware and Upg
 
 ## Vecka 48   
 
-Laboration - 3 datorpaket/plocka isär en PC.
+Laboration - 3 datorpaket.
 
 
 ## Vecka 49  
