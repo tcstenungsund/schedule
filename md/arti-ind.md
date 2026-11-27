@@ -240,7 +240,7 @@ I chatten använder du en skill genom att skriva / följt av skillens namn, t.ex
 
 * [Vem äger dina hemligheter när AI-bubblan spricker?](https://www.pcforalla.se/article/3298403/vem-ager-dina-hemligheter-nar-ai-bubblan-spricker.html)
 
-* [SR.se - Så försöker Ryssland styra våra tankar.](https://www.sverigesradio.se/avsnitt/sa-forsoker-ryssland-styra-vara-tankar-grans))
+* [SR.se - Så försöker Ryssland styra våra tankar.](https://www.sverigesradio.se/avsnitt/sa-forsoker-ryssland-styra-vara-tankar-grans)
 
 * [Pravda in the pipeline: Early evidence of state-adjacent propaganda in AI training data ](https://dfrlab.org/2026/04/08/pravda-in-the-pipeline/)
   
