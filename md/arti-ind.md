@@ -238,23 +238,30 @@ I chatten använder du en skill genom att skriva / följt av skillens namn, t.ex
 
 ###### Nytt om AI  
 
-* [Free courses on Claude and AI, from Anthropic.](https://academy.claude.com/)
+* [Vem äger dina hemligheter när AI-bubblan spricker?](https://www.pcforalla.se/article/3298403/vem-ager-dina-hemligheter-nar-ai-bubblan-spricker.html)
 
 * [SR.se - Så försöker Ryssland styra våra tankar.](https://www.sverigesradio.se/avsnitt/sa-forsoker-ryssland-styra-vara-tankar-grans))
 
 * [Pravda in the pipeline: Early evidence of state-adjacent propaganda in AI training data ](https://dfrlab.org/2026/04/08/pravda-in-the-pipeline/)
+  
+* [Polisens plan: anställa 1000 inom it](https://computersweden.se/article/4253643/polisens-plan-anstalla-1000-inom-it.html)
+
+* [Volvo Cars testar humanoid robot från svenskt bolag](https://www.nyteknik.se/fordon/volvo-cars-testar-humanoid-robot-fran-svenskt-bolag/4517334)
 
 
-###### Elements of AI - Problemlösning med hjälp av artificiell intelligens
+
+###### Elements of AI - Problemlösning med hjälp av artificiell intelligens/AI i praktiken
 
 
 <img width="850" height="500" alt="image" src="https://github.com/user-attachments/assets/5969369c-3e15-490f-b710-95212f6948c3" />
 
 
 
-Vi går gemensam igenom Kapitel 2 av Elementsofai.se. 
+Vi går gemensam igenom Kapitel 2 och 3 av Elementsofai.se. 
 
 Sökalgoritmer kanske inte känns som särskilt glamorösa AI-metoder, men med dem kan vi lösa problem som kräver intelligens, som att ge vägbeskrivningar eller spela schack.
+
+En orsak till varför moderna metoder inom artificiell intelligens fungerar i praktiken – till skillnad från de mer traditionella lösningarna på 1960- och 1980-talet – är att de moderna metoderna är bättre på att hantera osäkerhet.
 
 
 
