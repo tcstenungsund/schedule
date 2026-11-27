@@ -236,6 +236,9 @@ I chatten använder du en skill genom att skriva / följt av skillens namn, t.ex
 
 ## Vecka 48   
 
+<img width="790" height="285" alt="image" src="https://github.com/user-attachments/assets/dbb6134c-7f7f-4ad3-8aed-83f593445890" />
+
+
 ###### Nytt om AI  
 
 * [Vem äger dina hemligheter när AI-bubblan spricker?](https://www.pcforalla.se/article/3298403/vem-ager-dina-hemligheter-nar-ai-bubblan-spricker.html)
